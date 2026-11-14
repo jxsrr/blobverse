@@ -1,0 +1,37 @@
+#!/bin/bash
+# Auto-run publish-mirror.py if Dungeon Master Notes/ has staged changes.
+
+if ! git diff --cached --name-only | grep -q "^Dungeon Master Notes/"; then
+  exit 0
+fi
+
+echo "→ Source files staged — running publish-mirror.py..."
+if ! python3 publish-mirror.py; then
+  echo ""
+  echo "✗ publish-mirror.py failed. Commit aborted."
+  echo "  Fix the error and try again, or use 'git commit --no-verify' to bypass."
+  exit 1
+fi
+
+echo "→ Running broken-link check on staged source files..."
+if [ -f scripts/check_broken_links.py ]; then
+  python3 scripts/check_broken_links.py --staged || true
+else
+  echo "  (scripts/check_broken_links.py not found — skipped)"
+fi
+
+echo "→ DM-leak guard: scanning _player/ for forbidden markers..."
+leak_hits=$(grep -rn -e "Dungeon Master ONLY" -e "^%% DM" "_player/Dungeon Master Notes/" 2>/dev/null || true)
+if [ -n "$leak_hits" ]; then
+  echo ""
+  echo "✗ DM-leak detected in _player/ mirror. Commit aborted."
+  echo "$leak_hits" | head -n 20
+  echo ""
+  echo "  Fix the source and try again, or use 'git commit --no-verify' to bypass."
+  exit 1
+fi
+echo "✓ No DM-leak detected."
+
+echo "→ Staging updated mirror..."
+git add "_player/Dungeon Master Notes/"
+echo "✓ Mirror synced."
