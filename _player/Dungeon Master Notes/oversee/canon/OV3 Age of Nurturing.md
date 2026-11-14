@@ -49,7 +49,7 @@ Simon did not travel alone.
 
 The first companion was **Lei Firsa** — a human woman in her twenties, a ranger from the border forests. She was skilled with bow and blade, and she had a sharpness to her that Simon lacked. She saw his kindness and decided to walk beside him.
 
-The second was **[[oversee/npcs/Grin Qain]]** — an elf from the **[[Kerajaan Grin|Grin Kingdom]]**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
+The second was **[[oversee/npcs/Grin Qain]]** — an elf from the **[[oversee/locations/Kerajaan Grin|Grin Kingdom]]**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
 
 Three companions. Simon with Zenahhi at his hip. Lei Firsa with a bow on her back. Grin Qain with her eternal smile that never faded, even when her heart was breaking.
 
@@ -59,7 +59,7 @@ They walked together for twenty years.
 
 **~870 BV**
 
-Deep beneath the **[[Observatorium Danau Kuno]]**, in a chamber that had never seen sunlight, **[[oversee/npcs/Guanik Wiseman]]** sat alone.
+Deep beneath the **[[oversee/locations/Observatorium Danau Kuno]]**, in a chamber that had never seen sunlight, **[[oversee/npcs/Guanik Wiseman]]** sat alone.
 
 Every night, when the other Cycle Clan members slept, he waited for the voice of **[[oversee/lore/The Overseer & The Architect|the Architect]]** to speak.
 

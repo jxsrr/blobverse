@@ -68,7 +68,7 @@ Morning.
 
 The party learned that **[[oversee/npcs/Yahanda]]** was missing. No one remembered him. Not the innkeeper, not the drivers, not the villagers.
 
-They bought maps from **[[Bu Mamat]]**'s warung and went into **[[Hutan Domido]]** — the forest between Ghuffghuff and Gudameng.
+They bought maps from **[[oversee/npcs/Bu Mamat]]**'s warung and went into **[[Hutan Domido]]** — the forest between Ghuffghuff and Gudameng.
 
 There, they found the old deaf man again. This time, he was trying to communicate. His hands moved urgently. His face was frightened.
 
@@ -216,7 +216,7 @@ Then he walked into the dark and was gone.
 - **[[oversee/npcs/Accarus Grin|Accarus]]** — co-leader of Will of Grin, first appearance
 - **[[Cindy]]** — orphaned survivor of the Mektol family
 - **[[oversee/npcs/Memeng]]** — the cook, saved
-- **[[Bu Mamat]]** — warung owner, killed early in the haunting
+- **[[oversee/npcs/Bu Mamat]]** — warung owner, killed early in the haunting
 
 ## Locations Visited
 - **[[oversee/locations/Ghuffghuff Town]]** — the village of the singing

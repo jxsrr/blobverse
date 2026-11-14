@@ -1,6 +1,9 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - Verdantus
+  - Aurelia
 ---
 ::pf
 > [!info] The Last of the Ancient Dragons

@@ -91,7 +91,7 @@ Atlan built a swing beneath the Observatorium, taught Mira the names of stars an
 
 ## Atreus Grin
 
-**[[oversee/npcs/Atreus Grin]]** was a prince of the **[[Kerajaan Grin|Grin Kingdom]]** — the land of those who carried the **eternal smile** that never faded.
+**[[oversee/npcs/Atreus Grin]]** was a prince of the **[[oversee/locations/Kerajaan Grin|Grin Kingdom]]** — the land of those who carried the **eternal smile** that never faded.
 
 Contrary to common misunderstanding, the Grin Kingdom was not inhabited by a single race with a particular skin color. Humans, elves, dwarves, halflings, and many other races lived side by side — united not by blood or lineage, but by the same curse: **the eternal smile carved into their faces from birth**.
 
@@ -141,7 +141,7 @@ In The Initial Six, Olaf was the voice of reason. His old eyes had seen too much
 
 He came from a dragonborn clan in the highest mountains, near the lair of the **[[oversee/lore/The Three Surviving Dragons|ancient dragons]]**. From his ancestors, he inherited extraordinary physical strength and a deep understanding of **mechanisms** — how wheels turn, how pressure works, how energy flows.
 
-Among The Initial Six, Gzirmo was the quietest. He did not talk much about his past or the family he had left behind in **[[Elis]]**. But in his sharp eyes lay the sorrow of a warrior who had seen too many battles and too little peace.
+Among The Initial Six, Gzirmo was the quietest. He did not talk much about his past or the family he had left behind in **[[oversee/locations/Elis]]**. But in his sharp eyes lay the sorrow of a warrior who had seen too many battles and too little peace.
 
 He joined because he believed in the mission: **to find a new Valla to save the world.** Nothing more, nothing less. His descendants would stay in Elis, scattered across the continent, waiting for the time to play their role in an unwritten history.
 

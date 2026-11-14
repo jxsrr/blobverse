@@ -6,6 +6,8 @@ home: Kota Juto
 status: alive
 first_seen: Session 02
 universe: Oversee
+aliases:
+  - Nenek Elara
 ---
 > [!info] At a Glance
 > **Role:** Innkeeper at Karang Tidur

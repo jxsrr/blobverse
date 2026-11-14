@@ -16,7 +16,7 @@ He had been showing symptoms since the escape from **[[oversee/locations/Maw Des
 
 He needed **milk**.
 
-They searched the town. **[[Ibu Sari]]**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
+They searched the town. **[[oversee/npcs/Ibu Sari]]**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
 
 > *"Try **[[oversee/locations/Nesia Town|Nesia]]**. The rhino farmers. They sell it."*
 
@@ -54,7 +54,7 @@ They got the milk anyway — poured into a wooden bucket, transferred to emptied
 
 They needed shelter.
 
-**[[The Golden Sheaf]]** was a small inn in **[[oversee/locations/Nesia Town]]** — run by **[[oversee/npcs/Joni]]** and **[[oversee/npcs/Siti]]**, **[[oversee/pcs/Zure Ama|Ama]]**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
+**[[oversee/locations/The Golden Sheaf]]** was a small inn in **[[oversee/locations/Nesia Town]]** — run by **[[oversee/npcs/Joni]]** and **[[oversee/npcs/Siti]]**, **[[oversee/pcs/Zure Ama|Ama]]**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
 
 They went to the door and knocked.
 
@@ -76,7 +76,7 @@ Behind them, the sound of boots.
 
 They reached the docks.
 
-**[[Go Ingsani]]** was waiting — a submarine, once a Will of Grin vessel, now repainted black for camouflage. But it had no fuel.
+**[[oversee/items/Go Ingsani]]** was waiting — a submarine, once a Will of Grin vessel, now repainted black for camouflage. But it had no fuel.
 
 In desperation, they broke open the fuel tank of a parked Commonwealth military vehicle. They siphoned what they could — half a tank — and fled into the sea.
 
@@ -275,7 +275,7 @@ And they climbed, for the first time, out of the earth.
 - The truth about **[[oversee/npcs/Lei Darvin Thorne|Darvin]]** and **[[oversee/npcs/Lei Valerius Thorne|Valerius]]**
 
 ## NPCs Encountered
-- **[[Ibu Sari]]** — lemonade seller in Muangching, no milk
+- **[[oversee/npcs/Ibu Sari]]** — lemonade seller in Muangching, no milk
 - **[[oversee/npcs/Lei Darvin Thorne]]** — the "madman" who found a lost city
 - **[[oversee/npcs/Hora]]** — the rhino dairy owner
 - **[[oversee/npcs/Joni]]** — Ama's adoptive father, betrayed him

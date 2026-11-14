@@ -1,6 +1,9 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - Verdantus
+  - Aurelia
 ---
 > [!info] The Last of the Ancient Dragons
 > Once there were thousands. Now there are three. They are hiding.

@@ -119,7 +119,7 @@ Because he kept making noise that no one wanted to hear. Because he kept shoutin
 
 The **Gruffgud War** lasted for centuries.
 
-For the people of the great cities of **[[Harka]]** — **[[oversee/locations/Yawning Town]]**, **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — this war was a joke.
+For the people of the great cities of **[[oversee/locations/Harka]]** — **[[oversee/locations/Yawning Town]]**, **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — this war was a joke.
 
 Merchants passing through the region brought stories of two foolish villages fighting over food. Bards composed mocking songs about the *"Rice vs. Noodle War"* and sang them in port taverns. People laughed when they heard that the two villages were fighting over **fried rice**, joking that fried noodles were also delicious and perhaps they should fight too.
 
@@ -157,7 +157,7 @@ Gordon did not care. He kept shouting, because he knew the truth — and he woul
 
 **~270 AV**
 
-Decades after **[[The Great Disappearance]]**, as the name **[[oversee/npcs/Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
+Decades after **[[oversee/lore/The Great Disappearance]]**, as the name **[[oversee/npcs/Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[oversee/locations/Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
 
 Without its charismatic leader — without the figure who had been living proof that the eternal smile was not a curse — the Grin people faced the same bitter reality again.
 
@@ -183,7 +183,7 @@ Not to attack the world that hated them — that would only justify the stigma. 
 
 **The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **[[oversee/npcs/Gavaevodata Grin]]** and **[[oversee/npcs/Zargoth]]** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
 
-**The second goal was to find the truth.** They wanted to uncover the reason behind Atreus's sudden disappearance. What really happened at **[[The Great Disappearance]]**? Why did the six greatest heroes of their age vanish without a trace? And most importantly — why did Atreus, the only hero of the marginalized, **never return**?
+**The second goal was to find the truth.** They wanted to uncover the reason behind Atreus's sudden disappearance. What really happened at **[[oversee/lore/The Great Disappearance]]**? Why did the six greatest heroes of their age vanish without a trace? And most importantly — why did Atreus, the only hero of the marginalized, **never return**?
 
 But behind the two goals announced to members, a deeper motivation was hidden — known only to a few at the top of the leadership.
 

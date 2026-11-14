@@ -137,10 +137,10 @@ From Lei Firsa's womb came the descendants who would become known as **[[Klan Le
 
 She gave birth to **four children**. Each grew up in an environment filled with knowledge of the Gemhearts, of the ritual, and of their father who sat eternal on the altar. Each inherited something no one else in Oversee possessed: **pure elemental power**, flowing in their blood like a second pulse.
 
-- **[[Lei Wendigo]]** — the firstborn. Wind. Received **[[oversee/items/Emelanica]]**.
-- **[[Lei Firage]]** — the second. Fire. Received **[[oversee/items/Rubion]]**.
+- **[[oversee/npcs/Lei Wendigo]]** — the firstborn. Wind. Received **[[oversee/items/Emelanica]]**.
+- **[[oversee/npcs/Lei Firage]]** — the second. Fire. Received **[[oversee/items/Rubion]]**.
 - **[[oversee/npcs/Lei Watigi]]** — the third. Water. Received **[[oversee/items/Safayer]]**.
-- **[[Lei Roiga]]** — the fourth. Earth. Received **[[oversee/items/Topaju]]**.
+- **[[oversee/npcs/Lei Roiga]]** — the fourth. Earth. Received **[[oversee/items/Topaju]]**.
 
 But no one knew the truth behind this miracle.
 
@@ -226,7 +226,7 @@ It was a narrative designed by **Lei Firsa** to transform the Halfling shepherd 
 
 Amid the bustle of the newly born Commonwealth — where the Doctrine of Simon's Ascension was being proclaimed and Klan Lei was consolidating its power — there was another world beating to a completely different rhythm.
 
-Across the sea, in the wild and untouched continent of **[[Elis]]**, time flowed as it had since the beginning of creation. There, among the misty peaks that pierced the sky and the valleys never trodden by mortal feet, the giant creatures from the age before consciousness still lived, hiding from a world that had forgotten them.
+Across the sea, in the wild and untouched continent of **[[oversee/locations/Elis]]**, time flowed as it had since the beginning of creation. There, among the misty peaks that pierced the sky and the valleys never trodden by mortal feet, the giant creatures from the age before consciousness still lived, hiding from a world that had forgotten them.
 
 Of the thousands of **Elder Dragons** that had once ruled the skies in the era before consciousness, only **three** remained in all Oversee. They were the last survivors of the hunts of the **[[oversee/lore/The Rapture|Rapture]]** — creatures who had chosen to withdraw from the world rather than become victims of civilization's endless ambition. They hid in places impossible for ordinary mortals to reach, waiting in long silence.
 

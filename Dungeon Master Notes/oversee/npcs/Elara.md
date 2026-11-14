@@ -6,6 +6,8 @@ home: Kota Juto
 status: alive
 first_seen: Session 02
 universe: Oversee
+aliases:
+  - Nenek Elara
 ---
 ::pf
 > [!info] At a Glance
