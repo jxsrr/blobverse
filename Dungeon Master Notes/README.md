@@ -15,10 +15,10 @@ Three campaigns, one wiki. Everything here is written for players: recaps, peopl
 The main campaign. Start with the [timeline](/oversee/canon) or the [latest recap](/oversee/sessions).
 
 ### [Sonstige](/sonstige)
-Free Bird Academy. Start with [the academy](/sonstige/locations/free-bird-academy) or [session one](/sonstige/sessions/session-01).
+Free Bird Academy. Start with [the academy](/sonstige/factions/The+Free+Bird+Academy). Session recaps coming soon.
 
 ### [Aede](/aede)
-A single special session so far. [Read the recap](/aede/sessions/special-session-01).
+A single special session so far. [Read the recap](/aede/sessions/Session+Special+%E2%80%94+Love+in+Time).
 
 ## Latest recaps
 
@@ -48,7 +48,7 @@ sort: date desc
 
 ## How to use this wiki
 
-- **New here?** Read [How to Use This Wiki](/how-to-use-this-wiki).
+- **New here?** Read [How to Use This Wiki](/How+to+Use+This+Wiki).
 - **Looking for a person?** Try the [Oversee NPC index](/oversee/npcs).
 - **Avoiding spoilers?** Every page only contains what has been revealed at the table. If you are behind, start with recaps.
 
