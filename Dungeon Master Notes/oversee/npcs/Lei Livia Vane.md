@@ -6,6 +6,8 @@ home: Padre City
 status: hostage
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Livia Vane
 ---
 ::pf
 > [!info] At a Glance

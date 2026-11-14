@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Kuo Lau King
 universe: Oversee
+aliases:
+  - Alnean
 ---
 ::pf
 > [!info] At a Glance

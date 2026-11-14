@@ -6,6 +6,8 @@ home: Arujaya (The Stack)
 status: alive
 first_seen: Session 06
 universe: Oversee
+aliases:
+  - Adam
 ---
 ::pf
 > [!info] At a Glance

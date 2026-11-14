@@ -6,6 +6,8 @@ home: Nesia (formerly) / Ghuffghuff
 status: Deceased (Session 03)
 first_seen: Session 03
 universe: Oversee
+aliases:
+  - Faska
 ---
 ::pf
 > [!info] At a Glance

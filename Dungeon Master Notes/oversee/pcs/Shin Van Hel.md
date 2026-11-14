@@ -3,6 +3,8 @@ type: Oversee PC
 class: Warlock (curse-bound, not pact) / Paladin (multiclass)
 player: Fahrezz
 universe: Oversee
+aliases:
+  - HVS
 ---
 ::pf
 > [!info] The Party

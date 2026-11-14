@@ -6,6 +6,8 @@ home: Arujaya (in stasis)
 status: Deceased (in stasis, technically)
 first_seen: Mentioned in Dr. Vektor's DM secrets
 universe: Oversee
+aliases:
+  - Dr. Kristine
 ---
 
 %% DM SECRETS %%

@@ -6,6 +6,8 @@ home: Arujaya (as Echo)
 status: Echo (trapped), Released by Swaith
 first_seen: Session 06 (as Echo)
 universe: Oversee
+aliases:
+  - Echo Gzirmo Kopling
 ---
 ::pf
 > [!info] At a Glance

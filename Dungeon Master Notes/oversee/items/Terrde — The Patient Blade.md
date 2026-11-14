@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Lost (Ruins of an Ancient City, Harka)
 universe: Oversee
+aliases:
+  - Terrde
 ---
 > [!info] At a Glance
 > **Type:** Longsword

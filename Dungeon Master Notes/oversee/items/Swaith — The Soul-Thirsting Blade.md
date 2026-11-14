@@ -3,6 +3,8 @@ type: Oversee item
 rarity: legendary
 current_holder: Shin Van Hel
 universe: Oversee
+aliases:
+  - Swaith
 ---
 ::pf
 > [!info] At a Glance

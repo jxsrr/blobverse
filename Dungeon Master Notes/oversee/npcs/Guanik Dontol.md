@@ -6,6 +6,8 @@ home: Pulau Dima (destroyed) / Unknown
 status: Alive (whereabouts unknown)
 first_seen: Session 01 (mentioned), never met
 universe: Oversee
+aliases:
+  - Dontol
 ---
 ::pf
 > [!info] At a Glance

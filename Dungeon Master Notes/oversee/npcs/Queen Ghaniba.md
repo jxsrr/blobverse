@@ -6,6 +6,8 @@ home: Greyland Castle (destroyed)
 status: Deceased (before Session 01)
 first_seen: Session 01 (mentioned via Grolnok's story)
 universe: Oversee
+aliases:
+  - Ratu Ghaniba
 ---
 ::pf
 > [!info] At a Glance

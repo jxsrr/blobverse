@@ -6,6 +6,8 @@ home: Pulau Dima (destroyed) / Kota Juto (adopted)
 status: Alive (if saved)
 first_seen: Session 01
 universe: Oversee
+aliases:
+  - Huan
 ---
 ::pf
 > [!info] At a Glance

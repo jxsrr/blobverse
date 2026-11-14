@@ -6,6 +6,8 @@ home: Chenalia (formerly) / Wandering
 status: alive (whereabouts unknown)
 first_seen: Session 01 (mentioned via Vya's backstory), not yet met
 universe: Oversee
+aliases:
+  - Kopling
 ---
 ::pf
 > [!info] At a Glance

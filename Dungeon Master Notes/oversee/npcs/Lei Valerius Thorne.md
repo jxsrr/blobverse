@@ -6,6 +6,8 @@ home: Padre City
 status: alive
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Valerius Thorne
 ---
 ::pf
 > [!info] At a Glance

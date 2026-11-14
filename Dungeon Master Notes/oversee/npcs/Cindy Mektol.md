@@ -6,6 +6,8 @@ home: Gudameng
 status: Alive
 first_seen: Session 03
 universe: Oversee
+aliases:
+  - Cindy
 ---
 ::pf
 > [!info] At a Glance

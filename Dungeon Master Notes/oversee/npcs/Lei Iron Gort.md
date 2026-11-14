@@ -6,6 +6,8 @@ home: Ironhold
 status: alive
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Iron Gort
 ---
 ::pf
 > [!info] At a Glance

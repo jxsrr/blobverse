@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Tomb of Gavaevodata (Elis Selatan)
 universe: Oversee
+aliases:
+  - Niette
 ---
 ::pf
 > [!info] At a Glance
