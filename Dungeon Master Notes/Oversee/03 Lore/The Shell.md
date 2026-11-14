@@ -1,0 +1,36 @@
+---
+type: Oversee Lore
+universe: Oversee
+---
+> [!info] What Guanik Wiseman Saw
+> In 1040 BV, something fell from the sky. It was not a meteor. It was not a god. It was a **skin**.
+
+## The Video
+- Recorded by **Guanik Wiseman** aboard a primitive space probe.
+- The object was **20 kilometers tall**.
+- It descended at 500 km/h — too slow for a meteor, too fast for a natural object.
+- It was **humanoid** in shape, but its face was a grotesque fusion of insect and sea life.
+- It was **hollow**. A giant, empty shell.
+
+## Wiseman's Conclusion
+> *"This is not a living creature. It is the molting of something far larger. If this is only its skin... where is the creature now? And when will it return for its old shell?"*
+
+## What This Means
+- The Overseer is real.
+- The Shell is its shed skin.
+- The Architect is the one who shed it — or the one who left it behind.
+- The world of Oversee is built on the remains of something cosmic.
+
+## What We Know
+- The Shell is still in the sky. It has not moved.
+- The Cult of the Giant Humanoid worshipped it.
+- The Cycle Clan studied it for centuries.
+- **HVS** stabbed it with Swaith. Nothing happened.
+
+
+%% DM SECRETS %%
+- The Shell is the Architect's old body. The Architect shed it when it became the Valla.
+- The Shell is empty. But it is not dead. It is waiting.
+- If the Shell ever "wakes up," it will be the final boss.
+- The Overseer is not the Shell. The Overseer is what the Shell was before the Architect shed it.
+- The Shell is the only physical evidence of the Architect's existence. Destroying it would erase the Architect from history.

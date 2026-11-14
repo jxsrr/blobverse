@@ -1,0 +1,156 @@
+{
+  "backupFolder": "",
+  "backupRetention": 20,
+  "confirmBeforeApply": true,
+  "defaultSelectAll": true,
+  "regexScope": "body",
+  "liveCountDebounceMs": 200,
+  "diffSplitView": true,
+  "reportFolder": "Mass Editor Reports",
+  "presets": [],
+  "resultColumns": [],
+  "history": [
+    {
+      "runId": "2026-11-08T08-22-28-744_a65669",
+      "timestamp": 1794126148744,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 13,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T04-53-04-074_7b4bf3",
+      "timestamp": 1794027184074,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 16,
+      "opCount": 7
+    },
+    {
+      "runId": "2026-11-07T03-39-08-693_5d7482",
+      "timestamp": 1794022748693,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 3,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-37-42-946_b22ca2",
+      "timestamp": 1794022662946,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 3,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-36-52-764_d7b1ff",
+      "timestamp": 1794022612764,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 5,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-36-28-348_c44e93",
+      "timestamp": 1794022588348,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 14,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-36-07-530_e5f783",
+      "timestamp": 1794022567530,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 2,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-35-45-897_a37f45",
+      "timestamp": 1794022545897,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 4,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-34-48-464_4e9790",
+      "timestamp": 1794022488464,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 6,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-34-24-597_ecc78c",
+      "timestamp": 1794022464597,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 16,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-33-09-264_c5b706",
+      "timestamp": 1794022389264,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 5,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-32-30-230_1ba814",
+      "timestamp": 1794022350230,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 11,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-32-00-681_f87892",
+      "timestamp": 1794022320681,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 11,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-31-20-199_4e60b0",
+      "timestamp": 1794022280199,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 8,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-16-45-719_027ee9",
+      "timestamp": 1794021405719,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 23,
+      "opCount": 1,
+      "undone": true
+    },
+    {
+      "runId": "2026-11-07T03-16-24-189_0f3026",
+      "timestamp": 1794021384189,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 4,
+      "opCount": 1,
+      "undone": true
+    },
+    {
+      "runId": "2026-11-07T03-13-42-740_49c9d2",
+      "timestamp": 1794021222740,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 17,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T03-10-36-241_8778c2",
+      "timestamp": 1794021036241,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 0,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-07T02-44-41-919_3427fd",
+      "timestamp": 1794019481919,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 15,
+      "opCount": 1
+    },
+    {
+      "runId": "2026-11-06T17-14-25-836_3addb4",
+      "timestamp": 1793985265836,
+      "root": ".obsidian/plugins/mass-editor/backups",
+      "fileCount": 1,
+      "opCount": 1
+    }
+  ]
+}

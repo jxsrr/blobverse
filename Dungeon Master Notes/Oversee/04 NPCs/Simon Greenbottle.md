@@ -1,0 +1,45 @@
+---
+type: Oversee NPC
+role: The Second Valla, The Halfling Who Became a God
+faction: None (Valla)
+home: Altar of Danau Kuno
+status: Alive (as the Valla)
+first_seen: Not yet met (in history)
+universe: Oversee
+---
+::pf
+> [!info] At a Glance
+> **Role:** The second Valla. The current living seal. The "Lei the Great" of legend.
+> **Where:** The altar at Danau Kuno (in the Gap)
+> **Status:** Alive — trapped as the Valla
+
+## The Legend
+- Officially known as **Lei the Great** — a male wizard who ascended to godhood after saving the world.
+- Founded the Lei dynasty. Became the most beloved figure in Oversee's history.
+- Every city has a statue. Every temple has a hymn.
+
+## The Truth
+- His real name was **Simon Greenbottle**. He was a Halfling. A shepherd. Too kind for the world.
+- He collected **six legendary weapons** over 60 years of wandering.
+- He was manipulated by **Lei Firsa** — a woman who pretended to be pregnant with his child to force a marriage.
+- He was sacrificed by **Lei Alejandro** — his own descendant — in 01 AV.
+- He became the **second Valla**. He has held the seal for 700 years.
+- His soul is cracking. The Echoes are the proof.
+
+## The Party's Knowledge
+- They know the true name from the Edisi Law.
+- They know he is the Valla. They do not know he is still conscious.
+- They know the Echoes come from his cracked soul.
+
+## What He Offers (if met)
+- The **truth of the ritual**.
+- **Mercy.** He wants to be freed. But he is afraid of what will happen if he is.
+::/pf
+
+%% DM SECRETS %%
+- Simon is not a god. He is a **tired halfling** who has been holding the world on his back for 700 years.
+- He knows Lei Firsa personally. He still loves her. It is complicated.
+- He knows Grin Qain. He still hears her last words.
+- If the party meets him, he will look like a small, weeping halfling in a cloak too large for him. His feet are bare. He has been standing for 700 years.
+- He will offer the party a choice: let him be freed (and risk the Overseer) or let him continue (and he will eventually break).
+- The "third path" ending is the only one where he survives.

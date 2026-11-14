@@ -1,0 +1,313 @@
+---
+type: Oversee Session
+session_number: 6
+universe: Oversee
+---
+::pf
+> [!teaser] Previously...
+> Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.
+
+## Part 1: Muangching, Milk, and a Madman
+
+**[[Muangching Bay]]** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
+
+**[[Shin Van Hel|HVS]]** was not well.
+
+He had been showing symptoms since the escape from **[[Maw Desert]]** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **[[Zargoth]]**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
+
+He needed **milk**.
+
+They searched the town. **[[Ibu Sari]]**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
+
+> *"Try **[[Nesia Town|Nesia]]**. The rhino farmers. They sell it."*
+
+They crossed the rice paddies.
+
+On the road, they met a man who would change everything.
+
+**[[Lei Darvin Thorne]]**. An old man with long white hair and eyes that did not quite focus on the world in front of him. He spoke of a city called **"Arumanehjaya"** — a place of gears and robots and automatic rifles — and he spoke of it the way a drowning man speaks of land.
+
+The party listened. Some of them thought he was mad. **[[Husgus]]** thought he was lying. **[[Zure Ama|Ama]]** thought he was telling the truth.
+
+Darvin made an offer: **500 gold** for an excavation contract. Find the city. Prove it exists.
+
+They agreed.
+
+## Part 2: The Rhino Station
+
+**[[Hora]]**'s Rhino Stable was a wooden compound with a barn, a dairy, and a sign that said **"PREMIUM MILK — 35 GP"**.
+
+Thirty-five gold a bottle. Extortion.
+
+The party had no money. They had no options.
+
+**[[Vya Arleschia|Vya]]** was assigned the task of "extracting" milk from a rhino named **Steve**.
+
+Steve was male. Male rhinos do not produce milk. Vya did not know this. Or perhaps she did, and did not care.
+
+The Animal Handling check failed. **Steve kicked her for 22 damage.**
+
+She was nearly killed by a dairy animal.
+
+They got the milk anyway — poured into a wooden bucket, transferred to emptied holy water vials, the theft disguised with conjured water. They fled before anyone could ask questions.
+
+## Part 3: The Golden Sheaf
+
+They needed shelter.
+
+**[[The Golden Sheaf]]** was a small inn in **[[Nesia Town]]** — run by **[[Joni]]** and **[[Siti]]**, **[[Zure Ama|Ama]]**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
+
+They went to the door and knocked.
+
+**Joni** opened it.
+
+For a moment, something flickered across his face — recognition. Then it was gone.
+
+> *"You. You are the reason my son is a wanted man. You are the reason this town is in danger. I called the Commonwealth. They are coming."*
+
+He grabbed Ama. Wrapped him in a hug that was not a hug — a hold. A lock. A capture.
+
+**Siti** stood behind him, silent. She did not stop him. She did not speak. She just watched.
+
+The party acted.
+
+**[[Shin Van Hel|HVS]]** pulled Joni off. **[[Husgus]]** pulled the door open. **[[Vya Arleschia|Vya]]**, **[[Syl Frost|Syl]]**, and **[[Zure Ama|Ama]]** ran.
+
+Behind them, the sound of boots.
+
+They reached the docks.
+
+**[[Go Ingsani]]** was waiting — a submarine, once a Will of Grin vessel, now repainted black for camouflage. But it had no fuel.
+
+In desperation, they broke open the fuel tank of a parked Commonwealth military vehicle. They siphoned what they could — half a tank — and fled into the sea.
+
+They did not look back.
+
+Ama did not speak for hours. When he did, his voice was very quiet.
+
+> *"They were my parents. And they gave me up for a lie."*
+
+## Part 4: Chenalia
+
+They landed on the coast of **Elis** — hidden cove, black sand, salt in the air.
+
+It was **[[Chenalia]]**.
+
+The village where **[[Vya Arleschia|Vya]]** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
+
+It was being rebuilt.
+
+Under the direct supervision of the **[[The Triase|Triase]]**.
+
+**[[Lei Valerius Thorne]]** stood at the center of the reconstruction, his white robes spotless, his smile warm, his hands gesturing as he directed workers. **[[Lei Livia Vane]]** stood beside him, cold, watching.
+
+And **[[Lei Darvin Thorne]]** — the old madman they had been escorting — saw them.
+
+He **screamed**.
+
+He clutched his head and fell to his knees. He wept. He babbled. His body shook so hard that **[[Zure Ama|Ama]]** had to hold him up.
+
+The party saw the face of **Valerius Thorne**. They saw the face of **Darvin Thorne**. They saw the same face — the same nose, the same jaw, the same eyes.
+
+**They were twins.**
+
+The party disguised themselves as Darvin's caretakers — medical orderlies, social workers, hired help for a man with "special needs." **[[Shin Van Hel|HVS]]** used **Suggestion** to reinforce the lie.
+
+Livia looked at them with contempt. But she bought it.
+
+> *"Take the king's foolish descendant away. He is not our concern. He has never been our concern."*
+
+She turned. Ten Rose Guards followed her.
+
+The party fled into the jungle.
+
+## Part 5: The First Tree
+
+The jungle of Elis was **wrong**.
+
+The animals were too large. There were birds with human proportions. There were rhinos the size of houses. Something had twisted this land — and had been twisting it for a very long time.
+
+**[[Lei Darvin Thorne|Darvin]]** led them deeper. He was calmer now, more lucid. He spoke of "the entrance" and "the city" and "the gears" as if they were facts he had always known.
+
+They found the tree.
+
+**[[The First Tree]]**.
+
+It was not a tree. It was a **petrified root** — a fragment of something older than the world. Its bark was scaly. Its trunk was wider than a castle. Its branches were dead, and had been dead for **10,000 years**.
+
+The party studied it. Magic. History. Nature. All three confirmed the same thing: this tree had not died. It had been **drained**. Something beneath it had eaten its life.
+
+**Darvin** found a stone near the roots.
+
+They moved it together.
+
+Beneath it: a metal lift door. A monorail station. Dust covering everything.
+
+They descended.
+
+## Part 6: The Amputation
+
+Before they could enter, the air **twisted**.
+
+**[[Lei Livia Vane]]** had followed them.
+
+Her wind blade was invisible. A single strike.
+
+**[[Zure Ama|Ama]]**'s left arm was severed at the elbow.
+
+The wound did not bleed like a normal wound. The curse of the wind — Livia's wind — infected it. Magic could not heal it. **[[Syl Frost|Syl]]** tried. **[[Husgus]]** tried. Nothing worked. The blood kept flowing. Ama's HP kept dropping.
+
+He was going to die.
+
+**[[Lei Darvin Thorne|Darvin]]** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
+
+**[[Shin Van Hel|HVS]]** and **[[Vya Arleschia|Vya]]** held the door as it closed.
+
+Behind them, Livia screamed in frustration. Her wind could not reach through the closing doors.
+
+They descended.
+
+## Part 7: Arujaya
+
+**[[Arujaya]]** was not a city. It was a **contradiction**.
+
+It was scrap metal and neon and steam and LCD screens. It was people — short, dirty, defensive people — who stared at the party like they were aliens. It was markets and workshops and something that looked, impossibly, like **a data network**.
+
+It was the future, buried beneath the past.
+
+They went to the **Modification Parlor** — a surgical clinic run by a man called **[[Dr. Vektor]]**. He was old, grim, and had the eyes of a man who had lost everything and had decided to keep working anyway.
+
+He examined Ama. He explained the problem: the curse could not be healed. But it could be **replaced**.
+
+**Fusion**.
+
+Ama's lost arm would be replaced by **[[Renal]]** — the Imp — who would be surgically merged with the living tissue of Ama's remaining arm. The procedure would take seven days. It would cost **500,000 gold**. It would bind Ama to a debt he could never repay.
+
+He agreed.
+
+## Part 8: Echo Gzirmo
+
+While Ama recovered, the others explored.
+
+They found the **reactor** — a towering structure at the heart of Arujaya, pulsing with energy. It was guarded by something that was not quite a person.
+
+**[[Echo Gzirmo Kopling|Echo Gzirmo]]**.
+
+A cyborg. A dragonborn chassis made of scrap and wire. Orange-gold scales replaced by rusted plating. Eyes glowing with residual energy.
+
+He spoke.
+
+He told them the history of Arujaya — how the Tinkers, the engineers who had rejected magic, had built this city as a refuge. How **Lei Firsa** had suppressed technology because it threatened her control. How the Tinkers had descended into the earth and built something new.
+
+He told them he was "the shadow of a will that refused to die."
+
+And then he showed them the video.
+
+## Part 9: The Shell
+
+The video was old. Analog. Monochrome.
+
+A man appeared on screen. **[[Guanik Wiseman]]** — the ancient astrologer, the founder of the **[[The Cycle Clan|Cycle Clan]]**. He spoke of an event that had happened 1,000 years ago.
+
+Six minutes of sky a color no one could name.
+
+An object descending — 20 kilometers long, humanoid in shape, its face a grotesque fusion of insect and sea life.
+
+It had descended at **500 km/h** — too slow for a meteor, too fast for a natural object. It had been **braking**. Something had been controlling it.
+
+A probe had been sent. It had reached the object. It had studied its surface — scaly, like a fish, like a serpent. And it had found cracks. Deep cracks. Running down the back.
+
+The camera orbited.
+
+And the probe found that the object was **hollow**.
+
+Empty.
+
+It was not a creature. It was a **shell**. A shed skin. Something enormous had once worn it. And that something was **no longer here**.
+
+**Guanik Wiseman**'s voice, recorded before he lost his mind, closed the video:
+
+> *"If this is only its skin... where is the creature now? And when will it return for its old shell?"*
+
+The video ended.
+
+**[[Echo Gzirmo Kopling|Echo Gzirmo]]** did not say anything for a long moment.
+
+Then he said:
+
+> *"That was 1,000 years ago. The Shell is still there. Above us. Waiting."*
+
+**[[Syl Frost|Syl]]** spoke first.
+
+> *"Waiting for what?"*
+
+Gzirmo did not answer.
+
+## Part 10: The Debt
+
+Seven days passed.
+
+**[[Zure Ama|Ama]]** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
+
+**[[Dr. Vektor]]** took the party aside. He told them about his daughter, **[[Dr. Kristine|Kristine]]**, who had died in a mining accident. He told them about the **[[The First Tree|First Tree]]**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
+
+He did not ask them for help. He did not have to.
+
+The party understood.
+
+They gathered their things. They prepared to leave Arujaya.
+
+But **[[Echo Gzirmo Kopling|Echo Gzirmo]]** stopped them at the gate.
+
+> *"Do not trust the surface. The Commonwealth knows you are here. They will be waiting."*
+
+He handed them a small device — a data chip. A copy of the Shell video.
+
+> *"Show this to the ones who still believe in the truth. Show this to those who still ask questions. Show this to the ones who are brave enough to look up."*
+
+They took the chip. They entered the emergency exit.
+
+And they climbed, for the first time, out of the earth.
+
+## Loot & Rewards
+- **[[Renal]]** — now fused into **[[Zure Ama|Ama]]**'s arm
+- **The Shell video** — the most important artifact in the campaign
+- **A 500,000 gp debt** to **[[Dr. Vektor]]**
+- The truth about **[[Lei Darvin Thorne|Darvin]]** and **[[Lei Valerius Thorne|Valerius]]**
+
+## NPCs Encountered
+- **[[Ibu Sari]]** — lemonade seller in Muangching, no milk
+- **[[Lei Darvin Thorne]]** — the "madman" who found a lost city
+- **[[Hora]]** — the rhino dairy owner
+- **[[Joni]]** — Ama's adoptive father, betrayed him
+- **[[Siti]]** — Ama's adoptive mother, silent accomplice
+- **[[Lei Valerius Thorne]]** — the Chancellor, revealed as Darvin's twin
+- **[[Lei Livia Vane]]** — the Justice Deputy, amputated Ama's arm
+- **[[Dr. Vektor]]** — the cybernetic surgeon, saved Ama's life
+- **[[Echo Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, showed the Shell video
+
+## Locations Visited
+- **[[Muangching Bay]]** — the fishing town with no milk
+- **[[Nesia Town]]** — the rhino dairy town
+- **The Golden Sheaf** — the inn that betrayed Ama
+- **[[Chenalia]]** — Vya's burned village, now under reconstruction
+- **[[The First Tree]]** — the 10,000-year-old dead root
+- **[[Arujaya]]** — the underground cyberpunk city
+
+## Sessions Chain
+- **Previous:** [[Session 05 — The Shell (Full Recap)|Session 05]]
+- **Next:** [[Session 07 — The Depths (Full Recap)|Session 07]]
+::/pf
+
+%% DM SECRETS %%
+- **Joni and Siti were not always brainwashed.** Their loyalty was bought with threats — the Commonwealth promised to burn Nesia if they did not cooperate. They genuinely believe Ama is a terrorist. They are not evil. They are **scared**.
+- **Joni whispered something as he held Ama** — something the party did not hear. He said: *"I am sorry. I did not know what else to do. They said they would burn the village."* Ama did not hear this. He will learn it in Season 3 if he returns.
+- **The Golden Sheaf hides a secret** — a compartment under the bar containing Ama's childhood belongings: a wooden toy, a letter Joni never sent, and a photo of the three of them. If the party ever returns, Siti will give it to them.
+- **Darvin is the True Heir of Lei Roiga** — he carries **[[Topaju]]** (the yellow Gemheart) inside his chest. He does not know this. His body is partially fused with Topaju's geomantic network — that is why he can "see" the earth. That is why he found Arujaya. That is why he will die stabilizing the continent in Session 8.
+- **Valerius is not the True Heir.** He is the twin who was kept. Darvin is the twin who was hidden. This is why Valerius wants Darvin dead — so he can absorb the Topaju and become the full heir.
+- **Livia Vane was the twin who was supposed to be killed.** Her sister was killed instead. She carries the guilt. She will tell the party this in Session 7.
+- **Dr. Vektor's daughter Kristine** is preserved in a stasis tube in his private lab. He believes the First Tree holds the secret of immortality. He is wrong — but he will not know that until Season 3.
+- **Echo Gzirmo is slowly losing coherence.** Each time he powers the reactor, he fades. He knows he is dying. He gave the party the Shell video because he wanted someone to carry the truth.
+- **The Shell video is the single most important artifact in the campaign.** It is the only proof that the Overseer is real. Every faction wants it. The party has a copy.
+- **The First Tree is the root system of the Shell** — the 20km humanoid skin in the sky. It fell 10,000 years ago, and its roots spread across Elis. The life drained from the tree was used to build Arujaya. When the Shell wakes, the roots will wake too.
+- **Session 06 stakes:** The party lost Ama's arm, gained a debt, and learned that the world is older and stranger than they knew. They also learned that family can betray you — and that sometimes the only way forward is to go deeper.

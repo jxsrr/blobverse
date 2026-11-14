@@ -1,0 +1,35 @@
+---
+type: Oversee NPC
+role: Gatekeeper, The Depths, Arujaya
+faction: Arujaya
+home: The Depths
+status: Alive
+first_seen: Session 07
+universe: Oversee
+---
+::pf
+> [!info] At a Glance
+> **Role:** An old woman who lives at the entrance to The Depths in Arujaya.
+> **Where:** The Depths, Arujaya
+> **Status:** Alive
+
+## What the Party Knows
+- Warned the party not to descend into The Depths.
+- Tried to sell them masks (a scam — the masks were useless).
+- Knows about the sludge and the smog.
+- Has been living alone for years.
+
+## What She Offers
+- **Warning** about The Depths.
+- **A map** of the upper tunnels (for a price).
+- **Lies** (she is a scam artist).
+
+## Current Goal
+Survive. Scam travelers. Stay out of the deep.
+::/pf
+
+%% DM SECRETS %%
+- Fidale is not a scam artist. She is a **former Arujaya scientist** who went mad after seeing the Overseer in The Depths. She has been trying to warn people ever since.
+- Her masks are useless because the sludge is not a gas — it is a **liquid**. She knows this. She is just trying to help in her own broken way.
+- She has a **hidden stash** of real anti-sludge equipment in her home. She will give it to the party if they promise to destroy The Depths.
+- She knows the **true name of the sludge**: **Ambitio-Ether**.
