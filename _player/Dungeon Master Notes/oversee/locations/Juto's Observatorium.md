@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Juto's Observatorium.md"
 
 > [!info] At a Glance
 > **Part of:** Juto Port City
-> **Notable People:** [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]], Keeper of Secret agents
+> **Notable People:** [[oversee/npcs/Mira Nouveau|Mira]], Keeper of Secret agents
 > **Status:** Active. Guarded.
 
 ## What Matters Here
@@ -43,10 +43,10 @@ There are **three Observatories** built by the Cycle Clan:
 - **The second sigil** is in Atlan's base, beneath the Navigation Archive.
 
 ## What Happened Here
-- The party found Atlan's diary ([[_player/Dungeon Master Notes/oversee/sessions/Session 02 — The Wizard|Session 02]]).
-- Met [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]] in the basement.
+- The party found Atlan's diary ([[oversee/sessions/Session 02 — The Wizard|Session 02]]).
+- Met [[oversee/npcs/Mira Nouveau|Mira]] in the basement.
 - Joined Keeper of Secret.
 
 ## Current State
-- Still operating. [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]] still runs it from the shadows.
+- Still operating. [[oversee/npcs/Mira Nouveau|Mira]] still runs it from the shadows.
 - The Commonwealth is watching it more closely.

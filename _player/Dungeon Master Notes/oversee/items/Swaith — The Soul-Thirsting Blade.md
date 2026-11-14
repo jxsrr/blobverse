@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Bl
 
 > [!info] At a Glance
 > **Type:** Dagger
-> **Holder:** [[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|Shin Van Hel]]
+> **Holder:** [[oversee/pcs/Shin Van Hel|Shin Van Hel]]
 > **Rarity:** Legendary (cursed)
 > **Part of:** The Six Blades
 

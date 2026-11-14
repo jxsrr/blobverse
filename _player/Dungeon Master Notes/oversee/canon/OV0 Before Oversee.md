@@ -24,9 +24,9 @@ The **Overseer** is not a god. It does not create. It does not nurture. It does 
 
 It **eats**.
 
-It is a **cosmic hunger** — a singularity of appetite, drifting in the void that preceded existence. It consumes **[[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — the magic of the universe, the residue of will and ambition and life. It is always hungry. It has never been satisfied. It never will be.
+It is a **cosmic hunger** — a singularity of appetite, drifting in the void that preceded existence. It consumes **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — the magic of the universe, the residue of will and ambition and life. It is always hungry. It has never been satisfied. It never will be.
 
-When the Overseer turns its attention to a civilization, that civilization **ends**. Not through war. Not through plague. Through a slow, silent dissolution — a **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|Rapture]]** in which every creature with magic is drawn into the sky and unmade.
+When the Overseer turns its attention to a civilization, that civilization **ends**. Not through war. Not through plague. Through a slow, silent dissolution — a **[[oversee/lore/The Rapture|Rapture]]** in which every creature with magic is drawn into the sky and unmade.
 
 The Overseer does not hate. It does not judge. It simply **eats**.
 
@@ -58,9 +58,9 @@ Below the Overseer, but still far beyond the mortal world, lies **The Gap** — 
 
 The Gap is **chaos**. It is neither fully real nor fully unreal. It is the space between what was eaten and what was made.
 
-Within the Gap live the **devils and demons** — the red-skinned races, the tieflings, the imps. They are not evil in the way mortals understand evil. They are **scavengers**. They eat the crumbs of [[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]] that leak from Oversee. They need Oversee to survive. If the Overseer ever consumes everything, the demons will starve too.
+Within the Gap live the **devils and demons** — the red-skinned races, the tieflings, the imps. They are not evil in the way mortals understand evil. They are **scavengers**. They eat the crumbs of [[oversee/lore/Ambitio-Ether|Ambitio-Ether]] that leak from Oversee. They need Oversee to survive. If the Overseer ever consumes everything, the demons will starve too.
 
-One of them — **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]** — is more than a scavenger. He fell in love with an elf princess. He fathered the **Grin bloodline**. He is the reason the Grin exist — the reason they smile, the reason they are magic-deaf, the reason they can survive the Rapture.
+One of them — **[[oversee/npcs/Zargoth|Zargoth]]** — is more than a scavenger. He fell in love with an elf princess. He fathered the **Grin bloodline**. He is the reason the Grin exist — the reason they smile, the reason they are magic-deaf, the reason they can survive the Rapture.
 
 ### The Third Layer — The Blue Sky
 

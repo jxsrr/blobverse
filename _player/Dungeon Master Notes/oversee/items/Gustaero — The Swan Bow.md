@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow.md"
 
 > [!info] At a Glance
 > **Type:** Longbow
-> **Holder:** [[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]
+> **Holder:** [[oversee/pcs/Husgus|Husgus]]
 > **Rarity:** Legendary
 > **Part of:** The Swan Trio (The Neck)
 

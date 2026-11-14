@@ -167,7 +167,7 @@ They did not know how. They did not know why. They only knew they had survived. 
 - **The Bottom of the Elis Ocean** — where the party wakes
 
 ## Sessions Chain
-- **Previous:** [[_player/Dungeon Master Notes/oversee/sessions/Session 07 — Opressed|Session 07]]
+- **Previous:** [[oversee/sessions/Session 07 — Opressed|Session 07]]
 - **Next:** [[Session 09 — The Truth|Session 09]]
 
 %% DM SECRETS %%

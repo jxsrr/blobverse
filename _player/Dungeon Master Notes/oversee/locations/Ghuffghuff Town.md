@@ -14,10 +14,10 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Ghuffghuff Town.md"
 - Domido Forest borders it. Gordon's hut is nearby.
 
 ## What Happened Here
-- Echo Sam Hurls terrorized the village ([[_player/Dungeon Master Notes/oversee/sessions/Session 03 — The Bard|Session 03]]).
+- Echo Sam Hurls terrorized the village ([[oversee/sessions/Session 03 — The Bard|Session 03]]).
 - Yahanda, Faska, and many villagers were eaten.
 - Agus killed Bud-eg here.
-- [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]] appeared and made his offer.
+- [[oversee/npcs/Accarus Grin|Accarus]] appeared and made his offer.
 
 ## Current State
 - Half-ruined. Rebuilding. Cindy (the Mektol orphan) runs the Legendary Noodle Temple in Gudameng now.

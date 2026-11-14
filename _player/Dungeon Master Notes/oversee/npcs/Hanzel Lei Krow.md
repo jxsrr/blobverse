@@ -14,7 +14,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Hanzel Lei Krow.md"
 - Opened the Festival with a speech about the "Triase of the United Commonwealth."
 - Political. Smooth. Well-dressed.
 - Beloved by the crowds. Hated by Will of Grin.
-- Was seen with [[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Gort]] in private after the parade.
+- Was seen with [[oversee/npcs/Lei Iron Gort|Gort]] in private after the parade.
 
 ## Current Goal
 Maintain power. Serve Valerius. Suppress dissent.

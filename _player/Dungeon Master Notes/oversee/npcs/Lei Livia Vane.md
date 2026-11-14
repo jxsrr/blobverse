@@ -12,7 +12,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Lei Livia Vane.md"
 - Cold, precise, wind-powered warrior.
 - Uses a rapier and a steam hand-cannon.
 - Leads the **Garda Mawar** — the Rose Guard, the law enforcement arm of the Commonwealth.
-- **Terrified of [[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Valerius]].**
+- **Terrified of [[oversee/npcs/Lei Valerius Thorne|Valerius]].**
 - Amputated Ama's arm in Chenalia.
 - Now a hostage. Potential ally? Potential threat?
 - She believes she was a twin who should have died. She carries the guilt of a sister she never had.

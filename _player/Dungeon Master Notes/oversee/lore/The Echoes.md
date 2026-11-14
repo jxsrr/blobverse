@@ -14,7 +14,7 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Echoes.md"
 - They are **hungry**. An Echo without Safayer's purification is a starving thing. It wants to be whole. It wants to finish what was left unfinished.
 
 ## Echoes We Have Met
-- **Echo Sam** — Ghuffghuff. A many-headed monster singing an unfinished song. Released by Swaith. Killed by **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]**. (See `Sam Hurls.md` — living form and Echo form are merged in one page.)
+- **Echo Sam** — Ghuffghuff. A many-headed monster singing an unfinished song. Released by Swaith. Killed by **[[oversee/npcs/Accarus Grin|Accarus]]**. (See `Sam Hurls.md` — living form and Echo form are merged in one page.)
 
 ## Echoes We Have NOT Met
 - **Echo Atreus Grin** — likely in the burned ruins of Chenalia or the forests he protected.

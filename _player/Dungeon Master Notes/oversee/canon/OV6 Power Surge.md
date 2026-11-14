@@ -10,11 +10,11 @@ pfn-source: "Dungeon Master Notes/oversee/canon/OV6 Power Surge.md"
 
 **~240 AV — Hutan Domido**
 
-Years passed. **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[Hutan Domido|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
+Years passed. **[[oversee/npcs/Gordon|Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[Hutan Domido|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
 
-The **[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** was always with him, though he rarely used it for hunting. He preferred a simple hunting bow. Gustaero was too special, too precious to use casually. He kept it wrapped in cloth, hidden in a hollow beneath the floorboards of his hut, and occasionally took it out just to hold it — to feel the warmth of the wood, to remember the old dwarf who had given it to him.
+The **[[oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** was always with him, though he rarely used it for hunting. He preferred a simple hunting bow. Gustaero was too special, too precious to use casually. He kept it wrapped in cloth, hidden in a hollow beneath the floorboards of his hut, and occasionally took it out just to hold it — to feel the warmth of the wood, to remember the old dwarf who had given it to him.
 
-He traveled often between **[[Ghuffghuff]]** and **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
+He traveled often between **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
 
 He knew they had no real quarrel with each other. They differed only in cuisine — **fried rice versus fried noodles** — and that was not a reason for hatred, let alone war.
 
@@ -118,7 +118,7 @@ Because he kept making noise that no one wanted to hear. Because he kept shoutin
 
 The **Gruffgud War** lasted for centuries.
 
-For the people of the great cities of **[[Harka]]** — **[[_player/Dungeon Master Notes/oversee/locations/Yawning Town|Yawning Town]]**, **[[Padre City]]**, **Javan Town** — this war was a joke.
+For the people of the great cities of **[[Harka]]** — **[[oversee/locations/Yawning Town|Yawning Town]]**, **[[Padre City]]**, **Javan Town** — this war was a joke.
 
 Merchants passing through the region brought stories of two foolish villages fighting over food. Bards composed mocking songs about the *"Rice vs. Noodle War"* and sang them in port taverns. People laughed when they heard that the two villages were fighting over **fried rice**, joking that fried noodles were also delicious and perhaps they should fight too.
 
@@ -132,7 +132,7 @@ Some merchants who dared to pass through the conflict zone never returned. Some 
 
 But those reports were always dismissed by Commonwealth officials with sweet smiles, saying it was just two crazy villages killing each other and there was nothing to worry about.
 
-Other cities in Harka — **[[_player/Dungeon Master Notes/oversee/locations/Nesia Town|Nesia Town]]** with its wheat fields, **[[_player/Dungeon Master Notes/oversee/locations/Muangching Bay|Muangching Bay]]** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
+Other cities in Harka — **[[oversee/locations/Nesia Town|Nesia Town]]** with its wheat fields, **[[oversee/locations/Muangching Bay|Muangching Bay]]** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
 
 When refugees occasionally came with stories of the horrors of war, they were given a little food and sent away. The world kept turning, and the absurd war kept burning without anyone truly caring.
 
@@ -156,7 +156,7 @@ Gordon did not care. He kept shouting, because he knew the truth — and he woul
 
 **~270 AV**
 
-Decades after **[[The Great Disappearance]]**, as the name **[[_player/Dungeon Master Notes/oversee/npcs/Atreus Grin|Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
+Decades after **[[The Great Disappearance]]**, as the name **[[oversee/npcs/Atreus Grin|Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
 
 Without its charismatic leader — without the figure who had been living proof that the eternal smile was not a curse — the Grin people faced the same bitter reality again.
 
@@ -166,21 +166,21 @@ The persecution came in waves.
 
 Grin merchants were driven from city markets. Grin children were stoned in the streets. Grin families who had settled in various regions were forcibly evicted from their homes. The Grin Kingdom — which had once stood as a symbol of resilience on the barren land no one wanted — began losing its citizens one by one.
 
-Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[Gavaevodata]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]** — chose to **stay and fight**.
+Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth|Zargoth]]** — chose to **stay and fight**.
 
-From the ashes of despair, **[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** was born.
+From the ashes of despair, **[[oversee/factions/Will of Grin|Will of Grin]]** was born.
 
 ## The Will of Grin
 
-The organization was founded by [[_player/Dungeon Master Notes/oversee/npcs/Hildag Grin|Hildag Grin]] — the Weaver, the former Wakil Pertahanan of the One Voice Commonwealth, the woman who had defected after the Initial Six disappeared. She had been building the organization for centuries, in secret, waiting for the right moment.
+The organization was founded by [[oversee/npcs/Hildag Grin|Hildag Grin]] — the Weaver, the former Wakil Pertahanan of the One Voice Commonwealth, the woman who had defected after the Initial Six disappeared. She had been building the organization for centuries, in secret, waiting for the right moment.
 
-Hildag's daughter-in-law — [[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva Grin]] — and her son — [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]] — became the Smiling Hand, the co-leaders of field operations. Geneva was not a great warrior. She was not a charismatic orator. But she had unwavering conviction and a vision far beyond her time. Accarus was the muscle. Geneva was the brain. Together, they executed Hildag's design.
+Hildag's daughter-in-law — [[oversee/npcs/Geneva Grin|Geneva Grin]] — and her son — [[oversee/npcs/Accarus Grin|Accarus]] — became the Smiling Hand, the co-leaders of field operations. Geneva was not a great warrior. She was not a charismatic orator. But she had unwavering conviction and a vision far beyond her time. Accarus was the muscle. Geneva was the brain. Together, they executed Hildag's design.
 
 Not to attack the world that hated them — that would only justify the stigma. Not to hide and hope to be forgotten — that was the same as surrender. Their goal was greater than revenge or self-protection.
 
-**[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** stood on two main goals.
+**[[oversee/factions/Will of Grin|Will of Grin]]** stood on two main goals.
 
-**The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **Gavaevodata Grin** and **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
+**The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **Gavaevodata Grin** and **[[oversee/npcs/Zargoth|Zargoth]]** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
 
 **The second goal was to find the truth.** They wanted to uncover the reason behind Atreus's sudden disappearance. What really happened at **[[The Great Disappearance]]**? Why did the six greatest heroes of their age vanish without a trace? And most importantly — why did Atreus, the only hero of the marginalized, **never return**?
 
@@ -196,41 +196,41 @@ No further explanation. No hint of what it meant. Only **six words** that became
 
 The members of Will of Grin interpreted this message in different ways, depending on who was asked and how deeply they were involved in the organization's secrets.
 
-For most members, **Emelanica was the Answer Key**. They believed that the green stone, with its absolute knowledge, could reveal what had really happened to **[[_player/Dungeon Master Notes/oversee/lore/The Initial Six|The Initial Six]]**. With Emelanica, they could see the past — witness with their own eyes how Atreus disappeared — and find the truth long hidden. With that truth, they could clear Atreus's name and — by extension — clear the name of the entire Grin bloodline.
+For most members, **Emelanica was the Answer Key**. They believed that the green stone, with its absolute knowledge, could reveal what had really happened to **[[oversee/lore/The Initial Six|The Initial Six]]**. With Emelanica, they could see the past — witness with their own eyes how Atreus disappeared — and find the truth long hidden. With that truth, they could clear Atreus's name and — by extension — clear the name of the entire Grin bloodline.
 
-For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]**, **[[_player/Dungeon Master Notes/oversee/items/Safayer|Safayer]]**, **[[_player/Dungeon Master Notes/oversee/items/Rubion|Rubion]]**, **[[_player/Dungeon Master Notes/oversee/items/Topaju|Topaju]]** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
+For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **[[oversee/items/Emelanica|Emelanica]]**, **[[oversee/items/Safayer|Safayer]]**, **[[oversee/items/Rubion|Rubion]]**, **[[oversee/items/Topaju|Topaju]]** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
 
-But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]**, to the still-living child of **[[Ratu Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
+But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]**, to the still-living child of **[[Ratu Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
 
-**[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** was easy to recognize — not by uniform or emblem, but by the **cursed smile** that never faded from their faces. In a world that hated them for that smile, they made it their identity, their badge among peers. The eternal smile was their uniform, their flag, their proof that they were part of something greater than themselves.
+**[[oversee/factions/Will of Grin|Will of Grin]]** was easy to recognize — not by uniform or emblem, but by the **cursed smile** that never faded from their faces. In a world that hated them for that smile, they made it their identity, their badge among peers. The eternal smile was their uniform, their flag, their proof that they were part of something greater than themselves.
 
 They called themselves **Pirizia** — a group of fighters fiercely solid, loyal, and fanatical about the truth and honor of their tribe. Their solidarity was so strong that to outsiders they seemed an indivisible whole. They would only truly open up and trust fellow Grin descendants, because only they could understand the burden they carried. The outside world often saw them as cold, closed, full of suspicion — and that was true. Years of persecution had taught them that **trust is a luxury that must be paid for dearly**.
 
 Their organizational structure was designed for efficiency and secrecy.
 
-At the top of the hierarchy sat [[_player/Dungeon Master Notes/oversee/npcs/Hildag Grin|The Weaver]] — a position held by Hildag Grin, the founder of Will of Grin. She was not Geneva's mother. She was Accarus's mother — and Antrem's. She had hidden them from the Klan Lei. She had protected them. She had bred them. She was the Weaver. She was an old woman with a wrinkled but wide eternal smile, and eyes that had seen more history than anyone. Her nickname, **The Weaver**, was not without reason. Hildag was a master strategist who designed the fabric of Will of Grin's operations across the continent, like a weaver arranging threads into whole cloth. She never went into the field herself, but every movement of members in the field was part of the grand pattern she designed.
+At the top of the hierarchy sat [[oversee/npcs/Hildag Grin|The Weaver]] — a position held by Hildag Grin, the founder of Will of Grin. She was not Geneva's mother. She was Accarus's mother — and Antrem's. She had hidden them from the Klan Lei. She had protected them. She had bred them. She was the Weaver. She was an old woman with a wrinkled but wide eternal smile, and eyes that had seen more history than anyone. Her nickname, **The Weaver**, was not without reason. Hildag was a master strategist who designed the fabric of Will of Grin's operations across the continent, like a weaver arranging threads into whole cloth. She never went into the field herself, but every movement of members in the field was part of the grand pattern she designed.
 
 Below her was **The Smiling Hand** — an executive position held by **Accarus** and **Geneva** themselves. The two were responsible for operations across the continent, leading important missions directly, and making tactical decisions in the field. Accarus — with grief for Atreus that never healed — was the organization's muscle: a tough fighter who never retreated from battle. Geneva was its brain: a visionary who saw the big picture in the midst of chaos.
 
 At the bottom layer stood the **Grinners** — the field troops who were the backbone of the organization. They were faceless soldiers, without names, without individuality. A Grinner had no personal ambition, no desire beyond the mission. They were trained to obey, to move as one unit, to sacrifice themselves without hesitation if necessary. To the outside world, they were just terrifying smiles emerging from the shadows, carrying out tasks, then vanishing again. But inside the organization, they were **family** — a large family united by the same curse, the same persecution, the same determination to change the world.
 
-In their underground headquarters in **[[_player/Dungeon Master Notes/oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, **[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **[[_player/Dungeon Master Notes/oversee/lore/The Initial Six|The Initial Six]]**.
+In their underground headquarters in **[[oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, **[[oversee/factions/Will of Grin|Will of Grin]]** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **[[oversee/lore/The Initial Six|The Initial Six]]**.
 
-They knew **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]** was still alive somewhere. They knew **[[Klan Lei]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
+They knew **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** was still alive somewhere. They knew **[[Klan Lei]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
 
-But they were not afraid. They were the descendants of **[[Gavaevodata]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
+But they were not afraid. They were the descendants of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth|Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
 
-And in the heart of every member of **[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
+And in the heart of every member of **[[oversee/factions/Will of Grin|Will of Grin]]**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
 
 ## The Keeper of Secret
 
-**[[_player/Dungeon Master Notes/oversee/factions/Keeper of Secret|Keeper of Secret]]** was a secret organization in Oversee, dedicated to finding the truth about the disappearance of **[[_player/Dungeon Master Notes/oversee/lore/The Initial Six|The Initial Six]]**.
+**[[oversee/factions/Keeper of Secret|Keeper of Secret]]** was a secret organization in Oversee, dedicated to finding the truth about the disappearance of **[[oversee/lore/The Initial Six|The Initial Six]]**.
 
-The organization was officially founded by **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira Nouveau]]** — daughter of **[[_player/Dungeon Master Notes/oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Reins|Reins]]** — who was the key witness to the entire incident.
+The organization was officially founded by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]** — daughter of **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** and **[[oversee/npcs/Reins|Reins]]** — who was the key witness to the entire incident.
 
-At the time of the event, Mira was likely still a teenager. She witnessed with her own eyes how **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]** used the power of **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]** — the pure elemental stone — not to create, but to **erase**.
+At the time of the event, Mira was likely still a teenager. She witnessed with her own eyes how **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** used the power of **[[oversee/items/Emelanica|Emelanica]]** — the pure elemental stone — not to create, but to **erase**.
 
-The main and core mission of this organization was to preserve and reveal the true fate of Mira's father, **[[_player/Dungeon Master Notes/oversee/npcs/Atlan Nouveau|Atlan]]**.
+The main and core mission of this organization was to preserve and reveal the true fate of Mira's father, **[[oversee/npcs/Atlan Nouveau|Atlan]]**.
 
 ## The Gruffgud War Ends
 
@@ -284,9 +284,9 @@ A massive earthquake shook the ground. The sea raged, creating waves dozens of m
 
 In the center — at the epicenter of the disaster — thousands of souls vanished in an instant. Swallowed by the earth. Swept away by the sea. Crushed by the debris falling from the sky.
 
-Among those at the very center of the catastrophe were a pair of young twin brothers — barely twenty years old, with their whole lives ahead of them. Their names were **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Antrem Klaus|Antrem]]** — descendants of the Lei Firage line, hidden from the Klan by their mother, **[[_player/Dungeon Master Notes/oversee/npcs/Hildag Grin|Hildag]]**. They lived with a foster family in Rioquan, far from the politics of the Grin Clan.
+Among those at the very center of the catastrophe were a pair of young twin brothers — barely twenty years old, with their whole lives ahead of them. Their names were **[[oversee/npcs/Accarus Grin|Accarus]]** and **[[oversee/npcs/Antrem Klaus|Antrem]]** — descendants of the Lei Firage line, hidden from the Klan by their mother, **[[oversee/npcs/Hildag Grin|Hildag]]**. They lived with a foster family in Rioquan, far from the politics of the Grin Clan.
 
-But unlike their cousins who lived in the grand palaces of **West Harka**, these two young men had not inherited the full power of the fire element. Their blood had been mixed too far, too diluted, too distant from the source of **[[_player/Dungeon Master Notes/oversee/npcs/Simon Greenbottle|Simon's]]** power sitting as the **Valla**.
+But unlike their cousins who lived in the grand palaces of **West Harka**, these two young men had not inherited the full power of the fire element. Their blood had been mixed too far, too diluted, too distant from the source of **[[oversee/npcs/Simon Greenbottle|Simon's]]** power sitting as the **Valla**.
 
 They could feel the warmth of fire at their fingertips. They could light a candle without a match. They could make a campfire burn brighter. But **nothing more**.
 
@@ -350,7 +350,7 @@ He never looked back.
 
 ## The Will of Grin
 
-At the **Will of Grin** headquarters in **[[_player/Dungeon Master Notes/oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, Accarus stayed and healed.
+At the **Will of Grin** headquarters in **[[oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, Accarus stayed and healed.
 
 He was surrounded by people with the same smile — humans, elves, dwarves, halflings, all races with one thing in common: **an eternal smile that never faded**.
 
@@ -360,7 +360,7 @@ They did not care about his diluted Lei blood. They did not care about the weak 
 
 He trained there. He fought there. He became a soldier of the cause.
 
-And there he met **[[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva]]** — a Grin woman from a smaller, less influential family. She was a soldier too. She was a survivor too.
+And there he met **[[oversee/npcs/Geneva Grin|Geneva]]** — a Grin woman from a smaller, less influential family. She was a soldier too. She was a survivor too.
 
 They trained together. They fought together. They fell in love slowly, like a fire kindling from small embers.
 
@@ -386,7 +386,7 @@ And on the night of the wedding, Hildag called Accarus to her private room.
 
 She opened a long, cloth-wrapped bundle. Inside, pale and warm to the touch, lay a **bow**.
 
-**[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero]]**.
+**[[oversee/items/Gustaero — The Swan Bow|Gustaero]]**.
 
 Hildag explained that this bow was one of the **three ancient relics** — the neck of the swan. It had been carried by **Gunnar Guirela**, then **Olaf Guirela**, then **Gordon**. It had been waiting for someone who understood that it was not a weapon of war — it was a tool of passage.
 
@@ -398,7 +398,7 @@ Accarus accepted **Gustaero** with trembling hands. He carried it for decades. H
 
 ## The Twin Who Was Lost
 
-Meanwhile, in Rioquan, **[[_player/Dungeon Master Notes/oversee/npcs/Antrem Klaus|Antrem]]** survived in a different way.
+Meanwhile, in Rioquan, **[[oversee/npcs/Antrem Klaus|Antrem]]** survived in a different way.
 
 When the giant wave struck, he was in the fields — far from the house, far from the cellar, far from his brother. The ground opened beneath him. He fell. He was swept away by the wave — carried out to sea, then washed ashore on the eastern coast of Rioquan, which had not been as devastated by the disaster.
 
@@ -422,7 +422,7 @@ Years later, fate brought him to **Elis**.
 
 A sheep merchant he knew offered him work on the other continent. Antrem — who had no ties left in Rioquan — accepted.
 
-In Elis, he met **[[_player/Dungeon Master Notes/oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** — a woman from a minor noble family who was not particularly ambitious.
+In Elis, he met **[[oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** — a woman from a minor noble family who was not particularly ambitious.
 
 Vreina was drawn to this quiet young man — not for his wealth or his looks, but for his **simplicity**. In her eyes, Antrem was unlike other men who only wanted to raise their status by marrying a noble. He only wanted to live quietly, tend sheep, and perhaps one day have a family.
 
@@ -446,9 +446,9 @@ For him, the past had died with his parents on the day the sky fell. All that ex
 
 That year, **[[Vya Arleschia|Vya]]** was only **four years old**.
 
-**[[Chenalia]]** was as usual — quiet, green, surrounded by gently rolling hills like frozen waves. Vya spent her days chasing butterflies in the meadows, or sitting on her mother **[[_player/Dungeon Master Notes/oversee/npcs/Vreina Arleschia|Vreina's]]** lap, listening to stories about stars and seas she had never seen.
+**[[Chenalia]]** was as usual — quiet, green, surrounded by gently rolling hills like frozen waves. Vya spent her days chasing butterflies in the meadows, or sitting on her mother **[[oversee/npcs/Vreina Arleschia|Vreina's]]** lap, listening to stories about stars and seas she had never seen.
 
-Her father, **[[_player/Dungeon Master Notes/oversee/npcs/Antrem Klaus|Antrem]]**, was a quiet man. Vya was used to seeing him sit on the veranda, staring at the sky with empty eyes, as if searching for something no one else could see. Sometimes, at night, she heard him mutter in his sleep — unfamiliar names, words in a strange language.
+Her father, **[[oversee/npcs/Antrem Klaus|Antrem]]**, was a quiet man. Vya was used to seeing him sit on the veranda, staring at the sky with empty eyes, as if searching for something no one else could see. Sometimes, at night, she heard him mutter in his sleep — unfamiliar names, words in a strange language.
 
 One afternoon, **a stranger came to the village**.
 
@@ -482,7 +482,7 @@ She did not know that this was the last time she would see her husband.
 
 **~683 AV**
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** was not a foolish woman.
+**[[oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** was not a foolish woman.
 
 She knew who had come for her husband — **Accarus**, leader of **Will of Grin**, a secret organization fighting for the fate of his people, the people with the **eternal smile**.
 
@@ -560,7 +560,7 @@ But Kopling shook his head, admitting he was only an old man who could not bear 
 
 Vya began her new life with **[[Kopling]]** — the old wanderer who became her adoptive father.
 
-She never saw her mother again. She never learned what happened to **[[_player/Dungeon Master Notes/oversee/npcs/Vreina Arleschia|Vreina]]** — whether she was taken by Will of Grin, killed by agents of the Commonwealth, or simply disappeared into the chaos of the world.
+She never saw her mother again. She never learned what happened to **[[oversee/npcs/Vreina Arleschia|Vreina]]** — whether she was taken by Will of Grin, killed by agents of the Commonwealth, or simply disappeared into the chaos of the world.
 
 She only knew that her father had gone to a far place, that her mother had stayed behind, and that **Kopling** was now her family.
 
@@ -568,9 +568,9 @@ She only knew that her father had gone to a far place, that her mother had staye
 
 **~694 AV**
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Zure Ama]]** fell into **Oversee**.
+**[[oversee/pcs/Zure Ama|Zure Ama]]** fell into **Oversee**.
 
-He landed in **[[_player/Dungeon Master Notes/oversee/locations/Nesia Town|Nesia Town]]** — a farming village in Harka. He was found by **[[_player/Dungeon Master Notes/oversee/npcs/Joni|Joni]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Siti|Siti]]**, a kind couple who adopted him and taught him to farm.
+He landed in **[[oversee/locations/Nesia Town|Nesia Town]]** — a farming village in Harka. He was found by **[[oversee/npcs/Joni|Joni]]** and **[[oversee/npcs/Siti|Siti]]**, a kind couple who adopted him and taught him to farm.
 
 He had no memory of how he had arrived. He only knew he was far from home — from **Aede**, from **Reins**, from everything he had lost.
 
@@ -582,15 +582,15 @@ But he never stopped searching. He never stopped hoping that one day he would fi
 
 **~700 AV — Flash-Forward to Campaign Present**
 
-One of the strongest **[[_player/Dungeon Master Notes/oversee/lore/The Echoes|Echoes]]** was **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]**.
+One of the strongest **[[oversee/lore/The Echoes|Echoes]]** was **[[oversee/npcs/Sam Hurls|Sam Hurls]]**.
 
 As a bard, his life was music. His melody was everything.
 
-When his soul was sucked into **[[_player/Dungeon Master Notes/oversee/npcs/Simon Greenbottle|Simon]]** without purification, all the songs he had never created, all the melodies interrupted mid-stream, all the grudges against the sour note of betrayal — all of it was **trapped inside him**, creating a resonance that could not rest.
+When his soul was sucked into **[[oversee/npcs/Simon Greenbottle|Simon]]** without purification, all the songs he had never created, all the melodies interrupted mid-stream, all the grudges against the sour note of betrayal — all of it was **trapped inside him**, creating a resonance that could not rest.
 
 Centuries after that ritual, **Echo Sam Hurls found his way out**.
 
-He was drawn to **[[Ghuffghuff]]** — a place with a strong connection to **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]]**, the student of **[[_player/Dungeon Master Notes/oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
+He was drawn to **[[Ghuffghuff]]** — a place with a strong connection to **[[oversee/npcs/Gordon|Gordon]]**, the student of **[[oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
 
 In Ghuffghuff, **Echo Sam took a horrifying form**.
 
@@ -598,7 +598,7 @@ He became a pale creature with many human-like heads. Each head was a fragment o
 
 The creature sang, and its song was a **trap**.
 
-Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]** and **[[Faska]]**.
+Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[oversee/npcs/Yahanda|Yahanda]]** and **[[Faska]]**.
 
 The creature was not evil in the ordinary sense. It was only **hungry** — hungry for life, for energy, for something to fill the emptiness left by a fractured soul.
 
@@ -606,7 +606,7 @@ And it sang. It kept singing — the same song it never finished at the altar �
 
 When **[[00 Player Dashboard|The Five Sticks]]** finally faced the creature at the **teater of Ghuffghuff**, they realized ordinary violence could not defeat it. Every head that was cut off grew back. Because it was not a flesh-and-blood creature — it was an **Echo**, and Echoes cannot be killed with a sword.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** — with the soul-thirsting sword **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — drove the blade into the creature's heart.
+**[[oversee/pcs/Shin Van Hel|HVS]]** — with the soul-thirsting sword **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — drove the blade into the creature's heart.
 
 Swaith — which could absorb and release souls — did something unexpected: it **released the souls trapped inside the creature's body**, freeing them.
 
@@ -624,22 +624,22 @@ He was only waiting — echoing between worlds — waiting for someone brave eno
 
 Other Echoes might also be waiting in other places.
 
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atreus Grin|Atreus Grin]]** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** might echo in the mountains of **Elis**, near the clan he left behind.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** might echo in the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**, or on the shore where he first found **[[_player/Dungeon Master Notes/oversee/npcs/Reins|Reins]]**.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Olaf Guirela|Olaf Guirela]]** might echo in the villages he once protected, or within **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]]** and later **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]**, who inherited his teachings without knowing where they came from.
+- **[[oversee/npcs/Atreus Grin|Atreus Grin]]** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
+- **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** might echo in the mountains of **Elis**, near the clan he left behind.
+- **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** might echo in the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**, or on the shore where he first found **[[oversee/npcs/Reins|Reins]]**.
+- **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** might echo in the villages he once protected, or within **[[oversee/npcs/Gordon|Gordon]]** and later **[[oversee/pcs/Husgus|Husgus]]**, who inherited his teachings without knowing where they came from.
 
 They wait, these Echoes. Waiting for the moment to speak again — to finish what was interrupted at that altar.
 
-And **[[_player/Dungeon Master Notes/oversee/factions/Keeper of Secret|Keeper of Secret]]** — the organization founded by **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira Nouveau]]** — continues to guard this secret. Not only the betrayal of **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]**, but also the **hope** that one day, in ways they do not yet understand, the Echoes might find **peace**.
+And **[[oversee/factions/Keeper of Secret|Keeper of Secret]]** — the organization founded by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]** — continues to guard this secret. Not only the betrayal of **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]**, but also the **hope** that one day, in ways they do not yet understand, the Echoes might find **peace**.
 
 ## Gordon Meets Husgus
 
 **~690 AV**
 
-Forty years after the war ended, **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[Hutan Domido]]**.
+Forty years after the war ended, **[[oversee/npcs/Gordon|Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[Hutan Domido]]**.
 
-His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]** had taught him.
+His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **[[oversee/npcs/Sam Hurls|Sam Hurls]]** had taught him.
 
 One morning, when fog still covered the trees, Gordon saw something strange.
 
@@ -671,11 +671,11 @@ In those empty eyes, he saw something familiar. Not as a human — but as a **mi
 
 Slowly, he said that the child might not know who he was, but he knew his name — and that was enough to start.
 
-With worn cloth he wrapped the small body, gave him the name **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]**, and said the child would stay here with him until he found his answer.
+With worn cloth he wrapped the small body, gave him the name **[[oversee/pcs/Husgus|Husgus]]**, and said the child would stay here with him until he found his answer.
 
 For the first time, there was a little light in Husgus's eyes — perhaps a question, perhaps hope.
 
-Gordon knew one thing: this world was cruel, and this child needed someone to protect him — just as **[[_player/Dungeon Master Notes/oversee/npcs/Olaf Guirela|Olaf]]** had once protected him.
+Gordon knew one thing: this world was cruel, and this child needed someone to protect him — just as **[[oversee/npcs/Olaf Guirela|Olaf]]** had once protected him.
 
 For the next **five years**, **Gordon trained Husgus**.
 
@@ -707,7 +707,7 @@ Gordon answered with a bitter smile: **he should live, learn, become strong, and
 
 **~695 AV**
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Malakor|Malakor]]** — one of the few people who still remembered Gordon — was a wizard who had sided with **Gudameng** during the war. A fanatic who believed **fried noodles were sacred**.
+**[[oversee/npcs/Malakor|Malakor]]** — one of the few people who still remembered Gordon — was a wizard who had sided with **Gudameng** during the war. A fanatic who believed **fried noodles were sacred**.
 
 But what few knew: **Malakor was an agent of the Commonwealth**.
 
@@ -725,11 +725,11 @@ One night in **695 AV**, while **Gordon** sat in front of his hut singing the ol
 
 They came like shadows. Dozens of armed men.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** — who was hunting deer in another part of the forest — heard strange sounds. He ran home. But he was **too late**.
+**[[oversee/pcs/Husgus|Husgus]]** — who was hunting deer in another part of the forest — heard strange sounds. He ran home. But he was **too late**.
 
 **Gordon fought bravely.**
 
-The **[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** in his hands loosed arrow after arrow, and several of Malakor's men fell.
+The **[[oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** in his hands loosed arrow after arrow, and several of Malakor's men fell.
 
 But there were too many.
 
@@ -847,9 +847,9 @@ After leaving **Hutan Domido**, **Husgus wandered without purpose**, searching f
 
 ## Aftermath
 
-Years later, in **[[Ghuffghuff]]** and **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]**, the name **Gordon** was almost forgotten.
+Years later, in **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, the name **Gordon** was almost forgotten.
 
-But the **melody** that **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
+But the **melody** that **[[oversee/npcs/Sam Hurls|Sam Hurls]]** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
 
 Children sang it without knowing what it meant. Mothers hummed it while putting babies to sleep. Farmers whistled it while working in the fields.
 
@@ -863,6 +863,6 @@ What they dug up in the ancient underground city, what artifacts they found — 
 
 In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
 
-But the fire of his struggle **continued to burn** — in **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
+But the fire of his struggle **continued to burn** — in **[[oversee/pcs/Husgus|Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 
 Because **Gordon had taught**: sometimes, all that is needed is **one voice loud enough** to disturb the sleep of the powerful.

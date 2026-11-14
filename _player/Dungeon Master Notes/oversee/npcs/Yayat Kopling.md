@@ -9,7 +9,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Yayat Kopling.md"
 > **Status:** Alive — but not seen since Vya left
 
 ## What the Party Knows
-- An old man who raised **Vya** for 10 years after her mother **[[_player/Dungeon Master Notes/oversee/npcs/Vreina Arleschia|Vreina]]** disappeared.
+- An old man who raised **Vya** for 10 years after her mother **[[oversee/npcs/Vreina Arleschia|Vreina]]** disappeared.
 - A wanderer. Not from Chenalia. Not from anywhere the party has heard of.
 - Has **dragonborn blood** — faint scales on some parts of his skin, sharp eyes, a resilience that is not entirely human.
 - Told Vya stories about the world. Taught her to survive. Taught her to hunt, to track, to read the land.

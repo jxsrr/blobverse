@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/items/Rubion.md"
 
 > [!info] At a Glance
 > **Type:** Gemheart (Red)
-> **Holder:** [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret)
+> **Holder:** [[oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret)
 > **Rarity:** Legendary
 
 ## What It Does

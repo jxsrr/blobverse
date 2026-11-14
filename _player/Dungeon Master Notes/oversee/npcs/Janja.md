@@ -10,8 +10,8 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Janja.md"
 
 ## What the Party Knows
 - A kind, quiet woman. Warm. Made the party tea when they arrived at her home.
-- Lived with her husband **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Smith|Guanik]]** and their three children.
-- **Killed by [[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** when they attacked Pulau Dima in Session 2.
+- Lived with her husband **[[oversee/npcs/Guanik Smith|Guanik]]** and their three children.
+- **Killed by [[oversee/factions/Will of Grin|Will of Grin]]** when they attacked Pulau Dima in Session 2.
 - Her home was burned. Her family scattered.
 - The party was not there when she died.
 

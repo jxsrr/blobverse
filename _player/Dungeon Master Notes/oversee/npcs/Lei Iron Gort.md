@@ -11,7 +11,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Lei Iron Gort.md"
 ## What the Party Knows
 - Brash, loud, loves a fight.
 - Threw a bottle at Husgus during the Festival. Respected him for catching it.
-- Killed **[[_player/Dungeon Master Notes/oversee/npcs/Jarko|Jarko]]** in front of the party.
+- Killed **[[oversee/npcs/Jarko|Jarko]]** in front of the party.
 - Wields wind-and-steel combat style.
 - Not subtle. Not patient. Very dangerous.
 

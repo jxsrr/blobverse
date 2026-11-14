@@ -11,13 +11,13 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Sasimo.md"
 ## What the Party Knows
 - A large, rough man. Mechanical hand. Anchor tattoo.
 - Runs the docks. Controls who comes and goes.
-- Will not talk to strangers. Will talk to anyone who mentions **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]**.
+- Will not talk to strangers. Will talk to anyone who mentions **[[oversee/npcs/Accarus Grin|Accarus]]**.
 - Smuggles weapons for Will of Grin.
 
 ## What He Offers
 - **Passage** on a smuggling ship.
 - **Information** about the Commonwealth's ship movements.
-- **A favor** to [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]].
+- **A favor** to [[oversee/npcs/Accarus Grin|Accarus]].
 
 ## Current Goal
 Smuggle weapons. Protect his crew.

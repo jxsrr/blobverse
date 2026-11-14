@@ -4,14 +4,14 @@ pfn-source: "Dungeon Master Notes/oversee/factions/The Iron Guard.md"
 ---
 
 > [!info] At a Glance
-> **Leader:** [[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Gort]] (Wakil Pertahanan)
+> **Leader:** [[oversee/npcs/Lei Iron Gort|Gort]] (Wakil Pertahanan)
 > **Attitude Toward Us:** Hostile
 > **Base:** Ironhold
 
 ## What We Know
 - The military arm of the Commonwealth. Officially called the **Garda Besi**.
-- Led by **[[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Gort]]**. Composed of disciplined soldiers, war machines, and conscripts.
-- They are the ones who killed **[[_player/Dungeon Master Notes/oversee/npcs/Jarko|Jarko]]**. They are the ones who attacked the Maw Desert hideout.
+- Led by **[[oversee/npcs/Lei Iron Gort|Gort]]**. Composed of disciplined soldiers, war machines, and conscripts.
+- They are the ones who killed **[[oversee/npcs/Jarko|Jarko]]**. They are the ones who attacked the Maw Desert hideout.
 - They are the ones who are hunting the party.
 
 ## Their Tactics

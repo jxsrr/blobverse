@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Maw Desert.md"
 
 > [!info] At a Glance
 > **Part of:** Pirizia East
-> **Notable People:** [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]], Geneva, Hildag
+> **Notable People:** [[oversee/npcs/Accarus Grin|Accarus]], Geneva, Hildag
 
 ## What Matters Here
 - Harsh eastern desert. Hidden behind optical illusions and sand.
@@ -16,9 +16,9 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Maw Desert.md"
 - **The Alchemy Exchange** — trade dungeon loot for Grin gear.
 
 ## What Happened Here
-- The party trained and rested here ([[_player/Dungeon Master Notes/oversee/sessions/Session 05 — Empty Husk|Session 05]]).
-- [[_player/Dungeon Master Notes/oversee/npcs/Jarko|Jarko]] was killed here.
-- [[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Gort]]'s raid destroyed the upper floors.
+- The party trained and rested here ([[oversee/sessions/Session 05 — Empty Husk|Session 05]]).
+- [[oversee/npcs/Jarko|Jarko]] was killed here.
+- [[oversee/npcs/Lei Iron Gort|Gort]]'s raid destroyed the upper floors.
 - Vya reunited with Antrem here.
 
 ## Current State

@@ -10,7 +10,7 @@ pfn-source: "Dungeon Master Notes/oversee/factions/The Frostscale Clan.md"
 
 ## What We Know
 - Dragonborn clan of ice. Live at the top of Frosthaven Peak.
-- Worship **[[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]**, the silver dragon. Their "Breathstone" was actually Syl's egg.
+- Worship **[[oversee/npcs/Vythrax|Vythrax]]**, the silver dragon. Their "Breathstone" was actually Syl's egg.
 - All members have **Ice Breath** — a sacred inheritance from Vythrax.
 - Magic is taboo. Only ice breath is allowed. Self-taught magic is punishable by exile.
 - They are **strict, disciplined, and honor-bound**.

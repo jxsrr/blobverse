@@ -7,13 +7,13 @@ pfn-source: "Dungeon Master Notes/oversee/sessions/Session 04 — Territorial.md
 > A festival, three leaders, one dead professor, and a choice between two factions.
 ## Part 1: Seven Days
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]** had given them seven days.
+**[[oversee/npcs/Accarus Grin|Accarus]]** had given them seven days.
 
-Seven days to decide: join **[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]**, or return to **[[_player/Dungeon Master Notes/oversee/factions/Keeper of Secret|Keeper of Secret]]**. The offer hung over them like a weight they could not put down.
+Seven days to decide: join **[[oversee/factions/Will of Grin|Will of Grin]]**, or return to **[[oversee/factions/Keeper of Secret|Keeper of Secret]]**. The offer hung over them like a weight they could not put down.
 
 They did not decide yet.
 
-Instead, they went to **Javan Town** — the port town where Accarus's ship waited, and where **[[_player/Dungeon Master Notes/oversee/npcs/Grilnax|Grilnax]]** had a Keeper contact who could take them back to **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]**.
+Instead, they went to **Javan Town** — the port town where Accarus's ship waited, and where **[[oversee/npcs/Grilnax|Grilnax]]** had a Keeper contact who could take them back to **[[oversee/npcs/Mira Nouveau|Mira]]**.
 
 Both paths began here.
 
@@ -24,7 +24,7 @@ They visited the standard stops:
 - **Debu Peri** — alchemy
 - **Baja Hitam** — the blacksmith
 
-At **Baja Hitam**, they met **[[_player/Dungeon Master Notes/oversee/npcs/Mr. Andreas|Mr. Andreas]]** — a soot-stained man with kind eyes and a wife who needed an escort.
+At **Baja Hitam**, they met **[[oversee/npcs/Mr. Andreas|Mr. Andreas]]** — a soot-stained man with kind eyes and a wife who needed an escort.
 
 > *"Two hundred gold. She has an event in the capital — West Harka. Tomorrow at dawn. Do we have a deal?"*
 
@@ -44,43 +44,43 @@ Old Wabi, too tired to argue, let them sleep in his house.
 
 Dawn.
 
-At **Dora's Rhino Stable**, they met **[[_player/Dungeon Master Notes/oversee/npcs/Dora|Dora]]** — a middle-aged dwarf woman with no patience for nonsense.
+At **Dora's Rhino Stable**, they met **[[oversee/npcs/Dora|Dora]]** — a middle-aged dwarf woman with no patience for nonsense.
 
 Before they could depart, they were intercepted.
 
-A patrol of **Commonwealth soldiers** stood on the road. They were looking for **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** — the missing Keeper agent — now accused of "terrorist activity."
+A patrol of **Commonwealth soldiers** stood on the road. They were looking for **[[oversee/npcs/Agus|Agus]]** — the missing Keeper agent — now accused of "terrorist activity."
 
 The party lied. Fluently.
 
-They claimed they had never met Agus. They claimed they were ordinary adventurers. And while lying, they **pumped the soldiers for information** — learning about the **Triase**, the three-pillar leadership of the **[[_player/Dungeon Master Notes/oversee/factions/One Voice Commonwealth|Commonwealth]]**.
+They claimed they had never met Agus. They claimed they were ordinary adventurers. And while lying, they **pumped the soldiers for information** — learning about the **Triase**, the three-pillar leadership of the **[[oversee/factions/One Voice Commonwealth|Commonwealth]]**.
 
-The soldiers left before they could be questioned further — a report had come in about bodies found in **[[_player/Dungeon Master Notes/oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]**.
+The soldiers left before they could be questioned further — a report had come in about bodies found in **[[oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]**.
 
 ## Part 4: Padre City
 
-They reached **[[_player/Dungeon Master Notes/oversee/locations/Padre Megalopolis|Padre Megalopolis]]** by midday.
+They reached **[[oversee/locations/Padre Megalopolis|Padre Megalopolis]]** by midday.
 
 It was built on a mesa — white granite walls, streets that glowed softly at night, a sense of order so complete it felt like a warning.
 
 The **Festival of the Great Lei** was underway. Ten days before the holy day of **Valla**. Banners everywhere. Crowds in every square.
 
-They parted from **[[_player/Dungeon Master Notes/oversee/npcs/Mrs. Ratna|Pak Andreas's wife]]** at the palace steps. She smiled, thanked them, and disappeared into the crowd with her crates.
+They parted from **[[oversee/npcs/Mrs. Ratna|Pak Andreas's wife]]** at the palace steps. She smiled, thanked them, and disappeared into the crowd with her crates.
 
 The party pushed forward. They found a place in the crowd in front of the **Governor's Palace** — the starting point of the parade.
 
 ## Part 5: The Parade
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]** — Governor of West Harka — opened the parade with a speech about unity. Then he introduced the three pillars of the Triase.
+**[[oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]** — Governor of West Harka — opened the parade with a speech about unity. Then he introduced the three pillars of the Triase.
 
-The first was **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — Wakil Keadilan, leader of the **[[_player/Dungeon Master Notes/oversee/factions/The Rose Guard|Garda Mawar]]**. She stood on a floating platform of churning wind, dressed in white and silver, eyes cold, rapier at her hip. She did not wave. She did not smile.
+The first was **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — Wakil Keadilan, leader of the **[[oversee/factions/The Rose Guard|Garda Mawar]]**. She stood on a floating platform of churning wind, dressed in white and silver, eyes cold, rapier at her hip. She did not wave. She did not smile.
 
 The crowd applauded politely, but there was fear in it.
 
-The second was **[[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Lei Iron Gort]]** — Wakil Pertahanan, leader of the **[[_player/Dungeon Master Notes/oversee/factions/The Iron Guard|Garda Besi]]**. He rode on a massive iron war-cart pulled by four armored rhinos. His soldiers did not march — they swaggered. They drank. They laughed.
+The second was **[[oversee/npcs/Lei Iron Gort|Lei Iron Gort]]** — Wakil Pertahanan, leader of the **[[oversee/factions/The Iron Guard|Garda Besi]]**. He rode on a massive iron war-cart pulled by four armored rhinos. His soldiers did not march — they swaggered. They drank. They laughed.
 
 Gort, spotting the crowd, threw a half-empty bottle of ale into the nearest group.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** caught it.
+**[[oversee/pcs/Husgus|Husgus]]** caught it.
 
 Without hesitation, he uncorked it and drank.
 
@@ -88,7 +88,7 @@ Gort stared at him for a moment — then burst into laughter.
 
 > *"You've got guts, kid! Come find me at the barracks if you ever want real work!"*
 
-The third was **[[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — Kanselir Agung. He rode in an open carriage pulled by two massive rhinos, their horns carved with bronze ornaments. He was dressed simply — white shirt, open jacket — and his smile was warm.
+The third was **[[oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — Kanselir Agung. He rode in an open carriage pulled by two massive rhinos, their horns carved with bronze ornaments. He was dressed simply — white shirt, open jacket — and his smile was warm.
 
 The crowd **roared** for him. Genuine affection. Not fear.
 
@@ -100,20 +100,20 @@ When the parade ended, the party went in search of information.
 
 They knew the names now: **The Initial Six**. They had one painting's worth of truth. They needed more.
 
-The **[[_player/Dungeon Master Notes/oversee/locations/Lyceum University of Arcane Arts|Lyceum University of Arcane Arts]]** stood in the middle ring of the city. They found their way to the **rector's office** — and to **[[_player/Dungeon Master Notes/oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]**, the oldest priest of Valla in Oversee.
+The **[[oversee/locations/Lyceum University of Arcane Arts|Lyceum University of Arcane Arts]]** stood in the middle ring of the city. They found their way to the **rector's office** — and to **[[oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]**, the oldest priest of Valla in Oversee.
 
 He was tired. He was clearly afraid of something he would not name. But he was willing to help.
 
 He showed them a painting — the only known portrait of the Initial Six:
 
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]** — tall, wind mage, green eyes, imperious.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atreus Grin|Atreus Grin]]** — smiling, small-horned, red-skinned.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]** — chubby, lute in hand.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** — dragonborn, orange-gold scales.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** — human, sea-worn face.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Olaf Guirela|Olaf Guirela]]** — half-orc, scarred, bow in hand.
+- **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** — tall, wind mage, green eyes, imperious.
+- **[[oversee/npcs/Atreus Grin|Atreus Grin]]** — smiling, small-horned, red-skinned.
+- **[[oversee/npcs/Sam Hurls|Sam Hurls]]** — chubby, lute in hand.
+- **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** — dragonborn, orange-gold scales.
+- **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** — human, sea-worn face.
+- **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** — half-orc, scarred, bow in hand.
 
-They asked about the gems. Donta identified the green one as **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]** — and his voice dropped when he said the name.
+They asked about the gems. Donta identified the green one as **[[oversee/items/Emelanica|Emelanica]]** — and his voice dropped when he said the name.
 
 > *"You should speak to my colleague, Professor Howdy. He has studied the Cycle Clan for years. He lives in the Outer Ring."*
 
@@ -123,7 +123,7 @@ The house was open.
 
 Coffee on the table. Cold. Door half-closed. Footprints — large, heavy — leading out into the street.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Professor Howdy|Professor Howdy]]** was gone.
+**[[oversee/npcs/Professor Howdy|Professor Howdy]]** was gone.
 
 They searched the house. In the corner, a **cockroach** — enormous and unsettling — scuttled across a pile of papers. The party cornered it, and somehow — impossibly — spoke to it.
 
@@ -143,7 +143,7 @@ That night, they had no money for an inn. They slept in the **Valla Temple**.
 
 ## Part 8: Donta's Death
 
-The next morning, **[[_player/Dungeon Master Notes/oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]** was not well.
+The next morning, **[[oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]** was not well.
 
 He was pale. His hands shook. He could not meet their eyes.
 
@@ -167,9 +167,9 @@ The party panicked.
 
 A priest — the oldest in Oversee — had just committed suicide in front of them. The city would assume they had done it. They would be hunted.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** acted first.
+**[[oversee/pcs/Shin Van Hel|HVS]]** acted first.
 
-He drew **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and fed it a Hit Die from his own body. Then he drove the blade into Donta's chest.
+He drew **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and fed it a Hit Die from his own body. Then he drove the blade into Donta's chest.
 
 The body gasped.
 
@@ -191,7 +191,7 @@ At **The Mana Dreg** — a bar in the Outer Circle — the bartender, **Selow**,
 
 > *"They live in the Inner Circle. They don't mix with us. They think their blood is purer than ours. Maybe it is. But that doesn't make them better."*
 
-Later, they visited **Yunao University of Agriculture** and met **[[_player/Dungeon Master Notes/oversee/npcs/Joni|Joni]]** — **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]**'s adoptive father, now a professor of wheat and grain.
+Later, they visited **Yunao University of Agriculture** and met **[[oversee/npcs/Joni|Joni]]** — **[[oversee/pcs/Zure Ama|Ama]]**'s adoptive father, now a professor of wheat and grain.
 
 He explained the four Klan Lei bloodlines:
 - **Lei Wendigo** — Wind
@@ -199,7 +199,7 @@ He explained the four Klan Lei bloodlines:
 - **Lei Watigi** — Water
 - **Lei Roiga** — Earth
 
-> *"None of them are as strong as **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]** was. He was the first of the first. He held all four elements at once. But each branch has a scrap of that power. Enough to rule."*
+> *"None of them are as strong as **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** was. He was the first of the first. He held all four elements at once. But each branch has a scrap of that power. Enough to rule."*
 
 Ama listened in silence. His father — the man who raised him — spoke of these bloodlines as if they were **facts of nature**, not the manipulations of history.
 
@@ -207,15 +207,15 @@ Ama listened in silence. His father — the man who raised him — spoke of thes
 
 By the sixth day, they were broke.
 
-They washed dishes in a tavern for silver. They slept in **[[_player/Dungeon Master Notes/oversee/npcs/Cindy Mektol|Cindy Mektol]]**'s temple — the Legendary Noodle Temple in **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]** — because **[[_player/Dungeon Master Notes/oversee/npcs/Guo Lao|Guo Lao]]** would not turn them away.
+They washed dishes in a tavern for silver. They slept in **[[oversee/npcs/Cindy Mektol|Cindy Mektol]]**'s temple — the Legendary Noodle Temple in **[[oversee/locations/Gudameng Town|Gudameng]]** — because **[[oversee/npcs/Guo Lao|Guo Lao]]** would not turn them away.
 
 And on the seventh day, they made their choice.
 
-The path to **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]** was still open. **[[_player/Dungeon Master Notes/oversee/npcs/Grilnax|Grilnax]]** would take them back. Keeper of Secret would receive them. They could go back to what they knew.
+The path to **[[oversee/npcs/Mira Nouveau|Mira]]** was still open. **[[oversee/npcs/Grilnax|Grilnax]]** would take them back. Keeper of Secret would receive them. They could go back to what they knew.
 
 But that path led to **more secrets**.
 
-The path of **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]** was harder. Will of Grin was hunted. Its methods were brutal. But it promised **action**.
+The path of **[[oversee/npcs/Accarus Grin|Accarus]]** was harder. Will of Grin was hunted. Its methods were brutal. But it promised **action**.
 
 They boarded Accarus's ship.
 
@@ -228,27 +228,27 @@ And the ship set sail for **Pirizia**.
 - A decision: **Will of Grin** over **Keeper of Secret**
 
 ## NPCs Encountered
-- **[[_player/Dungeon Master Notes/oversee/npcs/Mr. Andreas|Mr. Andreas]]** — blacksmith, hired them
-- **[[_player/Dungeon Master Notes/oversee/npcs/Mrs. Ratna|Pak Andreas's Wife]]** — the courier, later revealed as Keeper
-- **[[_player/Dungeon Master Notes/oversee/npcs/Dora|Dora]]** — rhino stable owner
+- **[[oversee/npcs/Mr. Andreas|Mr. Andreas]]** — blacksmith, hired them
+- **[[oversee/npcs/Mrs. Ratna|Pak Andreas's Wife]]** — the courier, later revealed as Keeper
+- **[[oversee/npcs/Dora|Dora]]** — rhino stable owner
 - **Old Wabi** — the gravekeeper
-- **[[_player/Dungeon Master Notes/oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]** — Governor of West Harka
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — Wakil Keadilan
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Lei Iron Gort]]** — Wakil Pertahanan
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — Kanselir Agung
-- **[[_player/Dungeon Master Notes/oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]** — died by suicide (revived briefly)
-- **[[_player/Dungeon Master Notes/oversee/npcs/Professor Howdy|Professor Howdy]]** — died before arrival
+- **[[oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]** — Governor of West Harka
+- **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — Wakil Keadilan
+- **[[oversee/npcs/Lei Iron Gort|Lei Iron Gort]]** — Wakil Pertahanan
+- **[[oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — Kanselir Agung
+- **[[oversee/npcs/Professor Alistair Donta|Professor Alistair Donta]]** — died by suicide (revived briefly)
+- **[[oversee/npcs/Professor Howdy|Professor Howdy]]** — died before arrival
 - **Selow** — bartender at The Mana Dreg
-- **[[_player/Dungeon Master Notes/oversee/npcs/Joni|Joni]]** — Ama's adoptive father, professor of grain
+- **[[oversee/npcs/Joni|Joni]]** — Ama's adoptive father, professor of grain
 
 ## Locations Visited
 - **Javan Town** — market, cemetery, docks
-- **[[_player/Dungeon Master Notes/oversee/locations/Padre Megalopolis|Padre Megalopolis]]** — capital of West Harka
-- **[[_player/Dungeon Master Notes/oversee/locations/Lyceum University of Arcane Arts|Lyceum University of Arcane Arts]]** — where Donta died
+- **[[oversee/locations/Padre Megalopolis|Padre Megalopolis]]** — capital of West Harka
+- **[[oversee/locations/Lyceum University of Arcane Arts|Lyceum University of Arcane Arts]]** — where Donta died
 - **The Mana Dreg** — the Outer Circle bar
 - **Yunao University of Agriculture** — where Joni teaches
-- **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]** — where they slept
+- **[[oversee/locations/Gudameng Town|Gudameng]]** — where they slept
 
 ## Sessions Chain
-- **Previous:** [[_player/Dungeon Master Notes/oversee/sessions/Session 03 — The Bard|Session 03]]
-- **Next:** [[_player/Dungeon Master Notes/oversee/sessions/Session 05 — Empty Husk|Session 05]]
+- **Previous:** [[oversee/sessions/Session 03 — The Bard|Session 03]]
+- **Next:** [[oversee/sessions/Session 05 — Empty Husk|Session 05]]

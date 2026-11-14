@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Padre Megalopolis.md"
 
 > [!info] At a Glance
 > **Part of:** West Harka (capital)
-> **Notable People:** Hanzel Lei Krow (Governor), Valerius, Livia, [[_player/Dungeon Master Notes/oversee/npcs/Lei Iron Gort|Gort]]
+> **Notable People:** Hanzel Lei Krow (Governor), Valerius, Livia, [[oversee/npcs/Lei Iron Gort|Gort]]
 
 ## What Matters Here
 - Built on a mesa. White granite walls 15 meters high.
@@ -15,7 +15,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Padre Megalopolis.md"
 - The **Lyceum University of Arcane Arts** is here. Professor Donta taught here.
 
 ## What Happened Here
-- The Five Sticks watched the Festival parade ([[_player/Dungeon Master Notes/oversee/sessions/Session 04 — Territorial|Session 04]]).
+- The Five Sticks watched the Festival parade ([[oversee/sessions/Session 04 — Territorial|Session 04]]).
 - Met the Triase for the first time.
 - Donta committed suicide after the party confronted him.
 - Howdy was found dead.

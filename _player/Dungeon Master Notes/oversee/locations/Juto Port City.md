@@ -16,5 +16,5 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Juto Port City.md"
 - **Mutiara** — elite tavern. Home of legends.
 
 ## What Happened Here
-- The party joined Keeper of Secret ([[_player/Dungeon Master Notes/oversee/sessions/Session 02 — The Wizard|Session 02]]).
+- The party joined Keeper of Secret ([[oversee/sessions/Session 02 — The Wizard|Session 02]]).
 - Found Atlan's hidden base beneath the Observatorium.

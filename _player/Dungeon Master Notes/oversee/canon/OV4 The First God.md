@@ -10,19 +10,19 @@ pfn-source: "Dungeon Master Notes/oversee/canon/OV4 The First God.md"
 
 The year **1 AV** — *After Valla* — began in silence.
 
-**Lei Firsa** stood at the altar of **[[Universitas Tarakita|Danau Kuno]]**. **[[_player/Dungeon Master Notes/oversee/npcs/Simon Greenbottle|Simon Greenbottle]]** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
+**Lei Firsa** stood at the altar of **[[Universitas Tarakita|Danau Kuno]]**. **[[oversee/npcs/Simon Greenbottle|Simon Greenbottle]]** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
 
-He was the **[[_player/Dungeon Master Notes/oversee/lore/The Valla|Valla]]** now. His soul stretched across the world, holding back the hunger of the **Overseer**. He would hold that burden for as long as he could. And when he finally broke, someone else would take his place.
+He was the **[[oversee/lore/The Valla|Valla]]** now. His soul stretched across the world, holding back the hunger of the **Overseer**. He would hold that burden for as long as he could. And when he finally broke, someone else would take his place.
 
 Lei Firsa looked at him for a long time. Then she turned away.
 
-She had what she wanted. She had **immortality** through Simon. She had **power** through the **[[_player/Dungeon Master Notes/oversee/lore/The Gemhearts|Gemhearts]]**. She had **control** over the cycle that kept the world alive.
+She had what she wanted. She had **immortality** through Simon. She had **power** through the **[[oversee/lore/The Gemhearts|Gemhearts]]**. She had **control** over the cycle that kept the world alive.
 
 But there was one thing that still bothered her.
 
 The **legendary weapons** — the blades and relics Simon had collected over his lifetime — were proof that Simon had existed. Each weapon had a story. Each story connected to a name — the name of a Halfling shepherd who had been too kind for the world.
 
-**Zenahhi**. **Rayio**. **Kkana**. **Frostfang**. **Terrde**. **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]**. And **[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero]]** — the bow that was not a blade, but a relic.
+**Zenahhi**. **Rayio**. **Kkana**. **Frostfang**. **Terrde**. **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]**. And **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — the bow that was not a blade, but a relic.
 
 She could not destroy them. They were ancient — older than the Klan, older than the Cycle Clan. Too strong to destroy. Too dangerous to leave in the wrong hands.
 
@@ -36,7 +36,7 @@ She began that night.
 
 ### Gustaero — The South Sea, Harka
 
-The first weapon she took from the altar was **[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero]]**.
+The first weapon she took from the altar was **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]**.
 
 The longbow was pale, almost transparent — its invisible string hummed softly as she held it, as if in protest.
 
@@ -80,7 +80,7 @@ Kkana stood upright, as if in agreement. Lei Firsa descended without looking bac
 
 **Frostfang** was the most dangerous of the six. Its blade — carved from the tooth of a giant ice dragon — radiated a cold that froze the air around it. When Lei Firsa touched it, frost immediately coated her hands. She barely managed to carry it; the cold pierced her skin and made her bones ache.
 
-She had to move quickly. She carried Frostfang to northern **Pirizia**, to **[[_player/Dungeon Master Notes/oversee/locations/Frosthaven Peak|Frosthaven Peak]]** — the highest mountain on the continent, where eternal snow and ice storms never stopped. Here, the temperature was far below freezing, and the wind blew so hard it could tear flesh.
+She had to move quickly. She carried Frostfang to northern **Pirizia**, to **[[oversee/locations/Frosthaven Peak|Frosthaven Peak]]** — the highest mountain on the continent, where eternal snow and ice storms never stopped. Here, the temperature was far below freezing, and the wind blew so hard it could tear flesh.
 
 Lei Firsa stood at the cliff edge, looking down at the white chasm below. With all her strength, she threw Frostfang into the storm. The great axe fell, spun, and was buried in thick snow within seconds.
 
@@ -102,7 +102,7 @@ Zenahhi fell, bounced off the stone walls, and vanished into the dark. Lei Firsa
 
 **Terrde** was different. Its blade was darker, thicker, designed to wait and strike with efficiency. Lei Firsa felt something **patient** in this sword — as if it did not mind waiting for as long as it took.
 
-She carried Terrde to **Harka**, to the ruins of an ancient city destroyed in **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|The Rapture]]** centuries before. The city had once been the greatest center of magical civilization in its era, before the light-eating comet came and devoured all its wizards. Now only rubble remained, and bones, and a suffocating silence.
+She carried Terrde to **Harka**, to the ruins of an ancient city destroyed in **[[oversee/lore/The Rapture|The Rapture]]** centuries before. The city had once been the greatest center of magical civilization in its era, before the light-eating comet came and devoured all its wizards. Now only rubble remained, and bones, and a suffocating silence.
 
 Lei Firsa entered the deepest underground chamber, among shelves of moldy books and useless magical tools. In the corner, she saw a pile of bones — perhaps the last wizard to die here. She placed Terrde in the lap of the skeleton, as if handing the sword to a new guardian.
 
@@ -126,18 +126,18 @@ The weapons waited in their hiding places — in the sea, in the forbidden fores
 
 **~01–20 AV**
 
-Years passed. The world turned in its silent orbit. **Lei Firsa** — now in full control of the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Clan|Cycle Clan]]** and the **[[_player/Dungeon Master Notes/oversee/lore/The Gemhearts|Gemhearts]]** — watched from a distance as her power grew.
+Years passed. The world turned in its silent orbit. **Lei Firsa** — now in full control of the **[[oversee/lore/The Cycle Clan|Cycle Clan]]** and the **[[oversee/lore/The Gemhearts|Gemhearts]]** — watched from a distance as her power grew.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Simon Greenbottle|Simon]]** still sat on the altar. His physical body had not changed. His consciousness stretched between the mortal world and the presence of the Overseer. Every five hundred years, the cycle would be prepared again — the maintenance ritual that had to be performed so the world remained safe from cosmic hunger. But Lei Firsa had made sure that the cycle would never move away from Simon as long as she lived.
+**[[oversee/npcs/Simon Greenbottle|Simon]]** still sat on the altar. His physical body had not changed. His consciousness stretched between the mortal world and the presence of the Overseer. Every five hundred years, the cycle would be prepared again — the maintenance ritual that had to be performed so the world remained safe from cosmic hunger. But Lei Firsa had made sure that the cycle would never move away from Simon as long as she lived.
 
 From Lei Firsa's womb came the descendants who would become known as **[[Klan Lei]]**.
 
 She gave birth to **four children**. Each grew up in an environment filled with knowledge of the Gemhearts, of the ritual, and of their father who sat eternal on the altar. Each inherited something no one else in Oversee possessed: **pure elemental power**, flowing in their blood like a second pulse.
 
-- **[[Lei Wendigo]]** — the firstborn. Wind. Received **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]**.
-- **[[Lei Firage]]** — the second. Fire. Received **[[_player/Dungeon Master Notes/oversee/items/Rubion|Rubion]]**.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Watigi|Lei Watigi]]** — the third. Water. Received **[[_player/Dungeon Master Notes/oversee/items/Safayer|Safayer]]**.
-- **[[Lei Roiga]]** — the fourth. Earth. Received **[[_player/Dungeon Master Notes/oversee/items/Topaju|Topaju]]**.
+- **[[Lei Wendigo]]** — the firstborn. Wind. Received **[[oversee/items/Emelanica|Emelanica]]**.
+- **[[Lei Firage]]** — the second. Fire. Received **[[oversee/items/Rubion|Rubion]]**.
+- **[[oversee/npcs/Lei Watigi|Lei Watigi]]** — the third. Water. Received **[[oversee/items/Safayer|Safayer]]**.
+- **[[Lei Roiga]]** — the fourth. Earth. Received **[[oversee/items/Topaju|Topaju]]**.
 
 But no one knew the truth behind this miracle.
 
@@ -191,7 +191,7 @@ But no euphemism could cover the truth: **Klan Lei killed its own children to ma
 
 ## The Commonwealth of United Voices
 
-The **[[_player/Dungeon Master Notes/oversee/factions/One Voice Commonwealth|Commonwealth of United Voices]]** was built on the ruins of chaos that followed decades after the disappearance of the greatest hero the world had ever known.
+The **[[oversee/factions/One Voice Commonwealth|Commonwealth of United Voices]]** was built on the ruins of chaos that followed decades after the disappearance of the greatest hero the world had ever known.
 
 Simon's departure — or more precisely, his transformation into the Valla who sat eternal on the altar — created a power vacuum no one could fill. Adventurers, kingdoms, and small factions competed in uncertainty, while external threats began to resurface after being muted for so long by Simon's presence.
 
@@ -203,15 +203,15 @@ The Commonwealth was formed with a structure known as the **Triase** — a trium
 
 At the top stood the **Kanselir Agung** — the **Grand Chancellor** — the supreme leader who served as guardian of wisdom and long-term vision. The Chancellor acted as unifier, mediator, and final decision-maker after hearing the views of the other two, making the position a symbol of reason, stability, and political and spiritual trust.
 
-Beside the Chancellor stood the **Wakil Keadilan** — the **Justice Deputy** — who led the **[[_player/Dungeon Master Notes/oversee/factions/The Rose Guard|Garda Mawar]]** (Rose Guard), the institution responsible for law, courts, and internal affairs. The Justice Deputy oversaw the court system, inter-regional contracts, dispute resolution, and maintenance of the Commonwealth's legal doctrine — requiring sharp analytical thinking, high integrity, and unusual diplomatic skill.
+Beside the Chancellor stood the **Wakil Keadilan** — the **Justice Deputy** — who led the **[[oversee/factions/The Rose Guard|Garda Mawar]]** (Rose Guard), the institution responsible for law, courts, and internal affairs. The Justice Deputy oversaw the court system, inter-regional contracts, dispute resolution, and maintenance of the Commonwealth's legal doctrine — requiring sharp analytical thinking, high integrity, and unusual diplomatic skill.
 
-Meanwhile, the **Wakil Pertahanan** — the **Defense Deputy** — held control of the **[[_player/Dungeon Master Notes/oversee/factions/The Iron Guard|Garda Besi]]** (Iron Guard): the military, territorial defense, public security, and intelligence. The Defense Deputy was the face of the Commonwealth's power, ensuring every threat — from within or without — could be met with toughness and speed without waiting for bureaucratic decisions.
+Meanwhile, the **Wakil Pertahanan** — the **Defense Deputy** — held control of the **[[oversee/factions/The Iron Guard|Garda Besi]]** (Iron Guard): the military, territorial defense, public security, and intelligence. The Defense Deputy was the face of the Commonwealth's power, ensuring every threat — from within or without — could be met with toughness and speed without waiting for bureaucratic decisions.
 
 Inevitably, because of the history begun by **Lei Firsa**, the majority of high offices in the Commonwealth were held by Klan Lei descendants. What began as the personal ambition of a cast-out woman who wanted recognition had grown into a network of power that spread to every corner of government. By occupying key positions, Klan Lei could ensure their bloodline was preserved and expanded — creating a system resembling a magical aristocracy in which political power and magic reinforced each other.
 
 Those with Simon's blood flowing in their veins, who inherited the pure elemental power of their ancestors, were naturally placed in positions that allowed them to protect family interests while still running the government. A perfect vicious circle: magical power gave them legitimacy to rule, and political power gave them protection to preserve the purity of their bloodline and the secret behind the source of their power.
 
-A clear example of this system could be seen in the Governor of West Harka — a leader named **[[_player/Dungeon Master Notes/oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]**, a direct descendant of the **Lei Wendigo** line, heir to the pure wind magic and guardian of **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]**. His appointment as governor was not merely an ordinary political decision; it was a symbolic statement that the Commonwealth recognized Klan Lei's traditional authority while binding it within a modern government structure.
+A clear example of this system could be seen in the Governor of West Harka — a leader named **[[oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]**, a direct descendant of the **Lei Wendigo** line, heir to the pure wind magic and guardian of **[[oversee/items/Emelanica|Emelanica]]**. His appointment as governor was not merely an ordinary political decision; it was a symbolic statement that the Commonwealth recognized Klan Lei's traditional authority while binding it within a modern government structure.
 
 ## The Doctrine of Simon's Ascension
 
@@ -225,9 +225,9 @@ Amid the bustle of the newly born Commonwealth — where the Doctrine of Simon's
 
 Across the sea, in the wild and untouched continent of **[[Elis]]**, time flowed as it had since the beginning of creation. There, among the misty peaks that pierced the sky and the valleys never trodden by mortal feet, the giant creatures from the age before consciousness still lived, hiding from a world that had forgotten them.
 
-Of the thousands of **Elder Dragons** that had once ruled the skies in the era before consciousness, only **three** remained in all Oversee. They were the last survivors of the hunts of the **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|Rapture]]** — creatures who had chosen to withdraw from the world rather than become victims of civilization's endless ambition. They hid in places impossible for ordinary mortals to reach, waiting in long silence.
+Of the thousands of **Elder Dragons** that had once ruled the skies in the era before consciousness, only **three** remained in all Oversee. They were the last survivors of the hunts of the **[[oversee/lore/The Rapture|Rapture]]** — creatures who had chosen to withdraw from the world rather than become victims of civilization's endless ambition. They hid in places impossible for ordinary mortals to reach, waiting in long silence.
 
-- **[[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]** — the Silver Dragon, called **"The Silver Wind"** by the **[[_player/Dungeon Master Notes/oversee/factions/The Frostscale Clan|Klan Frostscale]]**. She made her lair in the **[[_player/Dungeon Master Notes/oversee/locations/The Spire of Whispering Ice|Spire of Whispering Ice]]**, a peak so high the air was too thin to breathe. From that height, she watched over her domain — including **[[_player/Dungeon Master Notes/oversee/locations/Frosthaven Peak|Frosthaven Peak]]**, where Klan Frostscale built their settlement without fully realizing their deity was still alive, watching from a distance.
+- **[[oversee/npcs/Vythrax|Vythrax]]** — the Silver Dragon, called **"The Silver Wind"** by the **[[oversee/factions/The Frostscale Clan|Klan Frostscale]]**. She made her lair in the **[[oversee/locations/The Spire of Whispering Ice|Spire of Whispering Ice]]**, a peak so high the air was too thin to breathe. From that height, she watched over her domain — including **[[oversee/locations/Frosthaven Peak|Frosthaven Peak]]**, where Klan Frostscale built their settlement without fully realizing their deity was still alive, watching from a distance.
 - **[[Verdantus]]** — the Green Dragon, guardian of the last primordial forest, buried beneath the canopy of the "Endless Canopy" in the Eastern Wilds. He was the guardian of flora's balance, ensuring the last ancient trees that filtered **Ambitio-Ether** were never cut down by greedy hands.
 - **[[Aurelia]]** — the Blue Dragon, who had not surfaced in thousands of years. She swam at the bottom of the **Magic Lake** in the heart of Elis, managing the flow of mana in the water, ensuring the water sources of Elis remained pure and uncontaminated.
 
@@ -241,19 +241,19 @@ Meanwhile, the **Behemoths** — giant mammals who had once walked across the wo
 
 But even the sacred silence of Elis was not immune to ambition creeping from the other continent.
 
-In the forty-fifth year after the Valla era, the name **Klan Lei** had become synonymous with absolute power. **[[_player/Dungeon Master Notes/oversee/npcs/Lei Watigi|Lei Watigi]]** — the rightful heir of the water element from the **Lei Watigi** line — was the personification of that power. With **[[_player/Dungeon Master Notes/oversee/items/Safayer|Safayer]]** — the blue soul-purifying stone pulsing in rhythm with his heart — he was a being almost perfect in the eyes of the world.
+In the forty-fifth year after the Valla era, the name **Klan Lei** had become synonymous with absolute power. **[[oversee/npcs/Lei Watigi|Lei Watigi]]** — the rightful heir of the water element from the **Lei Watigi** line — was the personification of that power. With **[[oversee/items/Safayer|Safayer]]** — the blue soul-purifying stone pulsing in rhythm with his heart — he was a being almost perfect in the eyes of the world.
 
 But perfection often breeds boredom, and boredom is a chasm waiting to be filled with arrogance.
 
 In an expedition to the remote reaches of **Elis** — supposedly to map resources for the Commonwealth — Lei Watigi encountered something he had never seen in any scroll.
 
-On the slopes of **Mount Frosthaven**, when he separated from his group to follow a more remote path, he crossed paths with **[[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]**. The silver dragon was resting on an ice cliff, her scales reflecting the twilight sun into millions of cold sparks that blinded. For the first time in his life, Lei Watigi felt **small**. Vythrax was not merely a dragon. She was an ancient entity whose wisdom exceeded the age of the entire Lei bloodline.
+On the slopes of **Mount Frosthaven**, when he separated from his group to follow a more remote path, he crossed paths with **[[oversee/npcs/Vythrax|Vythrax]]**. The silver dragon was resting on an ice cliff, her scales reflecting the twilight sun into millions of cold sparks that blinded. For the first time in his life, Lei Watigi felt **small**. Vythrax was not merely a dragon. She was an ancient entity whose wisdom exceeded the age of the entire Lei bloodline.
 
 But in Lei Watigi's eyes — accustomed to seeing the world as an object to be conquered — the splendor only sparked another desire: **the desire to possess something no one else could possess.**
 
 He was not foolish enough to believe he could conquer a silver dragon with force. So he chose another path: **conspiracy.**
 
-He approached the high priests of **[[_player/Dungeon Master Notes/oversee/factions/The Frostscale Clan|Klan Frostscale]]** secretly — not with hostility, but with an offer they could not refuse. Great wealth. Influence in the Commonwealth. Access to the technology and resources of the Oversee continent. All he asked in return was one thing: **their help to have a child with their own deity.**
+He approached the high priests of **[[oversee/factions/The Frostscale Clan|Klan Frostscale]]** secretly — not with hostility, but with an offer they could not refuse. Great wealth. Influence in the Commonwealth. Access to the technology and resources of the Oversee continent. All he asked in return was one thing: **their help to have a child with their own deity.**
 
 The priests — who for thousands of years had only been keepers of ritual without truly experiencing Vythrax's intimate presence — were tempted. They conspired in a scheme that would destroy the sanctity of their own clan.
 
@@ -273,7 +273,7 @@ They held a secret meeting in the temple's underground chamber, attended only by
 
 The egg was kept in the most sacred chamber in the heart of the temple, worshipped in silence for hundreds of years.
 
-**Vythrax herself** — with a heart wounded but her oath of protection still held tightly — chose a lonely path. She could no longer remain among a clan that had built a lie on top of her disgrace. Before flying north to the **[[_player/Dungeon Master Notes/oversee/locations/The Spire of Whispering Ice|Spire of Whispering Ice]]**, she infiltrated the temple one night, looking at her egg one last time.
+**Vythrax herself** — with a heart wounded but her oath of protection still held tightly — chose a lonely path. She could no longer remain among a clan that had built a lie on top of her disgrace. Before flying north to the **[[oversee/locations/The Spire of Whispering Ice|Spire of Whispering Ice]]**, she infiltrated the temple one night, looking at her egg one last time.
 
 In a sorrow beyond measure, she swallowed the **full Safayer** — the blue Gemheart, the purification stone, one of the four organs of the Architect. She had secretly taken it from Lei Watigi during their last meeting. She knew the blue stone had extraordinary purifying power. Perhaps by swallowing it, she could create a magical resonance that would protect her egg during her departure — an invisible shield that would keep the embryo within safe and slow its development until the right time. She did not want her child to be born in the midst of this chaos and lie. Better the egg waited, sleeping deeply, until the world was ready to receive it. Perhaps she also just wanted to carry something that reminded her of what had happened. Perhaps she wanted to punish herself.
 
@@ -297,7 +297,7 @@ They could not let anyone know that their sacred deity — **Vythrax, The Silver
 
 So the priests quickly made an emergency decision. The baby would be kept secret. They announced that what had just happened was a miracle — that the **Breathstone** had "given birth" to a child destined to become the new guardian of the temple. But they could not let him stay in the sacred chamber. A Frostscale woman who had long desired a child but never had one was secretly summoned and given a sacred mandate: **raise this child in complete secrecy. Let no one know his origin. Let him not leave your house except at night. He belongs to the clan, but no one must know he exists.**
 
-The woman — whose heart was too sincere to refuse the priests' mandate — took the baby home and raised him with love in hiding. She named him **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl Frost]]** — a name that sounded like an ordinary ice child's, with no hint of his origin. During the early years, the secret was kept. Syl grew up in isolation, knowing only his adoptive mother and a few priests who occasionally came to check on him.
+The woman — whose heart was too sincere to refuse the priests' mandate — took the baby home and raised him with love in hiding. She named him **[[oversee/pcs/Syl Frost|Syl Frost]]** — a name that sounded like an ordinary ice child's, with no hint of his origin. During the early years, the secret was kept. Syl grew up in isolation, knowing only his adoptive mother and a few priests who occasionally came to check on him.
 
 But blood never lies.
 

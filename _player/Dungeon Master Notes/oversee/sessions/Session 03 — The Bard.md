@@ -8,17 +8,17 @@ pfn-source: "Dungeon Master Notes/oversee/sessions/Session 03 — The Bard.md"
 
 ## Part 1: The Road to Ghuffghuff
 
-The party left **[[_player/Dungeon Master Notes/oversee/locations/Juto Port City|Juto Port City]]** with a mission from **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]**: find **[[_player/Dungeon Master Notes/oversee/items/Gustaero — The Swan Bow|Gustaero — The Swan Bow]]** in **[[_player/Dungeon Master Notes/oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]**. Their guide was **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** — the same fighter they had met at Mutiara.
+The party left **[[oversee/locations/Juto Port City|Juto Port City]]** with a mission from **[[oversee/npcs/Mira Nouveau|Mira]]**: find **[[oversee/items/Gustaero — The Swan Bow|Gustaero — The Swan Bow]]** in **[[oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]**. Their guide was **[[oversee/npcs/Agus|Agus]]** — the same fighter they had met at Mutiara.
 
 They sailed from the docks of Kota Juto to **Javan Town**, then took a rhino cart inland. The journey would take days.
 
 The cart carried more than the party. Along for the ride were:
 
-- **[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]** — a plump, cheerful cook who wanted to learn the secret fried rice recipe of Ghuffghuff
-- **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]** — a quiet priest assigned to teach at the new temple
-- **The Mektol family** — **[[Herman Mektol]]** (father), **[[_player/Dungeon Master Notes/oversee/npcs/Faska Mektol|Faska Mektol]]** (mother), and **[[_player/Dungeon Master Notes/oversee/npcs/Cindy Mektol|Cindy Mektol]]** (daughter), moving to Ghuffghuff to start a new life
+- **[[oversee/npcs/Memeng|Memeng]]** — a plump, cheerful cook who wanted to learn the secret fried rice recipe of Ghuffghuff
+- **[[oversee/npcs/Yahanda|Yahanda]]** — a quiet priest assigned to teach at the new temple
+- **The Mektol family** — **[[Herman Mektol]]** (father), **[[oversee/npcs/Faska Mektol|Faska Mektol]]** (mother), and **[[oversee/npcs/Cindy Mektol|Cindy Mektol]]** (daughter), moving to Ghuffghuff to start a new life
 
-Along the road, **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** told them about the **Gruffgud War** — a centuries-long civil conflict between **[[Ghuffghuff]]** and **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]**. The cause? A dispute over whether **fried rice** or **fried noodles** was the superior dish.
+Along the road, **[[oversee/npcs/Agus|Agus]]** told them about the **Gruffgud War** — a centuries-long civil conflict between **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**. The cause? A dispute over whether **fried rice** or **fried noodles** was the superior dish.
 
 The party assumed this was a joke.
 
@@ -36,7 +36,7 @@ Roots erupted from the soil. Wooden branches wrapped around the cart's wheels, l
 
 The party was trapped.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Zure Ama]]** acted first. His Imp, **Renal** — formerly **Qain** — shifted into a swarm of termites and consumed the wooden restraints from within. The cart dropped. The wheels turned.
+**[[oversee/pcs/Zure Ama|Zure Ama]]** acted first. His Imp, **Renal** — formerly **Qain** — shifted into a swarm of termites and consumed the wooden restraints from within. The cart dropped. The wheels turned.
 
 They continued.
 
@@ -52,21 +52,21 @@ Ghuffghuff looked normal. Small. Warm. Rice fields on the edges, wooden homes, a
 
 The village was almost empty. The driver explained: *"It is late. People are home. Nothing to worry about."*
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]**, **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]**, and the **Mektol family** split off to their various destinations. The party, still with **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]**, went to the **teater** — the source of the singing.
+**[[oversee/npcs/Memeng|Memeng]]**, **[[oversee/npcs/Yahanda|Yahanda]]**, and the **Mektol family** split off to their various destinations. The party, still with **[[oversee/npcs/Agus|Agus]]**, went to the **teater** — the source of the singing.
 
 Inside, a handful of villagers sang the same melody, over and over, faces blank, eyes unfocused.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** stepped forward. His Fate Card — **Judgement** — should have made the villagers stare at him as a hero. They did not. They did not notice him at all.
+**[[oversee/pcs/Husgus|Husgus]]** stepped forward. His Fate Card — **Judgement** — should have made the villagers stare at him as a hero. They did not. They did not notice him at all.
 
 Something was wrong.
 
-They retreated to **Inn Sutisna** — the inn **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]** had booked for them — but chose instead to stay in **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]]**'s old house at the edge of the village. Husgus's childhood home.
+They retreated to **Inn Sutisna** — the inn **[[oversee/npcs/Mira Nouveau|Mira]]** had booked for them — but chose instead to stay in **[[oversee/npcs/Gordon|Gordon]]**'s old house at the edge of the village. Husgus's childhood home.
 
 ## Part 4: The Missing Priest
 
 Morning.
 
-The party learned that **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]** was missing. No one remembered him. Not the innkeeper, not the drivers, not the villagers.
+The party learned that **[[oversee/npcs/Yahanda|Yahanda]]** was missing. No one remembered him. Not the innkeeper, not the drivers, not the villagers.
 
 They bought maps from **[[Bu Mamat]]**'s warung and went into **[[Hutan Domido]]** — the forest between Ghuffghuff and Gudameng.
 
@@ -76,27 +76,27 @@ He pointed at the village. He pointed at them. He pointed at his ears.
 
 Before he could finish, an arrow flew.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** had shot him.
+**[[oversee/npcs/Agus|Agus]]** had shot him.
 
 > *"He was in the way. We can use his house."*
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Bud-eg|Bud-eg]]** — the old man — collapsed. Dead.
+**[[oversee/npcs/Bud-eg|Bud-eg]]** — the old man — collapsed. Dead.
 
 The party said nothing. But something between them had broken.
 
 Deeper in the forest, they found the ruins of an old fortress — a remnant of the Gruffgud War — and beside it, the **dried corpse of Yahanda**. His skin was tight across his bones. No blood. No wound.
 
-They went to **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]** — the rival village — and slept. It felt normal there. Everyone remembered them.
+They went to **[[oversee/locations/Gudameng Town|Gudameng]]** — the rival village — and slept. It felt normal there. Everyone remembered them.
 
 They returned to Ghuffghuff.
 
 ## Part 5: The Pattern of Forgetting
 
-At the new temple, the priests did not recognize **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]**. They had never heard his name.
+At the new temple, the priests did not recognize **[[oversee/npcs/Yahanda|Yahanda]]**. They had never heard his name.
 
 At the Mektol house, only **[[Cindy]]** was home. Her parents, she said, had gone to the market.
 
-At the market, **[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]** — the cook — remembered that **ten people** had arrived in the cart. Not eleven. Not Yahanda.
+At the market, **[[oversee/npcs/Memeng|Memeng]]** — the cook — remembered that **ten people** had arrived in the cart. Not eleven. Not Yahanda.
 
 The party returned to the Mektol house.
 
@@ -110,23 +110,23 @@ In the morning, they returned. **[[Herman]]** did not remember his wife.
 
 **[[Faska]]** was gone. And no one — not even her husband — remembered she had ever existed.
 
-The party went back to the ruined fortress. This time, they found **two** bodies: **[[_player/Dungeon Master Notes/oversee/npcs/Yahanda|Yahanda]]** and **[[Faska]]**, side by side, dried and hollow.
+The party went back to the ruined fortress. This time, they found **two** bodies: **[[oversee/npcs/Yahanda|Yahanda]]** and **[[Faska]]**, side by side, dried and hollow.
 
 ## Part 6: The Night Watch
 
 They needed to protect the survivors.
 
 A plan:
-- **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** would watch **[[Herman]]**
+- **[[oversee/pcs/Husgus|Husgus]]** would watch **[[Herman]]**
 - **[[Vya Arleschia|Vya]]** would watch **[[Cindy]]**
-- **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** and **[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** would watch **[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]**
-- **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** would sleep together
+- **[[oversee/pcs/Syl Frost|Syl]]** and **[[oversee/pcs/Shin Van Hel|HVS]]** would watch **[[oversee/npcs/Memeng|Memeng]]**
+- **[[oversee/pcs/Zure Ama|Ama]]** and **[[oversee/npcs/Agus|Agus]]** would sleep together
 
-But that night, **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** slept early. He did not hear the singing.
+But that night, **[[oversee/pcs/Husgus|Husgus]]** slept early. He did not hear the singing.
 
-At eight in the evening, **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** stood. His eyes went blank. He walked out of the house and into the dark.
+At eight in the evening, **[[oversee/npcs/Agus|Agus]]** stood. His eyes went blank. He walked out of the house and into the dark.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** followed. Something invisible struck him — he swung, missed.
+**[[oversee/pcs/Zure Ama|Ama]]** followed. Something invisible struck him — he swung, missed.
 
 The party woke. They chased Agus into **[[Hutan Domido]]**.
 
@@ -140,7 +140,7 @@ The party attacked. The creature was too strong. And when the sun began to rise,
 
 The party returned to the village.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** saw something wrong. The village looked… cracked. Empty. Rotted. The people were gone. The houses were ruins.
+**[[oversee/pcs/Husgus|Husgus]]** saw something wrong. The village looked… cracked. Empty. Rotted. The people were gone. The houses were ruins.
 
 He had woken up.
 
@@ -148,7 +148,7 @@ The others — the ones who had heard the singing the night before — were stil
 
 The party realized the truth: **Hearing the song traps you in the illusion.** Those who covered their ears saw the real Ghuffghuff. Those who did not, stayed inside the dream.
 
-That night, they tested it. **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]**, **[[HVS]]**, and **[[Vya Arleschia|Vya]]** covered their ears. **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** and **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** did not.
+That night, they tested it. **[[oversee/pcs/Syl Frost|Syl]]**, **[[HVS]]**, and **[[Vya Arleschia|Vya]]** covered their ears. **[[oversee/pcs/Zure Ama|Ama]]** and **[[oversee/pcs/Husgus|Husgus]]** did not.
 
 By morning, Ama and Husgus were free. They saw the ruined village. They saw the empty houses. They found **[[Cindy]]** in the Mektol house, alone, crying, making her own food.
 
@@ -156,9 +156,9 @@ By morning, Ama and Husgus were free. They saw the ruined village. They saw the 
 
 They planned the confrontation.
 
-- **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** would take **[[Cindy]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]** to **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]** — out of the illusion.
-- **[[HVS]]** and **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** would wait at the temple.
-- **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** and **[[Vya Arleschia|Vya]]** would go to the **teater**.
+- **[[oversee/pcs/Syl Frost|Syl]]** would take **[[Cindy]]** and **[[oversee/npcs/Memeng|Memeng]]** to **[[oversee/locations/Gudameng Town|Gudameng]]** — out of the illusion.
+- **[[HVS]]** and **[[oversee/pcs/Zure Ama|Ama]]** would wait at the temple.
+- **[[oversee/pcs/Husgus|Husgus]]** and **[[Vya Arleschia|Vya]]** would go to the **teater**.
 
 The plan: cover their ears when the singing started.
 
@@ -166,9 +166,9 @@ At the teater, dozens of villagers sang — but their forms were translucent now
 
 The party covered their ears and attacked.
 
-The battle was brutal. **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** cut off a head — it grew back. **[[Vya Arleschia|Vya]]** fired arrow after arrow — none of it mattered. The creature was not a living thing. It was a **grief made manifest**.
+The battle was brutal. **[[oversee/pcs/Zure Ama|Ama]]** cut off a head — it grew back. **[[Vya Arleschia|Vya]]** fired arrow after arrow — none of it mattered. The creature was not a living thing. It was a **grief made manifest**.
 
-**[[HVS]]** had been preparing. He drew **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and stabbed himself, feeding the blade a Hit Die. Then he drove it into the creature's heart.
+**[[HVS]]** had been preparing. He drew **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and stabbed himself, feeding the blade a Hit Die. Then he drove it into the creature's heart.
 
 Swaith **released**.
 
@@ -182,13 +182,13 @@ He looked at the party with something like relief.
 
 > *"Thank you. I was… looking for the ending of the song."*
 
-His name was **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]**. One of the **[[_player/Dungeon Master Notes/oversee/lore/The Initial Six|Initial Six]]**.
+His name was **[[oversee/npcs/Sam Hurls|Sam Hurls]]**. One of the **[[oversee/lore/The Initial Six|Initial Six]]**.
 
 He did not have long. He began to say something else — something urgent — and then an arrow flew from the dark.
 
 He fell.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]** stepped out of the shadows.
+**[[oversee/npcs/Accarus Grin|Accarus]]** stepped out of the shadows.
 
 ## Part 9: The Offer
 
@@ -198,31 +198,31 @@ He was an elf with a permanent smile — the **Grin curse** — and a calm, unre
 
 He offered them a choice.
 
-Join **[[_player/Dungeon Master Notes/oversee/factions/Will of Grin|Will of Grin]]** — fight for the truth, for the Grin, for the forgotten. Or stay with **[[_player/Dungeon Master Notes/oversee/factions/Keeper of Secret|Keeper of Secret]]** — and stay blind.
+Join **[[oversee/factions/Will of Grin|Will of Grin]]** — fight for the truth, for the Grin, for the forgotten. Or stay with **[[oversee/factions/Keeper of Secret|Keeper of Secret]]** — and stay blind.
 
 He gave them **seven days** to decide.
 
 Then he walked into the dark and was gone.
 
 ## Loot & Rewards
-- The truth about the **[[_player/Dungeon Master Notes/oversee/lore/The Echoes|Echoes]]**
-- **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]**'s offer
-- The knowledge that **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** can release trapped souls
+- The truth about the **[[oversee/lore/The Echoes|Echoes]]**
+- **[[oversee/npcs/Accarus Grin|Accarus]]**'s offer
+- The knowledge that **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** can release trapped souls
 
 ## NPCs Encountered
-- **[[_player/Dungeon Master Notes/oversee/npcs/Agus|Agus]]** — compromised guide, killed **[[_player/Dungeon Master Notes/oversee/npcs/Bud-eg|Bud-eg]]**, taken by the creature
-- **[[_player/Dungeon Master Notes/oversee/npcs/Bud-eg|Bud-eg]]** — the deaf old man who knew the truth, killed by Agus
-- **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]** — the bard of the Initial Six, freed and then killed
-- **[[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]]** — co-leader of Will of Grin, first appearance
+- **[[oversee/npcs/Agus|Agus]]** — compromised guide, killed **[[oversee/npcs/Bud-eg|Bud-eg]]**, taken by the creature
+- **[[oversee/npcs/Bud-eg|Bud-eg]]** — the deaf old man who knew the truth, killed by Agus
+- **[[oversee/npcs/Sam Hurls|Sam Hurls]]** — the bard of the Initial Six, freed and then killed
+- **[[oversee/npcs/Accarus Grin|Accarus]]** — co-leader of Will of Grin, first appearance
 - **[[Cindy]]** — orphaned survivor of the Mektol family
-- **[[_player/Dungeon Master Notes/oversee/npcs/Memeng|Memeng]]** — the cook, saved
+- **[[oversee/npcs/Memeng|Memeng]]** — the cook, saved
 - **[[Bu Mamat]]** — warung owner, killed early in the haunting
 
 ## Locations Visited
-- **[[_player/Dungeon Master Notes/oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]** — the village of the singing
-- **[[_player/Dungeon Master Notes/oversee/locations/Domido Forest|Domido Forest]]** — the forest where the dead were found
-- **[[_player/Dungeon Master Notes/oversee/locations/Gudameng Town|Gudameng]]** — the rival village, briefly safe
+- **[[oversee/locations/Ghuffghuff Town|Ghuffghuff Town]]** — the village of the singing
+- **[[oversee/locations/Domido Forest|Domido Forest]]** — the forest where the dead were found
+- **[[oversee/locations/Gudameng Town|Gudameng]]** — the rival village, briefly safe
 
 ## Sessions Chain
-- **Previous:** [[_player/Dungeon Master Notes/oversee/sessions/Session 02 — The Wizard|Session 02]]
-- **Next:** [[_player/Dungeon Master Notes/oversee/sessions/Session 04 — Territorial|Session 04]]
+- **Previous:** [[oversee/sessions/Session 02 — The Wizard|Session 02]]
+- **Next:** [[oversee/sessions/Session 04 — Territorial|Session 04]]

@@ -4,7 +4,7 @@ pfn-source: "Dungeon Master Notes/oversee/factions/Will of Grin.md"
 ---
 
 > [!info] At a Glance
-> **Leader:** [[_player/Dungeon Master Notes/oversee/npcs/Hildag Grin|Hildag Grin]] (The Weaver), [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus Grin]] & [[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva Grin]] (The Smiling Hand)
+> **Leader:** [[oversee/npcs/Hildag Grin|Hildag Grin]] (The Weaver), [[oversee/npcs/Accarus Grin|Accarus Grin]] & [[oversee/npcs/Geneva Grin|Geneva Grin]] (The Smiling Hand)
 > **Attitude Toward Us:** Allied (fragile)
 > **Base:** Maw Desert, Pirizia
 

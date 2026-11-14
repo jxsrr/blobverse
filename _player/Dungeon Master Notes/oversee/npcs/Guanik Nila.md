@@ -9,7 +9,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Guanik Nila.md"
 > **Status:** Alive
 
 ## What the Party Knows
-- Daughter of **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Smith|Guanik]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Janja|Janja]]**. Sister of **[[Huan]]** and **Dontol**.
+- Daughter of **[[oversee/npcs/Guanik Smith|Guanik]]** and **[[oversee/npcs/Janja|Janja]]**. Sister of **[[Huan]]** and **Dontol**.
 - Cried when her shell collection was stolen. Gave the party a **rainbow spiral shell** as thanks if they recovered it.
 - **Was on Pulau Dima when Will of Grin attacked.** Survived.
 

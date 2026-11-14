@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/The Temple of Vythrax.md"
 
 > [!info] At a Glance
 > **Part of:** Frostheart Village
-> **Notable People:** Elder Jarl, the priests of [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]
+> **Notable People:** Elder Jarl, the priests of [[oversee/npcs/Vythrax|Vythrax]]
 > **Status:** Active. Holy. Changed.
 
 ## What Matters Here
@@ -17,8 +17,8 @@ pfn-source: "Dungeon Master Notes/oversee/locations/The Temple of Vythrax.md"
 - **The Frozen Legion** — outside the temple, on the path to the Spire. Ice statues of ancient dragonborn protectors. They move when unobserved.
 
 ## What Happened Here
-- The party discovered the truth about Syl ([[_player/Dungeon Master Notes/oversee/sessions/Session 05 — Empty Husk|Session 05]]).
-- [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]] was healed here.
+- The party discovered the truth about Syl ([[oversee/sessions/Session 05 — Empty Husk|Session 05]]).
+- [[oversee/npcs/Vythrax|Vythrax]] was healed here.
 - The clan bowed to Syl.
 - Syl's name was carved on the monolith.
 

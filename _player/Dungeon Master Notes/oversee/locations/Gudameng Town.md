@@ -21,7 +21,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Gudameng Town.md"
 - **Traditional Noodle Factory** — milling, kneading, drying.
 
 ## What Happened Here
-- The party came here in [[_player/Dungeon Master Notes/oversee/sessions/Session 03 — The Bard|Session 03]] and found it normal — no singing, no missing people.
+- The party came here in [[oversee/sessions/Session 03 — The Bard|Session 03]] and found it normal — no singing, no missing people.
 - **Cindy** (the Mektol orphan) was brought here for safety. She now runs the Legendary Noodle Temple.
 - The party slept here after leaving Ghuffghuff.
 

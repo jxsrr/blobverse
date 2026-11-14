@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Yawning Town.md"
 
 > [!info] At a Glance
 > **Part of:** West Harka
-> **Notable People:** [[_player/Dungeon Master Notes/oversee/npcs/Grilnax|Grilnax]], [[_player/Dungeon Master Notes/oversee/npcs/Mr. Poise|Mr. Poise]]
+> **Notable People:** [[oversee/npcs/Grilnax|Grilnax]], [[oversee/npcs/Mr. Poise|Mr. Poise]]
 
 ## What Matters Here
 - Starting town. Home of **The Yawning Guild**.
@@ -14,4 +14,4 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Yawning Town.md"
 - The Guild is where adventurers register and get jobs.
 
 ## What Happened Here
-- The Five Sticks formed here ([[_player/Dungeon Master Notes/oversee/sessions/Session 01 — The Sorcerer|Session 01]]).
+- The Five Sticks formed here ([[oversee/sessions/Session 01 — The Sorcerer|Session 01]]).

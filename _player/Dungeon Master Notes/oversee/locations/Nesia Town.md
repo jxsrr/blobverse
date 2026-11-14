@@ -15,7 +15,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Nesia Town.md"
 - **Habara Cemetery** — old, quiet, overgrown.
 
 ## What Happened Here
-- The party tried to buy milk for HVS ([[_player/Dungeon Master Notes/oversee/sessions/Session 06 — Ethical Choices|Session 06 — Ethical Choices]]).
+- The party tried to buy milk for HVS ([[oversee/sessions/Session 06 — Ethical Choices|Session 06 — Ethical Choices]]).
 - Vya tried to milk the male rhino "Steve" and was kicked for 22 damage.
 - They stole the milk. Fled.
 - **Joni and Siti betrayed Ama** to the Commonwealth.

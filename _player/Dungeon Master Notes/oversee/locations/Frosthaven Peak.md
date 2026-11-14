@@ -11,14 +11,14 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Frosthaven Peak.md"
 - Highest mountain in Pirizia. Perpetual blizzard. Absolute zero temperatures.
 - Home of **Klan Frostscale** — dragonborn with ice breath.
 - **Frostheart Village** — carved into the cliffside. Igloo-like homes.
-- **Temple of [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
+- **Temple of [[oversee/npcs/Vythrax|Vythrax]]** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
 - **The Frozen Legion** — ice statues of ancient dragonborn protectors. They move when unobserved.
-- The **Spire of Whispering Ice** — [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]'s lair. Above the clouds.
+- The **Spire of Whispering Ice** — [[oversee/npcs/Vythrax|Vythrax]]'s lair. Above the clouds.
 
 ## What Happened Here
 - The party climbed in Session 5.
 - Syl's identity was revealed.
-- [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]] was healed.
+- [[oversee/npcs/Vythrax|Vythrax]] was healed.
 - Klan Frostscale bowed to Syl.
 
 ## Current State

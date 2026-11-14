@@ -16,11 +16,11 @@ In the endless dark of the void, it was the only thing that existed — a spark 
 
 So it made a decision. It would **sacrifice part of itself** to create a physical dimension — a place where life could exist, where something new could grow, where it would no longer be alone.
 
-But the Architect knew the danger. The **Overseer** was always hungry. If the new world produced too much **[[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the Overseer would smell it. It would come. It would eat.
+But the Architect knew the danger. The **Overseer** was always hungry. If the new world produced too much **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the Overseer would smell it. It would come. It would eat.
 
 So as the Architect split itself to create the world, it also created a barrier — a layer of separation between the world and the void. That barrier became known as **The Gap**.
 
-With this sacrifice, the Architect did not vanish. It **went to face the Overseer**. It stood at the threshold, at the edge of reality, and became the **first [[_player/Dungeon Master Notes/oversee/lore/The Valla|Valla]]** — a living seal, a willing sacrifice, the first Warden of the world.
+With this sacrifice, the Architect did not vanish. It **went to face the Overseer**. It stood at the threshold, at the edge of reality, and became the **first [[oversee/lore/The Valla|Valla]]** — a living seal, a willing sacrifice, the first Warden of the world.
 
 It is still there.
 
@@ -30,15 +30,15 @@ When the Architect split its essence to form the world, the process left marks.
 
 Its primordial body — the only body that had ever existed in the void — divided into two parts. One part became the physical dimension of **Oversee**. The other part — the most vital part, the part that still pulsed with life — **crystallized** in scattered fragments across the new world.
 
-Those fragments became known as the **[[_player/Dungeon Master Notes/oversee/lore/The Gemhearts|Gemhearts]]**.
+Those fragments became known as the **[[oversee/lore/The Gemhearts|Gemhearts]]**.
 
 They are not merely magical stones. They are the **organs** of the Architect — its heart, its brain, its vital essence, still beating with the life of its creator. Each Gemheart holds immense magical power. Each represents a fundamental aspect of the Architect's nature. Together, they form a system that allows the world to survive the cosmic hunger — a bridge between the mortal world and the consciousness that now sits as the Valla.
 
 The four Gemhearts are:
-- **[[_player/Dungeon Master Notes/oversee/items/Emelanica|Emelanica]]** — the green stone, the organ of time
-- **[[_player/Dungeon Master Notes/oversee/items/Safayer|Safayer]]** — the blue stone, the organ of purification
-- **[[_player/Dungeon Master Notes/oversee/items/Rubion|Rubion]]** — the red stone, the organ of annihilation
-- **[[_player/Dungeon Master Notes/oversee/items/Topaju|Topaju]]** — the yellow stone, the organ of stability
+- **[[oversee/items/Emelanica|Emelanica]]** — the green stone, the organ of time
+- **[[oversee/items/Safayer|Safayer]]** — the blue stone, the organ of purification
+- **[[oversee/items/Rubion|Rubion]]** — the red stone, the organ of annihilation
+- **[[oversee/items/Topaju|Topaju]]** — the yellow stone, the organ of stability
 
 Each one has a purpose. Each one is essential. Each one is scattered across the world, waiting to be found.
 
@@ -70,7 +70,7 @@ Rubion is the right hand of the Architect — the organ that can end anything, q
 
 **Topaju** is the anchor of the Architect — the part of it that provides structure, foundation, and stability.
 
-In the primordial body, Topaju was the spine that held the Architect's existence together. As a Gemheart, Topaju has the most **crucial** function for the physical survival of Oversee. Its existence literally **prevents the continents from drifting into The Gap**. More than that, Topaju **anchors sacrificial rituals to the mortal world** — providing the physical foundation for the [[_player/Dungeon Master Notes/oversee/lore/The Cycle Ritual|Cycle]] that maintains cosmic balance.
+In the primordial body, Topaju was the spine that held the Architect's existence together. As a Gemheart, Topaju has the most **crucial** function for the physical survival of Oversee. Its existence literally **prevents the continents from drifting into The Gap**. More than that, Topaju **anchors sacrificial rituals to the mortal world** — providing the physical foundation for the [[oversee/lore/The Cycle Ritual|Cycle]] that maintains cosmic balance.
 
 Without Topaju, the Cycle would have no foundation. Soul energy would scatter into the sky, and the Overseer would notice.
 
@@ -80,13 +80,13 @@ Topaju is the backbone of the world — the foundation that keeps reality whole.
 
 After the Architect created Oversee, the world began to fill with life.
 
-The earliest ecosystem was dominated by **primordial flora and fauna** — creatures and plants bound to raw **[[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the energy of creation that was not yet fully stable.
+The earliest ecosystem was dominated by **primordial flora and fauna** — creatures and plants bound to raw **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the energy of creation that was not yet fully stable.
 
 The primordial flora had a unique ability: they functioned as **filters** for Ambitio-Ether. Giant trees and **luminescent forests** absorbed wild mana from the air and stored it as crystalline sap. Creatures that consumed this flora received a concentrated supply of raw Ambitio-Ether — enough to grow **massive**. These forests were not just collections of trees. They were **organisms** — the lungs of the world in the most literal sense.
 
 The primordial fauna were defined by their **colossal size** — a direct manifestation of the high concentration of mana in the environment.
 
-- **[[_player/Dungeon Master Notes/oversee/lore/The Three Surviving Dragons|Elder Dragons]]** — though rare in the modern era — served as **ecological stabilizers** in the primordial age. They consumed Ambitio-Ether directly from the atmosphere and **exhaled it back as weather** — rain, storms, and winds that carried life across the world.
+- **[[oversee/lore/The Three Surviving Dragons|Elder Dragons]]** — though rare in the modern era — served as **ecological stabilizers** in the primordial age. They consumed Ambitio-Ether directly from the atmosphere and **exhaled it back as weather** — rain, storms, and winds that carried life across the world.
 - **Behemoths** — slow-moving giant mammals — lived by consuming Ambitio-Ether-rich forests. Their presence, though seemingly destructive, **stabilized the continents** by preventing soil erosion caused by uncontrolled Ambitio-Ether release.
 
 These creatures were powerful. But they were not **conscious**. They did not have **free will** — not enough to attract the Overseer's attention. They were part of the ecological architecture, not part of the danger.
@@ -97,7 +97,7 @@ They were part of the solution.
 
 The transition to consciousness began when these ancient creatures developed more complex nervous systems. More importantly, **self-awareness** sparked among some of them. This did not happen evenly across the world. It happened in specific places — where conditions allowed — creatures began to **know** they existed.
 
-That awareness triggered the production of **[[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]]** on a very small scale.
+That awareness triggered the production of **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** on a very small scale.
 
 A new era began.
 
@@ -116,7 +116,7 @@ Over thousands of years, the Inbu differentiated. Evolution was driven by three 
 - **Dwarves** — the Inbu who chose the underground, hiding from surface predators. Thousands of years in caves and mountains shaped them into **sturdy, resilient craftsmen and unparalleled miners**.
 - **Halflings** — a distant branch of Humans who chose peace over ambition. They adapted to quiet rural life, **shrinking in stature** while inheriting the cheerfulness and prosperity of their Human kin. They loved peace, food, and the comfort of home.
 - **Gnomes** — a mystery. Perhaps a lighter branch of Dwarves, perhaps an early cross between Elves and fey. Small, curious, and naturally drawn to illusion and the stranger side of nature's magic. They became **inventors, gem-cutters, and endless storytellers**.
-- **[[_player/Dungeon Master Notes/oversee/factions/The Frostscale Clan|Dragonborn]]** — a different origin entirely. They were the Inbu who **migrated to the highest mountains**, where the Elder Dragons rested. Generation after generation, they were exposed to the magical weather cycles the dragons exhaled. Their bodies slowly changed. **Scales grew. Their breath carried elemental force. Their lifespans lengthened.** They inherited the pride, honor, and elemental power of the sky-guardians.
+- **[[oversee/factions/The Frostscale Clan|Dragonborn]]** — a different origin entirely. They were the Inbu who **migrated to the highest mountains**, where the Elder Dragons rested. Generation after generation, they were exposed to the magical weather cycles the dragons exhaled. Their bodies slowly changed. **Scales grew. Their breath carried elemental force. Their lifespans lengthened.** They inherited the pride, honor, and elemental power of the sky-guardians.
 - **Half-Elves** — the union of Human and Elf. They inherited Human curiosity and ambition, and Elven senses and charm. They became explorers, diplomats, and bridges between two worlds — though often feeling at home in neither.
 - **Half-Orcs** — the hard union of Human and Orc — a race believed to have evolved from Inbu exposed to harsh, destructive energy in remote regions. They inherited immense physical strength and ferocity — but also Human intelligence, willpower, and the ability to control their rage and prove themselves beyond the stigma they carry.
 
@@ -150,7 +150,7 @@ When dawn came and the comet drifted away, what remained were scattered clothes,
 
 A civilization that had been thriving the night before was now only a memory and a silent ruin — a monument to its own folly.
 
-Thus the **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|Rapture]]** happened — repeatedly, across Oversee.
+Thus the **[[oversee/lore/The Rapture|Rapture]]** happened — repeatedly, across Oversee.
 
 Every time a civilization reached the peak of magical glory, every time they forgot the balance the Architect had built with such care, **destruction came from the sky** in the form of a light-eating comet.
 

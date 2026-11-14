@@ -4,13 +4,13 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Accarus Grin.md"
 ---
 
 > [!info] At a Glance
-> **Role:** Co-leader of Will of Grin. [[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva]]'s husband. [[_player/Dungeon Master Notes/oversee/npcs/Jarko|Jarko]]'s father (deceased). [[_player/Dungeon Master Notes/oversee/npcs/Antrem Klaus|Antrem]]'s twin.
+> **Role:** Co-leader of Will of Grin. [[oversee/npcs/Geneva Grin|Geneva]]'s husband. [[oversee/npcs/Jarko|Jarko]]'s father (deceased). [[oversee/npcs/Antrem Klaus|Antrem]]'s twin.
 > **Where:** Maw Desert
 > **Status:** Alive
 
 ## What the Party Knows
-- Twin brother of **[[_player/Dungeon Master Notes/oversee/npcs/Antrem Klaus|Antrem]]** (Vya's father).
-- Husband of **[[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva]]**. Father of **[[_player/Dungeon Master Notes/oversee/npcs/Jarko|Jarko]]** (deceased).
+- Twin brother of **[[oversee/npcs/Antrem Klaus|Antrem]]** (Vya's father).
+- Husband of **[[oversee/npcs/Geneva Grin|Geneva]]**. Father of **[[oversee/npcs/Jarko|Jarko]]** (deceased).
 - Carried **Gustaero** — gave it to Husgus after the Frosthaven mission.
 - Wants to collect the Gemhearts. Wants to avenge the Grin people. Wants to find the truth.
 - Morally gray. Willing to sacrifice for the cause.

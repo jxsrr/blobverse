@@ -6,7 +6,7 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Three Surviving Dragons.md"
 > [!info] The Last of the Ancient Dragons
 > Once there were thousands. Now there are three. They are hiding.
 
-## [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]] — The Silver Wind
+## [[oversee/npcs/Vythrax|Vythrax]] — The Silver Wind
 - **Color:** Silver. **Element:** Cold.
 - **Location:** Spire of Whispering Ice (Frosthaven Peak).
 - **Status:** Alive, weakened by Safayer poison.
@@ -28,5 +28,5 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Three Surviving Dragons.md"
 - **Personality:** Unknown. She has not been seen in 2,000 years.
 
 ## What the Party Knows
-- They know [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]. They do not know the others exist.
+- They know [[oversee/npcs/Vythrax|Vythrax]]. They do not know the others exist.
 - The dragons are the last of their kind.

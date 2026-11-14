@@ -4,7 +4,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Jarko.md"
 ---
 
 > [!info] At a Glance
-> **Role:** [[_player/Dungeon Master Notes/oversee/npcs/Accarus Grin|Accarus]] and [[_player/Dungeon Master Notes/oversee/npcs/Geneva Grin|Geneva]]'s son. Vya's cousin. Grandson of [[_player/Dungeon Master Notes/oversee/npcs/Hildag Grin|Hildag]].
+> **Role:** [[oversee/npcs/Accarus Grin|Accarus]] and [[oversee/npcs/Geneva Grin|Geneva]]'s son. Vya's cousin. Grandson of [[oversee/npcs/Hildag Grin|Hildag]].
 > **Where:** Deceased — killed in Maw Desert
 > **Status:** Dead
 

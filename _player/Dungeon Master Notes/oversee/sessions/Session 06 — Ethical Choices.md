@@ -8,25 +8,25 @@ pfn-source: "Dungeon Master Notes/oversee/sessions/Session 06 — Ethical Choice
 
 ## Part 1: Muangching, Milk, and a Madman
 
-**[[_player/Dungeon Master Notes/oversee/locations/Muangching Bay|Muangching Bay]]** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
+**[[oversee/locations/Muangching Bay|Muangching Bay]]** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** was not well.
+**[[oversee/pcs/Shin Van Hel|HVS]]** was not well.
 
-He had been showing symptoms since the escape from **[[_player/Dungeon Master Notes/oversee/locations/Maw Desert|Maw Desert]]** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
+He had been showing symptoms since the escape from **[[oversee/locations/Maw Desert|Maw Desert]]** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **[[oversee/npcs/Zargoth|Zargoth]]**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
 
 He needed **milk**.
 
 They searched the town. **[[Ibu Sari]]**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
 
-> *"Try **[[_player/Dungeon Master Notes/oversee/locations/Nesia Town|Nesia]]**. The rhino farmers. They sell it."*
+> *"Try **[[oversee/locations/Nesia Town|Nesia]]**. The rhino farmers. They sell it."*
 
 They crossed the rice paddies.
 
 On the road, they met a man who would change everything.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]**. An old man with long white hair and eyes that did not quite focus on the world in front of him. He spoke of a city called **"Arumanehjaya"** — a place of gears and robots and automatic rifles — and he spoke of it the way a drowning man speaks of land.
+**[[oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]**. An old man with long white hair and eyes that did not quite focus on the world in front of him. He spoke of a city called **"Arumanehjaya"** — a place of gears and robots and automatic rifles — and he spoke of it the way a drowning man speaks of land.
 
-The party listened. Some of them thought he was mad. **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** thought he was lying. **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** thought he was telling the truth.
+The party listened. Some of them thought he was mad. **[[oversee/pcs/Husgus|Husgus]]** thought he was lying. **[[oversee/pcs/Zure Ama|Ama]]** thought he was telling the truth.
 
 Darvin made an offer: **500 gold** for an excavation contract. Find the city. Prove it exists.
 
@@ -34,7 +34,7 @@ They agreed.
 
 ## Part 2: The Rhino Station
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Hora|Hora]]**'s Rhino Stable was a wooden compound with a barn, a dairy, and a sign that said **"PREMIUM MILK — 35 GP"**.
+**[[oversee/npcs/Hora|Hora]]**'s Rhino Stable was a wooden compound with a barn, a dairy, and a sign that said **"PREMIUM MILK — 35 GP"**.
 
 Thirty-five gold a bottle. Extortion.
 
@@ -54,7 +54,7 @@ They got the milk anyway — poured into a wooden bucket, transferred to emptied
 
 They needed shelter.
 
-**[[The Golden Sheaf]]** was a small inn in **[[_player/Dungeon Master Notes/oversee/locations/Nesia Town|Nesia Town]]** — run by **[[_player/Dungeon Master Notes/oversee/npcs/Joni|Joni]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Siti|Siti]]**, **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
+**[[The Golden Sheaf]]** was a small inn in **[[oversee/locations/Nesia Town|Nesia Town]]** — run by **[[oversee/npcs/Joni|Joni]]** and **[[oversee/npcs/Siti|Siti]]**, **[[oversee/pcs/Zure Ama|Ama]]**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
 
 They went to the door and knocked.
 
@@ -70,7 +70,7 @@ He grabbed Ama. Wrapped him in a hug that was not a hug — a hold. A lock. A ca
 
 The party acted.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** pulled Joni off. **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** pulled the door open. **[[Vya Arleschia|Vya]]**, **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]**, and **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** ran.
+**[[oversee/pcs/Shin Van Hel|HVS]]** pulled Joni off. **[[oversee/pcs/Husgus|Husgus]]** pulled the door open. **[[Vya Arleschia|Vya]]**, **[[oversee/pcs/Syl Frost|Syl]]**, and **[[oversee/pcs/Zure Ama|Ama]]** ran.
 
 Behind them, the sound of boots.
 
@@ -98,19 +98,19 @@ It was being rebuilt.
 
 Under the direct supervision of the **Triase**.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** stood at the center of the reconstruction, his white robes spotless, his smile warm, his hands gesturing as he directed workers. **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** stood beside him, cold, watching.
+**[[oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** stood at the center of the reconstruction, his white robes spotless, his smile warm, his hands gesturing as he directed workers. **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** stood beside him, cold, watching.
 
-And **[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]** — the old madman they had been escorting — saw them.
+And **[[oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]** — the old madman they had been escorting — saw them.
 
 He **screamed**.
 
-He clutched his head and fell to his knees. He wept. He babbled. His body shook so hard that **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** had to hold him up.
+He clutched his head and fell to his knees. He wept. He babbled. His body shook so hard that **[[oversee/pcs/Zure Ama|Ama]]** had to hold him up.
 
 The party saw the face of **Valerius Thorne**. They saw the face of **Darvin Thorne**. They saw the same face — the same nose, the same jaw, the same eyes.
 
 **They were twins.**
 
-The party disguised themselves as Darvin's caretakers — medical orderlies, social workers, hired help for a man with "special needs." **[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** used **Suggestion** to reinforce the lie.
+The party disguised themselves as Darvin's caretakers — medical orderlies, social workers, hired help for a man with "special needs." **[[oversee/pcs/Shin Van Hel|HVS]]** used **Suggestion** to reinforce the lie.
 
 Livia looked at them with contempt. But she bought it.
 
@@ -126,11 +126,11 @@ The jungle of Elis was **wrong**.
 
 The animals were too large. There were birds with human proportions. There were rhinos the size of houses. Something had twisted this land — and had been twisting it for a very long time.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Darvin]]** led them deeper. He was calmer now, more lucid. He spoke of "the entrance" and "the city" and "the gears" as if they were facts he had always known.
+**[[oversee/npcs/Lei Darvin Thorne|Darvin]]** led them deeper. He was calmer now, more lucid. He spoke of "the entrance" and "the city" and "the gears" as if they were facts he had always known.
 
 They found the tree.
 
-**[[_player/Dungeon Master Notes/oversee/locations/The First Tree|The First Tree]]**.
+**[[oversee/locations/The First Tree|The First Tree]]**.
 
 It was not a tree. It was a **petrified root** — a fragment of something older than the world. Its bark was scaly. Its trunk was wider than a castle. Its branches were dead, and had been dead for **10,000 years**.
 
@@ -148,19 +148,19 @@ They descended.
 
 Before they could enter, the air **twisted**.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** had followed them.
+**[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** had followed them.
 
 Her wind blade was invisible. A single strike.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]**'s left arm was severed at the elbow.
+**[[oversee/pcs/Zure Ama|Ama]]**'s left arm was severed at the elbow.
 
-The wound did not bleed like a normal wound. The curse of the wind — Livia's wind — infected it. Magic could not heal it. **[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** tried. **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** tried. Nothing worked. The blood kept flowing. Ama's HP kept dropping.
+The wound did not bleed like a normal wound. The curse of the wind — Livia's wind — infected it. Magic could not heal it. **[[oversee/pcs/Syl Frost|Syl]]** tried. **[[oversee/pcs/Husgus|Husgus]]** tried. Nothing worked. The blood kept flowing. Ama's HP kept dropping.
 
 He was going to die.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Darvin]]** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
+**[[oversee/npcs/Lei Darvin Thorne|Darvin]]** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** and **[[Vya Arleschia|Vya]]** held the door as it closed.
+**[[oversee/pcs/Shin Van Hel|HVS]]** and **[[Vya Arleschia|Vya]]** held the door as it closed.
 
 Behind them, Livia screamed in frustration. Her wind could not reach through the closing doors.
 
@@ -206,7 +206,7 @@ And then he showed them the video.
 
 The video was old. Analog. Monochrome.
 
-A man appeared on screen. **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** — the ancient astrologer, the founder of the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Clan|Cycle Clan]]**. He spoke of an event that had happened 1,000 years ago.
+A man appeared on screen. **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** — the ancient astrologer, the founder of the **[[oversee/lore/The Cycle Clan|Cycle Clan]]**. He spoke of an event that had happened 1,000 years ago.
 
 Six minutes of sky a color no one could name.
 
@@ -236,7 +236,7 @@ Then he said:
 
 > *"That was 1,000 years ago. The Shell is still there. Above us. Waiting."*
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** spoke first.
+**[[oversee/pcs/Syl Frost|Syl]]** spoke first.
 
 > *"Waiting for what?"*
 
@@ -246,9 +246,9 @@ Gzirmo did not answer.
 
 Seven days passed.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
+**[[oversee/pcs/Zure Ama|Ama]]** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
 
-**Dr. Vektor** took the party aside. He told them about his daughter, **[[Dr. Kristine|Kristine]]**, who had died in a mining accident. He told them about the **[[_player/Dungeon Master Notes/oversee/locations/The First Tree|First Tree]]**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
+**Dr. Vektor** took the party aside. He told them about his daughter, **[[Dr. Kristine|Kristine]]**, who had died in a mining accident. He told them about the **[[oversee/locations/The First Tree|First Tree]]**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
 
 He did not ask them for help. He did not have to.
 
@@ -269,28 +269,28 @@ They took the chip. They entered the emergency exit.
 And they climbed, for the first time, out of the earth.
 
 ## Loot & Rewards
-- **Renal** — now fused into **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]**'s arm
+- **Renal** — now fused into **[[oversee/pcs/Zure Ama|Ama]]**'s arm
 - **The Shell video** — the most important artifact in the campaign
 - **A 500,000 gp debt** to **Dr. Vektor**
-- The truth about **[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Darvin]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Valerius]]**
+- The truth about **[[oversee/npcs/Lei Darvin Thorne|Darvin]]** and **[[oversee/npcs/Lei Valerius Thorne|Valerius]]**
 
 ## NPCs Encountered
 - **[[Ibu Sari]]** — lemonade seller in Muangching, no milk
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]** — the "madman" who found a lost city
-- **[[_player/Dungeon Master Notes/oversee/npcs/Hora|Hora]]** — the rhino dairy owner
-- **[[_player/Dungeon Master Notes/oversee/npcs/Joni|Joni]]** — Ama's adoptive father, betrayed him
-- **[[_player/Dungeon Master Notes/oversee/npcs/Siti|Siti]]** — Ama's adoptive mother, silent accomplice
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — the Chancellor, revealed as Darvin's twin
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — the Justice Deputy, amputated Ama's arm
+- **[[oversee/npcs/Lei Darvin Thorne|Lei Darvin Thorne]]** — the "madman" who found a lost city
+- **[[oversee/npcs/Hora|Hora]]** — the rhino dairy owner
+- **[[oversee/npcs/Joni|Joni]]** — Ama's adoptive father, betrayed him
+- **[[oversee/npcs/Siti|Siti]]** — Ama's adoptive mother, silent accomplice
+- **[[oversee/npcs/Lei Valerius Thorne|Lei Valerius Thorne]]** — the Chancellor, revealed as Darvin's twin
+- **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — the Justice Deputy, amputated Ama's arm
 - **Dr. Vektor** — the cybernetic surgeon, saved Ama's life
 - **[[Echo Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, showed the Shell video
 
 ## Locations Visited
-- **[[_player/Dungeon Master Notes/oversee/locations/Muangching Bay|Muangching Bay]]** — the fishing town with no milk
-- **[[_player/Dungeon Master Notes/oversee/locations/Nesia Town|Nesia Town]]** — the rhino dairy town
+- **[[oversee/locations/Muangching Bay|Muangching Bay]]** — the fishing town with no milk
+- **[[oversee/locations/Nesia Town|Nesia Town]]** — the rhino dairy town
 - **The Golden Sheaf** — the inn that betrayed Ama
 - **[[Chenalia]]** — Vya's burned village, now under reconstruction
-- **[[_player/Dungeon Master Notes/oversee/locations/The First Tree|The First Tree]]** — the 10,000-year-old dead root
+- **[[oversee/locations/The First Tree|The First Tree]]** — the 10,000-year-old dead root
 - **[[Arujaya]]** — the underground cyberpunk city
 
 ## Sessions Chain

@@ -4,7 +4,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Guanik Dontol.md"
 ---
 
 > [!info] At a Glance
-> **Role:** Eldest son of [[_player/Dungeon Master Notes/oversee/npcs/Guanik Smith|Guanik]] and [[_player/Dungeon Master Notes/oversee/npcs/Janja|Janja]]. Brother of [[Huan]] and [[Nila]].
+> **Role:** Eldest son of [[oversee/npcs/Guanik Smith|Guanik]] and [[oversee/npcs/Janja|Janja]]. Brother of [[Huan]] and [[Nila]].
 > **Where:** Unknown
 > **Status:** Alive — whereabouts unknown
 

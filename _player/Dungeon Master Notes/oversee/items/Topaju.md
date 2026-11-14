@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/items/Topaju.md"
 
 > [!info] At a Glance
 > **Type:** Gemheart (Yellow)
-> **Holder:** [[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]] (hidden in the Bahtera Bawah Tanah)
+> **Holder:** [[oversee/npcs/Lei Alejandro|Lei Alejandro]] (hidden in the Bahtera Bawah Tanah)
 > **Rarity:** Legendary
 
 ## What It Does

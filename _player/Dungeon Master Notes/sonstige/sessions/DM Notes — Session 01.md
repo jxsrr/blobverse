@@ -210,12 +210,12 @@ ________________
 
 ## FITUR GENERAL — Kelas
 
-### Periode 1: Algebra ([[_player/Dungeon Master Notes/sonstige/npcs/Prof. Imelda|Prof. Imelda]])
+### Periode 1: Algebra ([[sonstige/npcs/Prof. Imelda|Prof. Imelda]])
 - Prof. Imelda masuk tanpa senyum. Meletakkan penggaris logam panjang di meja.
 - *"Sihir tanpa presisi hanyalah drama dengan konsekuensi. Kalian akan menghitung. Kalian akan membuat kesalahan. Kalian akan menghitung lagi."*
 - **Momen:** Prof. Imelda melihat party. Ia mendekat. *"Menarik. Kesalahanmu menunjukkan cara berpikirmu. Itu berguna."*
 
-### Periode 2: Divination Ethics ([[_player/Dungeon Master Notes/sonstige/npcs/Dr. Ope|Dr. Ope]]) — **KEY SCENE**
+### Periode 2: Divination Ethics ([[sonstige/npcs/Dr. Ope|Dr. Ope]]) — **KEY SCENE**
 - Dr. Ope masuk dengan kacamata ungu dan setumpuk kartu tarot. Duduk di kursi goyang.
 - *"Hari ini, kita tidak akan belajar ramalan. Hari ini, kita akan belajar etika. Siapa yang boleh melihat masa depan? Siapa yang tidak? Dan mengapa?"*
 - **Momen kunci:** Di akhir kelas, Dr. Ope meminta setiap siswa mengambil satu kartu tarot.
@@ -229,11 +229,11 @@ ________________
 - **Kael** mendekati party: *"Kalian sudah ketemu Dr. Ope? Aneh, kan? Tapi dia satu-satunya guru yang tidak pernah berbohong."*
 - **Alden** duduk bersama party. Bercerita tentang tryout Jounce yang akan datang. *"Aku tidak seberapa bagus. Tapi aku ingin mencoba."*
 
-### Periode 3: Literature ([[_player/Dungeon Master Notes/sonstige/npcs/Maestro Lorenzo|Maestro Lorenzo]])
+### Periode 3: Literature ([[sonstige/npcs/Maestro Lorenzo|Maestro Lorenzo]])
 - Maestro Lorenzo masuk dengan jas beludru. Membacakan puisi dramatis.
 - **Momen:** Lorenzo melihat **Brougha** membawa *Lumen Arash*. *"Kau membawa buku itu. Bagus. Kita akan membicarakannya nanti."*
 
-### Periode 4: Physical Education ([[_player/Dungeon Master Notes/sonstige/npcs/Coach Garrick|Coach Garrick]])
+### Periode 4: Physical Education ([[sonstige/npcs/Coach Garrick|Coach Garrick]])
 - Coach Garrick mengajar dasar-dasar Jounce.
 - **Momen kunci:** **Lilia Etheridge II** muncul — kapten **The Bateleur Eagle**. Berdiri di pinggir lapangan. Tidak berbicara.
 - **Brougha melihat Lilia.** Lilia melihat Brougha. Tidak ada percakapan. Hanya tatapan.

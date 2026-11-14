@@ -7,12 +7,12 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Initial Six.md"
 > Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**.
 
 ## The Six
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the Bahtera Bawah Tanah.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atreus Grin|Atreus Grin]]** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Sam Hurls|Sam Hurls]]** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** — Human. Oceanographer. Loved Reins. Father of [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]. **Deceased** — Echo in Kota Juto.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Olaf Guirela|Olaf Guirela]]** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
+- **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the Bahtera Bawah Tanah.
+- **[[oversee/npcs/Atreus Grin|Atreus Grin]]** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
+- **[[oversee/npcs/Sam Hurls|Sam Hurls]]** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
+- **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
+- **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** — Human. Oceanographer. Loved Reins. Father of [[oversee/npcs/Mira Nouveau|Mira]]. **Deceased** — Echo in Kota Juto.
+- **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
 
 ## What We Learned in Sam's Memory
 - They were **betrayed by Lei Alejandro**.

@@ -7,7 +7,7 @@ pfn-source: "Dungeon Master Notes/How to Use This Wiki.md"
 > This is your campaign wiki. It is **safe**. Nothing here will spoil the plot. If you see it here, your character can know it.
 
 ## Where to Start
-1. **Read the latest session recap.** Start with [[_player/Dungeon Master Notes/oversee/sessions/Session 07 — Opressed|Session 07 — Opressed]].
+1. **Read the latest session recap.** Start with [[oversee/sessions/Session 07 — Opressed|Session 07 — Opressed]].
 2. **Check the Active Quests.** See what's still open.
 3. **Look up an NPC.** If you met someone and forgot their name, If you met someone and forgot their name, browse the NPCs folder.
 4. **Check your PC's page.** See what the party knows about you.

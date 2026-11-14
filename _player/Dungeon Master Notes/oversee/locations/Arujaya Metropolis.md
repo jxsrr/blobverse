@@ -16,6 +16,6 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Arujaya Metropolis.md"
 - **Modification Parlor** — Dr. Vektor's cybernetic clinic.
 
 ## What Happened Here
-- Ama got a new arm ([[_player/Dungeon Master Notes/oversee/sessions/Session 06 — Ethical Choices|Session 06]]).
-- Syl saw the Overseer ([[_player/Dungeon Master Notes/oversee/sessions/Session 07 — Opressed|Session 07]]).
+- Ama got a new arm ([[oversee/sessions/Session 06 — Ethical Choices|Session 06]]).
+- Syl saw the Overseer ([[oversee/sessions/Session 07 — Opressed|Session 07]]).
 - The party escaped with Livia as hostage.

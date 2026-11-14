@@ -9,7 +9,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Guanik Huan.md"
 > **Status:** Alive
 
 ## What the Party Knows
-- Son of **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Smith|Guanik]]** and **[[_player/Dungeon Master Notes/oversee/npcs/Janja|Janja]]**. Brother of **[[Nila]]** and **Dontol**.
+- Son of **[[oversee/npcs/Guanik Smith|Guanik]]** and **[[oversee/npcs/Janja|Janja]]**. Brother of **[[Nila]]** and **Dontol**.
 - Asked the party for help recovering his and his sister's **shell collection** — stolen by a "giant crab monster" (actually a kobold).
 - If the party saved the shells: he gave them a **spiral shell** as thanks.
 - **Was on Pulau Dima when Will of Grin attacked.** Survived (per Session 2 recap).

@@ -16,7 +16,7 @@ pfn-source: "Dungeon Master Notes/oversee/items/Safayer.md"
 - Prevents the Overseer from tasting the soul of the world.
 
 ## History
-- Swallowed by **[[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]]** to protect Syl's egg (300 years ago).
+- Swallowed by **[[oversee/npcs/Vythrax|Vythrax]]** to protect Syl's egg (300 years ago).
 - Poisoned Vythrax for centuries. The poison passed into Syl's blood.
 - **Returned by Vythrax** after Syl healed her (Session 05).
 - Now in the party's possession.

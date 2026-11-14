@@ -11,7 +11,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Olaf Guirela.md"
 ## Living Form — The Ranger
 - One of the **Initial Six**. A half-orc. Old, gruff, scarred.
 - Believed in action over gods. Never trusted the divine — only trusted the people beside him.
-- Trained **[[_player/Dungeon Master Notes/oversee/npcs/Gordon|Gordon]] "The Noisy Rhino"** as a young ranger. Gave Gordon the **[[Gustaero]]** bow.
+- Trained **[[oversee/npcs/Gordon|Gordon]] "The Noisy Rhino"** as a young ranger. Gave Gordon the **[[Gustaero]]** bow.
 - Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
 - His final words, recorded in the ritual memory: *"You coward, Lei! You don't have the guts to face death, so you steal our breath!"*
 

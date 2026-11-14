@@ -8,7 +8,7 @@ pfn-source: "Dungeon Master Notes/oversee/sessions/Session 07 — Opressed.md"
 
 ## Part 1: The Recovery Ward
 
-They returned to **[[_player/Dungeon Master Notes/oversee/locations/Arujaya Metropolis|Arujaya Metropolis]]** with **[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** barely alive.
+They returned to **[[oversee/locations/Arujaya Metropolis|Arujaya Metropolis]]** with **[[oversee/pcs/Zure Ama|Ama]]** barely alive.
 
 The **Modification Parlor** took him. **Dr. Vektor** and his machines worked through the night. When the sun rose — or whatever passed for dawn in a city with no sky — Ama was alive, but not yet whole.
 
@@ -22,37 +22,37 @@ Ama stared at his new arm for a long time. Then he stood, flexed it, and said no
 
 While Ama recovered, the party explored.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Adam Findias|Adam Findias]]** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
+**[[oversee/npcs/Adam Findias|Adam Findias]]** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
 
 > *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **[[Besik]]** is not… normal."*
 
 They went to the archive.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Besik Findias|Besik Findias]]** was waiting for them. He was old — older than Arujaya itself — and his body was more machine than flesh. He spoke in a voice that was half-human and half-static.
+**[[oversee/npcs/Besik Findias|Besik Findias]]** was waiting for them. He was old — older than Arujaya itself — and his body was more machine than flesh. He spoke in a voice that was half-human and half-static.
 
-He showed them the **[[_player/Dungeon Master Notes/oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** — not the cyborg they had met at the reactor, but the **body** of it. The original. The relic. It was now used as a **power source** for the city. His consciousness was the battery that lit the streets.
+He showed them the **[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** — not the cyborg they had met at the reactor, but the **body** of it. The original. The relic. It was now used as a **power source** for the city. His consciousness was the battery that lit the streets.
 
 Besik also showed them the Shell video again. The same video. The same horror.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** asked if he could see the Shell itself — the **actual** Shell, not just the video.
+**[[oversee/pcs/Shin Van Hel|HVS]]** asked if he could see the Shell itself — the **actual** Shell, not just the video.
 
 Besik said yes.
 
 ## Part 3: The Shell
 
-They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **[[_player/Dungeon Master Notes/oversee/locations/The First Tree|First Tree]]**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
+They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **[[oversee/locations/The First Tree|First Tree]]**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
 
 A piece of the 20-kilometer skin that had fallen from the sky 1,000 years ago.
 
 It was **hollow**. Empty. Still.
 
-**HVS** drew **[[_player/Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and stabbed it.
+**HVS** drew **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and stabbed it.
 
 Nothing happened.
 
 The blade did not drink. The Shell did not react. It was not dead. It was not alive. It was simply **there**.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** pressed her hand against it. She felt **cold**. Not the cold of ice. The cold of something that had never been warm.
+**[[oversee/pcs/Syl Frost|Syl]]** pressed her hand against it. She felt **cold**. Not the cold of ice. The cold of something that had never been warm.
 
 They left.
 
@@ -60,15 +60,15 @@ They left.
 
 The party needed to leave Arujaya. But the way up was blocked by the Commonwealth. The only other exit was through **The Depths**.
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Fidale|Fidale]]** was waiting at the edge.
+**[[oversee/npcs/Fidale|Fidale]]** was waiting at the edge.
 
 She was an old woman — wrinkled, hunched, half-mad — who lived alone at the border of the Depths. She tried to sell them "anti-smog masks." They were rags soaked in oil. They would not work.
 
-When **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** tested one by dropping it into the Depths, it **melted** on contact with the air.
+When **[[oversee/pcs/Husgus|Husgus]]** tested one by dropping it into the Depths, it **melted** on contact with the air.
 
 > *"No one can go down there,"* Fidale said. *"No one comes back."*
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** went down anyway.
+**[[oversee/pcs/Syl Frost|Syl]]** went down anyway.
 
 She was immune to poison. If anyone could survive the smog, it was her.
 
@@ -124,7 +124,7 @@ Gzirmo — cooperative after being stabbed with **Swaith** — explained more th
 
 > *"Demons fear water. It is the only thing that can cleanse them."*
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** looked at his new arm. The soft, grey, jelly thing that was now half-Imp.
+**[[oversee/pcs/Zure Ama|Ama]]** looked at his new arm. The soft, grey, jelly thing that was now half-Imp.
 
 He **spat on it**.
 
@@ -144,13 +144,13 @@ They left together.
 
 The emergency exit opened. They climbed out of Arujaya, into the sun of **Elis**.
 
-Waiting for them: **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]**.
+Waiting for them: **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]**.
 
 She had been tracking them. She had been waiting. She had not expected them to come out with **Renal awake** and **Ama at full strength**.
 
 They captured her.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** bound her hands. **[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** kept an arrow pointed at her back. **[[Vya Arleschia|Vya]]** watched her with something that was not quite hatred — something colder.
+**[[oversee/pcs/Shin Van Hel|HVS]]** bound her hands. **[[oversee/pcs/Husgus|Husgus]]** kept an arrow pointed at her back. **[[Vya Arleschia|Vya]]** watched her with something that was not quite hatred — something colder.
 
 They walked.
 
@@ -160,7 +160,7 @@ They stopped at the **Rune of the Cycle** — a stone circle in the desert, ward
 
 They rested.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Shin Van Hel|HVS]]** sat apart from the others. He had been quiet since the escape. He was reading something — a fragment of the Cycle Clan research file that had survived the raid. He traced his finger over a line of text.
+**[[oversee/pcs/Shin Van Hel|HVS]]** sat apart from the others. He had been quiet since the escape. He was reading something — a fragment of the Cycle Clan research file that had survived the raid. He traced his finger over a line of text.
 
 > *"HVS."*
 
@@ -170,11 +170,11 @@ He read the words around it. And then he looked up.
 
 No one spoke.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Husgus|Husgus]]** — whose body was beginning to crack, showing golden light beneath the skin — said nothing.
+**[[oversee/pcs/Husgus|Husgus]]** — whose body was beginning to crack, showing golden light beneath the skin — said nothing.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** — whose arm was now half-Imp, half-human — said nothing.
+**[[oversee/pcs/Zure Ama|Ama]]** — whose arm was now half-Imp, half-human — said nothing.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Syl Frost|Syl]]** — whose blood was slowly killing her — said nothing.
+**[[oversee/pcs/Syl Frost|Syl]]** — whose blood was slowly killing her — said nothing.
 
 **[[Vya Arleschia|Vya]]** — whose fire was waking up, whose family had lied to her, whose cousin had been sacrificed — said nothing.
 
@@ -182,9 +182,9 @@ They did not know what it meant yet. But they knew it meant **something**.
 
 ## Part 10: Livia
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** was tied to a rock, away from the fire.
+**[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** was tied to a rock, away from the fire.
 
-**[[_player/Dungeon Master Notes/oversee/pcs/Zure Ama|Ama]]** went to speak with her. He did not hate her — not after everything. He had lost an arm to her, yes. But he had also seen her, in that moment before she struck, and she had looked like someone who was **afraid**.
+**[[oversee/pcs/Zure Ama|Ama]]** went to speak with her. He did not hate her — not after everything. He had lost an arm to her, yes. But he had also seen her, in that moment before she struck, and she had looked like someone who was **afraid**.
 
 She was afraid now.
 
@@ -204,7 +204,7 @@ She paused.
 
 > *"He is waiting for the right moment to take me. To avenge her."*
 
-**[[_player/Dungeon Master Notes/oversee/npcs/Lei Darvin Thorne|Darvin]]** had been listening. He looked at Livia, and then at nothing, and said:
+**[[oversee/npcs/Lei Darvin Thorne|Darvin]]** had been listening. He looked at Livia, and then at nothing, and said:
 
 > *"He is my brother. He is my twin. And he has been hunting me for ten years."*
 
@@ -215,7 +215,7 @@ The party looked at Darvin, and then at Livia, and then at each other.
 They had a hostage. They had a secret. And they had a **twin** who was the key to everything.
 
 ## Loot & Rewards
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — now a hostage and a source of information
+- **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — now a hostage and a source of information
 - The truth about the **twin-killing tradition**
 - **Renal** — fully awake, giving Ama "limitless" strength in short bursts
 - The meaning of **HVS** — Human Vessel Shell
@@ -223,10 +223,10 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 ## NPCs Encountered
 - **[[Adam]]** — the local boy with a mechanical heart
 - **[[Besik]]** — the Mnemonic Archive keeper
-- **[[_player/Dungeon Master Notes/oversee/npcs/Fidale|Fidale]]** — the old woman at the edge of the Depths
+- **[[oversee/npcs/Fidale|Fidale]]** — the old woman at the edge of the Depths
 - **[[Echo Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, now fully cooperative
 - **Dr. Vektor** — the surgeon, now fully open about his grief
-- **[[_player/Dungeon Master Notes/oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — captured, terrified of Valerius, a twin who should have died
+- **[[oversee/npcs/Lei Livia Vane|Lei Livia Vane]]** — captured, terrified of Valerius, a twin who should have died
 
 ## Locations Visited
 - **[[Arujaya]]** — now a memory behind them

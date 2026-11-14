@@ -5,7 +5,7 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Elder Jarl.md"
 
 > [!info] At a Glance
 > **Role:** Leader of the Council of Elders, Klan Frostscale
-> **Where:** Temple of [[_player/Dungeon Master Notes/oversee/npcs/Vythrax|Vythrax]], Frostheart Village
+> **Where:** Temple of [[oversee/npcs/Vythrax|Vythrax]], Frostheart Village
 > **Status:** Alive — but dying
 
 ## What the Party Knows

@@ -10,7 +10,7 @@ pfn-source: "Dungeon Master Notes/oversee/factions/The Yawning Guild.md"
 
 ## What We Know
 - The adventurer's guild. Registers new adventurers and assigns missions.
-- **[[_player/Dungeon Master Notes/oversee/npcs/Grilnax|Grilnax]]** is the clerk. He gave the party their first mission.
+- **[[oversee/npcs/Grilnax|Grilnax]]** is the clerk. He gave the party their first mission.
 - The Guild has branches in most major cities.
 - It issues the **SIP** (Adventurer's Permit).
 - It provides **insurance** (10% of loot to beneficiaries).

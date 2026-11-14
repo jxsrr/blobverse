@@ -8,9 +8,9 @@ pfn-source: "Dungeon Master Notes/oversee/canon/OV2 Age of Knowledge.md"
 
 ## Age of Knowledge
 
-The era after **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|The Rapture]]** was dark, but it was not empty.
+The era after **[[oversee/lore/The Rapture|The Rapture]]** was dark, but it was not empty.
 
-The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **[[_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
+The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
 
 Philosophers, wizards, and scholars of every race began documenting the properties of mana, the patterns of its fluctuation, and its relationship to the great disasters that had erased civilizations before them.
 
@@ -22,7 +22,7 @@ This era became known as the **Age of Knowledge**: the age when wisdom began to 
 
 **~10XX BV**
 
-An ancient astrogeologist named **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was observing the sky from the **[[_player/Dungeon Master Notes/oversee/locations/Tarakita University of Heroism|Tarakita University of Heroism]]** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
+An ancient astrogeologist named **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was observing the sky from the **[[oversee/locations/Tarakita University of Heroism|Tarakita University of Heroism]]** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
 
 Wiseman documented the approach of a semi-circular cosmic object drifting through space at an anomalous speed: **500 kilometers per hour**. Too slow for a meteor. Too fast for a natural object. Something was **braking** it.
 
@@ -40,13 +40,13 @@ It was not a living entity. It was a dead skin. A **shed shell** — the cast-of
 
 ## Guanik Wiseman and the Revelation of the Architect
 
-After that event, **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was never the same.
+After that event, **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was never the same.
 
 Every night, when he closed his eyes, he saw what he had seen through the probe's magical feed. He saw the **eyes** of that shell — empty, yet somehow staring directly into his soul. The nightmare came every night without fail, haunting every second of his sleep with the same image.
 
 But over time, the dream began to change.
 
-The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **Architect** — the creator of Oversee, who now sat as the **[[_player/Dungeon Master Notes/oversee/lore/The Valla|Valla]]** before the **Overseer**.
+The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **Architect** — the creator of Oversee, who now sat as the **[[oversee/lore/The Valla|Valla]]** before the **Overseer**.
 
 It explained that it had held back the cosmic hunger alone for a very long time. But its strength was fading. It could no longer hold on by itself. The shell seen in the sky was its **old skin**, shed when it sacrificed itself to become the first seal.
 
@@ -61,7 +61,7 @@ It also explained that the seal was **not eternal**. The soul of the Architect, 
 
 But the Architect also offered a solution.
 
-There was a way to **replace** it. A ritual that could transfer the burden of the seal from a dying soul to a new soul that was willing to bear it. And the key to that ritual was the **[[_player/Dungeon Master Notes/oversee/lore/The Gemhearts|Gemheart]]** — the organs of the Architect's body, separated when it created the world, now scattered across Oversee.
+There was a way to **replace** it. A ritual that could transfer the burden of the seal from a dying soul to a new soul that was willing to bear it. And the key to that ritual was the **[[oversee/lore/The Gemhearts|Gemheart]]** — the organs of the Architect's body, separated when it created the world, now scattered across Oversee.
 
 If the Gemhearts could be found and used correctly, the Valla could be replaced without causing destruction.
 
@@ -71,11 +71,11 @@ Wiseman woke from his dream with a new and terrible understanding. He was not me
 
 **~1040 BV**
 
-Realizing he could not bear this responsibility alone, **[[_player/Dungeon Master Notes/oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** began designing an organization.
+Realizing he could not bear this responsibility alone, **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** began designing an organization.
 
 It had to be **secret**, because knowledge of the Overseer and the mechanics of the seal could be easily misused by those who were not responsible. It had to be **neutral**, bound to no kingdom or race, because the safety of the whole world had to come before everything. And it had to be **ascetic**, because the temptation to use this knowledge for personal power would always exist.
 
-So the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Clan|Cycle Clan]]** was born.
+So the **[[oversee/lore/The Cycle Clan|Cycle Clan]]** was born.
 
 They were not an evil group in the conventional sense. They were closer to monks or scholars bearing a terrifying cosmic responsibility. Their members were philosophers, historians, and wizards of many races, who had sworn an oath to put the survival of Oversee above everything — including their own personal morality.
 
@@ -93,7 +93,7 @@ It considered them all part of itself. As children born from its sacrifice.
 
 **~104X BV**
 
-Under the guidance of the Architect's dreams, the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Clan|Cycle Clan]]** began the greatest search in their history: the **excavation of the Gemhearts**.
+Under the guidance of the Architect's dreams, the **[[oversee/lore/The Cycle Clan|Cycle Clan]]** began the greatest search in their history: the **excavation of the Gemhearts**.
 
 These artifacts — the crystallized organs of the Architect's body — were scattered across the world. Some were buried deep beneath mountains. Some were hidden at the bottom of the sea. Some had perhaps already been found by earlier civilizations, who never realized what they truly were.
 
@@ -111,7 +111,7 @@ But that is a story for a later age.
 
 **~10XX BV**
 
-With the Gemhearts successfully excavated and understood, the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Clan|Cycle Clan]]** began preparing the most important and most terrible ritual in their history: the **[[_player/Dungeon Master Notes/oversee/lore/The Cycle Ritual|Ritual of Replacement]]**.
+With the Gemhearts successfully excavated and understood, the **[[oversee/lore/The Cycle Clan|Cycle Clan]]** began preparing the most important and most terrible ritual in their history: the **[[oversee/lore/The Cycle Ritual|Ritual of Replacement]]**.
 
 Its purpose was to replace the "battery" of the metaphysical prison — the soul of the Architect, which had held back the Overseer's hunger for ages — with a new soul willing to continue the task.
 
@@ -193,7 +193,7 @@ They were the demon races: **tieflings, imps, and devils** — the native inhabi
 
 The largest of them stepped forward, with curling horns like a crown.
 
-His name was **[[_player/Dungeon Master Notes/oversee/npcs/Zargoth|Zargoth]]**.
+His name was **[[oversee/npcs/Zargoth|Zargoth]]**.
 
 He asked Gavaevodata why she had come, and she answered that she needed power to save her dying kingdom. Zargoth explained that power could be given, but usually at the price of a soul-contract or blood.
 
@@ -211,7 +211,7 @@ Zargoth listened in silence, then laughed. He explained that losing magic was no
 
 From Zargoth, Gavaevodata understood the cosmic truth for the first time:
 - The **Overseer**, the hunger that eats Ambitio-Ether
-- The **[[_player/Dungeon Master Notes/oversee/lore/The Rapture|Silent Rapture]]** that destroys great magical civilizations
+- The **[[oversee/lore/The Rapture|Silent Rapture]]** that destroys great magical civilizations
 - The truth that the demons of the Gap are scavengers, living on leaked crumbs
 - And that the demons have an interest in keeping the "cage" of the outside world intact — because if the Overseer eats everything, they will starve too
 

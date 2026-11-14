@@ -4,14 +4,14 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Atlan Nouveau.md"
 ---
 
 > [!info] At a Glance
-> **Role:** The oceanographer of the Initial Six. Father of **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]**. Husband of **[[_player/Dungeon Master Notes/oversee/npcs/Reins|Reins]]**.
+> **Role:** The oceanographer of the Initial Six. Father of **[[oversee/npcs/Mira Nouveau|Mira]]**. Husband of **[[oversee/npcs/Reins|Reins]]**.
 > **Where:** Kota Juto (as Echo)
 > **Status:** Deceased
 
 ## Living Form — The Oceanographer
 - One of the **Initial Six**. A human man. No magic of his own — but the sharpest mind of the group.
 - Studied the sea, the currents, the stars. Wrote the first reliable maps of Rioquan.
-- Loved **Reins** deeply. She was from another world (Aede). Their daughter is **[[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira]]**.
+- Loved **Reins** deeply. She was from another world (Aede). Their daughter is **[[oversee/npcs/Mira Nouveau|Mira]]**.
 - Made a pact with **Keeper of Secret** to protect Mira and her descendants.
 - Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
 - His final words, recorded in the ritual memory: *"Tell Mira! This wasn't destiny — this was murder!"*

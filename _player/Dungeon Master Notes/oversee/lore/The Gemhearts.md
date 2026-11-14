@@ -9,10 +9,10 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Gemhearts.md"
 ## The Four
 | Stone         | Color  | Function                | Current Holder      |
 | :------------ | :----- | :---------------------- | :------------------ |
-| **Emelanica** | Green  | Time and mana flow      | [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret) |
+| **Emelanica** | Green  | Time and mana flow      | [[oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret) |
 | **Safayer**   | Blue   | Purification of souls   | The Party           |
-| **Rubion**    | Red    | Instant annihilation    | [[_player/Dungeon Master Notes/oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret) |
-| **Topaju**    | Yellow | Structure and stability | [[_player/Dungeon Master Notes/oversee/npcs/Lei Alejandro|Lei Alejandro]]   |
+| **Rubion**    | Red    | Instant annihilation    | [[oversee/npcs/Mira Nouveau|Mira Nouveau]] (Keeper of Secret) |
+| **Topaju**    | Yellow | Structure and stability | [[oversee/npcs/Lei Alejandro|Lei Alejandro]]   |
 
 ## What They Do
 - **Emelanica** — modulates time. Slows the burning of the Valla's soul. Governs absolute mana flow.
