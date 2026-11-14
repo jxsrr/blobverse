@@ -89,7 +89,7 @@ Magic saturated everything. The air was thick with it. Her clothes and armor beg
 
 This time, she saw it.
 
-**[[Perception|Perception]] (Nat 20).**
+**Perception (Nat 20).**
 
 Above her: **black tentacles of smoke**, reaching down from a sky that was not a sky.
 
