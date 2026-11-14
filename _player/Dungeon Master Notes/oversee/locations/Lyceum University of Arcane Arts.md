@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Lyceum University of Arcane Arts.md"
+type: Oversee Location
+parent_location: Padre City (Middle Ring)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Padre City (Middle Ring)
 > **Notable People:** Professor Alistair Donta (deceased), Professor Howdy (deceased)
@@ -20,3 +21,10 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Lyceum University of Arcane 
 - Donta showed them the painting of the Initial Six.
 - Donta committed suicide here.
 - The party was fined 200 gp for trespassing.
+::/pf
+
+%% DM SECRETS %%
+- Donta's private collection contains a **fragment of the Edisi Law** and a **letter from [[oversee/npcs/Mira Nouveau|Mira]]** dated 12 years ago.
+- The letter proves Donta was a Keeper of Secret informant.
+- The Navigation Archive's locked door was pickable (DC 15). Inside: a **hidden staircase** leading down to Donta's collection.
+- Donta's collection also contains a **map of the Bahtera Bawah Tanah** — a copy of the one Kael has. Donta was preparing to go there before he died.

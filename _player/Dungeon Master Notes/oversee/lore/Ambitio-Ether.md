@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/lore/Ambitio-Ether.md"
+type: Oversee Lore
+universe: Oversee
 ---
-
+::pf
 > [!info] The Field That Runs Through Everything
 > The magic itself. Not produced. Not owned. Always there.
 
@@ -43,3 +43,15 @@ pfn-source: "Dungeon Master Notes/oversee/lore/Ambitio-Ether.md"
 - Using magic leaves invisible residue.
 - Renal feeds on residue.
 - The sludge is not residue — and it is toxic.
+::/pf
+
+%% DM SECRETS %%
+- **Ambitio-Ether is the food of the Overseer.** The Valla filters it so the Overseer does not taste the world.
+- **The Overseer hunts strong will.** Creatures of ambition — heroes, tyrants, dreamers — attract its attention. This is why it is drawn to concentrations of power.
+- **The sludge is the Overseer's waste** — digested Ambitio-Ether. It drips into the Gap.
+- **Renal is a Gap-creature** — that is why it can eat what the Overseer discards.
+- **The Valla is a filter, not a god.** It strips memory, ego, identity from the field before the Overseer consumes it.
+- **When the Valla fails, the Echoes happen** — unfiltered pain, trapped.
+- **The Amagis' ripple is a remnant of pre-Lei magic.** Before Simon became the Valla, other bloodlines had sorcerers and wizards. Lei Firsa suppressed them. The potential did not vanish — it went quiet.
+- **The Grin are invisible to the field because of their devil heritage.** Zargoth's blood makes them deaf to Ambitio-Ether — they cannot shape it, and they cannot be tasted by the Overseer. This is their curse and their shield.
+- **Reveal schedule:** Party learns the truth about the Overseer, the Valla, and the sludge in Session 10–11 (Bahtera Bawah Tanah, Edisi Law, or Lei Firsa).

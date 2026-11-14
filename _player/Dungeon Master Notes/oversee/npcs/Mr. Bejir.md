@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Mr. Bejir.md"
+type: Oversee NPC
+role: Innkeeper, Inn Sutisna
+faction: Independent
+home: Ghuffghuff
+status: Alive (missing?)
+first_seen: Session 03
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Innkeeper of Inn Sutisna in Ghuffghuff.
 > **Where:** Ghuffghuff (possibly missing)
@@ -21,3 +26,11 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Mr. Bejir.md"
 
 ## Current State
 - Unknown. The inn was destroyed in Session 3. He may be dead. He may be in the illusion.
+::/pf
+
+%% DM SECRETS %%
+- Pak Bejir was **eaten by Echo Sam** early in the Ghuffghuff incident. He is dead.
+- The party did not know him well enough to notice his absence.
+- His inn is now a ruin. The photo is still there.
+- The photo is a **clue**: "650 CC" refers to the year 650 AV — when the Gruffgud War ended. The "Inter-Village Fried Rice Competition" was the **peace treaty signing ceremony**.
+- If the party investigates the photo, they will find a **hidden message** scratched on the back: *"The war is a lie. The mountain is the truth."*

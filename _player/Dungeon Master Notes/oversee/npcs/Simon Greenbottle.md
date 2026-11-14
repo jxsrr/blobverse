@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Simon Greenbottle.md"
+type: Oversee NPC
+role: The Second Valla, The Halfling Who Became a God
+faction: None (Valla)
+home: Altar of Danau Kuno
+status: Alive (as the Valla)
+first_seen: Not yet met (in history)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** The second Valla. The current living seal. The "Lei the Great" of legend.
 > **Where:** The altar at Danau Kuno (in the Gap)
@@ -29,3 +34,12 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Simon Greenbottle.md"
 ## What He Offers (if met)
 - The **truth of the ritual**.
 - **Mercy.** He wants to be freed. But he is afraid of what will happen if he is.
+::/pf
+
+%% DM SECRETS %%
+- Simon is not a god. He is a **tired halfling** who has been holding the world on his back for 700 years.
+- He knows Lei Firsa personally. He still loves her. It is complicated.
+- He knows Grin Qain. He still hears her last words.
+- If the party meets him, he will look like a small, weeping halfling in a cloak too large for him. His feet are bare. He has been standing for 700 years.
+- He will offer the party a choice: let him be freed (and risk the Overseer) or let him continue (and he will eventually break).
+- The "third path" ending is the only one where he survives.

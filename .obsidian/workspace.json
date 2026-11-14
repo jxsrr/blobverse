@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_player/Dungeon Master Notes/oversee/pcs/Zure Ama.md",
+                "file": "_player/Dungeon Master Notes/oversee/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zure Ama"
+              "title": "README"
+            }
+          },
+          {
+            "id": "af9be90ad229ab98",
+            "type": "leaf",
+            "state": {
+              "type": "mass-editor-view",
+              "state": {},
+              "icon": "replace",
+              "title": "Mass Editor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,43 +231,43 @@
       "mass-editor:Mass Editor: open": false
     }
   },
-  "active": "b196ad527d3304ae",
+  "active": "af9be90ad229ab98",
   "lastOpenFiles": [
-    "Dungeon Master Notes/README.md",
-    "_player/Dungeon Master Notes/README.md",
-    "Untitled.md",
-    "_player/Dungeon Master Notes/How to Use This Wiki.md",
-    "_player/Dungeon Master Notes/Player Dashboard.md",
-    "_player/Dungeon Master Notes/aede/sessions/Session Special — Love in Time.md",
+    "_player/Dungeon Master Notes/sonstige/npcs/Lilia Etheridge II.md",
+    "_player/Dungeon Master Notes/sonstige/handouts/The First Bell Note.md",
+    "_player/Dungeon Master Notes/sonstige/handouts/Pre-Session Zero Guide.md",
+    "_player/Dungeon Master Notes/sonstige/handouts/Oliver Deen’s Last Song.md",
+    "_player/Dungeon Master Notes/sonstige/handouts/FBA Student Handbook.md",
+    "_player/Dungeon Master Notes/oversee/npcs/The Hermit of the Misty Mountains.md.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Professor Rubi.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Mr. Basuki.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Lei Firsa.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Ksatrian.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Kristine.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Kael.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Grin Qain.md",
+    "_player/Dungeon Master Notes/oversee/npcs/General Wang.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Geldfre.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Gavaevodata Grin.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Erard Gelnne.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Erah.md",
+    "_player/Dungeon Master Notes/oversee/npcs/Dr. Vektor.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Triase.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Swan, the Bat, and the Fool.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Shell.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Overseer & The Architect.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Grin Curse.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Gap.md",
+    "_player/Dungeon Master Notes/oversee/lore/The Gap-Touched.md",
+    "_player/Dungeon Master Notes/sonstige/handouts",
+    "_player/Dungeon Master Notes/oversee/handouts",
+    "Dungeon Master ONLY/sonstige/sessions",
+    "publish-mirror.py",
     "_player/Dungeon Master Notes/aede/sessions",
     "_player/Dungeon Master Notes/aede",
-    "_player/Dungeon Master Notes/oversee/canon/OV3 Age of Nurturing.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV4 The First God.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV2 Age of Knowledge.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV1 Beginning of Time.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV5 Initial Six Era.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV0 Before Oversee.md",
-    "_player/Dungeon Master Notes/oversee/canon/OV6 Power Surge.md",
     "_player/Dungeon Master Notes/oversee/canon",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 02 — The Wizard.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 03 — The Bard.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 04 — Territorial.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 05 — Empty Husk.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 06 — Ethical Choices.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 07 — Opressed.md",
-    "_player/Dungeon Master Notes/oversee/sessions/Session 01 — The Sorcerer.md",
     "_player/Dungeon Master Notes/oversee/sessions",
-    "_player/Dungeon Master Notes/oversee/lore/Ambitio-Ether.md",
-    "_player/Dungeon Master Notes/oversee/lore/Inbu.md",
-    "_player/Dungeon Master Notes/oversee/lore/The Bloodlines of Power.md",
-    "_player/Dungeon Master Notes/oversee/lore/Lei Bloodline.md",
-    "_player/Dungeon Master Notes/oversee/lore/The Cycle Ritual.md",
-    "_player/Dungeon Master Notes/oversee/lore/The Echoes.md",
     "_player/Dungeon Master Notes/oversee/lore",
-    "_player/Dungeon Master Notes/oversee/npcs",
-    "_player/Dungeon Master Notes/oversee/items",
-    "_player/Dungeon Master Notes/oversee/factions",
-    "_player/Dungeon Master Notes/oversee/locations",
-    "_player/Dungeon Master Notes/oversee/pcs"
+    "_player/Dungeon Master Notes/oversee/npcs"
   ]
 }

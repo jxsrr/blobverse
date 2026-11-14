@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Professor Alistair Donta.md"
+type: Oversee NPC
+role: Oldest Priest of Oversee, Rector of Lyceum University
+faction: Lyceum University (nominally Commonwealth)
+home: Padre City
+status: deceased (Session 04)
+first_seen: Session 04
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Rector of Lyceum University. Oldest priest of Valla in Oversee.
 > **Where:** Lyceum University of Arcane Arts, Padre City
@@ -21,3 +26,9 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Professor Alistair Donta.md"
 ## Legacy
 - His death was the party's first "we broke something we can't fix."
 - His research on the Initial Six was suppressed by the Commonwealth.
+::/pf
+
+%% DM SECRETS %%
+- Donta was forced to suicide by a Commonwealth agent. The method: a slow-acting compulsion spell that triggered when he spoke Howdy's name.
+- He knew more about the Gemhearts than he admitted. His personal notes are hidden in the Lyceum archives.
+- He had been in contact with [[oversee/npcs/Mira Nouveau|Mira]] secretly for years.

@@ -1,11 +1,12 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Yawning Town.md"
+type: Oversee location
+parent_location: West Harka
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** West Harka
-> **Notable People:** [[oversee/npcs/Grilnax|Grilnax]], [[oversee/npcs/Mr. Poise|Mr. Poise]]
+> **Notable People:** [[oversee/npcs/Grilnax]], [[oversee/npcs/Mr. Poise]]
 
 ## What Matters Here
 - Starting town. Home of **The Yawning Guild**.
@@ -15,3 +16,7 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Yawning Town.md"
 
 ## What Happened Here
 - The Five Sticks formed here ([[oversee/sessions/Session 01 — The Sorcerer|Session 01]]).
+::/pf
+
+%% DM SECRETS %%
+- The Lei statue is genuine. The temple is one of the few uncorrupted Valla sites.

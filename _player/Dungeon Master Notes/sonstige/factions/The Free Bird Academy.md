@@ -1,8 +1,11 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/factions/The Free Bird Academy.md"
+type: Sonstige Faction
+leader: Bellweather (hidden), Headmaster (public)
+attitude_to_party: neutral (friendly as students, hostile if discovered)
+universe: Sonstige
 ---
-
+---
+::pf
 > [!info] At a Glance
 > **Full Name:** The Free Bird Academy (FBA)
 > **Motto:** *"Terbang Tinggi. Tetap Rendah Hati."*
@@ -49,3 +52,4 @@ Sihir hanyalah **salah satu alat** yang dipelajari siswa — bukan satu-satunya.
 | **Loyalty** | Kepada sekolah, kepada Calamara, kepada Bellweather. |
 
 **Nilai ketujuh — yang tidak ditulis:** **Sacrifice**. Ada hal-hal yang harus dikorbankan untuk kebaikan yang lebih besar. FBA tidak mengajarkan ini secara langsung. Tapi siswa yang "terpilih" akan memahaminya — cepat atau lambat.
+::/pf

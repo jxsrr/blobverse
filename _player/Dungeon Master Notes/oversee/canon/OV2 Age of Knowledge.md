@@ -1,16 +1,18 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/canon/OV2 Age of Knowledge.md"
+type: Oversee Lore
+universe: Oversee
+era: Age of Knowledge
+years: 19XX – 10XX BV
 ---
-
+::pf
 > [!info] The Age That Remembered
 > The survivors did not rebuild. They studied. For the first time, mortals tried to understand the fire that had burned them.
 
 ## Age of Knowledge
 
-The era after **[[oversee/lore/The Rapture|The Rapture]]** was dark, but it was not empty.
+The era after **[[oversee/lore/The Rapture]]** was dark, but it was not empty.
 
-The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
+The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **[[oversee/lore/Ambitio-Ether]]** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
 
 Philosophers, wizards, and scholars of every race began documenting the properties of mana, the patterns of its fluctuation, and its relationship to the great disasters that had erased civilizations before them.
 
@@ -22,7 +24,7 @@ This era became known as the **Age of Knowledge**: the age when wisdom began to 
 
 **~10XX BV**
 
-An ancient astrogeologist named **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was observing the sky from the **[[oversee/locations/Tarakita University of Heroism|Tarakita University of Heroism]]** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
+An ancient astrogeologist named **[[oversee/npcs/Guanik Wiseman]]** was observing the sky from the **[[oversee/locations/Tarakita University of Heroism]]** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
 
 Wiseman documented the approach of a semi-circular cosmic object drifting through space at an anomalous speed: **500 kilometers per hour**. Too slow for a meteor. Too fast for a natural object. Something was **braking** it.
 
@@ -40,13 +42,13 @@ It was not a living entity. It was a dead skin. A **shed shell** — the cast-of
 
 ## Guanik Wiseman and the Revelation of the Architect
 
-After that event, **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** was never the same.
+After that event, **[[oversee/npcs/Guanik Wiseman]]** was never the same.
 
 Every night, when he closed his eyes, he saw what he had seen through the probe's magical feed. He saw the **eyes** of that shell — empty, yet somehow staring directly into his soul. The nightmare came every night without fail, haunting every second of his sleep with the same image.
 
 But over time, the dream began to change.
 
-The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **Architect** — the creator of Oversee, who now sat as the **[[oversee/lore/The Valla|Valla]]** before the **Overseer**.
+The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **[[oversee/lore/The Overseer & The Architect|Architect]]** — the creator of Oversee, who now sat as the **[[oversee/lore/The Valla|Valla]]** before the **[[oversee/lore/The Overseer & The Architect|Overseer]]**.
 
 It explained that it had held back the cosmic hunger alone for a very long time. But its strength was fading. It could no longer hold on by itself. The shell seen in the sky was its **old skin**, shed when it sacrificed itself to become the first seal.
 
@@ -54,7 +56,7 @@ And now, it needed help.
 
 The Architect explained the true nature of the universe to Wiseman:
 - The eternal hunger of the **Overseer**
-- The **Gap** that hides Ambitio-Ether from that hunger
+- The **[[oversee/lore/The Gap|Gap]]** that hides Ambitio-Ether from that hunger
 - The mechanism of the seal that has kept Oversee safe
 
 It also explained that the seal was **not eternal**. The soul of the Architect, though extraordinarily strong, would eventually burn out. And when that happened, nothing would hold the Overseer back. Oversee would be devoured in an instant — like the magical civilizations before it, except this time there would be nothing left.
@@ -71,7 +73,7 @@ Wiseman woke from his dream with a new and terrible understanding. He was not me
 
 **~1040 BV**
 
-Realizing he could not bear this responsibility alone, **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** began designing an organization.
+Realizing he could not bear this responsibility alone, **[[oversee/npcs/Guanik Wiseman]]** began designing an organization.
 
 It had to be **secret**, because knowledge of the Overseer and the mechanics of the seal could be easily misused by those who were not responsible. It had to be **neutral**, bound to no kingdom or race, because the safety of the whole world had to come before everything. And it had to be **ascetic**, because the temptation to use this knowledge for personal power would always exist.
 
@@ -103,7 +105,7 @@ The excavation took years, even decades. Each Gemheart was guarded by challenges
 
 But the Cycle Clan worked patiently, silently, without drawing the attention of the great kingdoms that might have wanted the Gemhearts' power for their own purposes.
 
-Unfortunately, a secret this large cannot last forever. In the course of history, knowledge of the Gemhearts would leak, and the ambition of mortals would take over. In a time yet to come, a figure named **Lei Firsa** would seize one of the Gemhearts by force, and use it for a purpose entirely different from the Architect's original intent.
+Unfortunately, a secret this large cannot last forever. In the course of history, knowledge of the Gemhearts would leak, and the ambition of mortals would take over. In a time yet to come, a figure named **[[oversee/npcs/Lei Firsa]]** would seize one of the Gemhearts by force, and use it for a purpose entirely different from the Architect's original intent.
 
 But that is a story for a later age.
 
@@ -147,7 +149,7 @@ They became known as the **Grin Kingdom** — a name that would one day carry a 
 
 ### Gavaevodata
 
-In the early years of the fragile kingdom, a princess was born: **Gavaevodata Grin**.
+In the early years of the fragile kingdom, a princess was born: **[[oversee/npcs/Gavaevodata Grin]]**.
 
 At one hundred and twenty years old — still very young for an Elf — the restlessness of her ancestors was already planted in her soul. The Grin Kingdom, standing on barren land no one wanted, was only a small dot on the world map: poor, marginalized, and constantly an easy target for stronger neighbors rich in magic.
 
@@ -167,7 +169,7 @@ The greatest discovery in the history of the Grin Kingdom happened by accident.
 
 In an ancient underground library — a remnant from before the civil war — Gavaevodata found a manuscript written in a language long dead. It took her years to translate it, and what she found inside changed everything.
 
-The manuscript spoke of **The Gap**: the remnants of creation, the failed digestion of the Overseer that never became the Architect. There, in the cracks of reality, dwelled the inhabitants of the dark — creatures who fed on the crumbs of energy that fell from the Valla. Cosmic scavengers, hungry for an offer.
+The manuscript spoke of **[[oversee/lore/The Gap]]**: the remnants of creation, the failed digestion of the Overseer that never became the Architect. There, in the cracks of reality, dwelled the inhabitants of the dark — creatures who fed on the crumbs of energy that fell from the Valla. Cosmic scavengers, hungry for an offer.
 
 There were no instructions on how to open the door to the Gap, but there was a faint hint written there: **when the walls of the prison thin, when Ambitio-Ether surges somewhere, the crack will open for those who seek it.**
 
@@ -181,7 +183,7 @@ Without telling anyone, she stepped in.
 
 ### The Gap
 
-Inside **The Gap**, Gavaevodata stood on an endless grey expanse. The sky above was not a sky, but a moving darkness — as if something enormous was watching from behind a curtain.
+Inside **[[oversee/lore/The Gap]]**, Gavaevodata stood on an endless grey expanse. The sky above was not a sky, but a moving darkness — as if something enormous was watching from behind a curtain.
 
 In the distance, strange structures: towers of bone and alien metal, rivers of slow black liquid, and small glittering particles like diamond dust — crumbs of Ambitio-Ether that leaked from the Valla and fell into this place.
 
@@ -193,7 +195,7 @@ They were the demon races: **tieflings, imps, and devils** — the native inhabi
 
 The largest of them stepped forward, with curling horns like a crown.
 
-His name was **[[oversee/npcs/Zargoth|Zargoth]]**.
+His name was **[[oversee/npcs/Zargoth]]**.
 
 He asked Gavaevodata why she had come, and she answered that she needed power to save her dying kingdom. Zargoth explained that power could be given, but usually at the price of a soul-contract or blood.
 
@@ -271,7 +273,7 @@ Twenty-five years after Gavaevodata stepped into the Gap, the Grin Kingdom stood
 
 It was in those final hours that Gavaevodata and Zargoth made an offer that changed everything.
 
-**The Gap** was not only the home of the demons. In its deeper reaches, where the crumbs of Ambitio-Ether fell more rarely, there were creatures far more hungry — demons more feral than Zargoth and his followers. Hunters who would do anything for a drop of energy.
+**[[oversee/lore/The Gap]]** was not only the home of the demons. In its deeper reaches, where the crumbs of Ambitio-Ether fell more rarely, there were creatures far more hungry — demons more feral than Zargoth and his followers. Hunters who would do anything for a drop of energy.
 
 Gavaevodata explained that if the door of the Gap were opened wider, those creatures would come out, attack the coalition army, and destroy their enemies.
 
@@ -328,3 +330,135 @@ But that is precisely where their survival lies. In a world constantly haunted b
 They are the true survivors — the ones who can endure in a world where the magical are wiped out.
 
 And in times of crisis, when other kingdoms begin to forget their fear and think again of attack, **the door of the Gap will open slightly** — enough to remind them that behind the eternal smile of the Grin family, there is a darkness ready to be called.
+::/pf
+
+%% DM SECRETS %%
+
+## The Truth Beyond the Player-Facing Text
+
+The player-facing text above is **the Cycle Clan's archive entry** for the Age of Knowledge, supplemented by **Grin oral history** for the sections on the Grin Kingdom. It is broadly accurate. But it omits — or softens — several key truths.
+
+### What the Players Do Not Know Yet
+
+- **The Shell did not fall by accident.** The Architect **guided** the comet's descent. It was not drifting. It was being **steered** — deliberately slowed, deliberately placed in a decaying orbit, deliberately positioned where a mortal astronomer would find it. The Architect *wanted* to be discovered. It chose Wiseman before Wiseman ever saw it.
+
+- **Wiseman's dreams were not dreams.** They were direct consciousness transfer. The Architect spoke to him for decades. Wiseman was not chosen for his wisdom. He was chosen because he was **the only mortal at the time with the right combination of sensitivity, humility, and desperation.** Anyone else would have used the knowledge for power.
+
+- **The Cycle Clan was founded on a deliberate lie.** The public teaching of the Cycle Clan (the version initiates learn) says the Rapture was **punishment for hubris** — that civilizations were destroyed because they grew too proud, too ambitious, too magical. That is a cover story. The Rapture is not punishment. It is **feeding**. The lie was invented because the truth — that the world is a farm, and mortals are the crop — was considered too dangerous for ordinary people to know. It is still the version taught in most Cycle Clan records.
+
+- **The first Ritual of Replacement was not performed in 10XX BV.** It was performed roughly **one generation after the Gemhearts were excavated**, but the exact date is unclear — the Cycle Clan's early records were deliberately vague. What is clear: the first replacement was performed on a **volunteer who did not fully understand what they were agreeing to.** The Cycle Clan of that era believed the Architect's instruction was sufficient. It was not. The first replacement caused the first **Echo** — a soul that was not fully burned because the ritual was imperfect. That Echo was later covered up. (See `The Valla's History.md` for the full account of Echo.)
+
+- **The Cycle Clan executed the Grin Kingdom's founders as heretics — and then rewrote the record.** When Gavaevodata stepped into the Gap, the Cycle Clan learned of it. They sent agents to investigate. What they found terrified them: an Elf princess who had **spoken directly with a demon**, made a pact, and brought demonic forces into the mortal world. The Cycle Clan **condemned her** — but the war was already lost for the coalition, and Gavaevodata had become a figure of legend. The Cycle Clan of the next generation quietly **rewrote the condemnation into a neutral entry** and let the legend stand. The current version of the story (the one above) is the softened version.
+
+- **The Grin Kingdom was not saved by the Gap opening.** It was **saved by accident.** The demons that poured out of the Gap were not an army under Zargoth's command. They were the **hungriest of the Gap's inhabitants** — creatures Zargoth could not fully control. They destroyed the coalition army, yes. But they also **devoured half the Grin Kingdom's own population** before returning to the Gap. Gavaevodata did not tell her father this. She could not.
+
+- **The Grin Kingdom's survival is not a triumph.** It is a **delayed disaster.** The Gap crack that opened that night did not fully close. It is still open. The Grin know this. Every generation, the crack widens slightly. The Grin Kingdom's "survival" is a countdown — not a victory.
+
+- **The Silent Rapture is a new term — and it means something different from The Rapture.** The cycle of Devourer Comets (see `The Rapture.md`) is the **visible** feeding event. The **Silent Rapture** is the **quiet** version — the slow, invisible drain of Ambitio-Ether from a civilization that never notices it is being eaten. The Grin are the only race that is **immune to both** — which is why they are the "true survivors."
+
+- **The "high magic society" that fell to the Rapture was not destroyed by its own hubris.** It was **destroyed by Klan Lei agents.** The first Klan Lei elders — the ancestors of Lei Firsa — **engineered** the first Rapture. They deliberately pushed their rival bloodlines into producing too much Ambitio-Ether, waited for the Devourer Comet, and then **survived the Rapture by hiding in the Grin Kingdom** (which they knew was immune). The Lei have been hiding this fact for thousands of years. It is the darkest secret of Klan Lei.
+
+### Contradictions to Reconcile (Important)
+
+This document has **three internal contradictions** with your existing vault. You need to resolve them before publishing.
+
+**Contradiction 1: How many Vallas have there been?**
+
+- `The Valla's History.md` (current player-facing) says: *"Between the Architect and Simon, there were no other Vallas. The Architect held the seal for the entire First Age. Simon is the second. He is the only one."*
+- `The Valla.md` (current player-facing) says: *"The Cycle Clan performs a ritual to replace the Valla every few centuries."*
+- This document (Age of Knowledge) says: *"For thousands of years, the ritual continued quietly and in secret. One by one, volunteers gave their souls to become cosmic guardians."* — implying **many** Vallas.
+- `The Valla's History.md` DM secrets say: *"Simon is not the second Valla. He is the third. The second was a failed experiment... The failed Valla's name is Echo."* — implying **three** total Vallas, not dozens.
+
+**Resolution options:**
+
+| Option | What it means | How to update |
+| :--- | :--- | :--- |
+| **A** | Only three Vallas: Architect, Echo (failed), Simon. "Thousands of years of ritual" is **Cycle Clan propaganda** to make the role sound routine. | Update `The Valla's History.md` player-facing to say "only two others before Simon." Update this document's player-facing to say "a handful of times, not hundreds." |
+| **B** | Many Vallas. The "Echo" experiment was the most **recent failed one**, not the only one. | Update `The Valla's History.md` DM secrets to say Echo was the last of many. Update `The Valla.md` to add "The names of the previous Vallas are lost." |
+| **C** | Something else | You decide. |
+
+**Contradiction 2: When did the Grin get their smile?**
+
+- `The Grin Curse.md` says: *"Gavaevodata was an elf princess. Zargoth was a demon from the Gap. They fell in love. They married. Their children inherited the smile. The smile is the mark of the Gap."*
+- This document says: *"The Grin survivors were already naturally deaf to Ambitio-Ether"* before Gavaevodata was born. Their deafness was from the civil war, not from Zargoth.
+- So which is it? Did the Grin get their deafness from Zargoth's pact, or was it already there before Gavaevodata?
+
+**Resolution options:**
+
+| Option | What it means | How to update |
+| :--- | :--- | :--- |
+| **A** | The deafness was **already there** (from the civil war), and Zargoth's contribution was only the **smile** and the demonic blood. | Update `The Grin Curse.md` to say: "The deafness came from the civil war. The smile and the demonic blood came from Zargoth." |
+| **B** | The deafness was **always there** (Grin were always deaf), and Zargoth's pact **strengthened** it, making them **invisible** to the Overseer. | Update `The Grin Curse.md` to say: "The Grin were always magic-deaf. Zargoth's pact made them invisible to the Overseer — a different thing." |
+| **C** | Both are true. The original deafness came from the civil war (natural selection). Zargoth's pact made their children **permanently** deaf, as a protective blessing. | Keep both files, but add a reconciliation note in `The Grin Curse.md`. |
+
+**Contradiction 3: What did Gavaevodata give Zargoth?**
+
+- `The Grin Curse.md` says: *"Gavaevodata did not just marry Zargoth. She made a pact with him: her descendants would be protected from the Overseer, in exchange for being magic-deaf. This is the origin of the Grin curse."* — implying a **pact**, a **transaction**.
+- This document says: *"Gavaevodata returned to the Grin Kingdom carrying an engagement... From the union of Gavaevodata and Zargoth came the first descendants."* — implying **love**, not pact.
+
+**Resolution options:**
+
+| Option | What it means | How to update |
+| :--- | :--- | :--- |
+| **A** | It was love, not a pact. The "pact" language in `The Grin Curse.md` is **Cycle Clan propaganda** — they could not accept that an Elf princess loved a demon, so they framed it as a transaction. | Update `The Grin Curse.md` DM secrets to say: "The pact language is the Cycle Clan's rewrite. It was love." |
+| **B** | It was both. Gavaevodata loved Zargoth **and** made a pact with him — the pact being the formal, magical sealing of a choice made from love. | Update both files to include "the pact was made from love, not from desperation." |
+| **C** | Something else | You decide. |
+
+### New Named NPCs Discovered
+
+This document introduces **one new named NPC** who should get a file:
+
+- **`Ozymandias Grin.md`** — King of the Grin Kingdom, father of Gavaevodata, grandfather of the first Grin. Died before the Grin Kingdom became the "Kingdom of War and Smiles." **Tier 3 DM-only file.**
+
+### New Terminology to Track
+
+- **The Silent Rapture** — a new term for the invisible, slow version of the Rapture. Needs a separate short entry or a section in `The Rapture.md`.
+- **High Magic Society** — the term for pre-Rapture advanced civilizations. Mentioned in `The Rapture.md` and `The Inbu.md`. No separate file needed.
+- **The Giant Humanoid** — the cult name for the Shell before its true nature was discovered. Mentioned in `The Shell.md`. No separate file needed.
+
+### When the Party Learns the Truth
+
+- **Session 6** — The Shell video. The party learns the Shell is hollow.
+- **Session 8–10** — The **Bahtera Bawah Tanah**. The original **Edisi Law** and the Cycle Clan's true records reveal the Lei's role in the first Rapture.
+- **Session 11** — **Lei Firsa** reveals the truth about the Vallas and the Grin.
+- **Endgame** — The party must decide what to do with this knowledge.
+
+### What This Document Is
+
+This is the **Cycle Clan's archive entry** — the version they would allow an initiate to read, supplemented by **Grin oral history** for the Grin Kingdom sections. It is accurate in its broad strokes. It softens the Grin's tragedy and omits the Klan Lei's role in the first Rapture.
+
+The truth is in the DM secrets.
+
+The party will have to decide how much of the Cycle Clan's version to trust.
+
+## Connections to Other Lore
+
+- **`Before Oversee.md`** — the primordial era
+- **`Beginning of Time.md`** — the first age, the Inbu, the Rapture
+- **`The Overseer & The Architect.md`** — the two entities
+- **`The Shell.md`** — the Architect's shed skin (called "The Giant Humanoid" before its truth was known)
+- **`Guanik Wiseman.md`** — the founder of the Cycle Clan
+- **`The Cycle Clan.md`** — the organization
+- **`The Gemhearts.md`** — the organs of the Architect
+- **`The Cycle Ritual.md`** — the ritual of replacement
+- **`The Valla.md`** — the living seal
+- **`Gavaevodata Grin.md`** — the founder of the Grin bloodline
+- **`Zargoth.md`** — the demon father
+- **`The Grin Curse.md`** — the eternal smile
+- **`The Gap.md`** — the barrier between the world and the Overseer
+- **`Ambitio-Ether.md`** — the energy of magic
+- **`The Rapture.md`** — the feeding mechanism
+- **`Lei Firsa.md`** — the woman who would seize a Gemheart
+- **`The Edisi Law.md`** — the contract that binds the world
+- **`The Bahtera Bawah Tanah.md`** — the Underground Ark
+- **`Ozymandias Grin.md`** — NEW, needs creation
+
+## Timeline Note
+
+The Age of Knowledge spans roughly **9,000 years** — from the last recorded Rapture to the founding of the Grin Kingdom. The exact dates are approximate; the Cycle Clan kept imperfect records. The era ends when the **[[oversee/npcs/Lei Firsa]]** of that generation begins her rise — which is where the **Age of Nurturing** begins.
+
+**Suggested edits to existing files:**
+- `The Valla's History.md` — reconcile the Valla count (Option A or B above)
+- `The Grin Curse.md` — reconcile the deafness origin (Option A or B above) and the pact-vs-love question
+- `The Rapture.md` — add a short section on "The Silent Rapture" as a distinct event
+- `The Gap.md` — add a note about the crack that never fully closed

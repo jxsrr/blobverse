@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Elara.md"
+type: Oversee NPC
+role: Innkeeper, Karang Tidur
+faction: Independent (suspicious)
+home: Kota Juto
+status: alive
+first_seen: Session 02
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Innkeeper at Karang Tidur
 > **Where:** Kota Juto, Distrik Pasang
@@ -17,3 +22,9 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Elara.md"
 
 ## Current Goal
 Run her inn. Stay out of trouble. (Or so she says.)
+::/pf
+
+%% DM SECRETS %%
+- Elara knows the location of **Atlantis's base** beneath the Observatorium.
+- She was the one who moved the gems to test the party.
+- She is connected to Keeper of Secret.

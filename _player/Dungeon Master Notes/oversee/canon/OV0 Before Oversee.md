@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/canon/OV0 Before Oversee.md"
+type: Oversee Lore
+universe: Oversee
+era: Primordial
 ---
-
+::pf
 > [!info] Before the World
 > What came before the first stone, the first breath, the first name. The oldest story — and the one most often forgotten.
 
@@ -20,11 +21,11 @@ They were not gods. They were not creators. They were not even, strictly speakin
 
 ## The Overseer
 
-The **Overseer** is not a god. It does not create. It does not nurture. It does not protect.
+The **[[oversee/lore/The Overseer & The Architect|Overseer]]** is not a god. It does not create. It does not nurture. It does not protect.
 
 It **eats**.
 
-It is a **cosmic hunger** — a singularity of appetite, drifting in the void that preceded existence. It consumes **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** — the magic of the universe, the residue of will and ambition and life. It is always hungry. It has never been satisfied. It never will be.
+It is a **cosmic hunger** — a singularity of appetite, drifting in the void that preceded existence. It consumes **[[oversee/lore/Ambitio-Ether]]** — the magic of the universe, the residue of will and ambition and life. It is always hungry. It has never been satisfied. It never will be.
 
 When the Overseer turns its attention to a civilization, that civilization **ends**. Not through war. Not through plague. Through a slow, silent dissolution — a **[[oversee/lore/The Rapture|Rapture]]** in which every creature with magic is drawn into the sky and unmade.
 
@@ -32,7 +33,7 @@ The Overseer does not hate. It does not judge. It simply **eats**.
 
 ## The Architect
 
-The **Architect** was born from what the Overseer left behind.
+The **[[oversee/lore/The Overseer & The Architect|Architect]]** was born from what the Overseer left behind.
 
 When the Overseer consumes, it does not consume perfectly. Fragments remain — matter that was partially digested, energy that was never fully absorbed. These fragments, drifting in the void for eons, **crystallized**. They became aware.
 
@@ -54,13 +55,13 @@ Its attention is **annihilation**.
 
 ### The Second Layer — The Gap
 
-Below the Overseer, but still far beyond the mortal world, lies **The Gap** — a dimension of failed creation. It is made of the **leftover matter** of the Overseer's digestion — fragments that were partially consumed but never fully became the Architect.
+Below the Overseer, but still far beyond the mortal world, lies **[[oversee/lore/The Gap]]** — a dimension of failed creation. It is made of the **leftover matter** of the Overseer's digestion — fragments that were partially consumed but never fully became the Architect.
 
 The Gap is **chaos**. It is neither fully real nor fully unreal. It is the space between what was eaten and what was made.
 
-Within the Gap live the **devils and demons** — the red-skinned races, the tieflings, the imps. They are not evil in the way mortals understand evil. They are **scavengers**. They eat the crumbs of [[oversee/lore/Ambitio-Ether|Ambitio-Ether]] that leak from Oversee. They need Oversee to survive. If the Overseer ever consumes everything, the demons will starve too.
+Within the Gap live the **devils and demons** — the red-skinned races, the tieflings, the imps. They are not evil in the way mortals understand evil. They are **scavengers**. They eat the crumbs of [[oversee/lore/Ambitio-Ether]] that leak from Oversee. They need Oversee to survive. If the Overseer ever consumes everything, the demons will starve too.
 
-One of them — **[[oversee/npcs/Zargoth|Zargoth]]** — is more than a scavenger. He fell in love with an elf princess. He fathered the **Grin bloodline**. He is the reason the Grin exist — the reason they smile, the reason they are magic-deaf, the reason they can survive the Rapture.
+One of them — **[[oversee/npcs/Zargoth]]** — is more than a scavenger. He fell in love with an elf princess. He fathered the **[[oversee/lore/The Grin Curse|Grin bloodline]]**. He is the reason the Grin exist — the reason they smile, the reason they are magic-deaf, the reason they can survive the Rapture.
 
 ### The Third Layer — The Blue Sky
 
@@ -68,7 +69,7 @@ Above the mortal world stretches the **Blue Sky** — the canopy that separates 
 
 Sometimes, through the veil, the truth leaks through. A comet that is not a comet. A star that is not a star. A shadow that moves against the wind.
 
-In 1040 BV, the veil tore — and something fell through. Something **hollow**. Something that was not alive.
+In 1040 BV, the veil tore — and something fell through. Something **[[oversee/lore/The Shell|hollow]]**. Something that was not alive.
 
 ### The Fourth Layer — Oversee
 
@@ -103,3 +104,55 @@ And the mortals of Oversee — the Inbu, the Lei, the Grin, the farmers, the wiz
 They are the **reason** the shield holds.
 
 They are the **reason** the Overseer has not yet consumed everything.
+::/pf
+
+%% DM SECRETS %%
+
+## The Truth Beyond the Player-Facing Text
+
+The player-facing text above is **the cosmology as the Cycle Clan presents it** — a scholarly interpretation of ancient texts and dreams. It is mostly accurate, but it omits the darkest parts.
+
+### What the Players Do Not Know Yet
+
+- **The Overseer is real.** It is not a myth. It is not a metaphor. It is an entity that exists beyond all dimensions, and it is hungry.
+- **The Architect is not dead.** It became the **first Valla** — a living seal stretched across the threshold between Oversee and the Overseer. It is still there. It is still holding. It is **failing**.
+- **The Valla is a filter.** Every Valla since the Architect has been a mortal soul, stretched and burned, filtering **[[oversee/lore/Ambitio-Ether]]** so the Overseer does not taste the world. The current Valla is **[[oversee/npcs/Simon Greenbottle]]** — a halfling shepherd who was manipulated into the role 700 years ago.
+- **The Gap is not just a place.** It is a **wound** in reality. It was made to hide Oversee from the Overseer, but it is thinning. When it fails, the Overseer will see everything.
+- **The devils are not evil.** They are scavengers. They are the neighbors of the world, not its enemies. **[[oversee/npcs/Zargoth]]** — the father of the Grin — is the proof that they can love, sacrifice, and protect.
+- **The sky is a veil.** It is the first layer of the seal. It is the reason the Rapture does not happen every day.
+- **The Shell in the sky is not the Overseer.** It is the **Architect's shed skin** — the body it wore before it became the Valla. The Shell is hollow. The Overseer is what the Shell was before the Architect wore it.
+- **The Cycle Clan was founded to protect this truth.** And it has been failing for 700 years.
+
+### When the Party Learns the Truth
+
+The full truth will be revealed in stages:
+
+1. **Session 6** — The Shell video. The party learns the Shell is hollow.
+2. **Session 7** — Syl sees the Overseer but does not remember.
+3. **Session 8–10** — The party travels to the **[[oversee/locations/The Underground Ark]]** and reads the **[[oversee/lore/The Edisi Law|Edisi Law]]**. The full cosmology becomes known.
+4. **Session 11** — The party faces **[[oversee/npcs/Lei Firsa]]** and the truth about the Valla.
+5. **Endgame** — The party chooses: sacrifice, break the cycle, or become the new Valla.
+
+### What This Document Is
+
+This document is **the version the party could find in a library**. It is the version the **[[oversee/lore/The Cycle Clan|Cycle Clan]]** would teach. It is the version the **[[oversee/factions/Keeper of Secret]]** would guard.
+
+The truth is in the DM secrets. The myth is in the player-facing page.
+
+The party will have to decide which to believe.
+
+## Connections to Other Lore
+
+- **[[oversee/lore/The Overseer & The Architect]]** — the previous version of this document. Similar ground, less detail. Can be replaced by this one or kept as a shorter overview.
+- **[[oversee/lore/The Gap]]** — the second layer of existence.
+- **[[oversee/lore/Ambitio-Ether]]** — the energy the Overseer consumes.
+- **[[oversee/lore/The Valla]]** — the living seal.
+- **[[oversee/lore/The Shell]]** — the Architect's shed skin.
+- **[[oversee/lore/The Rapture]]** — the Overseer's feeding mechanism.
+- **[[oversee/lore/Inbu]]** — the first race, descendants of the Architect's creation.
+- **[[oversee/npcs/Zargoth]]** — the demon who fathered the Grin.
+- **[[oversee/lore/The Grin Curse]]** — the mark of Zargoth's bloodline.
+- **[[oversee/lore/The Cycle Clan]]** — the organization that guards this truth.
+- **[[oversee/npcs/Simon Greenbottle]]** — the current Valla.
+- **[[oversee/npcs/Lei Firsa]]** — the woman who made Simon the Valla.
+- **[[oversee/lore/The Endgame Paths]]** — the four choices the party will face.

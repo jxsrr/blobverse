@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/pcs/Mya Cortenya.md"
+type: Sonstige PC
+class: Druid
+player: Ghania
+universe: Sonstige
 ---
-
+::pf
 > [!info] The Party
 > **Class:** Druid
 > **Role:** Alchemist, poisoner, the antisocial mushroom girl
@@ -91,3 +93,61 @@ pfn-source: "Dungeon Master Notes/sonstige/pcs/Mya Cortenya.md"
 
 ## Current Goal
 Rebel against family. Continue drug dealing at FBA. Study mushrooms. (And maybe make one friend — but don't tell anyone.)
+::/pf
+
+%% DM SECRETS %%
+
+### Who Mya Is
+- Anak kedua keluarga **Cortenya** — keluarga Wood Elf yang dihormati dan kaya. Ahli jamur. Pemilik bisnis sutra luxury.
+- Mya **tidak cocok** dengan keluarganya. Ia tidak suka bisnis. Ia tidak suka eksploitasi alam. Ia tidak suka menjadi "anak yang berantakan, aneh, dan ansos" yang selalu dibandingkan dengan kakaknya.
+- **Mencintai jamur** — bukan karena keluarganya menjualnya, tapi karena jamur itu **jujur**. Jamur tidak menghakimi. Jamur tidak membandingkan. Jamur hanya tumbuh — dan membusuk — dan tumbuh lagi.
+- Menjadi **bandar narkoba** sebagai bentuk **pemberontakan**. Bukan untuk uang. Untuk **kebebasan**. Untuk **kontrol**. Untuk **middle finger** pada keluarganya yang mengendalikan segalanya.
+- **Lebih pintar dari yang ia akui.** Ahli dalam toksikologi dan farmakologi. Bisa meracik racun, obat, dan halusinogen dari jamur. Bisa membunuh seseorang tanpa meninggalkan jejak. Belum pernah melakukannya. Tapi bisa.
+
+### The RAIB Question — Player Input
+- Player menjawab **"Yes"** — Mya pernah mengingat sesuatu yang tidak pernah terjadi, dan ingatan itu terasa lebih nyata daripada ingatannya sendiri.
+- **Isi ingatan itu BELUM ditentukan.** Ini adalah hook DM-player. Kemungkinan arah:
+  - Apakah Mya ingat **kakaknya yang berbeda** — kakak yang jahat, kakak yang membencinya, kakak yang mencoba menyakitinya?
+  - Apakah Mya ingat **kehidupan yang seharusnya** — kehidupan di mana ia adalah golden child, bukan kakaknya?
+  - Apakah Mya ingat **keluarga yang berbeda** — keluarga yang tidak mengeksploitasi alam, keluarga yang menerimanya?
+- **DM harus berdiskusi dengan Ghania** untuk menentukan isi ingatan itu.
+
+### Mya and Her Sister
+- Kakaknya adalah **golden child** — sempurna, ideal, pewaris utama. Kakaknya **baik** ke Mya — tidak mengerti tapi suportif. Tapi tidak bisa melindungi Mya dari keluarga.
+- **Kakaknya adalah kunci emosional Mya.** Segala sesuatu yang Mya lakukan — pemberontakan, bandar narkoba, isolasi — adalah respons terhadap bayangan kakaknya.
+- **DM must create `Kakak Mya.md`.** Kemungkinan peran:
+  - **Option A:** Kakak adalah korban RAIB — Mya ingat versi kakak yang sudah dihapus.
+  - **Option B:** Kakak adalah beneficiary RAIB — ia mengambil kehidupan orang lain.
+  - **Option C:** Kakak adalah orang biasa — Mya hanya belum move on.
+  - **Recommended:** Option A atau B — agar RAIB "Yes" dari Mya punya payoff.
+
+### Mya and Her Family Business
+- Keluarga Cortenya **mengeksploitasi alam** untuk bisnis mereka — menjual kain sutra diwarnai pigmen jamur ke berbagai spesies, termasuk manusia.
+- Mya **tidak setuju** dengan ini. Ia lebih tertarik mempelajari jamur, siklus alam, dekomposisi, dan bereksperimen dengan zat-zat dari alam.
+- **Ini adalah konflik internal keluarga Cortenya.** Mya adalah **oposisi** — dan ia mungkin akan menghadapi keluarganya di Season 3.
+
+### Mya and the Drug Trade
+- Mya adalah **bandar narkoba FBA**. Ini adalah **rahasia campaign yang serius**.
+- **DM must decide:**
+  - Apakah ada **guru** yang tahu? (Dr. Fenwick mungkin tahu — ia ahli kimia.)
+  - Apakah ada **siswa** yang tahu? (Mungkin ada pelanggan setia.)
+  - Apakah **Bellweather** tahu? (Jika iya, Mya mungkin berada dalam bahaya.)
+  - Apakah ini akan menjadi **plot point** di Season 1? (Rekomendasi: ya — ini adalah konflik yang menarik.)
+
+### Mya's Role in the Campaign
+- **Racun** party. Meracik potion, racun, obat-obatan. Menyelamatkan teman dengan ramuan, membunuh musuh dengan racun.
+- **Hati** party — dalam cara yang aneh. Mengingatkan bahwa alam itu jujur. Mengingatkan bahwa ada keindahan dalam pembusukan.
+- **Wildcard** — sulit diprediksi. Bisa menyendiri selama berjam-jam. Bisa muncul dengan solusi yang tidak terduga.
+
+### Mya's Fate
+- Jika Mya menemukan **RAIB residue pada kakaknya**, ia akan menghadapi pilihan: **selamatkan** kakaknya, atau **biarkan** ia menjadi monster.
+- Jika Mya menjadi RAIB, ia akan dihapus dari ingatan semua orang. Tapi party akan mengingatnya — karena mereka punya **rahasia tentangnya**. Rahasia itu mungkin adalah **jurnal jamurnya** — atau **lokasi laboratorium rahasianya**.
+
+### Connections
+- `Kakak Mya.md` — kakaknya (needs file)
+- `Cortenya Family.md` — keluarganya (needs file)
+- `Wood Elf Forest.md` — hutan tempat tinggalnya (needs file)
+- `R.A.I.B.md` — fenomena
+- `Dr. Fenwick.md` — guru Practical Sciences (mungkin tahu tentang keahliannya)
+- `The Free Bird Academy.md` — sekolah
+- `The Bell.md` — mitos yang ia anggap rumor

@@ -1,19 +1,26 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/The Spire of Whispering Ice.md"
+type: Oversee Location
+parent_location: Frosthaven Peak
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Frosthaven Peak
-> **Notable People:** [[oversee/npcs/Vythrax|Vythrax]]
+> **Notable People:** [[oversee/npcs/Vythrax]]
 
 ## What Matters Here
 - A colossal ice stalagmite. Taller than the clouds.
 - Surrounded by a perpetual storm. No one can climb it without protection.
-- **[[oversee/npcs/Vythrax|Vythrax]]'s lair.** The silver dragon lives at the top.
+- **[[oversee/npcs/Vythrax]]'s lair.** The silver dragon lives at the top.
 - The air inside the spire is so cold it deals cold damage every round.
-- Dozens of **ice statues** line the entrance — not adventurers frozen in place, but monsters and ancient dragonborn. [[oversee/npcs/Vythrax|Vythrax]] froze them.
+- Dozens of **ice statues** line the entrance — not adventurers frozen in place, but monsters and ancient dragonborn. [[oversee/npcs/Vythrax]] froze them.
 - Deep inside: **Frostfang** is buried in ice. Waiting.
 
 ## Current State
-- Open. [[oversee/npcs/Vythrax|Vythrax]] is alive. The storm has weakened slightly.
+- Open. [[oversee/npcs/Vythrax]] is alive. The storm has weakened slightly.
+::/pf
+
+%% DM SECRETS %%
+- The ice statues are alive. They are not dead. If [[oversee/npcs/Vythrax]] dies, they thaw.
+- Frostfang is not just in the ice — it is **part** of the ice. Taking it will cause a minor collapse.
+- The Spire is the tallest point in Pirizia. From the top, you can see the Shell in the sky.

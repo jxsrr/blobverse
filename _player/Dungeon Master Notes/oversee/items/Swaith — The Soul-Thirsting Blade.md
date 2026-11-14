@@ -1,11 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Blade.md"
+type: Oversee item
+rarity: legendary
+current_holder: Shin Van Hel
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Type:** Dagger
-> **Holder:** [[oversee/pcs/Shin Van Hel|Shin Van Hel]]
+> **Holder:** [[oversee/pcs/Shin Van Hel]]
 > **Rarity:** Legendary (cursed)
 > **Part of:** The Six Blades
 
@@ -33,3 +35,24 @@ pfn-source: "Dungeon Master Notes/oversee/items/Swaith — The Soul-Thirsting Bl
 - Swaith can release trapped Echoes. This was proven in Session 03.
 - It is the only weapon that can interact with the Echoes.
 - It whispers to Shin. It binds him.
+::/pf
+
+%% DM SECRETS %%
+- Swaith is not just a blade. It is a **fragment of Safayer** that was forged into a dagger by the Architect. It can absorb souls. It can release souls. It is a small, sharp piece of the purification system.
+- **If Swaith ever touches Safayer, they will merge.** Shin will lose the blade — but gain something far greater. The blade's consciousness will dissolve into the Gemheart. Shin will be left with an empty hand — and a new connection to the purification system.
+- The blade is sentient. It has been alone for a long time. It does not want to let go of Shin.
+- **Swaith was magically delivered to Shin.** It was not found in Session 1 as normal loot. It was **sent** to him — by whom, the party does not yet know. (DM note: it was delivered by the Architect's fading consciousness, which recognized Shin as HVS-02 and wanted to give him a tool that could help him.)
+- Swaith is one of the **six blades**. It is the dagger. It is not an ancient relic. Gustaero, Niette, and The Ninth are the ancient relics. Swaith is a blade.
+- **Swaith is the only blade that can free Echoes.** The other five blades can kill, cut, freeze, protect, and cut fate — but only Swaith can **release**. This is why Shin has it. He is the one who can free the Echoes.
+- **Grin Qain's connection:** Swaith was given to Grin Qain by Simon. It was her blade. When Lei Firsa sacrificed her, Swaith was taken. After Lei Firsa scattered the six, Swaith was sent to Shin. **Shin carries the blade of the woman who died to make Simon the Valla.** This is not a coincidence. The Architect chose Shin for a reason.
+- **If Shin ever learns the full history of Swaith** — that it belonged to Grin Qain, that she died with it in her hand — he will have a choice. He can keep it. He can give it to Erah (Grin Qain's daughter). Or he can merge it with Safayer and lose it forever.
+
+## Connections to Other Lore
+- `The Six Legendary Weapons.md` — Swaith is one of the six blades
+- `The Nine Ancient Weapons.md` — the six blades + three ancient relics
+- `Safayer.md` — the Gemheart that Swaith is a fragment of
+- `Shin Van Hel.md` — the current wielder
+- `Grin Qain.md` — the first wielder, Simon's companion
+- `Simon Greenbottle.md` — the halfling who found and gave away Swaith
+- `Erah.md` — Grin Qain's daughter, who has never seen her mother's blade
+- `The Echoes.md` — Swaith is the only blade that can free them

@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/lore/Lei Bloodline.md"
+type: Oversee Lore
+universe: Oversee
 ---
-
+::pf
 > [!info] The Four Branches
 > The ruling magical aristocracy of Oversee. Four bloodlines. Four elements. One source.
 

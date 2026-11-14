@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/canon/SO1 Negara Anderes.md"
+type: Sonstige Lore
+universe: Sonstige
+era: Modern
 ---
-
+::pf
 > [!info] Negara Anderes
 > Negara utama dalam campaign Sonstige. Rumah bagi kota **Calamara** dan **The Free Bird Academy**.
 
@@ -31,3 +32,20 @@ pfn-source: "Dungeon Master Notes/sonstige/canon/SO1 Negara Anderes.md"
 - Anderes adalah negara tempat campaign berlangsung.
 - Ada sekolah yang dijadikan baterai.
 - Alumni "dikirim" dan tidak pernah terlihat lagi.
+::/pf
+
+%% DM SECRETS %%
+- Pemerintah Anderes tahu tentang Overseer. Mereka tahu Void menipis. Mereka tahu Rapture akan datang.
+- Mereka memilih solusi yang murah, cepat, dan tidak manusiawi: **sekolah baterai**.
+- Program ini dipimpin oleh **Bellweather** — keluarga/entitas yang sudah ada sejak 2001.
+- **The Black Cloak Figure** adalah agen Bellweather. Ia muncul di setiap pengiriman, setiap erasure, setiap RAIB.
+- Pemerintah Anderes bukan villain. Mereka adalah orang-orang yang takut. Mereka mencoba menyelamatkan dunia dengan cara yang salah.
+
+## Connections
+- `SO0 Sonstige.md` — dunia ketiga
+- `SO2 The School Battery.md` — program rahasia
+- `SO3 The Three Dates.md` — tiga tanggal penting
+- `Calamara.md` — kota utama
+- `The Free Bird Academy.md` — sekolah
+- `Bellweather.md` — keluarga/entitas di balik program
+- `The Black Cloak Figure.md` — agen pengiriman

@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Gudameng Town.md"
+type: Oversee Location
+parent_location: West Harka
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** West Harka
 > **Notable People:** Cindy (guardian of the Legendary Noodle Temple)
@@ -27,3 +28,9 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Gudameng Town.md"
 
 ## Current State
 - Peaceful. Prosperous. The noodle temple is a place of refuge.
+::/pf
+
+%% DM SECRETS %%
+- The Holy Wok is a **Cycle Clan artifact**. It was used to cook ritual meals in the First Age. It has minor magical properties (food cooked in it heals 1d4 extra HP).
+- Cindy is not just a survivor — she has a **natural talent for cooking** that borders on the supernatural. She may become a great cook, or a great mage.
+- The Guo family (guardians of the Recipe Library) know more about the Cycle Clan than they let on.

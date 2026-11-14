@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/pcs/Brougha Ironhide.md"
+type: Sonstige PC
+class: Barbarian
+player: Laura
+universe: Sonstige
 ---
-
+::pf
 > [!info] The Party
 > **Class:** Barbarian
 > **Role:** Jounce athlete, frontline bruiser
@@ -87,3 +89,63 @@ pfn-source: "Dungeon Master Notes/sonstige/pcs/Brougha Ironhide.md"
 
 ## Current Goal
 Develop Jounce skills AND literature/arts at FBA. Prove he is more than a brute. (And absolutely not win Lilia back.)
+::/pf
+
+%% DM SECRETS %%
+
+### Who Brougha Is
+- Putra keluarga atlet Jounce. Bukan bangsawan, bukan penyihir, bukan siapa-siapa di mata FBA. Tapi ia **berbakat** — dan ia tahu itu.
+- **Lebih pintar dari yang ia akui.** Ia membaca *Lumen Arash* berkali-kali. Ia membeli 23 buku lain. Ia ingin dianggap serius.
+- **Belum pernah berkata jujur** tentang mengapa ia benar-benar memilih FBA. Alasan resminya: reputasi akademik, fasilitas Jounce, pengembangan diri. **Itu bohong.** Ia memilih FBA karena **Lilia Etheridge II**. Ia tidak akan mengakuinya. Tidak pernah.
+- Ia **berbohong pada dirinya sendiri** — bahwa ia sudah move on, bahwa ia tidak peduli, bahwa ia tidak berharap Lilia melihatnya di halaman sekolah.
+
+### Lilia Etheridge II — The Girl He Followed
+- **Lilia Etheridge II** adalah mantan kekasih Brougha. Ia juga adalah **Bride of Bellweather berikutnya** — **Brougha tidak tahu ini.**
+- Brougha memilih FBA **sebagian** karena Lilia. Ia tidak akan mengakuinya. Ia membeli 23 buku dari rak buku Lilia. Ia membaca *Lumen Arash* di halaman 41. Ia berharap Lilia melihatnya di halaman sekolah.
+- **Brougha tidak tahu bahwa Lilia akan menjadi Bride.** Ia tidak tahu bahwa Lilia akan **berhenti menjadi Lilia**. Ia tidak tahu bahwa ia mungkin **kehilangan** Lilia untuk kedua kalinya.
+- **Jika Brougha menemukan catatan Lilia di buku-buku**, ia akan menemukan **kebenaran**. Ia akan menemukan bahwa Lilia **mencintainya**. Ia akan menemukan bahwa Lilia **tidak ingin** pergi. Ia akan menemukan bahwa Lilia **meninggalkan pesan** untuknya.
+- **Jika Brougha menemukan bahwa Lilia adalah RAIB victim** (Option A), ia akan hancur. Ia akan menyadari bahwa Lilia yang ia cintai **sudah tidak ada**. Ia akan menyadari bahwa ia mencintai **bayangan**.
+- **Jika Brougha bisa memulihkan Lilia**, ia harus mengingat **rahasia** tentang Lilia yang tidak diketahui siapa pun. **Rahasia itu adalah puisi yang ia tulis untuk Lilia** — puisi yang belum pernah ia tunjukkan.
+
+### The RAIB Question — Player Input
+- Player menjawab **"Yes"** — Brougha pernah mengingat sesuatu yang tidak pernah terjadi, dan ingatan itu terasa lebih nyata daripada ingatannya sendiri.
+- **Isi ingatan itu BELUM ditentukan.** Ini adalah hook DM-player. Kemungkinan arah:
+  - Apakah Brougha ingat **Lilia masih bersamanya** — padahal mereka sudah putus?
+  - Apakah Brougha ingat **Lilia yang berbeda** — Lilia yang lebih hangat, lebih dekat, lebih nyata?
+  - Apakah Brougha ingat **kehidupan yang seharusnya** — kehidupan di mana ia tidak pernah ditinggalkan?
+- **DM harus berdiskusi dengan Laura** untuk menentukan isi ingatan itu — dan apakah ingatan itu terkait dengan RAIB yang sebenarnya.
+
+### Brougha and Lilia — The Breakup
+- **Mereka putus sebelum FBA.** Brougha tidak pernah mengatakan mengapa. Lilia tidak pernah mengatakan mengapa. DM harus memutuskan:
+  - Apakah Lilia yang memutuskan? (Brougha bilang "mantan kekasihnya" — tapi tidak bilang siapa yang mengakhiri.)
+  - Apakah karena Lilia **terpilih** sebagai Bellweather Candidate — dan ia tahu ia tidak akan punya masa depan?
+  - Apakah karena Lilia **takut** pada perasaannya sendiri?
+  - Apakah karena **RAIB** — Lilia kehilangan ingatan tentang Brougha, dan Brougha adalah satu-satunya yang mengingat?
+
+### Brougha and Maestro Lorenzo
+- Brougha datang ke FBA sebagian karena Maestro Lorenzo. Ia ingin bimbingan langsung untuk memahami *Lumen Arash*.
+- **Maestro Lorenzo adalah pencipta mitos The Bell.** Jika Brougha mendekatinya, ia mungkin akan menemukan kebenaran tentang The Bell — bukan melalui Lorenzo, tapi melalui buku-buku Lorenzo.
+- *Lumen Arash* mungkin mengandung **petunjuk tersembunyi** tentang The Bell, tentang baterai, atau tentang RAIB. Lorenzo mungkin menulisnya sebagai **peringatan** — bukan sebagai puisi.
+
+### Brougha's Role in the Campaign
+- **Otot** party. Berdiri di depan, menahan serangan, melindungi teman.
+- **Hati** party. Menulis puisi tentang petualangan mereka. Mengingatkan bahwa ada hal lebih penting dari kekuatan.
+- **Emotional anchor** — jika Brougha hancur karena Lilia, party akan hancur bersamanya.
+
+### Brougha's Fate
+- Jika Brougha menemukan Lilia — dan Lilia adalah RAIB victim — ia bisa memulihkannya. Tapi ia harus mengingat **rahasia tentang Lilia yang tidak diketahui siapa pun**. Mungkin rahasia itu adalah **puisi yang ia tulis untuk Lilia** — puisi yang belum pernah ia tunjukkan.
+- Jika Brougha menjadi RAIB, ia akan dihapus dari ingatan semua orang. Tapi party akan mengingatnya — karena mereka punya **rahasia tentangnya**. Rahasia itu mungkin adalah **puisi-puisinya** — tersembunyi di buku catatan di bawah kasurnya.
+
+### Connections
+- `Lilia Etheridge II.md` — mantan kekasihnya, yang masih mencintainya
+- `Ramarz Ironhide.md` — ayahnya (needs file)
+- `Shazara Ironhide.md` — ibunya (needs file)
+- `Gargathun Ironhide.md` — adiknya (needs file)
+- `The Azures.md` — kompleks tempat tinggalnya (needs file)
+- `Jounce.md` — olahraga (needs file or section)
+- `Everglade Academy.md` — sekolah rival (needs file)
+- `Maestro Lorenzo.md` — guru Literature FBA
+- `Lumen Arash.md` — buku yang ia bawa
+- `R.A.I.B.md` — fenomena
+- `The Bell.md` — mitos
+- `The Free Bird Academy.md` — sekolah

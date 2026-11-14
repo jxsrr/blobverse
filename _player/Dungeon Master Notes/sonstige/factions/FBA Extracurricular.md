@@ -1,8 +1,12 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/factions/FBA Extracurricular.md"
+type: Sonstige Faction
+universe: Sonstige
 ---
-
+---
+type: Sonstige Faction
+universe: Sonstige
+---
+::pf
 > [!info] Enam Ekstrakurikuler FBA
 > Setiap siswa wajib mengikuti minimal satu. Tidak ada batas maksimal. Ekstrakurikuler adalah tempat siswa dari berbagai Wing bercampur — dan tempat bonding utama.
 
@@ -48,3 +52,21 @@ pfn-source: "Dungeon Master Notes/sonstige/factions/FBA Extracurricular.md"
 - **Pembina:** (TBD — mungkin staf dapur atau guru yang hobi memasak).
 - **Jadwal:** Latihan Kamis, 16:00–17:30.
 - **Fitur:** Kreativitas, kerja sama tim, eksperimen, kompetisi masak antar-sekolah.
+::/pf
+
+%% DM SECRETS %%
+- **Ekstrakurikuler adalah tempat bonding utama** — karena Wing hanya homeroom dan kelas inti.
+- **Setiap ekstrakurikuler punya konflik internal:**
+  - **Jounce:** Rivalitas antar-Wing, tekanan untuk menang.
+  - **The Daily Flight:** Sensor sekolah, gosip yang tidak seharusnya diterbitkan, investigasi yang terlalu dalam.
+  - **Student Council:** Politik kampus, korupsi kecil-kecilan, konflik antar-Wing, tekanan dari pihak sekolah.
+  - **Debate Club:** Ambisi, rivalitas intelektual, debat yang memanas.
+  - **Drama Club:** Ego, jadwal latihan, drama di balik panggung.
+  - **Cooking Club:** Kompetisi resep, bahan yang hilang, eksperimen yang gagal.
+- **The Daily Flight** bisa jadi alat party untuk menyebarkan informasi tentang RAIB.
+- **Cooking Club** — tempat Mya mungkin bergabung (dan kedok untuk bandar narkoba), atau tempat Brougha menunjukkan keahlian memasaknya.
+- **Student Council** — tempat konflik politik pertama party dengan pihak sekolah.
+
+## Connections
+- `FBA Wing System.md` — sistem Wing
+- `Jounce.md` — olahraga

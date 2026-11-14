@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Graen City.md"
+type: Oversee Location
+parent_location: Rioquan Timur (coastal)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Rioquan Timur (coastal)
 > **Notable People:** Kuur (mute beggar), Nenek Laksmi (blind code-breaker, hidden)
@@ -31,3 +32,13 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Graen City.md"
 
 ## Current State
 - Quiet. The carnival is still running. Nenek Laksmi is still alive.
+::/pf
+
+%% DM SECRETS %%
+- Graen is not a normal town. It is a **Cycle Clan waystation**. The carnival is a cover for the Cycle Clan's intelligence network.
+- **Nenek Laksmi** is a **blind code-breaker** — a former Cycle Clan member who left the organization after Lei Firsa took over. She lives in the mansion at the end of the Canal of Forgetting. She is the one who decoded the message about Topaju. She is not a Cipher — she is an independent scholar.
+- **Kuur** (the mute beggar) is not a beggar. He is a **former Cycle Clan courier** who lost his voice to a Gap-touched artifact.
+- **Valerius's visit** was not a coincidence. He was here to meet with **Nenek Laksmi** — but she refused to see him.
+- This location is a **Season 3 hub**. The party can rest, gather information, and meet Nenek Laksmi here.
+- **Ruslan** — the bartender at The Dead Numbers — is a former Cycle Clan agent. He was one of Nenek Laksmi's students. He left the organization when Lei Firsa took over.
+- The **Vigenère cipher** was found in Graen. It was written by **Livia Vane** herself, in a moment of doubt. She sent it to her handler, then regretted it.

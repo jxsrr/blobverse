@@ -1,14 +1,16 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/canon/OV1 Beginning of Time.md"
+type: Oversee Lore
+universe: Oversee
+era: Beginning of Time
+years: 1XXXX – 20XX BV
 ---
-
+::pf
 > [!info] The Making of the World
 > The first age. When the Architect gave everything. When the Inbu walked. When the sky first learned to hunger.
 
 ## The Making of the World
 
-In the silence that followed the birth of consciousness from the remnants of consumption, the **Architect** made a choice that would shape all of reality for beings not yet born.
+In the silence that followed the birth of consciousness from the remnants of consumption, the **[[oversee/lore/The Overseer & The Architect|Architect]]** made a choice that would shape all of reality for beings not yet born.
 
 It was alone.
 
@@ -16,9 +18,9 @@ In the endless dark of the void, it was the only thing that existed — a spark 
 
 So it made a decision. It would **sacrifice part of itself** to create a physical dimension — a place where life could exist, where something new could grow, where it would no longer be alone.
 
-But the Architect knew the danger. The **Overseer** was always hungry. If the new world produced too much **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the Overseer would smell it. It would come. It would eat.
+But the Architect knew the danger. The **[[oversee/lore/The Overseer & The Architect|Overseer]]** was always hungry. If the new world produced too much **[[oversee/lore/Ambitio-Ether]]**, the Overseer would smell it. It would come. It would eat.
 
-So as the Architect split itself to create the world, it also created a barrier — a layer of separation between the world and the void. That barrier became known as **The Gap**.
+So as the Architect split itself to create the world, it also created a barrier — a layer of separation between the world and the void. That barrier became known as **[[oversee/lore/The Gap]]**.
 
 With this sacrifice, the Architect did not vanish. It **went to face the Overseer**. It stood at the threshold, at the edge of reality, and became the **first [[oversee/lore/The Valla|Valla]]** — a living seal, a willing sacrifice, the first Warden of the world.
 
@@ -35,10 +37,10 @@ Those fragments became known as the **[[oversee/lore/The Gemhearts|Gemhearts]]**
 They are not merely magical stones. They are the **organs** of the Architect — its heart, its brain, its vital essence, still beating with the life of its creator. Each Gemheart holds immense magical power. Each represents a fundamental aspect of the Architect's nature. Together, they form a system that allows the world to survive the cosmic hunger — a bridge between the mortal world and the consciousness that now sits as the Valla.
 
 The four Gemhearts are:
-- **[[oversee/items/Emelanica|Emelanica]]** — the green stone, the organ of time
-- **[[oversee/items/Safayer|Safayer]]** — the blue stone, the organ of purification
-- **[[oversee/items/Rubion|Rubion]]** — the red stone, the organ of annihilation
-- **[[oversee/items/Topaju|Topaju]]** — the yellow stone, the organ of stability
+- **[[oversee/items/Emelanica]]** — the green stone, the organ of time
+- **[[oversee/items/Safayer]]** — the blue stone, the organ of purification
+- **[[oversee/items/Rubion]]** — the red stone, the organ of annihilation
+- **[[oversee/items/Topaju]]** — the yellow stone, the organ of stability
 
 Each one has a purpose. Each one is essential. Each one is scattered across the world, waiting to be found.
 
@@ -70,7 +72,7 @@ Rubion is the right hand of the Architect — the organ that can end anything, q
 
 **Topaju** is the anchor of the Architect — the part of it that provides structure, foundation, and stability.
 
-In the primordial body, Topaju was the spine that held the Architect's existence together. As a Gemheart, Topaju has the most **crucial** function for the physical survival of Oversee. Its existence literally **prevents the continents from drifting into The Gap**. More than that, Topaju **anchors sacrificial rituals to the mortal world** — providing the physical foundation for the [[oversee/lore/The Cycle Ritual|Cycle]] that maintains cosmic balance.
+In the primordial body, Topaju was the spine that held the Architect's existence together. As a Gemheart, Topaju has the most **crucial** function for the physical survival of Oversee. Its existence literally **prevents the continents from drifting into [[oversee/lore/The Gap]]**. More than that, Topaju **anchors sacrificial rituals to the mortal world** — providing the physical foundation for the [[oversee/lore/The Cycle Ritual|Cycle]] that maintains cosmic balance.
 
 Without Topaju, the Cycle would have no foundation. Soul energy would scatter into the sky, and the Overseer would notice.
 
@@ -80,14 +82,14 @@ Topaju is the backbone of the world — the foundation that keeps reality whole.
 
 After the Architect created Oversee, the world began to fill with life.
 
-The earliest ecosystem was dominated by **primordial flora and fauna** — creatures and plants bound to raw **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, the energy of creation that was not yet fully stable.
+The earliest ecosystem was dominated by **primordial flora and fauna** — creatures and plants bound to raw **[[oversee/lore/Ambitio-Ether]]**, the energy of creation that was not yet fully stable.
 
 The primordial flora had a unique ability: they functioned as **filters** for Ambitio-Ether. Giant trees and **luminescent forests** absorbed wild mana from the air and stored it as crystalline sap. Creatures that consumed this flora received a concentrated supply of raw Ambitio-Ether — enough to grow **massive**. These forests were not just collections of trees. They were **organisms** — the lungs of the world in the most literal sense.
 
 The primordial fauna were defined by their **colossal size** — a direct manifestation of the high concentration of mana in the environment.
 
 - **[[oversee/lore/The Three Surviving Dragons|Elder Dragons]]** — though rare in the modern era — served as **ecological stabilizers** in the primordial age. They consumed Ambitio-Ether directly from the atmosphere and **exhaled it back as weather** — rain, storms, and winds that carried life across the world.
-- **Behemoths** — slow-moving giant mammals — lived by consuming Ambitio-Ether-rich forests. Their presence, though seemingly destructive, **stabilized the continents** by preventing soil erosion caused by uncontrolled Ambitio-Ether release.
+- **[[oversee/lore/The Behemoths|Behemoths]]** — slow-moving giant mammals — lived by consuming Ambitio-Ether-rich forests. Their presence, though seemingly destructive, **stabilized the continents** by preventing soil erosion caused by uncontrolled Ambitio-Ether release.
 
 These creatures were powerful. But they were not **conscious**. They did not have **free will** — not enough to attract the Overseer's attention. They were part of the ecological architecture, not part of the danger.
 
@@ -97,7 +99,7 @@ They were part of the solution.
 
 The transition to consciousness began when these ancient creatures developed more complex nervous systems. More importantly, **self-awareness** sparked among some of them. This did not happen evenly across the world. It happened in specific places — where conditions allowed — creatures began to **know** they existed.
 
-That awareness triggered the production of **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]** on a very small scale.
+That awareness triggered the production of **[[oversee/lore/Ambitio-Ether]]** on a very small scale.
 
 A new era began.
 
@@ -165,3 +167,59 @@ It is not a natural phenomenon. It is not a punishment. It is not even, strictly
 And it will happen again.
 
 It always does.
+::/pf
+
+%% DM SECRETS %%
+
+## The Truth Beyond the Player-Facing Text
+
+The player-facing text above is the **Cycle Clan's version** of the beginning — the version taught in their archives, passed to initiates, and recorded in their oldest scrolls. It is **mostly accurate**. But it omits several key truths.
+
+### What the Players Do Not Know Yet
+
+- **The Inbu were the first failed Vessel.** The Architect did not create them to be a race. It created them to be a **container** — a race powerful enough to hold its consciousness. They were too powerful. They attracted the Overseer's attention. The Architect **scattered them into lesser races** to hide them from the Overseer. That is why every race has a fragment of Inbu DNA. That is why every race can use magic.
+
+- **The Gemhearts are not scattered randomly.** They were **hidden deliberately** by the Cycle Clan after the Architect became the Valla. Each one is in a place that only the Cycle Clan Ciphers know. The locations are encoded in the **[[oversee/lore/The Edisi Law|Edisi Law]]**, the **Bahtera Bawah Tanah**, and the memories of the four Ciphers.
+
+- **The Rapture is not the Overseer's only method.** It is the most **visible** one. The Overseer has other, subtler ways of feeding — including through the **[[oversee/lore/The Valla|Valla]]**, which feeds it filtered energy, and through the **Gap**, which leaks raw Ambitio-Ether into the void. The Rapture is the **emergency valve** — what happens when the filter fails.
+
+- **The High Magic Societies were not foolish.** They did not "forget the balance." They were **deliberately misled** by the earliest Klan Lei — who already knew the truth about the Overseer and chose to hide it. The first Klan Lei Elders wanted the Rapture to happen, because each Rapture **killed the competing bloodlines** and left the Lei as the only survivors. The Lei **engineered** the first Rapture. This is the darkest secret of the Klan.
+
+- **The Devourer Comet is not just a shard of the Overseer.** It is a **fragment of the Shell** — a piece of the Architect's shed skin that the Overseer has **reanimated** and sent back. The Shell in the sky is not the only piece of the Architect's body. The comets are pieces of it, animated by the Overseer's hunger, used as tools.
+
+- **The Inbu's descendants are the key.** The nine races are not just "children of the Inbu." They are the **scattered containers** of the Architect's original plan — each carrying a fragment of the potential that could one day hold the Architect's full consciousness. This is why the HVS project was possible. The Architect **knew** its descendants would eventually produce a suitable vessel.
+
+### When the Party Learns the Truth
+
+1. **Session 6** — The Shell video. The party learns the world is built on the remains of a cosmic entity.
+2. **Session 8–10** — The party reaches the **Bahtera Bawah Tanah** and reads the original **Edisi Law**. The truth about the Klan Lei's role in the first Rapture is revealed.
+3. **Session 11** — **[[oversee/npcs/Lei Firsa]]** reveals the truth about the Inbu and the Vessel project.
+4. **Endgame** — The party must decide what to do with this knowledge.
+
+### What This Document Is
+
+This is **the Cycle Clan's archive entry** — the version they would allow an initiate to read. It is accurate in its broad strokes, but it **omits** the role of the Klan Lei, the true origin of the Inbu, and the truth about the comets.
+
+The truth is in the DM secrets.
+
+The party will have to decide how much of the Cycle Clan's version to trust.
+
+## Connections to Other Lore
+
+- **[[oversee/canon/OV0 Before Oversee]]** — the previous chronological document (the primordial era)
+- **[[oversee/lore/The Overseer & The Architect]]** — the two primordial entities
+- **[[oversee/lore/The Gap]]** — the barrier between the world and the Overseer
+- **[[oversee/lore/The Valla]]** — the living seal (the Architect, and all who followed)
+- **[[oversee/lore/The Gemhearts]]** — the organs of the Architect
+- **[[The Inbu]]** — the first race
+- **[[oversee/lore/The Behemoths]]** — the last of the primordial giants
+- **[[oversee/lore/The Three Surviving Dragons]]** — the last of the Elder Dragons
+- **[[oversee/lore/The Rapture]]** — the feeding mechanism of the Overseer
+- **[[oversee/lore/The Shell]]** — the Architect's shed skin
+- **[[Klan Lei]]** — the bloodline that engineered the first Rapture
+- **[[oversee/lore/The Cycle Clan]]** — the organization that guards this truth
+- **[[The Devourer Comet]]** — the Overseer's tool
+
+## Timeline Note
+
+The events in this document span **over 10,000 years** — from the creation of the world to the last recorded Rapture before the Age of Knowledge. The exact dates are approximate; the Cycle Clan kept imperfect records. The era ends when the last High Magic Society fell and the survivors began to rebuild — which is where **the Age of Knowledge** begins.

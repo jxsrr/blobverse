@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/lore/The Bloodlines of Power.md"
+type: Oversee Lore
+universe: Oversee
 ---
-
+::pf
 > [!info] Who Has Magic and Why
 > Magic is not random. It follows bloodlines. It follows the Klan Lei.
 
@@ -27,3 +27,10 @@ pfn-source: "Dungeon Master Notes/oversee/lore/The Bloodlines of Power.md"
 ## What the Party Knows
 - Magic is rare. The Klan Lei is powerful.
 - They do not know the connection to Simon.
+::/pf
+
+%% DM SECRETS %%
+- The 20% rule is not natural. It was **engineered** by Lei Firsa. She used the twin sacrifices to concentrate magic in her bloodline. She left the rest of the world with scraps.
+- If the Klan Lei is destroyed, the magic will redistribute. The 20% will become 10%, or 30%, or 50%. The world will change.
+- The party's actions will determine the new balance. This is the **real political consequence** of the campaign.
+- Vya is the key. Her fire is the spark that can **redistribute** the magic. If she uses it correctly, she can make the world more equal. If she uses it wrong, she can make it worse.

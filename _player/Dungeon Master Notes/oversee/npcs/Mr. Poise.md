@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Mr. Poise.md"
+type: Oversee NPC
+role: Rhino Wagon Driver
+faction: Independent
+home: Yawning Town
+status: alive
+first_seen: Session 01
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Rhino driver. Transport for hire.
 > **Where:** Yawning Town outskirts
@@ -18,3 +23,4 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Mr. Poise.md"
 
 ## Current Goal
 Keep Gertrude safe. Retire.
+::/pf

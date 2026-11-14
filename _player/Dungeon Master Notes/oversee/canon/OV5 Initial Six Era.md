@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/canon/OV5 Initial Six Era.md"
+type: Oversee Lore
+universe: Oversee
+era: Initial Six Era
+years: 180 – 200 AV
 ---
-
+::pf
 > [!info] The Age of the Six
 > When the world still had heroes. When the greatest of them was a Halfling who could not say no. When the sky learned to smile.
 
@@ -10,7 +12,7 @@ pfn-source: "Dungeon Master Notes/oversee/canon/OV5 Initial Six Era.md"
 
 **~180 AV — Wind's Rest, East Harka**
 
-On the eastern coast of Harka, in a small fishing village called **Wind's Rest**, there lived an old man named **[[oversee/npcs/Gunnar Guirela|Gunnar Guirela]]**.
+On the eastern coast of Harka, in a small fishing village called **[[oversee/locations/Wind's Rest]]**, there lived an old man named **[[oversee/npcs/Gunnar Guirela]]**.
 
 He was a simple fisherman. Every day he went to sea, pulled his nets, and sold his catch at the market. He had no treasure, no magic, no ambition. He had only an old boat and a sagging hut by the shore.
 
@@ -20,7 +22,7 @@ A **bow**.
 
 A longbow with pale wood, almost transparent. Its curve was perfect. Its string was invisible — like air compressed into a line. The bow was neither wet nor dry, and it was **warm to the touch**.
 
-Gunnar did not know that this bow was **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — one of the six legendary weapons once collected by **[[oversee/npcs/Simon Greenbottle|Simon Greenbottle]]**. He did not know that the bow had been thrown into the sea by **Lei Firsa**, the mother of **[[Klan Lei]]**, to erase every trace of Simon from the world.
+Gunnar did not know that this bow was **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — one of the six legendary weapons once collected by **[[oversee/npcs/Simon Greenbottle]]**. He did not know that the bow had been thrown into the sea by **[[oversee/npcs/Lei Firsa]]**, the mother of **[[Klan Lei]]**, to erase every trace of Simon from the world.
 
 He only knew the bow was special. And he had to keep it safe.
 
@@ -38,7 +40,7 @@ Olaf never forgot those words. He grew up. He learned to sail. He learned to sho
 
 Years later, when **Simon's** strength as the Valla began to fade, **six of the finest heroes in the world were gathered**.
 
-They were led by **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** — a direct descendant of **Lei Firsa** from the **Lei Wendigo** line. He inherited unparalleled **pure wind magic** and **[[oversee/items/Emelanica|Emelanica]]** — the green time stone pulsing in his chest. His white hair and beard were immaculate, giving him an aura of wisdom. His green and gold robes symbolized the pride of his bloodline. But his calm eyes hid a wound that never healed.
+They were led by **[[oversee/npcs/Lei Alejandro]]** — a direct descendant of **[[oversee/npcs/Lei Firsa]]** from the **Lei Wendigo** line. He inherited unparalleled **pure wind magic** and **[[oversee/items/Emelanica]]** — the green time stone pulsing in his chest. His white hair and beard were immaculate, giving him an aura of wisdom. His green and gold robes symbolized the pride of his bloodline. But his calm eyes hid a wound that never healed.
 
 At the height of his power, Alejandro made a journey to a remote region and, by accident, entered the territory of the **Goblin Kingdom**.
 
@@ -56,7 +58,7 @@ Alejandro returned home with a shattered heart and a dilemma: **he had no pure h
 
 ## Atlan Nouveau and the Woman from Another World
 
-**[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** was an ordinary human, born and raised on the **Rioquan** continent — in a coastal city always swept by sea winds.
+**[[oversee/npcs/Atlan Nouveau]]** was an ordinary human, born and raised on the **Rioquan** continent — in a coastal city always swept by sea winds.
 
 His brown hair, always parted down the middle, his wary eyes, and his habit of carrying strange tools on his leather belt were his unchanging features since youth. He was not of noble blood. He was not the heir of any magical bloodline. Atlan was simply a young man with great curiosity and an unbounded love for the sea.
 
@@ -76,7 +78,7 @@ She wore a torn purple robe, held a moon-shaped staff that still glowed faintly,
 
 Atlan brought her to the Observatorium and gave her dry clothes. For weeks, they communicated through gestures, drawings, and looks.
 
-Slowly, the woman learned the Rioquan language. Her name was **[[oversee/npcs/Reins|Reins]]** — and she came from a place called **Aede**: another world connected to Oversee through a portal that could not be explained. She was a warrior destined to fight a terrible entity called **Raja Calamity Gonado** in her own world. But the portal had brought her here — to the beach below the Observatorium, into Atlan's life.
+Slowly, the woman learned the Rioquan language. Her name was **[[oversee/npcs/Reins]]** — and she came from a place called **Aede**: another world connected to Oversee through a portal that could not be explained. She was a warrior destined to fight a terrible entity called **Raja Calamity Gonado** in her own world. But the portal had brought her here — to the beach below the Observatorium, into Atlan's life.
 
 Atlan listened to Reins's story with wide eyes. As a scientist, he should have been skeptical. But how could he be skeptical of the woman standing before him — whose robe was still wet from the sea of another world, whose staff still glowed with a light no science could explain?
 
@@ -90,11 +92,11 @@ Atlan built a swing beneath the Observatorium, taught Mira the names of stars an
 
 ## Atreus Grin
 
-**[[oversee/npcs/Atreus Grin|Atreus Grin]]** was a prince of the **[[Kerajaan Grin|Grin Kingdom]]** — the land of those who carried the **eternal smile** that never faded.
+**[[oversee/npcs/Atreus Grin]]** was a prince of the **[[Kerajaan Grin|Grin Kingdom]]** — the land of those who carried the **eternal smile** that never faded.
 
 Contrary to common misunderstanding, the Grin Kingdom was not inhabited by a single race with a particular skin color. Humans, elves, dwarves, halflings, and many other races lived side by side — united not by blood or lineage, but by the same curse: **the eternal smile carved into their faces from birth**.
 
-The smile did not choose race. It did not choose skin color. It did not choose status. It was the inheritance of the tragic pact between **[[Gavaevodata]]** — the elf princess who dared to love a demon — and **[[oversee/npcs/Zargoth|Zargoth]]** — the demon of the Gap who dared to love her back.
+The smile did not choose race. It did not choose skin color. It did not choose status. It was the inheritance of the tragic pact between **[[Gavaevodata]]** — the elf princess who dared to love a demon — and **[[oversee/npcs/Zargoth]]** — the demon of the Gap who dared to love her back.
 
 Atreus himself was a small-bodied elf with pale gray skin — a common color among Grin elves of the barren lands, but not all Grin had it. There were Grin with the brown skin of desert-human lineage, Grin with the pale white skin of mountain dwarves, even Grin with the greenish tint of half-orcs who had joined their kingdom. But one thing united them all: **a wide smile that never faded, no matter what they felt.**
 
@@ -106,13 +108,13 @@ Atreus watched his own people — humans, elves, dwarves, halflings, all races w
 
 The smile, to the outside world, was an **ineffaceable stigma**.
 
-Atreus joined **[[oversee/lore/The Initial Six|The Initial Six]]** not for personal ambition. He wanted to prove that the cursed smile was not a mark of evil, but a symbol of resilience. He wanted to show that his people — who had survived the **[[oversee/lore/The Rapture|Rapture]]** because they were deaf to **[[oversee/lore/Ambitio-Ether|Ambitio-Ether]]**, whatever race they were — were proof that the world needed **diversity, not uniformity**.
+Atreus joined **[[oversee/lore/The Initial Six|The Initial Six]]** not for personal ambition. He wanted to prove that the cursed smile was not a mark of evil, but a symbol of resilience. He wanted to show that his people — who had survived the **[[oversee/lore/The Rapture|Rapture]]** because they were deaf to **[[oversee/lore/Ambitio-Ether]]**, whatever race they were — were proof that the world needed **diversity, not uniformity**.
 
 With his druidic power, he healed wounded earth, called roots to protect villages, replanted felled forests. Slowly, people began to see him not as a "smiling demon," but as a "friendly forest guardian." He carried the hope that one day the eternal smile would no longer be seen as a curse, but as a reminder that even from the forbidden union of elf and demon, resilience could be born — a resilience that could survive beyond ambition and ruin.
 
 ## Sam Hurls
 
-**[[oversee/npcs/Sam Hurls|Sam Hurls]]** was a slightly chubby human man with wavy black hair and conspicuous clothing — purple and red with gold embroidery at every corner. His stringed instrument was never far from his grasp, and his fat fingers could pluck the most beautiful notes ever heard.
+**[[oversee/npcs/Sam Hurls]]** was a slightly chubby human man with wavy black hair and conspicuous clothing — purple and red with gold embroidery at every corner. His stringed instrument was never far from his grasp, and his fat fingers could pluck the most beautiful notes ever heard.
 
 As a **bard**, Sam was a collector of stories. He had wandered farther than anyone — listening to whispers in port bars, old songs in remote villages, horrifying tales from travelers who survived the ends of the world.
 
@@ -124,11 +126,11 @@ And he was right. He would write that song. But it would not be a song of victor
 
 ## Olaf Guirela
 
-**[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** was a green-skinned **half-orc** — a large, muscular body, a bald head, a thick gray beard, scars on his shoulders and arms. He wore simple clothing — rough brown cloth, a large red bead necklace, a faithful bow on his back.
+**[[oversee/npcs/Olaf Guirela]]** was a green-skinned **half-orc** — a large, muscular body, a bald head, a thick gray beard, scars on his shoulders and arms. He wore simple clothing — rough brown cloth, a large red bead necklace, a faithful bow on his back.
 
-Olaf was a follower of **iron discipline and simplicity**. He believed that true strength did not come from magic or magical weapons, but from **relentless training**. In his youth, he trained **[[oversee/npcs/Gordon|Gordon]]** — later known as Gordon "The Noisy Rhino" — with brutal methods.
+Olaf was a follower of **iron discipline and simplicity**. He believed that true strength did not come from magic or magical weapons, but from **relentless training**. In his youth, he trained **[[oversee/npcs/Gordon]]** — later known as Gordon "The Noisy Rhino" — with brutal methods.
 
-From that training, a philosophy was born that Gordon passed to **[[oversee/pcs/Husgus|Husgus]]**: **the true guardian is not the one who chases fame, but the one who protects the community.**
+From that training, a philosophy was born that Gordon passed to **[[oversee/pcs/Husgus]]**: **the true guardian is not the one who chases fame, but the one who protects the community.**
 
 Olaf bequeathed two important things: **skepticism toward gods** (the seed of Husgus's atheism) and the **Gustaero bow** — the bow that Gordon would one day give to Husgus as a final inheritance. He taught that gods, if they existed, need not be worshipped — they need only be understood as part of the universe.
 
@@ -136,7 +138,7 @@ In The Initial Six, Olaf was the voice of reason. His old eyes had seen too much
 
 ## Gzirmo Kopling
 
-**[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** was a **dragonborn** with orange-gold scales, small horns on his head, tribal tattoos on his face, and a posture impossible to ignore. His silver armor, with gear-accented shoulders, was a perfect fusion of technology and magic — an extension of his living, breathing body.
+**[[oversee/npcs/Gzirmo Kopling]]** was a **dragonborn** with orange-gold scales, small horns on his head, tribal tattoos on his face, and a posture impossible to ignore. His silver armor, with gear-accented shoulders, was a perfect fusion of technology and magic — an extension of his living, breathing body.
 
 He came from a dragonborn clan in the highest mountains, near the lair of the **[[oversee/lore/The Three Surviving Dragons|ancient dragons]]**. From his ancestors, he inherited extraordinary physical strength and a deep understanding of **mechanisms** — how wheels turn, how pressure works, how energy flows.
 
@@ -148,13 +150,13 @@ He joined because he believed in the mission: **to find a new Valla to save the 
 
 **~190 AV**
 
-In the years before the **Great Disappearance** — when The Initial Six was still whole, and their names were beginning to be known across Oversee — **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** and **[[oversee/npcs/Sam Hurls|Sam Hurls]]** took a journey together.
+In the years before the **Great Disappearance** — when The Initial Six was still whole, and their names were beginning to be known across Oversee — **[[oversee/npcs/Olaf Guirela]]** and **[[oversee/npcs/Sam Hurls]]** took a journey together.
 
 Not for a great adventure. They wanted a moment of peace from the noise of the world.
 
 They arrived at **[[Hutan Domido|Domido Forest]]** — a quiet region in the interior of **Harka**, far from the great cities and political intrigue. On the edge of the forest, near the border of two villages — **[[Ghuffghuff]]** to the north and **[[oversee/locations/Gudameng Town|Gudameng]]** to the south — they found a **rundown hut**.
 
-Inside it, a **boy named [[oversee/npcs/Gordon|Gordon]]** lived alone. He was about ten years old. His parents had died in a hunting accident years before.
+Inside it, a **boy named [[oversee/npcs/Gordon]]** lived alone. He was about ten years old. His parents had died in a hunting accident years before.
 
 Olaf, whose heart was moved by the sight of a small child living all alone, decided to stay a few weeks. Sam, with all his warmth, agreed. They had no special agenda — they just wanted to give the child a little happiness before returning to the world that was waiting.
 
@@ -170,7 +172,7 @@ Before leaving, **Olaf gave Gordon something precious**.
 
 From behind his cloak, he took out a **longbow wrapped in old cloth**. When the cloth was removed, Gordon saw a pale bow with a perfect curve that felt warm to the touch.
 
-It was the **Gustaero bow**, Olaf said — **not for killing, but for protecting**. He had inherited it from his grandfather, **[[oversee/npcs/Gunnar Guirela|Gunnar Guirela]]**, a fisherman in Wind's Rest who had found the bow tangled in his nets one day and had kept it for years.
+It was the **Gustaero bow**, Olaf said — **not for killing, but for protecting**. He had inherited it from his grandfather, **[[oversee/npcs/Gunnar Guirela]]**, a fisherman in Wind's Rest who had found the bow tangled in his nets one day and had kept it for years.
 
 Now the bow was entrusted to Gordon.
 
@@ -188,25 +190,25 @@ He kept the bow carefully. And sometimes he sang the melody Sam had taught him �
 
 The ritual could not use the **[[oversee/lore/The Gemhearts|Gemhearts]]**.
 
-**[[oversee/items/Emelanica|Emelanica]]** had been given to the Goblin Kingdom, following the dying wish of **[[Ratu Ghaniba]]**. **[[oversee/items/Safayer|Safayer]]** was hidden in the belly of **[[oversee/npcs/Vythrax|Vythrax]]** — the silver dragon poisoned by the stone. **[[oversee/items/Rubion|Rubion]]** had been given to the first descendant of **Lei Firage** in Rioquan. **[[oversee/items/Topaju|Topaju]]** — the yellow stone that anchored the world — had never been found since the last **Lei Roiga** held it.
+**[[oversee/items/Emelanica]]** had been given to the Goblin Kingdom, following the dying wish of **[[Ratu Ghaniba]]**. **[[oversee/items/Safayer]]** was hidden in the belly of **[[oversee/npcs/Vythrax]]** — the silver dragon poisoned by the stone. **[[oversee/items/Rubion]]** had been given to the first descendant of **Lei Firage** in Rioquan. **[[oversee/items/Topaju]]** — the yellow stone that anchored the world — had never been found since the last **Lei Roiga** held it.
 
 Alejandro had only the remnants of knowledge from ancient **[[oversee/lore/The Cycle Clan|Cycle Clan]]** manuscripts and the pure wind magic flowing in his blood. But he was the strongest wizard of his generation, and he believed that was enough.
 
 The **six heroes** gathered at the prepared altar.
 
-**[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** led, in his green and gold robes, his white hair blown by the magical wind he himself had created.
+**[[oversee/npcs/Lei Alejandro]]** led, in his green and gold robes, his white hair blown by the magical wind he himself had created.
 
-**[[oversee/npcs/Atreus Grin|Atreus Grin]]** stood beside him with the eternal smile that never faded, his small hands ready to summon the power of nature.
+**[[oversee/npcs/Atreus Grin]]** stood beside him with the eternal smile that never faded, his small hands ready to summon the power of nature.
 
-**[[oversee/npcs/Sam Hurls|Sam Hurls]]** plucked the strings of his lute, creating a melody said to open doors between dimensions.
+**[[oversee/npcs/Sam Hurls]]** plucked the strings of his lute, creating a melody said to open doors between dimensions.
 
-**[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** stood straight in his silver armor, the mechanical systems on his shoulders turning slowly.
+**[[oversee/npcs/Gzirmo Kopling]]** stood straight in his silver armor, the mechanical systems on his shoulders turning slowly.
 
-**[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** — the ordinary human who loved the sea — brought his notes and measuring tools, ready to contribute his sharp mind.
+**[[oversee/npcs/Atlan Nouveau]]** — the ordinary human who loved the sea — brought his notes and measuring tools, ready to contribute his sharp mind.
 
-**[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** — the old half-orc with the bow on his back — stood with an alertness that never faded, though age had long since claimed him.
+**[[oversee/npcs/Olaf Guirela]]** — the old half-orc with the bow on his back — stood with an alertness that never faded, though age had long since claimed him.
 
-They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **[[oversee/npcs/Simon Greenbottle|Simon]]**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **Overseer**. No one doubted the words of a descendant of **[[Klan Lei]]** — a respected hero, a man who had lost his wife and child in tragic circumstances.
+They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **[[oversee/npcs/Simon Greenbottle|Simon]]**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **[[oversee/lore/The Overseer & The Architect|Overseer]]**. No one doubted the words of a descendant of **[[Klan Lei]]** — a respected hero, a man who had lost his wife and child in tragic circumstances.
 
 **The ritual began.**
 
@@ -218,7 +220,7 @@ Sam heard notes he did not want — not a fanfare of victory, but a **quiet requ
 
 Gzirmo checked his armor indicators, confirming energy parameters were stable in the red zone, and asked Alejandro to verify the calculations for the vessel's capacity.
 
-Atlan's mind drifted to **[[oversee/npcs/Reins|Reins]]** and **[[oversee/npcs/Mira Nouveau|Mira]]** — a strange premonition that tomorrow's sun would feel colder than usual.
+Atlan's mind drifted to **[[oversee/npcs/Reins]]** and **[[oversee/npcs/Mira Nouveau|Mira]]** — a strange premonition that tomorrow's sun would feel colder than usual.
 
 Olaf, skin crawling, warned the others that something was **wrong**. His instincts had never lied.
 
@@ -278,7 +280,7 @@ The official version spread among the people was that The Initial Six had perfor
 
 Beautiful speculations grew into legend, and their names were immortalized in statues across many cities.
 
-But behind the scenes, the truth was kept tightly by the **[[oversee/factions/Keeper of Secret|Keeper of Secret]]** — an organization founded by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]**, Atlan's daughter, who was still a teenager when she witnessed with her own eyes how **Lei Alejandro** used his power not to create, but to **erase**.
+But behind the scenes, the truth was kept tightly by the **[[oversee/factions/Keeper of Secret]]** — an organization founded by **[[oversee/npcs/Mira Nouveau]]**, Atlan's daughter, who was still a teenager when she witnessed with her own eyes how **Lei Alejandro** used his power not to create, but to **erase**.
 
 She and the other servants who were silent witnesses that night swore in silence that one day the truth would be revealed.
 
@@ -286,7 +288,7 @@ Meanwhile, the impact of this event spread widely.
 
 The disappearance of The Initial Six created a **power vacuum** that led to increased crime and instability in various regions. Those who suffered most were the **Grin descendants**. Without **Atreus Grin** — the hero who had for so long been a symbol that the eternal smile was not a curse — society once again viewed them with suspicion and hatred.
 
-The **Grin Kingdom** slowly collapsed. Its people scattered and were persecuted. From the ruins of destruction rose **[[oversee/factions/Will of Grin|Will of Grin]]** — an organization determined to uncover the truth behind the disappearance of The Initial Six and restore the dignity of their people.
+The **Grin Kingdom** slowly collapsed. Its people scattered and were persecuted. From the ruins of destruction rose **[[oversee/factions/Will of Grin]]** — an organization determined to uncover the truth behind the disappearance of The Initial Six and restore the dignity of their people.
 
 They found small clues — Atreus's letter, sent before his departure, the last words that never reached their destination:
 
@@ -296,9 +298,9 @@ They found small clues — Atreus's letter, sent before his departure, the last 
 
 The ritual at the ancient altar ended — but not as **Lei Alejandro** imagined.
 
-Without **[[oversee/items/Safayer|Safayer]]** — the blue soul-purifying stone hidden in the belly of **[[oversee/npcs/Vythrax|Vythrax]]** — the purification of the five companions' souls was **imperfect**.
+Without **[[oversee/items/Safayer]]** — the blue soul-purifying stone hidden in the belly of **[[oversee/npcs/Vythrax]]** — the purification of the five companions' souls was **imperfect**.
 
-Without **[[oversee/items/Emelanica|Emelanica]]**, which he had given to the Goblin Kingdom, without **[[oversee/items/Rubion|Rubion]]**, given to the first descendant of **Lei Firage** in Rioquan, without **[[oversee/items/Topaju|Topaju]]**, whose location was never known — Alejandro relied only on his pure wind magic and the remnants of knowledge from worn manuscripts.
+Without **[[oversee/items/Emelanica]]**, which he had given to the Goblin Kingdom, without **[[oversee/items/Rubion]]**, given to the first descendant of **Lei Firage** in Rioquan, without **[[oversee/items/Topaju]]**, whose location was never known — Alejandro relied only on his pure wind magic and the remnants of knowledge from worn manuscripts.
 
 He succeeded in sending the souls of **Atreus**, **Sam**, **Gzirmo**, **Atlan**, and **Olaf** to Simon. But he **failed to erase the traces of their humanity**.
 
@@ -321,3 +323,125 @@ Under certain conditions — when the mortal world brushes too close to the real
 They search for places that have resonance with their memories — places they once visited, people they once loved, or even just locations with enough emotional energy to attract them.
 
 There, they **take form** — not fully real, not fully illusion. Something in between.
+::/pf
+
+%% DM SECRETS %%
+
+## The Truth Beyond the Player-Facing Text
+
+The player-facing text above is the **historical record as the Cycle Clan and Keeper of Secret present it** — sanitized, softened, and rewritten. It is what the party could piece together. It omits several truths.
+
+### What the Party Does Not Know Yet
+
+**Alejandro knew the ritual would fail.**
+
+He did not have the Gemhearts. He knew he could not complete the ritual properly. But he did not care. His goal was not to summon a new Valla — his goal was to **feed Simon**. The ritual was designed to transfer souls into the Valla, and five strong souls — the strongest heroes of their generation — would sustain Simon for another century.
+
+Alejandro **deliberately chose** the Initial Six because they were **the strongest available**. He manipulated them into gathering. He lied to them about the ritual's purpose. He chose them to die.
+
+**Ghaniba's death was not natural.**
+
+The stillborn child was not stillborn. The child was **murdered** — killed by agents of **[[Klan Lei]]** the moment it was born, because it was a **mixed goblin-Lei child** — a "defilement" of the Lei bloodline. Ghaniba died trying to protect her child. Alejandro was not told the truth. He was told his wife and child had died in childbirth.
+
+He believed it for the rest of his life.
+
+**The Goblin Kingdom was destroyed by Klan Lei.**
+
+Grolnok's kingdom — the one the party encountered in Session 1 — is a **remnant**. The original Goblin Kingdom was a thriving civilization. It was destroyed by Klan Lei agents after Ghaniba's death, in retaliation for the "race-traitor" marriage. The gem — Emelanica — was left in the ruins, hidden in an anti-magic chest, waiting for someone to claim it.
+
+**The Echoes are not just fragments.**
+
+They are **souls** — not fully dead, not fully alive. They are aware. They are suffering. They are **waiting**.
+
+If the party uses **Safayer** on them, they can be **freed**. If the party uses **Swaith** on them, they can be **released**. If the party does nothing, they will continue to exist — trapped inside Simon — for as long as Simon holds the seal.
+
+**Simon hears them.**
+
+He knows they are there. He knows what happened. He knows **Alejandro** did this — his own descendant, the boy who carried his blood. He does not hate Alejandro. He **pities** him. He knows Alejandro was manipulated by **Lei Firsa** — the true architect of the ritual.
+
+**Alejandro's true fate.**
+
+Alejandro did not die at the altar. He survived. He is still alive — 500 years later. He is hiding in the **[[The Bahtera Bawah Tanah|Bahtera Bawah Tanah]]**, protecting the **[[oversee/lore/The Edisi Law|Edisi Law]]**, waiting for someone to come. He is the **final Cipher — the Cipher of Guilt.**
+
+He has spent five hundred years punishing himself. He will not speak unless the party proves they are worthy.
+
+**Mira Nouveau's testimony.**
+
+**[[oversee/npcs/Mira Nouveau|Mira]]** was fourteen when she witnessed the ritual. Her father **[[oversee/npcs/Atlan Nouveau|Atlan]]** had brought her to the altar — she had been hiding behind a pillar, watching. She saw her father's soul torn from his body. She saw Alejandro's face as he watched it happen. She has never spoken of it. She founded the Keeper of Secret the year after.
+
+**The "Divine Hunger" name.**
+
+The ritual is called **Divine Hunger II** because it is the **second** time a Lei has fed souls to the Valla. The first was **[[oversee/npcs/Lei Firsa]]**'s sacrifice of **[[oversee/npcs/Grin Qain]]** in 01 BV — the ritual that made Simon the Valla. The world does not know this. Only the Keeper of Secret does.
+
+### The Major Contradiction to Resolve
+
+**The Valla count.**
+
+This document says the ritual was meant to "summon a new Valla" — implying replacement. But other files say Simon is still the Valla, and there have only been a few Vallas. The ritual here **failed** to summon a new Valla — it only **fed** Simon. So the count is preserved: Architect, Echo (failed), Simon. Alejandro's ritual added fuel to Simon, not a replacement.
+
+**Resolution:** Confirm — no new Valla was created. Simon remained. The ritual was a **feeding**, not a replacement. This is consistent with the party's discovery in Session 5 that Simon is still the Valla.
+
+### New NPCs Discovered
+
+- **`Bernard.md`** — the old priest who held Swaith in the temple of Dur-Khazim (Tier 3 DM-only). Mentioned in the Age of Nurturing source but I need to check if he appears here — yes, he does. Needs a file if not already created.
+
+### When the Party Learns the Truth
+
+- **Session 5** — The party relives Sam's memory. They learn the ritual was a sacrifice, not a summoning.
+- **Session 8–10** — They reach the **Bahtera Bawah Tanah**. They learn about Ghaniba's true death, the Goblin Kingdom's destruction, and Alejandro's survival.
+- **Session 11** — **Lei Alejandro** himself appears. He tells them the truth about **Lei Firsa** — the woman who manipulated him, who killed his wife, who destroyed his life.
+- **Endgame** — The party decides what to do with the truth.
+
+### What This Document Is
+
+This is the **Keeper of Secret's archive entry** — the closest version to the truth that the party can find. It is still **sanitized** — it does not reveal that Ghaniba was murdered, that the Goblin Kingdom was destroyed, or that Alejandro survives.
+
+The truth is in the DM secrets.
+
+The party will have to decide how much to trust the Keeper's version.
+
+## Connections to Other Lore
+
+- **`The First God.md`** — the previous era (Lei Firsa, Simon's sacrifice, the founding of Klan Lei)
+- **`Age of Nurturing.md`** — the era before that
+- **`Age of Knowledge.md`** — the era before that
+- **`The Initial Six.md`** — the six heroes
+- **`Lei Alejandro.md`** — the betrayer
+- **`Atreus Grin.md`** — the druid
+- **`Sam Hurls.md`** — the bard
+- **`Olaf Guirela.md`** — the ranger
+- **`Atlan Nouveau.md`** — the oceanographer
+- **`Gzirmo Kopling.md`** — the tinker
+- **`Gordon.md`** — the student of Olaf and Sam
+- **`Gunnar Guirela.md`** — Olaf's grandfather
+- **`Ratu Ghaniba.md`** — the goblin queen
+- **`Reins.md`** — Atlan's wife
+- **`Mira Nouveau.md`** — Atlan's daughter
+- **`Vythrax.md`** — the silver dragon, poisoned by Safayer
+- **`The Echoes.md`** — the fragments of the six heroes
+- **`Will of Grin.md`** — the organization founded after the disappearance
+- **`Keeper of Secret.md`** — the organization founded by Mira
+- **`The Gemhearts.md`** — the four stones
+- **`Safayer.md`** — the blue stone hidden in Vythrax
+- **`Emelanica.md`** — the green stone given to the Goblin Kingdom
+- **`Rubion.md`** — the red stone given to the Lei Firage line
+- **`Topaju.md`** — the yellow stone, hidden in the Lei Roiga line
+- **`The Valla.md`** — the living seal
+- **`The Cycle Ritual.md`** — the ritual of replacement
+- **`The Bahtera Bawah Tanah.md`** — where Alejandro has been hiding
+- **`The Edisi Law.md`** — the contract Alejandro protects
+
+## Timeline Note
+
+The Initial Six Era spans roughly **20 years** — from ~180 AV (Gunnar finding Gustaero) to ~200 AV (the Great Disappearance).
+
+The era ends when **Alejandro** performs the ritual and the six heroes vanish. That is where the **Power Surge** begins — the period of chaos and rebuilding that follows.
+
+**Suggested edits to existing files:**
+- `The Initial Six.md` — ensure it matches this version of the six heroes' backstories
+- `The Echoes.md` — add the detail that Echoes manifest in places resonant with memory
+- `Mira Nouveau.md` — add that she was 14 when she witnessed the ritual
+- `Lei Alejandro.md` — add that he was manipulated by Lei Firsa, and that he is still alive
+- `Ratu Ghaniba.md` — add the truth about her child's murder (DM secrets only)
+- `Will of Grin.md` — ensure it matches the founding after the Great Disappearance
+- `Timeline of Oversee.md` — add the Initial Six Era events

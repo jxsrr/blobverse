@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Mrs. Mamat.md"
+type: Oversee NPC
+role: Warung Owner, Ghuffghuff
+faction: Independent
+home: Ghuffghuff
+status: Unknown (presumed deceased)
+first_seen: Session 03
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** The owner of a small warung (food stall) in Ghuffghuff.
 > **Where:** Ghuffghuff Market
@@ -16,3 +21,14 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Mrs. Mamat.md"
 ## What the Party Remembers
 - She was kind. She charged less for the maps than the party expected.
 - She did not remember Yahanda when asked about him — she thought the party had come alone.
+::/pf
+
+%% DM SECRETS %%
+- Bu Mamat was **eaten on the first night**, just after Yahanda. Her stall was empty the next morning.
+- Her maps are still accurate — she drew them herself, from decades of walking the region.
+- **Her warung** is a small wooden cart, now overturned and abandoned in the Ghuffghuff market. If the party investigates, they will find:
+  - A **half-finished map** with notations in her handwriting.
+  - A **small box** under the counter containing coins she had saved for her granddaughter.
+  - A **letter** from her granddaughter, inviting her to move to **Javan Town** when she retires.
+- **She never retired.** She died in the village she loved.
+- **If the party returns to Ghuffghuff** (Season 3), they can bury her. They can also deliver her granddaughter's letter.

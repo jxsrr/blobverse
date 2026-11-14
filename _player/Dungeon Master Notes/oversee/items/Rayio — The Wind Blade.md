@@ -1,0 +1,33 @@
+---
+type: Oversee Item
+rarity: legendary
+current_holder: Garberro Forest (lost)
+universe: Oversee
+---
+> [!info] At a Glance
+> **Type:** Longsword
+> **Location:** Hutan Garberro (Pirizia)
+> **Rarity:** Legendary
+
+## Stat Block
+- +1 longsword. 1d8 + Str/Dex (finesse). Magical.
+- **Light as a Leaf:** No sound when swung. Advantage on Stealth checks made to hide the weapon.
+- **Wind's Grace:** After attacking, bonus action to parry. +2 AC until start of next turn (requires light or no armor).
+- **Wind Dancer's Step:** Once per combat, when an enemy makes an opportunity attack against you, use your reaction to gain advantage on a Dex (Acrobatics) check to dodge. Success = the opportunity attack misses.
+- **Two-Handed:** When wielded with two hands, damage die becomes 1d12.
+
+## History
+- One of six legendary weapons collected by Simon Greenbottle.
+- Thrown into Hutan Garberro by Lei Firsa.
+- **Not yet recovered.**
+
+## What the Party Knows
+- The forest is twisted and fog-choked. Spirits live there.
+- Rayio is held by the **Spirit King** — a creature that mimics voices.
+
+
+%% DM SECRETS %%
+- The Spirit King is a **Gap-touched Echo**. It was once a mortal who got lost in the forest.
+- It will offer Rayio in exchange for a "voice." If the party gives it a voice (a memory of a loved one speaking), it will hand over the blade.
+- If they refuse, they must fight. The Spirit King is CR 10.
+- Rayio's true power is **silence**. It can cut through magical barriers without a sound.

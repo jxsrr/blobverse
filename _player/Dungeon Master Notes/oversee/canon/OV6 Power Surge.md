@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/canon/OV6 Power Surge.md"
+type: Overseer Lore
+universe: Oversee
+era: Power Surge
+years: 201 – 699 AV
 ---
-
+::pf
 > [!info] The Age of the Long War
 > When a hunter became a laughingstock. When a kingdom fell. When two brothers were separated by the sky itself.
 
@@ -10,7 +12,7 @@ pfn-source: "Dungeon Master Notes/oversee/canon/OV6 Power Surge.md"
 
 **~240 AV — Hutan Domido**
 
-Years passed. **[[oversee/npcs/Gordon|Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[Hutan Domido|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
+Years passed. **[[oversee/npcs/Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[Hutan Domido|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
 
 The **[[oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** was always with him, though he rarely used it for hunting. He preferred a simple hunting bow. Gustaero was too special, too precious to use casually. He kept it wrapped in cloth, hidden in a hollow beneath the floorboards of his hut, and occasionally took it out just to hold it — to feel the warmth of the wood, to remember the old dwarf who had given it to him.
 
@@ -24,7 +26,7 @@ He knew they had no real quarrel with each other. They differed only in cuisine 
 
 Then, in the year 260 AV, something changed.
 
-Merchants from the great cities — **[[Padre City]]**, **Javan Town** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
+Merchants from the great cities — **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
 
 They also brought **rumors**. Whispers of the neighboring village's hostile intentions. Whispers of plans to steal secret recipes. Whispers of insults that Gordon had never heard before.
 
@@ -118,7 +120,7 @@ Because he kept making noise that no one wanted to hear. Because he kept shoutin
 
 The **Gruffgud War** lasted for centuries.
 
-For the people of the great cities of **[[Harka]]** — **[[oversee/locations/Yawning Town|Yawning Town]]**, **[[Padre City]]**, **Javan Town** — this war was a joke.
+For the people of the great cities of **[[Harka]]** — **[[oversee/locations/Yawning Town]]**, **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — this war was a joke.
 
 Merchants passing through the region brought stories of two foolish villages fighting over food. Bards composed mocking songs about the *"Rice vs. Noodle War"* and sang them in port taverns. People laughed when they heard that the two villages were fighting over **fried rice**, joking that fried noodles were also delicious and perhaps they should fight too.
 
@@ -132,7 +134,7 @@ Some merchants who dared to pass through the conflict zone never returned. Some 
 
 But those reports were always dismissed by Commonwealth officials with sweet smiles, saying it was just two crazy villages killing each other and there was nothing to worry about.
 
-Other cities in Harka — **[[oversee/locations/Nesia Town|Nesia Town]]** with its wheat fields, **[[oversee/locations/Muangching Bay|Muangching Bay]]** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
+Other cities in Harka — **[[oversee/locations/Nesia Town]]** with its wheat fields, **[[oversee/locations/Muangching Bay]]** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
 
 When refugees occasionally came with stories of the horrors of war, they were given a little food and sent away. The world kept turning, and the absurd war kept burning without anyone truly caring.
 
@@ -156,7 +158,7 @@ Gordon did not care. He kept shouting, because he knew the truth — and he woul
 
 **~270 AV**
 
-Decades after **[[The Great Disappearance]]**, as the name **[[oversee/npcs/Atreus Grin|Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
+Decades after **[[The Great Disappearance]]**, as the name **[[oversee/npcs/Atreus Grin]]** began to fade from public memory — just as he had faded from the world — the **[[Kerajaan Grin|Grin Kingdom]]** slowly collapsed.
 
 Without its charismatic leader — without the figure who had been living proof that the eternal smile was not a curse — the Grin people faced the same bitter reality again.
 
@@ -166,21 +168,21 @@ The persecution came in waves.
 
 Grin merchants were driven from city markets. Grin children were stoned in the streets. Grin families who had settled in various regions were forcibly evicted from their homes. The Grin Kingdom — which had once stood as a symbol of resilience on the barren land no one wanted — began losing its citizens one by one.
 
-Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth|Zargoth]]** — chose to **stay and fight**.
+Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth]]** — chose to **stay and fight**.
 
-From the ashes of despair, **[[oversee/factions/Will of Grin|Will of Grin]]** was born.
+From the ashes of despair, **[[oversee/factions/Will of Grin]]** was born.
 
 ## The Will of Grin
 
-The organization was founded by [[oversee/npcs/Hildag Grin|Hildag Grin]] — the Weaver, the former Wakil Pertahanan of the One Voice Commonwealth, the woman who had defected after the Initial Six disappeared. She had been building the organization for centuries, in secret, waiting for the right moment.
+The organization was founded by [[oversee/npcs/Hildag Grin]] — the Weaver, the former Wakil Pertahanan of the One Voice Commonwealth, the woman who had defected after the Initial Six disappeared. She had been building the organization for centuries, in secret, waiting for the right moment.
 
-Hildag's daughter-in-law — [[oversee/npcs/Geneva Grin|Geneva Grin]] — and her son — [[oversee/npcs/Accarus Grin|Accarus]] — became the Smiling Hand, the co-leaders of field operations. Geneva was not a great warrior. She was not a charismatic orator. But she had unwavering conviction and a vision far beyond her time. Accarus was the muscle. Geneva was the brain. Together, they executed Hildag's design.
+Hildag's daughter-in-law — [[oversee/npcs/Geneva Grin]] — and her son — [[oversee/npcs/Accarus Grin|Accarus]] — became the Smiling Hand, the co-leaders of field operations. Geneva was not a great warrior. She was not a charismatic orator. But she had unwavering conviction and a vision far beyond her time. Accarus was the muscle. Geneva was the brain. Together, they executed Hildag's design.
 
 Not to attack the world that hated them — that would only justify the stigma. Not to hide and hope to be forgotten — that was the same as surrender. Their goal was greater than revenge or self-protection.
 
-**[[oversee/factions/Will of Grin|Will of Grin]]** stood on two main goals.
+**[[oversee/factions/Will of Grin]]** stood on two main goals.
 
-**The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **Gavaevodata Grin** and **[[oversee/npcs/Zargoth|Zargoth]]** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
+**The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **[[oversee/npcs/Gavaevodata Grin]]** and **[[oversee/npcs/Zargoth]]** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
 
 **The second goal was to find the truth.** They wanted to uncover the reason behind Atreus's sudden disappearance. What really happened at **[[The Great Disappearance]]**? Why did the six greatest heroes of their age vanish without a trace? And most importantly — why did Atreus, the only hero of the marginalized, **never return**?
 
@@ -196,13 +198,13 @@ No further explanation. No hint of what it meant. Only **six words** that became
 
 The members of Will of Grin interpreted this message in different ways, depending on who was asked and how deeply they were involved in the organization's secrets.
 
-For most members, **Emelanica was the Answer Key**. They believed that the green stone, with its absolute knowledge, could reveal what had really happened to **[[oversee/lore/The Initial Six|The Initial Six]]**. With Emelanica, they could see the past — witness with their own eyes how Atreus disappeared — and find the truth long hidden. With that truth, they could clear Atreus's name and — by extension — clear the name of the entire Grin bloodline.
+For most members, **Emelanica was the Answer Key**. They believed that the green stone, with its absolute knowledge, could reveal what had really happened to **[[oversee/lore/The Initial Six]]**. With Emelanica, they could see the past — witness with their own eyes how Atreus disappeared — and find the truth long hidden. With that truth, they could clear Atreus's name and — by extension — clear the name of the entire Grin bloodline.
 
-For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **[[oversee/items/Emelanica|Emelanica]]**, **[[oversee/items/Safayer|Safayer]]**, **[[oversee/items/Rubion|Rubion]]**, **[[oversee/items/Topaju|Topaju]]** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
+For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **[[oversee/items/Emelanica]]**, **[[oversee/items/Safayer]]**, **[[oversee/items/Rubion]]**, **[[oversee/items/Topaju]]** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
 
-But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]**, to the still-living child of **[[Ratu Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
+But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[oversee/npcs/Lei Alejandro]]**, to the still-living child of **[[Ratu Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
 
-**[[oversee/factions/Will of Grin|Will of Grin]]** was easy to recognize — not by uniform or emblem, but by the **cursed smile** that never faded from their faces. In a world that hated them for that smile, they made it their identity, their badge among peers. The eternal smile was their uniform, their flag, their proof that they were part of something greater than themselves.
+**[[oversee/factions/Will of Grin]]** was easy to recognize — not by uniform or emblem, but by the **cursed smile** that never faded from their faces. In a world that hated them for that smile, they made it their identity, their badge among peers. The eternal smile was their uniform, their flag, their proof that they were part of something greater than themselves.
 
 They called themselves **Pirizia** — a group of fighters fiercely solid, loyal, and fanatical about the truth and honor of their tribe. Their solidarity was so strong that to outsiders they seemed an indivisible whole. They would only truly open up and trust fellow Grin descendants, because only they could understand the burden they carried. The outside world often saw them as cold, closed, full of suspicion — and that was true. Years of persecution had taught them that **trust is a luxury that must be paid for dearly**.
 
@@ -214,21 +216,21 @@ Below her was **The Smiling Hand** — an executive position held by **Accarus**
 
 At the bottom layer stood the **Grinners** — the field troops who were the backbone of the organization. They were faceless soldiers, without names, without individuality. A Grinner had no personal ambition, no desire beyond the mission. They were trained to obey, to move as one unit, to sacrifice themselves without hesitation if necessary. To the outside world, they were just terrifying smiles emerging from the shadows, carrying out tasks, then vanishing again. But inside the organization, they were **family** — a large family united by the same curse, the same persecution, the same determination to change the world.
 
-In their underground headquarters in **[[oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, **[[oversee/factions/Will of Grin|Will of Grin]]** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **[[oversee/lore/The Initial Six|The Initial Six]]**.
+In their underground headquarters in **[[oversee/locations/Maw Desert]]**, Pirizia, **[[oversee/factions/Will of Grin]]** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **[[oversee/lore/The Initial Six]]**.
 
-They knew **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** was still alive somewhere. They knew **[[Klan Lei]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
+They knew **[[oversee/npcs/Lei Alejandro]]** was still alive somewhere. They knew **[[Klan Lei]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
 
-But they were not afraid. They were the descendants of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth|Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
+But they were not afraid. They were the descendants of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
 
-And in the heart of every member of **[[oversee/factions/Will of Grin|Will of Grin]]**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
+And in the heart of every member of **[[oversee/factions/Will of Grin]]**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
 
 ## The Keeper of Secret
 
-**[[oversee/factions/Keeper of Secret|Keeper of Secret]]** was a secret organization in Oversee, dedicated to finding the truth about the disappearance of **[[oversee/lore/The Initial Six|The Initial Six]]**.
+**[[oversee/factions/Keeper of Secret]]** was a secret organization in Oversee, dedicated to finding the truth about the disappearance of **[[oversee/lore/The Initial Six]]**.
 
-The organization was officially founded by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]** — daughter of **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** and **[[oversee/npcs/Reins|Reins]]** — who was the key witness to the entire incident.
+The organization was officially founded by **[[oversee/npcs/Mira Nouveau]]** — daughter of **[[oversee/npcs/Atlan Nouveau]]** and **[[oversee/npcs/Reins]]** — who was the key witness to the entire incident.
 
-At the time of the event, Mira was likely still a teenager. She witnessed with her own eyes how **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** used the power of **[[oversee/items/Emelanica|Emelanica]]** — the pure elemental stone — not to create, but to **erase**.
+At the time of the event, Mira was likely still a teenager. She witnessed with her own eyes how **[[oversee/npcs/Lei Alejandro]]** used the power of **[[oversee/items/Emelanica]]** — the pure elemental stone — not to create, but to **erase**.
 
 The main and core mission of this organization was to preserve and reveal the true fate of Mira's father, **[[oversee/npcs/Atlan Nouveau|Atlan]]**.
 
@@ -350,7 +352,7 @@ He never looked back.
 
 ## The Will of Grin
 
-At the **Will of Grin** headquarters in **[[oversee/locations/Maw Desert|Maw Desert]]**, Pirizia, Accarus stayed and healed.
+At the **Will of Grin** headquarters in **[[oversee/locations/Maw Desert]]**, Pirizia, Accarus stayed and healed.
 
 He was surrounded by people with the same smile — humans, elves, dwarves, halflings, all races with one thing in common: **an eternal smile that never faded**.
 
@@ -422,7 +424,7 @@ Years later, fate brought him to **Elis**.
 
 A sheep merchant he knew offered him work on the other continent. Antrem — who had no ties left in Rioquan — accepted.
 
-In Elis, he met **[[oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** — a woman from a minor noble family who was not particularly ambitious.
+In Elis, he met **[[oversee/npcs/Vreina Arleschia]]** — a woman from a minor noble family who was not particularly ambitious.
 
 Vreina was drawn to this quiet young man — not for his wealth or his looks, but for his **simplicity**. In her eyes, Antrem was unlike other men who only wanted to raise their status by marrying a noble. He only wanted to live quietly, tend sheep, and perhaps one day have a family.
 
@@ -482,7 +484,7 @@ She did not know that this was the last time she would see her husband.
 
 **~683 AV**
 
-**[[oversee/npcs/Vreina Arleschia|Vreina Arleschia]]** was not a foolish woman.
+**[[oversee/npcs/Vreina Arleschia]]** was not a foolish woman.
 
 She knew who had come for her husband — **Accarus**, leader of **Will of Grin**, a secret organization fighting for the fate of his people, the people with the **eternal smile**.
 
@@ -568,9 +570,9 @@ She only knew that her father had gone to a far place, that her mother had staye
 
 **~694 AV**
 
-**[[oversee/pcs/Zure Ama|Zure Ama]]** fell into **Oversee**.
+**[[oversee/pcs/Zure Ama]]** fell into **Oversee**.
 
-He landed in **[[oversee/locations/Nesia Town|Nesia Town]]** — a farming village in Harka. He was found by **[[oversee/npcs/Joni|Joni]]** and **[[oversee/npcs/Siti|Siti]]**, a kind couple who adopted him and taught him to farm.
+He landed in **[[oversee/locations/Nesia Town]]** — a farming village in Harka. He was found by **[[oversee/npcs/Joni]]** and **[[oversee/npcs/Siti]]**, a kind couple who adopted him and taught him to farm.
 
 He had no memory of how he had arrived. He only knew he was far from home — from **Aede**, from **Reins**, from everything he had lost.
 
@@ -582,7 +584,7 @@ But he never stopped searching. He never stopped hoping that one day he would fi
 
 **~700 AV — Flash-Forward to Campaign Present**
 
-One of the strongest **[[oversee/lore/The Echoes|Echoes]]** was **[[oversee/npcs/Sam Hurls|Sam Hurls]]**.
+One of the strongest **[[oversee/lore/The Echoes|Echoes]]** was **[[oversee/npcs/Sam Hurls]]**.
 
 As a bard, his life was music. His melody was everything.
 
@@ -590,7 +592,7 @@ When his soul was sucked into **[[oversee/npcs/Simon Greenbottle|Simon]]** witho
 
 Centuries after that ritual, **Echo Sam Hurls found his way out**.
 
-He was drawn to **[[Ghuffghuff]]** — a place with a strong connection to **[[oversee/npcs/Gordon|Gordon]]**, the student of **[[oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
+He was drawn to **[[Ghuffghuff]]** — a place with a strong connection to **[[oversee/npcs/Gordon]]**, the student of **[[oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
 
 In Ghuffghuff, **Echo Sam took a horrifying form**.
 
@@ -598,7 +600,7 @@ He became a pale creature with many human-like heads. Each head was a fragment o
 
 The creature sang, and its song was a **trap**.
 
-Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[oversee/npcs/Yahanda|Yahanda]]** and **[[Faska]]**.
+Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[oversee/npcs/Yahanda]]** and **[[Faska]]**.
 
 The creature was not evil in the ordinary sense. It was only **hungry** — hungry for life, for energy, for something to fill the emptiness left by a fractured soul.
 
@@ -624,22 +626,22 @@ He was only waiting — echoing between worlds — waiting for someone brave eno
 
 Other Echoes might also be waiting in other places.
 
-- **[[oversee/npcs/Atreus Grin|Atreus Grin]]** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
-- **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** might echo in the mountains of **Elis**, near the clan he left behind.
-- **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** might echo in the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**, or on the shore where he first found **[[oversee/npcs/Reins|Reins]]**.
-- **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** might echo in the villages he once protected, or within **[[oversee/npcs/Gordon|Gordon]]** and later **[[oversee/pcs/Husgus|Husgus]]**, who inherited his teachings without knowing where they came from.
+- **[[oversee/npcs/Atreus Grin]]** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
+- **[[oversee/npcs/Gzirmo Kopling]]** might echo in the mountains of **Elis**, near the clan he left behind.
+- **[[oversee/npcs/Atlan Nouveau]]** might echo in the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**, or on the shore where he first found **[[oversee/npcs/Reins]]**.
+- **[[oversee/npcs/Olaf Guirela]]** might echo in the villages he once protected, or within **[[oversee/npcs/Gordon]]** and later **[[oversee/pcs/Husgus]]**, who inherited his teachings without knowing where they came from.
 
 They wait, these Echoes. Waiting for the moment to speak again — to finish what was interrupted at that altar.
 
-And **[[oversee/factions/Keeper of Secret|Keeper of Secret]]** — the organization founded by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]** — continues to guard this secret. Not only the betrayal of **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]**, but also the **hope** that one day, in ways they do not yet understand, the Echoes might find **peace**.
+And **[[oversee/factions/Keeper of Secret]]** — the organization founded by **[[oversee/npcs/Mira Nouveau]]** — continues to guard this secret. Not only the betrayal of **[[oversee/npcs/Lei Alejandro]]**, but also the **hope** that one day, in ways they do not yet understand, the Echoes might find **peace**.
 
 ## Gordon Meets Husgus
 
 **~690 AV**
 
-Forty years after the war ended, **[[oversee/npcs/Gordon|Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[Hutan Domido]]**.
+Forty years after the war ended, **[[oversee/npcs/Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[Hutan Domido]]**.
 
-His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **[[oversee/npcs/Sam Hurls|Sam Hurls]]** had taught him.
+His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **[[oversee/npcs/Sam Hurls]]** had taught him.
 
 One morning, when fog still covered the trees, Gordon saw something strange.
 
@@ -671,7 +673,7 @@ In those empty eyes, he saw something familiar. Not as a human — but as a **mi
 
 Slowly, he said that the child might not know who he was, but he knew his name — and that was enough to start.
 
-With worn cloth he wrapped the small body, gave him the name **[[oversee/pcs/Husgus|Husgus]]**, and said the child would stay here with him until he found his answer.
+With worn cloth he wrapped the small body, gave him the name **[[oversee/pcs/Husgus]]**, and said the child would stay here with him until he found his answer.
 
 For the first time, there was a little light in Husgus's eyes — perhaps a question, perhaps hope.
 
@@ -707,7 +709,7 @@ Gordon answered with a bitter smile: **he should live, learn, become strong, and
 
 **~695 AV**
 
-**[[oversee/npcs/Malakor|Malakor]]** — one of the few people who still remembered Gordon — was a wizard who had sided with **Gudameng** during the war. A fanatic who believed **fried noodles were sacred**.
+**[[oversee/npcs/Malakor]]** — one of the few people who still remembered Gordon — was a wizard who had sided with **Gudameng** during the war. A fanatic who believed **fried noodles were sacred**.
 
 But what few knew: **Malakor was an agent of the Commonwealth**.
 
@@ -725,7 +727,7 @@ One night in **695 AV**, while **Gordon** sat in front of his hut singing the ol
 
 They came like shadows. Dozens of armed men.
 
-**[[oversee/pcs/Husgus|Husgus]]** — who was hunting deer in another part of the forest — heard strange sounds. He ran home. But he was **too late**.
+**[[oversee/pcs/Husgus]]** — who was hunting deer in another part of the forest — heard strange sounds. He ran home. But he was **too late**.
 
 **Gordon fought bravely.**
 
@@ -849,7 +851,7 @@ After leaving **Hutan Domido**, **Husgus wandered without purpose**, searching f
 
 Years later, in **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, the name **Gordon** was almost forgotten.
 
-But the **melody** that **[[oversee/npcs/Sam Hurls|Sam Hurls]]** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
+But the **melody** that **[[oversee/npcs/Sam Hurls]]** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
 
 Children sang it without knowing what it meant. Mothers hummed it while putting babies to sleep. Farmers whistled it while working in the fields.
 
@@ -863,6 +865,193 @@ What they dug up in the ancient underground city, what artifacts they found — 
 
 In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
 
-But the fire of his struggle **continued to burn** — in **[[oversee/pcs/Husgus|Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
+But the fire of his struggle **continued to burn** — in **[[oversee/pcs/Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 
 Because **Gordon had taught**: sometimes, all that is needed is **one voice loud enough** to disturb the sleep of the powerful.
+::/pf
+
+%% DM SECRETS %%
+
+## The Truth Beyond the Player-Facing Text
+
+The player-facing text above is the **Keeper of Secret's archive entry** for the Power Surge era, supplemented by **Grin oral history** and **Gordon's testimony**. It is accurate in its broad strokes — but it omits several truths.
+
+### What the Party Does Not Know Yet
+
+**The Gunung Rayu project is not just an excavation.**
+
+It is a **Cycle Clan seed vault** — a smaller version of the **[[The Bahtera Bawah Tanah|Bahtera Bawah Tanah]]**. Inside: a fragment of the **[[oversee/lore/The Edisi Law|Edisi Law]]**, a **Topaju fragment**, and a **cryo-pod with a preserved Cycle Clan member**. This is how **[[Valerius Thorne]]** learned about the Edisi Law and the override clause. He found it here.
+
+**The Gruffgud War was engineered by the Commonwealth.**
+
+Not just "encouraged" — **engineered**. The Commonwealth agents who started the war were following orders from the top of the Triase. The war was designed to last centuries, to keep both villages weak and distracted, while the excavation at Gunung Rayu proceeded.
+
+**Gordon was right about everything.**
+
+He was not mad. He was not demented. He was **the only person in the region who saw the truth** — and he was silenced, exiled, and mocked for it. His grave is still in Hutan Domido. His bow still stands as a marker. And his voice — the voice of the **Noisy Rhino** — still echoes in the memory of anyone who ever heard him.
+
+**Malakor was not acting alone.**
+
+He was an agent of the **Commonwealth** — specifically, of **[[Valerius Thorne]]**. Valerius personally ordered Gordon's death. He knew Gordon had been investigating Gunung Rayu. He knew Gordon was the last living witness to the conspiracy. And he knew that as long as Gordon lived, the truth could resurface.
+
+**Valerius's order:** *"Kill the old dwarf. Burn the hut. Destroy every trace of his investigation. And if the child survives... bring him to me."*
+
+Malakor failed the last part. He did not bring Husgus to Valerius. He tried to kill him instead.
+
+**Husgus's transformation was not caused by Malakor's spell.**
+
+Malakor's spell triggered it — but the transformation was always going to happen. Husgus is **HVS-01** — the **Human Vessel Shell** designed to hold **[[oversee/lore/The Overseer & The Architect|the Architect]]**. The shell was never filled. In the emptiness, a new soul grew — **Husgus's soul**.
+
+The golden light was not magic. It was **the Architect's old structure showing through** — the Inbu-inspired biology that Wiseman had built into the shell, now visible beneath the surface of a mortal life.
+
+**When Malakor's spell hit Husgus, it triggered the shell's emergency protocol:** *"If the shell is ever damaged and the vessel is still empty, collapse to the smallest possible form and seal the golden cracks."*
+
+Husgus became a halfling because the shell needed a smaller body to contain the damage.
+
+**Husgus has no idea what he is.**
+
+He thinks his transformation was a curse — some random magical backlash from Malakor's spell. He does not know he is a **vessel**. He does not know his body was designed to hold a god.
+
+**The melody Sam taught Gordon is a key.**
+
+It is not just a song. It is a **resonance** — a specific frequency that can attract **Echoes**. When it is sung in **[[Ghuffghuff]]**, it draws **Echo Sam** to the village. When it is sung in other places, it may draw other Echoes.
+
+The children of Ghuffghuff have been singing it for centuries without knowing what it does. They have been **calling Echo Sam** without realizing it.
+
+**Vreina is still alive.**
+
+She was not killed by Will of Grin. She was not killed by the Commonwealth. She was **taken** — by agents of **[[oversee/npcs/Lei Firsa]]**, who wanted to know what Antrem had told her about the Gemhearts. She is being held in a **secret Commonwealth facility in Elis**.
+
+The facility is the real reason **[[Valerius Thorne|Valerius]]** is "reconstructing" **[[Chenalia]]**. The village is a cover for an excavation.
+
+**Kopling is not just an old wanderer.**
+
+He is **[[oversee/npcs/Gzirmo Kopling]]**'s distant relative — from the same dragonborn bloodline that produced the tinker of **[[oversee/lore/The Initial Six|The Initial Six]]**. He carries the same diluted blood, the same faint connection to the ancient dragons. He knows more about the Kopling lineage than he lets on.
+
+He also knows **the secret of the Vessel Shells** — though he does not know that Husgus is one. He suspects. He has been watching. And he has been waiting.
+
+**Accarus's true mission for Antrem.**
+
+When **Accarus** came to **Chenalia** to take **Antrem** away, he told Vreina it was for a "greater purpose." The truth is darker: **Accarus needed Antrem's blood** — the weak Lei Firage blood — to perform a ritual. He believed that mixing his own blood with Antrem's could create a **new spark** — a fire strong enough to one day challenge the true heirs of Lei Firage.
+
+Antrem did not know this. He went willingly. He believed he was helping his brother.
+
+He has been in **Maw Desert** ever since — not as a prisoner, but as a **guest who cannot leave**. He is not allowed to see Vya. He is not allowed to write to her. He is not allowed to know what his blood is being used for.
+
+He is a **resource**, not a brother.
+
+**The truth about Antrem's "simple" nature.**
+
+Antrem is not actually simple-minded. He is **genuinely simple**. His simplicity is the result of Hildag's experiments, The Great Strike, and the separation from his twin. He is not drugged. He is not pretending. He is a kind, quiet man who has been used his whole life.
+
+**The truth about Darvin Thorne.**
+
+**Darvin is the True Heir of Lei Roiga — by blood, not by stone.**
+
+He carries the **claim** to **Topaju**. He does not carry the stone itself.
+
+**Lei Alejandro holds Topaju.** He found it centuries ago in the ruins of a Lei Roiga temple. He has kept it hidden ever since. He will give it to the party if they prove they are worthy.
+
+**Valerius is hunting Darvin for a lie.** He believes Darvin carries Topaju. He is wrong. He has been hunting his brother for years, trying to kill him and claim the Gemheart. He will not find it. He will only find his brother's corpse — and the knowledge that he killed him for nothing.
+
+**If Valerius kills Darvin, nothing will happen.** Topaju will still be with Lei Alejandro. The earth will not destabilize. Valerius will have killed his brother for nothing.
+
+**Darvin can sense Topaju.** He can feel it. He can hear it. He has been hearing it his whole life. He does not know what it is. He only knows he can feel the earth — he can sense the stone that is not his.
+
+**Darvin does not know he is the True Heir.** He does not know Topaju exists. He only knows he can feel the earth — and that it has been calling to him his whole life.
+
+**If Darvin survives and meets Lei Alejandro**, he will feel the Topaju. He will know it is real. He will know he was not crazy. He will weep. He will say: *"I thought I was broken. I was just listening."*
+
+### The Major Contradictions to Resolve
+
+**Contradiction 1: Gordon's Age at Death (Resolved)**
+
+- This document says **Gordon was over 400 years old in 650 AV** and **died in 695 AV** at around **470-500 years old**.
+- **`Gordon.md`** (character file) says he was **over 500 years old when he died** in 695 AV.
+- **`Timeline of Oversee.md`** says he was born **~180 AV** and was 515+ when he died.
+
+**Resolution: Gordon was born ~180 AV.** He was **over 500 years old** when he died in **695 AV**. The Gustaero bow **slowed his aging dramatically**. The "grew into a young man" section in 240 AV is a **flashback** to his youth — not what was happening in 240 AV. By 240 AV, he was 60 — but the Gustaero bow had slowed his aging. He looked young. He was not young.
+
+**Contradiction 2: The Olaf/Sam Meeting Date (Resolved)**
+
+- I placed the Olaf/Sam meeting at **~190 AV** in `Initial Six Era.md`.
+- This document says **Gordon grew into a strong young man in 240 AV** — 50 years later.
+
+**Resolution: Gordon was born ~180 AV.** The Olaf/Sam meeting happened when he was ~10 years old — around **190 AV**. By 240 AV, he was 60 — old for a human, but not old for someone touched by Gustaero. The Gustaero bow **slowed his aging dramatically**.
+
+### New NPCs Discovered
+
+- **`Kopling.md`** — Vya's adoptive father, dragonborn-blooded wanderer. **Needs a file.** (Tier 1 — critical for Vya's arc.)
+- **`Bernard.md`** — the old priest who held Swaith in Dur-Khazim. **Needs a file.** (Tier 3 DM-only.)
+- **`Malakor.md`** — already has a file. ✅
+
+### When the Party Learns the Truth
+
+- **Session 3** — The party learns about **Echo Sam** and the melody.
+- **Session 5** — The party learns about the **Initial Six** betrayal.
+- **Session 8–10** — The party reaches **Gunung Rayu**. They learn about the Commonwealth's secret project and the truth about the Gruffgud War.
+- **Session 11** — **Lei Firsa** — or her legacy — reveals the truth about **Antrem's captivity**, **Vreina's location**, the **Vessel Shells**, and **Topaju's true location**.
+- **Endgame** — The party decides what to do with this knowledge.
+
+### What This Document Is
+
+This is the **Keeper of Secret's archive entry** for the Power Surge era. It is accurate in its broad strokes but **sanitized** — it omits the truth about Antrem's captivity, Vreina's captivity, the Vessel Shells, and Topaju's true holder.
+
+The truth is in the DM secrets.
+
+The party will have to decide how much of the Keeper's version to trust.
+
+## Connections to Other Lore
+
+- **`Initial Six Era.md`** — the previous era
+- **`The First God.md`** — the era before that
+- **`Age of Nurturing.md`** — the era before that
+- **`Age of Knowledge.md`** — the era before that
+- **`Beginning of Time.md`** — the first age
+- **`Before Oversee.md`** — the primordial era
+- **`Gordon.md`** — the hunter, the Noisy Rhino
+- **`Husgus.md`** — HVS-01, Gordon's student
+- **`Accarus Grin.md`** — the leader of Will of Grin
+- **`Antrem Klaus.md`** — Vya's father, the captive twin
+- **`Vreina Arleschia.md`** — Vya's mother, held in Elis
+- **`Vya Arleschia.md`** — the daughter of Antrem and Vreina
+- **`Geneva Grin.md`** — Accarus's wife
+- **`Hildag Grin.md`** — the Weaver
+- **`Will of Grin.md`** — the organization founded by Hildag
+- **`Keeper of Secret.md`** — Mira's organization
+- **`Mira Nouveau.md`** — Atlan's daughter
+- **`Sam Hurls.md`** — the Echo of the bard
+- **`The Echoes.md`** — the fragments of the six heroes
+- **`Malakor.md`** — Gordon's killer
+- **`Kopling.md`** — Vya's adoptive father
+- **`Gunung Rayu.md`** — the secret excavation site
+- **`Hutan Domido.md`** — the forest where Gordon lived and died
+- **`Ghuffghuff.md`** — the village of fried rice
+- **`Gudameng Town.md`** — the village of fried noodles
+- **`Maw Desert.md`** — Will of Grin headquarters
+- **`Chenalia.md`** — Vya's burned village
+- **`Gustaero — The Swan Bow.md`** — Gordon's bow, passed to Husgus
+- **`Topaju.md`** — the Gemheart held by Lei Alejandro
+- **`Lei Darvin Thorne.md`** — the True Heir of Lei Roiga by blood
+- **`Lei Valerius Thorne.md`** — the twin who hunts Darvin for a lie
+- **`Swaith.md`** — the soul-thirsting blade, used to free Echo Sam
+- **`The Great Strike.md`** — the meteor that split Rioquan
+
+## Timeline Note
+
+The Power Surge era spans roughly **500 years** — from 201 AV (after the initial Six Era) to 699 AV (the year before the campaign).
+
+The era ends when **[[oversee/pcs/Zure Ama]]** falls into Oversee in **694 AV**, and the last of the **Five Sticks** is in place for the campaign to begin in **700 AV**.
+
+**Suggested edits to existing files:**
+- `Gordon.md` — update his birth year and clarify the Gustaero aging effect
+- `Husgus.md` — add the detail about his transformation during Malakor's attack
+- `Kopling.md` — **needs creation** (Tier 1)
+- `Bernard.md` — **needs creation** (Tier 3)
+- `Malakor.md` — add that he was Valerius's agent
+- `The Great Strike.md` — **needs creation** (or a section in the Timeline)
+- `Sam Hurls.md` — update to reflect the truth about the melody
+- `Vreina Arleschia.md` — add the truth about her captivity in the DM secrets
+- `Antrem Klaus.md` — add the truth about his simplicity in the DM secrets
+- `Lei Darvin Thorne.md` — confirm the claim-only status
+- `Topaju.md` — confirm Lei Alejandro holds the stone

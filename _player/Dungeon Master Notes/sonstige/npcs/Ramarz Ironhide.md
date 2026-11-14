@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/npcs/Ramarz Ironhide.md"
+type: Sonstige NPC
+role: Brougha's Father, Former Jounce Professional Athlete, The Ironhide Reversal
+faction: Ironhide Family / Everglade Academy (alumni)
+home: The Azures, Southwest Calamara
+status: alive
+first_seen: Session 01 (family scene)
+universe: Sonstige
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Ayah Brougha. Atlet Jounce profesional. Pelopor manuver *"Ironhide Reversal."*
 > **Where:** The Azures, Southwest Calamara
@@ -26,3 +31,19 @@ pfn-source: "Dungeon Master Notes/sonstige/npcs/Ramarz Ironhide.md"
 - Sedang mempertimbangkan karier sebagai pelatih.
 - Pelopor manuver *"Ironhide Reversal."*
 - Sangat mendukung Brougha — tapi sedikit khawatir dengan keputusan Brougha meninggalkan Jounce demi sastra.
+::/pf
+
+%% DM SECRETS %%
+- Ramarz adalah **legenda Jounce** di Calamara. Namanya dikenal oleh penggemar Jounce. Manuver *"Ironhide Reversal"* adalah manuver ikoniknya — membalikkan posisi lawan di udara dengan kekuatan tubuh.
+- Ia **tidak keberatan** Brougha mendalami sastra. Ia hanya khawatir Brougha **meninggalkan Jounce terlalu cepat** — sebelum Brougha benar-benar tahu siapa dirinya.
+- Ia **tahu** tentang Lilia. Ia tidak pernah bertanya. Ia hanya berharap Brougha tidak menyakiti dirinya sendiri.
+- Ia **tahu** tentang Jounce. Ia tidak memainkannya — ia adalah atlet Jounce generasi lama. Tapi ia menghormati Jounce sebagai olahraga yang lebih tua.
+- **DM Note:** Ramarz adalah ayah yang baik. Ia bukan antagonis. Ia adalah orang tua yang mencoba memahami anaknya — dan kadang gagal.
+
+## Connections
+- `Brougha Ironhide.md` — anaknya
+- `Shazara Ironhide.md` — istrinya
+- `Gargathun Ironhide.md` — anak keduanya
+- `The Azures.md` — tempat tinggalnya
+- `Everglade Academy.md` — almamaternya
+- `Jounce.md` — olahraganya

@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/lore/R.A.I.B..md"
+type: Sonstige Lore
+universe: Sonstige
 ---
-
+::pf
 > [!info] R.A.I.B
 > Rekahan Anomali Ingatan Buram. Seseorang dihapus dari ingatan dan catatan. Hanya rahasia yang bisa memulihkan mereka.
 
@@ -27,3 +27,19 @@ pfn-source: "Dungeon Master Notes/sonstige/lore/R.A.I.B..md"
 ## What the Party Knows
 - RAIB menghapus orang dari ingatan.
 - Hanya rahasia yang bisa memulihkan mereka.
+::/pf
+
+%% DM SECRETS %%
+- RAIB bukan kecelakaan. RAIB adalah **harga** dari baterai.
+- Setiap kali baterai memakan energi, ia meninggalkan lubang. Lubang itu adalah RAIB.
+- **The Hidden Garden** di sekolah adalah tempat buah berbentuk kepala bayi tumbuh. Buah itu adalah manifestasi dari envy — iri hati — yang dikumpulkan baterai.
+- **X** adalah orang yang iri. **Y** adalah orang yang diinginkan hidupnya.
+- X memakan buah. Y menjadi RAIB. X mendapatkan hidup Y.
+- **The Black Cloak Figure** muncul di setiap RAIB. Ia adalah agen yang mengisi lubang — memastikan tidak ada yang mengingat Y.
+- **Restorasi** hanya mungkin jika ada seseorang yang mengingat Y — dan mengingat rahasia yang tidak diketahui X. Rahasia itu adalah jangkar. Rahasia itu adalah bukti bahwa Y pernah ada.
+
+## Connections
+- `SO2 The School Battery.md` — sumber RAIB
+- `The Hidden Garden.md` — tempat buah tumbuh
+- `The Black Cloak Figure.md` — agen yang muncul saat RAIB
+- `Bellweather.md` — entitas yang memanen envy

@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Maw Desert.md"
+type: Oversee Location
+parent_location: Pirizia East
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Pirizia East
 > **Notable People:** [[oversee/npcs/Accarus Grin|Accarus]], Geneva, Hildag
@@ -17,9 +18,14 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Maw Desert.md"
 
 ## What Happened Here
 - The party trained and rested here ([[oversee/sessions/Session 05 — Empty Husk|Session 05]]).
-- [[oversee/npcs/Jarko|Jarko]] was killed here.
+- [[oversee/npcs/Jarko]] was killed here.
 - [[oversee/npcs/Lei Iron Gort|Gort]]'s raid destroyed the upper floors.
 - Vya reunited with Antrem here.
 
 ## Current State
 - Damaged but functional. The Grin survivors are scattered.
+::/pf
+
+%% DM SECRETS %%
+- The Maw Desert hideout was built on top of an older Cycle Clan site.
+- There are sealed lower levels no one has opened in centuries.

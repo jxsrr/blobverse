@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Grilnax.md"
+type: Oversee NPC
+role: Goblin Guild Clerk
+faction: The Yawning Guild
+home: Yawning Town
+status: alive
+first_seen: Session 01
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Registration clerk at The Yawning Guild
 > **Where:** Yawning Town
@@ -14,3 +19,8 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Grilnax.md"
 - Transactional. Wants to finish his shift.
 - Dreams of opening a **grilled mushroom tavern** when he retires.
 - Registered the Five Sticks as a party. Gave them their first mission.
+::/pf
+
+%% DM SECRETS %%
+- [[oversee/npcs/Grilnax]] is a contact point between Keeper of Secret and adventurers.
+- He knows more about the guild's true purpose than he lets on.

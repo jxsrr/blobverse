@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Dima Island.md"
+type: Oversee Location
+parent_location: Between Harka and Pirizia
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Tropical island between Harka and Pirizia
 > **Notable People:** [[oversee/npcs/Guanik Smith|Guanik]] (deceased), Janja (deceased), Dontol, Huan, Nila
@@ -15,9 +16,15 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Dima Island.md"
 
 ## What Happened Here
 - The party recovered from Greyland Castle.
-- Will of Grin (led by [[oversee/npcs/Jarko|Jarko]]) attacked and burned the village.
+- Will of Grin (led by [[oversee/npcs/Jarko]]) attacked and burned the village.
 - Guanik and Janja were killed. Huan and Nila survived (if the party saved them).
-- The party defeated [[oversee/npcs/Jarko|Jarko]] and took the **ruby (Rubion?)**.
+- The party defeated [[oversee/npcs/Jarko]] and took the **ruby (Rubion?)**.
 
 ## Current State
 - Abandoned. Burned. A memorial to the party's first failure.
+::/pf
+
+%% DM SECRETS %%
+- Dontol (the eldest son) survived. His current whereabouts are unknown.
+- The "giant crab" was a kobold. The shell collection was a fake quest to test the party's kindness.
+- [[oversee/npcs/Guanik Smith|Guanik]]'s family carried the last fragment of the **Shell video** before it was taken to Arujaya.

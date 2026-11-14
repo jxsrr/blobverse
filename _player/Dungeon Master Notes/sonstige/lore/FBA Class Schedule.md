@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/lore/FBA Class Schedule.md"
+type: Sonstige Lore
+universe: Sonstige
+era: Modern
 ---
-
+::pf
 > [!info] Jadwal Kelas FBA
 > FBA adalah sekolah **pulang-pergi** — siswa masuk kelas pagi, pulang sore. Ini adalah jadwal mingguan dan detail hari kedua (pertama kalinya masuk kelas).
 
@@ -124,3 +125,41 @@ pfn-source: "Dungeon Master Notes/sonstige/lore/FBA Class Schedule.md"
 ### 17:30 — Gerbang Ditutup
 - Siswa pulang ke rumah masing-masing.
 - **DM Note:** Akhiri sesi dengan perjalanan pulang — atau dengan momen di rumah masing-masing. Mungkin salah satu PC menemukan sesuatu yang aneh di rumah. Mungkin The Bell berbunyi lagi di kejauhan.
+::/pf
+
+%% DM SECRETS %%
+
+### Session 2 — What's Really Happening
+- **Hari kedua adalah hari pertama party benar-benar masuk kelas.** Ini adalah kesempatan untuk membangun hubungan dengan para guru — dan untuk memperkenalkan misteri-misteri kecil yang akan meledak nanti.
+- **Dr. Ope adalah kunci.** Ia adalah satu-satunya guru yang **tahu** tentang masa depan — atau setidaknya, tentang kemungkinan. Tarot reading di kelas adalah cara ia "menguji" party — bukan untuk menilai mereka, tapi untuk melihat **kemungkinan** mereka.
+- **Kartu tarot yang mereka tarik adalah canon.** Ini bukan acak. Setiap kartu adalah petunjuk tentang arc masing-masing PC:
+  - **Brougha — The Lovers (terbalik):** Cinta yang hilang, pilihan yang salah, hubungan yang tidak bisa kembali.
+  - **Zenroy — The Hermit:** Pencarian, kesendirian, kebijaksanaan yang datang dari dalam.
+  - **Mya — Death:** Perubahan, pembusukan, siklus alam.
+  - **Vivienne — The Tower:** Kehancuran, pembebasan, kebenaran yang menyakitkan.
+- **Lilia muncul di PE.** Ini adalah pertama kalinya Brougha melihat Lilia sejak mereka putus. DM harus membangun ketegangan — jangan terburu-buru. Tidak ada percakapan. Hanya tatapan.
+- **Maestro Lorenzo mencari Brougha setelah kelas.** Ia ingin berbicara tentang *Lumen Arash* — dan tentang Lilia. Ia mungkin memberikan petunjuk tentang catatan pinggir di buku itu.
+
+### Dr. Ope — The Tarot Scene (Expanded)
+- Dr. Ope **tidak** menggunakan tarot untuk meramal. Ia menggunakannya untuk **memahami**.
+- Setiap siswa yang mengambil kartu akan mendapatkan satu kalimat dari Dr. Ope — tidak lebih. Kalimat itu adalah **petunjuk**, bukan ramalan.
+- **Jika party bertanya tentang kartu mereka**, Dr. Ope akan tersenyum. *"Kartu itu tidak menentukan masa depanmu. Kartu itu hanya menunjukkan apa yang sudah ada di dalam dirimu."*
+- **DM Note:** Jangan jelaskan arti kartu sepenuhnya. Biarkan pemain menafsirkannya sendiri. Ini adalah **hook** untuk arc mereka.
+
+### Lilia di PE — What She's Doing
+- Lilia datang ke PE untuk **mengawasi** latihan Jounce. Ia kapten tim varsity — ia punya tanggung jawab untuk melihat calon pemain.
+- Ia **melihat Brougha**. Ia tidak mendekat. Ia tidak berbicara. Tapi ia **melihat**.
+- **DM Note:** Jika Brougha mencoba mendekati Lilia, Lilia akan **menghindar** — dengan sopan, tapi jelas. *"Maaf, aku harus memeriksa sesuatu."* Ia akan pergi.
+- **Jika Brougha tidak mendekati Lilia**, Lilia akan **tetap di pinggir lapangan** — mengamati, tapi tidak berbicara. Mungkin ia akan pergi sebelum kelas selesai.
+
+### Maestro Lorenzo — After Class
+- Setelah kelas Literature, Lorenzo akan mendekati Brougha. *"Kau membawa Lumen Arash. Kau sudah sampai halaman berapa?"*
+- Jika Brougha menjawab "41," Lorenzo akan tersenyum. *"Halaman 41. Halaman yang bagus. Kau menemukan catatan di sana?"*
+- **DM Note:** Lorenzo tahu tentang catatan Lilia. Ia mungkin tidak mengatakan apa-apa secara langsung. Tapi ia akan memberikan petunjuk — *"Buku itu punya banyak lapisan. Seperti orang. Kau harus membaca lebih dari sekali."*
+
+### What's Next (Session 3)
+- RAIB pertama terjadi.
+- The Black Cloak Figure muncul lagi.
+- The Bell berbunyi — dan kali ini, seseorang hilang.
+- Lilia dan Brougha mungkin berbicara — atau tidak.
+- Dr. Ope mungkin memberikan ramalan yang lebih serius.

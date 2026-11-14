@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/pcs/Vivienne Ashbourne.md"
+type: Sonstige PC
+class: Wizard
+player: Gladys
+universe: Sonstige
 ---
-
+::pf
 > [!info] The Party
 > **Class:** Wizard
 > **Role:** Scholar, investigator, keeper of the family secret
@@ -112,3 +114,61 @@ pfn-source: "Dungeon Master Notes/sonstige/pcs/Vivienne Ashbourne.md"
 
 ## Current Goal
 Find the truth about the Ashbourne manuscript. Prove herself beyond her family name. (And maybe make a friend who sees her as Vivienne, not Ashbourne.)
+::/pf
+
+%% DM SECRETS %%
+
+### Who Vivienne Is
+- Putri keluarga penyihir tua yang kehilangan kejayaannya. Bukan bangsawan kaya. Bukan penyihir kuat. Hanya **Ashbourne** — nama yang dulu berarti sesuatu, tapi sekarang hanya gema.
+- **Terbiasa** dengan ekspektasi, aturan tidak tertulis, perpustakaan sunyi, manor muram.
+- Tapi ia **ingin lebih**. Ingin menemukan sesuatu yang **miliknya sendiri**. Ingin menjadi **Vivienne** — bukan **Ashbourne**.
+- **Lebih ambisius** dari yang ia akui. Ia tidak hanya ingin belajar. Ia ingin **menemukan**. Ia ingin **mengungkap**. Ia ingin **membuktikan** bahwa ia lebih dari nama keluarganya.
+- **Manuskrip itu adalah kuncinya.** Manuskrip itu adalah **tujuan** ia masuk FBA. Bukan hanya untuk belajar — untuk **menemukan jawaban**.
+
+### The RAIB Question — Player Input
+- Player menjawab **"Yes"** — Vivienne pernah mengingat sesuatu yang tidak pernah terjadi, dan ingatan itu terasa lebih nyata daripada ingatannya sendiri.
+- **Isi ingatan itu BELUM ditentukan.** Ini adalah hook DM-player. Kemungkinan arah:
+  - Apakah Vivienne ingat **anggota keluarga yang tidak ada** — saudara yang seharusnya ada tapi tidak ada?
+  - Apakah Vivienne ingat **Ashbourne yang seharusnya** — keluarga yang masih berjaya, masih lengkap?
+  - Apakah Vivienne ingat **diri sendiri** dari kehidupan sebelumnya?
+  - Apakah Vivienne ingat **manuskrip yang belum dihapus** — versi lengkap dari manuskrip yang ia temukan?
+- **DM harus berdiskusi dengan Gladys** untuk menentukan isi ingatan itu.
+
+### Vivienne and the Manuscript
+- Manuskrip itu **bukan sekadar catatan**. Itu adalah **peta**. Peta menuju sesuatu yang **sengaja dihapus** dari sejarah keluarga.
+- **Simbol-simbol** di manuskrip itu mungkin mirip dengan simbol Void. Mungkin mirip dengan simbol FBA. Mungkin mirip dengan simbol Bellweather.
+- **DM must decide:**
+  - Apakah manuskrip itu adalah **catatan tentang FBA**?
+  - Apakah itu adalah **catatan tentang baterai**?
+  - Apakah itu adalah **catatan tentang Bride of Bellweather**?
+  - Apakah itu adalah **catatan tentang RAIB** — dan cara memulihkannya?
+- **Bagian yang dihapus** mungkin adalah **bagian yang paling penting**. Mungkin **nama**. Mungkin **lokasi**. Mungkin **kebenaran**.
+
+### Vivienne and the Ashbourne Secrets
+- Keluarga Ashbourne **menyembunyikan sesuatu**. Manuskrip itu adalah buktinya.
+- **Apa yang mereka sembunyikan?** Kemungkinan:
+  - Keterlibatan dalam **baterai FBA** — mungkin mereka adalah salah satu pendiri, atau salah satu korban.
+  - Keterlibatan dalam **RAIB** — mungkin mereka adalah beneficiary, atau victim, atau keduanya.
+  - Keterlibatan dalam **Bellweather** — mungkin mereka adalah bagian dari keluarga, atau sekutu, atau musuh.
+  - Keterlibatan dalam **Void** — mungkin mereka tahu tentang Overseer, tentang Rapture, tentang seal.
+- **DM should decide** before Vivienne finds the erased parts of the manuscript.
+
+### Vivienne's Role in the Campaign
+- **Sarjana** party. Membaca buku kuno, memecahkan teka-teki, menemukan kebenaran.
+- **Misteri** party. Punya manuskrip yang tidak bisa dibaca. Punya ingatan yang tidak seharusnya.
+- **Diplomat** party — dengan nama Ashbourne yang bisa membuka pintu.
+
+### Vivienne's Fate
+- Jika Vivienne menemukan **bagian yang dihapus** dari manuskrip, ia mungkin bisa membaca apa yang ia tulis. Ia mungkin bisa memahami simbol-simbol itu. Ia mungkin bisa menemukan **kebenaran** tentang keluarganya — dan tentang FBA.
+- Jika Vivienne menemukan **RAIB residue pada dirinya sendiri**, ia mungkin bisa memulihkan **kehidupan yang hilang**. Tapi ia harus **mengingat rahasia** tentang dirinya sendiri — rahasia yang bahkan ia tidak tahu.
+- Jika Vivienne menjadi RAIB, ia akan dihapus dari ingatan semua orang. Tapi party akan mengingatnya — karena mereka punya **rahasia tentangnya**. Rahasia itu mungkin adalah **manuskripnya** — atau **simbol-simbol yang ia salin**.
+
+### Connections
+- `Ashbourne Family.md` — keluarganya (needs file)
+- `Ashbourne Manor.md` — rumahnya (needs file)
+- `The Manuscript.md` — manuskrip yang ia temukan (needs file)
+- `R.A.I.B.md` — fenomena
+- `The Bell.md` — mitos
+- `Mr. Elias.md` — guru History
+- `Prof. Quill.md` — guru Civics & Law
+- `The Free Bird Academy.md` — sekolah

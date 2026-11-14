@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Nesia Town.md"
+type: Oversee Location
+parent_location: West Harka (rural)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** West Harka
 > **Notable People:** Hora, Abu, Joni (formerly), Siti (formerly)
@@ -15,10 +16,16 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Nesia Town.md"
 - **Habara Cemetery** — old, quiet, overgrown.
 
 ## What Happened Here
-- The party tried to buy milk for HVS ([[oversee/sessions/Session 06 — Ethical Choices|Session 06 — Ethical Choices]]).
+- The party tried to buy milk for HVS ([[oversee/sessions/Session 06 — Ethical Choices]]).
 - Vya tried to milk the male rhino "Steve" and was kicked for 22 damage.
 - They stole the milk. Fled.
 - **Joni and Siti betrayed Ama** to the Commonwealth.
 
 ## Current State
 - Under heavy Commonwealth surveillance. Joni and Siti still run The Golden Sheaf.
+::/pf
+
+%% DM SECRETS %%
+- Joni and Siti were not always brainwashed. Their loyalty was bought with promises of safety.
+- They genuinely believe Ama is a terrorist. They are not evil — they are scared.
+- If the party ever returns, they will have to face the people who raised Ama. This is a Season 3 emotional beat.

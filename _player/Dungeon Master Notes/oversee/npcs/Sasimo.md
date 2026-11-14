@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Sasimo.md"
+type: Oversee NPC
+role: Dock Boss, Will of Grin Agent
+faction: Will of Grin (secret)
+home: Javan Town
+status: Alive
+first_seen: Session 04
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Dock boss. Smuggler. Will of Grin agent.
 > **Where:** Javan Town Docks
@@ -21,3 +26,11 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Sasimo.md"
 
 ## Current Goal
 Smuggle weapons. Protect his crew.
+::/pf
+
+%% DM SECRETS %%
+- Sasimo's mechanical hand is a **Grin artifact**. It was made by [[oversee/npcs/Hildag Grin|Hildag]] herself.
+- He lost his real hand in a Commonwealth raid. He was saved by [[oversee/npcs/Accarus Grin|Accarus]].
+- He is fiercely loyal to [[oversee/npcs/Accarus Grin|Accarus]]. He would die for him.
+- He knows about the **Bahtera Bawah Tanah**. He has never been there, but he knows it exists.
+- If the party is sent by [[oversee/npcs/Accarus Grin|Accarus]], he will give them a **hidden compartment** on his ship. It contains weapons, gold, and a **map to the Ark**.

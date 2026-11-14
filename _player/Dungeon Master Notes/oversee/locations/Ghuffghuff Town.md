@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Ghuffghuff Town.md"
+type: Oversee Location
+parent_location: West Harka
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** West Harka
 > **Notable People:** Memeng, Cindy, Herman, Faska (deceased)
@@ -21,3 +22,9 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Ghuffghuff Town.md"
 
 ## Current State
 - Half-ruined. Rebuilding. Cindy (the Mektol orphan) runs the Legendary Noodle Temple in Gudameng now.
+::/pf
+
+%% DM SECRETS %%
+- The village's "song" was Echo Sam's unfinished melody from the ritual.
+- The villagers sing it without knowing why.
+- The melody is a key to finding Echo Sam's remains (if the party ever wants to).

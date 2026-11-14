@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/locations/Everglade Academy.md"
+type: Sonstige Location
+parent_location: Southwest Calamara
+universe: Sonstige
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Southwest Calamara
 > **Status:** Rival school. Famous for Jounce program.
@@ -18,3 +19,15 @@ pfn-source: "Dungeon Master Notes/sonstige/locations/Everglade Academy.md"
 - Sekolah rival FBA. Lebih fokus pada olahraga — terutama Jounce.
 - Dekat dengan rumah Brougha.
 - Keluarga Brougha sebenarnya lebih memilih Brougha masuk sini.
+::/pf
+
+%% DM SECRETS %%
+- Everglade Academy adalah **sekolah olahraga** — bukan sekolah akademik. Fokusnya pada Jounce, atletik, dan kompetisi.
+- **Tidak ada hubungannya dengan Bellweather.** Everglade adalah sekolah normal.
+- **DM Note:** Everglade adalah "jalan yang tidak diambil" Brougha. Ini adalah pembanding — untuk menunjukkan bahwa Brougha **memilih** FBA, bukan karena terpaksa.
+
+## Connections
+- `Brougha Ironhide.md` — calon siswa yang memilih FBA
+- `Ramarz Ironhide.md` — alumni / kenalan
+- `The Azures.md` — kompleks terdekat
+- `Jounce.md` — olahraga utama

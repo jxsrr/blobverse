@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Muangching Bay.md"
+type: Oversee Location
+parent_location: North Harka (coastal)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** North Harka
 > **Notable People:** Ibu Sari (lemonade seller)
@@ -16,3 +17,9 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Muangching Bay.md"
 
 ## Current State
 - Ordinary fishing town. Nothing special. That is why it is useful — the Commonwealth doesn't watch it.
+::/pf
+
+%% DM SECRETS %%
+- Muangching is a Will of Grin safe harbor. The innkeeper is a Grin agent.
+- Ibu Sari knows more than she lets on.
+- There is a hidden tunnel beneath the docks that leads to an underwater cave.

@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/lore/Timeline of Oversee.md"
+type: Oversee Lore
+universe: Oversee
 ---
-
+::pf
 > [!info] The Ages of the World
 > This is the history the party has pieced together from Sam's memory, Atlan's diary, the Cycle Clan files, and Rivan's notes.
 
@@ -84,3 +84,62 @@ pfn-source: "Dungeon Master Notes/oversee/lore/Timeline of Oversee.md"
 ## The Future (Unknown)
 - **~3 years from now** — The Rapture will happen again if the party does nothing.
 - **The Endgame** — The party must choose: sacrifice, bitter sacrifice, break the cycle (third path), or tyranny.
+::/pf
+
+%% DM SECRETS %%
+
+### Corrections Applied
+- **CLARIFIED:** The First Trees are **many** primordial trees — not a single dead root in Elis. The Inbu were born from their fruit. The dead root in Elis is **one of them**, 10,000 years old.
+- **CLARIFIED:** The Inbu were created **from part of the Architect itself, in its image**. They were "failed" because they held too much Ambitio-Ether. The Architect **deliberately manipulated the environment** to force differentiation — to hide them from the Overseer.
+- **CLARIFIED:** Guanik Wiseman was the **first Kanselir Agung** of the One Voice Commonwealth — not Geldfre. Geldfre came later, at the time of the Initial Six (200 AV).
+- **CLARIFIED:** The maintenance rituals for the Architect are **not** Valla replacements. The Valla has been replaced only once — Simon.
+- **CLARIFIED:** Lei Firsa was **already pregnant with quadruplets** when Simon was placed on the altar.
+- **CLARIFIED:** Simon was born **~45 BV**, not ~30 BV. He was **44 at the ritual** in 01 BV.
+- **CLARIFIED:** **Gustaero** is not one of the six blades. It is one of the three Swan relics. It was found by Gunnar Guirela, passed to Olaf, then Gordon, then Husgus.
+- **CLARIFIED:** **Swaith** is one of the six blades — but in the older canon. In the **current canon**, Swaith is one of the **Fool Trio** — not a blade of the Swan. It was magically delivered to Shin — not found as loot.
+- **CLARIFIED:** **Topaju** is with **Lei Alejandro**. The "Valerius took a fragment from Danau Kuno in 699 AV" entry is **removed**. It never happened.
+- **CLARIFIED:** **Danau Kuno** is now **Universitas Tarakita** — not Juto Port City.
+- **CLARIFIED:** **The Grace** was destroyed in **10 AV** by **Zargoyle** — not in 690 AV, not by Shin, not by Lei Firsa. Shin was a victim. He woke up **690 years later** — in **700 AV**.
+- **CLARIFIED:** **The Valla has only been replaced once** — Simon. "Dozens of Vallas" is propaganda.
+- **CLARIFIED:** **Lei Firsa's current status is ambiguous.** She may be alive, dead, or something else. The DM decides.
+- **CLARIFIED:** **The Great Strike** separated the twins — but only Antrem was swept away. Accarus survived in a cellar.
+- **REMOVED:** "Valerius took a fragment of Topaju from Observatorium Danau Kuno in 699 AV." — This never happened. Topaju is with Lei Alejandro.
+- **REMOVED:** "The four-Cipher structure." — There are no Ciphers. Rivan is the main Cycle Clan contact.
+- **REMOVED:** "Lei Firsa is the final antagonist." — Her status is ambiguous. The DM decides.
+- **REMOVED:** "Simon is the third Valla." — He is the **second** Valla. The Architect was first. There is no Echo Valla.
+- **REMOVED:** "The Cycle Clan performs a ritual to replace the Valla every few centuries." — False. The Cycle Clan performed **maintenance rituals** for the Architect. The Valla was replaced only once.
+- **REMOVED:** "The Great Strike separated both twins." — Only Antrem was separated. Accarus survived in a cellar.
+- **REMOVED:** "The Grace fell in 690 AV." — The Grace fell in **10 AV**. Shin woke up 690 years later, in **700 AV**.
+
+### Date Calculation Note — The Grace
+- **Original source said:** "The Grace fell in 690 AV. Shin woke up 690 years later."
+- **Mathematical problem:** If The Grace fell in 690 AV and Shin woke 690 years later, he would wake in 1380 AV — not 700 AV.
+- **Resolution:** The Grace fell in **10 AV** (690 years before the current campaign in 700 AV). This makes Shin ~700+ years old in the present era — which matches his description as "over 700 years old."
+
+### Open Questions for the DM
+- **Is Lei Firsa alive or dead?** This determines the final antagonist.
+- **Does Darvin survive Session 8?** If yes, he can join the party as a guide to Topaju.
+- **Does Vythrax survive the campaign?** She is dying. She will likely die protecting Syl.
+- **Does Oldrunn survive the campaign?** She is old. She will likely die before the end.
+- **Does Syl survive the campaign?** He is dying from the Safayer fragment. The Behemoth's Tear can save him.
+- **Does Shin release Zargoth before or during the third path?** This determines whether Zargoyle is released too.
+
+## Connections to Other Lore
+- `The Valla's History.md` — the full history of the Valla
+- `The Cycle Ritual.md` — the maintenance ritual
+- `The Edisi Law.md` — the promise Guanik signed
+- `The Gemhearts.md` — the four stones
+- `The Swan, the Bat, and the Fool.md` — the three trios
+- `The Echoes.md` — the fragments of the Initial Six
+- `The Grace's Fall.md` — the disaster in Elis
+- `The Gruffgud War.md` — the war Gordon ended
+- `The Great Strike.md` — the disaster that separated the twins
+- `Guanik Wiseman.md` — the first Kanselir Agung
+- `Lei Firsa.md` — the ambiguous founder of Klan Lei
+- `Lei Alejandro.md` — the man who fed Simon
+- `Lei Watigi.md` — the man who raped Vythrax
+- `Vythrax.md` — the silver dragon, dying
+- `Syl Frost.md` — the son of Vythrax, dying
+- `Vya Arleschia.md` — Hildag's magnum opus
+- `Darvin Thorne.md` — the True Heir of Lei Roiga by blood
+- `The Endgame Paths.md` — the four paths

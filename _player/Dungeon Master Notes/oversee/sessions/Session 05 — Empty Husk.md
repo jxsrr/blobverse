@@ -1,44 +1,45 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/sessions/Session 05 — Empty Husk.md"
+type: Oversee Session
+session_number: 5
+universe: Oversee
 ---
-
+::pf
 > [!teaser] Previously...
 > The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.
 
 ## Part 1: The Body of a Bard
 
-They sailed on the same ship that had carried them from **[[Pulau Dima]]** to **[[Kota Juto]]** — but now it belonged to **[[oversee/factions/Will of Grin|Will of Grin]]**.
+They sailed on the same ship that had carried them from **[[Pulau Dima]]** to **[[Kota Juto]]** — but now it belonged to **[[oversee/factions/Will of Grin]]**.
 
-**[[oversee/npcs/Accarus Grin|Accarus]]** was with them. So was the body of **[[oversee/npcs/Sam Hurls|Sam Hurls]]** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
+**[[oversee/npcs/Accarus Grin|Accarus]]** was with them. So was the body of **[[oversee/npcs/Sam Hurls]]** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
 
 During the voyage, **[[oversee/pcs/Syl Frost|Syl]]** — who had spent long nights with the **Berkas Penelitian Cycle Clan** at the Lyceum — finally understood what the four gems were.
 
 > *"They are not separate treasures. They are organs of a single being — the Architect. Together, they are called the **Gemhearts**."*
 
 She named them:
-- **[[oversee/items/Emelanica|Emelanica]]** — green, time and mana flow
-- **[[oversee/items/Safayer|Safayer]]** — blue, purification of souls
-- **[[oversee/items/Rubion|Rubion]]** — red, instant annihilation
-- **[[oversee/items/Topaju|Topaju]]** — yellow, structure and stability
+- **[[oversee/items/Emelanica]]** — green, time and mana flow
+- **[[oversee/items/Safayer]]** — blue, purification of souls
+- **[[oversee/items/Rubion]]** — red, instant annihilation
+- **[[oversee/items/Topaju]]** — yellow, structure and stability
 
 The party had two of these. They needed the other two.
 
 Later, they asked about the legendary weapons — the six blades of Simon Greenbottle's legacy. Accarus answered:
 
 - **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — Accarus carried it
-- **Rayio** — lost in **[[Hutan Garberro]]**
-- **Kkana** — carried by **[[oversee/npcs/Mira Nouveau|Mira Nouveau]]**
-- **Frostfang** — lost in **[[oversee/locations/Frosthaven Peak|Frosthaven Peak]]**
-- **Zenahhi** — lost in **[[Ngarai Ratapan]]**
-- **Terrde** — lost in the ruins of the Rapture
+- **[[oversee/items/Rayio — The Wind Blade|Rayio]]** — lost in **[[Hutan Garberro]]**
+- **[[oversee/items/Kkana — The Stone Greatsword|Kkana]]** — carried by **[[oversee/npcs/Mira Nouveau]]**
+- **[[oversee/items/Frostfang — The Ice Fang|Frostfang]]** — lost in **[[oversee/locations/Frosthaven Peak]]**
+- **[[oversee/items/Zenahhi — The Loyal Blade|Zenahhi]]** — lost in **[[Ngarai Ratapan]]**
+- **[[oversee/items/Terrde — The Patient Blade|Terrde]]** — lost in the ruins of the Rapture
 - **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — in **[[oversee/pcs/Shin Van Hel|HVS]]**'s hand
 
 ## Part 2: The Memory of Sam Hurls
 
 They entered the cabin where Sam's body lay.
 
-**[[oversee/pcs/Husgus|Husgus]]** touched it first.
+**[[oversee/pcs/Husgus]]** touched it first.
 
 The world went cold. Then white. Then **gone**.
 
@@ -46,23 +47,23 @@ They woke in a room that was not a room. Blackness, and stars, and the feeling o
 
 But they were not themselves.
 
-**[[oversee/pcs/Husgus|Husgus]]** looked down at his hands and saw the hands of a half-orc, old and scarred. **[[Vya Arleschia|Vya]]** felt a beard on her face. **[[oversee/pcs/Syl Frost|Syl]]** was a dragon of orange-gold scales. **[[oversee/pcs/Zure Ama|Ama]]** felt the weight of a sailor's coat. **[[oversee/pcs/Shin Van Hel|HVS]]** was shorter, grey-skinned, smiling with the eternal grin of a Grin.
+**[[oversee/pcs/Husgus]]** looked down at his hands and saw the hands of a half-orc, old and scarred. **[[Vya Arleschia|Vya]]** felt a beard on her face. **[[oversee/pcs/Syl Frost|Syl]]** was a dragon of orange-gold scales. **[[oversee/pcs/Zure Ama|Ama]]** felt the weight of a sailor's coat. **[[oversee/pcs/Shin Van Hel|HVS]]** was shorter, grey-skinned, smiling with the eternal grin of a Grin.
 
-They were inside the memory of **[[oversee/npcs/Sam Hurls|Sam Hurls]]** — playing the roles of the **[[oversee/lore/The Initial Six|Initial Six]]**.
+They were inside the memory of **[[oversee/npcs/Sam Hurls]]** — playing the roles of the **[[oversee/lore/The Initial Six|Initial Six]]**.
 
 They could not speak freely. The memory forced words from their mouths, one after the other, in the order Sam had remembered.
 
-> **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]** *(through Vya)*: *"Do not look down. Look at the vortex. What we begin today will be the foundation of a thousand years of peace in Oversee."*
+> **[[oversee/npcs/Lei Alejandro]]** *(through Vya)*: *"Do not look down. Look at the vortex. What we begin today will be the foundation of a thousand years of peace in Oversee."*
 
-> **[[oversee/npcs/Atreus Grin|Atreus Grin]]** *(through HVS)*: *"Ah, the earth trembles so much! I can feel the roots moving — opening their mouths to welcome our sweet flesh!"*
+> **[[oversee/npcs/Atreus Grin]]** *(through HVS)*: *"Ah, the earth trembles so much! I can feel the roots moving — opening their mouths to welcome our sweet flesh!"*
 
-> **[[oversee/npcs/Sam Hurls|Sam Hurls]]**: *"Listen to the melody... not a fanfare of victory, but a quiet requiem creeping from behind the stars. Beautiful. And deadly."*
+> **[[oversee/npcs/Sam Hurls]]**: *"Listen to the melody... not a fanfare of victory, but a quiet requiem creeping from behind the stars. Beautiful. And deadly."*
 
-> **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]** *(through Syl)*: *"Position locked. Energy parameters stable in the red zone. Lei, make sure your calculations for the containment capacity are accurate."*
+> **[[oversee/npcs/Gzirmo Kopling]]** *(through Syl)*: *"Position locked. Energy parameters stable in the red zone. Lei, make sure your calculations for the containment capacity are accurate."*
 
-> **[[oversee/npcs/Atlan Nouveau|Atlan Nouveau]]** *(through Ama)*: *"My thoughts drift to Reins and Mira... something tells me tomorrow's sun will feel colder than usual."*
+> **[[oversee/npcs/Atlan Nouveau]]** *(through Ama)*: *"My thoughts drift to Reins and Mira... something tells me tomorrow's sun will feel colder than usual."*
 
-> **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]** *(through Husgus)*: *"You talk too much of flowers. Focus! My skin is crawling, and not because of your magic. Something is **wrong** here."*
+> **[[oversee/npcs/Olaf Guirela]]** *(through Husgus)*: *"You talk too much of flowers. Focus! My skin is crawling, and not because of your magic. Something is **wrong** here."*
 
 > **Alejandro**: *"Do not fear the pain. Pain is only a signal that we are trading the mortal for the absolute."*
 
@@ -96,12 +97,12 @@ Sam's face was peaceful. But they knew now that he had not died in peace.
 
 ## Part 3: The Smiling Heirs
 
-They arrived at **[[oversee/locations/Maw Desert|Maw Desert]]** — the Will of Grin's underground base, three basement floors deep beneath the sand and stone.
+They arrived at **[[oversee/locations/Maw Desert]]** — the Will of Grin's underground base, three basement floors deep beneath the sand and stone.
 
 They met the Grin family:
-- **[[oversee/npcs/Geneva Grin|Geneva Grin]]** — Accarus's wife, kind but hard
-- **[[oversee/npcs/Hildag Grin|Hildag Grin]]** — Geneva's mother, old, sharp-eyed, always smiling
-- **[[oversee/npcs/Jarko|Jarko]]** — Accarus and Geneva's son. **Vya's cousin.** Their fathers — Accarus and **[[oversee/npcs/Antrem Klaus|Antrem]]** — were twins.
+- **[[oversee/npcs/Geneva Grin]]** — Accarus's wife, kind but hard
+- **[[oversee/npcs/Hildag Grin]]** — Geneva's mother, old, sharp-eyed, always smiling
+- **[[oversee/npcs/Jarko]]** — Accarus and Geneva's son. **Vya's cousin.** Their fathers — Accarus and **[[oversee/npcs/Antrem Klaus|Antrem]]** — were twins.
 
 Hildag, they learned, was a **cartographer**. She had spent her entire life mapping the world — and had never finished. No one had. She gave them her map — incomplete, marked with blank spaces — and asked them to finish it.
 
@@ -131,7 +132,7 @@ She also gave them a letter. **Atreus Grin's** last words, written before the ri
 
 **[[Vya Arleschia|Vya]]** finally met her father.
 
-**[[oversee/npcs/Antrem Klaus|Antrem Klaus]]** was not what she expected.
+**[[oversee/npcs/Antrem Klaus]]** was not what she expected.
 
 He was a simple man. Slow. Kind. Not clever. He looked at Vya the way a dog looks at the sun — glad that it exists, unsure of what it means.
 
@@ -139,7 +140,7 @@ He explained that he had not been kidnapped. He had not been held. He had been *
 
 He did not seem to understand what he had done. He did not seem to know the cost.
 
-Vya also learned that the man who had raised her — **[[Kopling]]** — shared a surname with **[[oversee/npcs/Gzirmo Kopling|Gzirmo Kopling]]**, one of the Initial Six. Distant relatives. Or perhaps closer than anyone had realized.
+Vya also learned that the man who had raised her — **[[Kopling]]** — shared a surname with **[[oversee/npcs/Gzirmo Kopling]]**, one of the Initial Six. Distant relatives. Or perhaps closer than anyone had realized.
 
 Two mysteries remained:
 - **Who burned Chenalia?** Will of Grin was blamed. But Will of Grin had not been in Elis at the time. Someone else had done it.
@@ -149,11 +150,11 @@ Two mysteries remained:
 
 A new mission arrived.
 
-**Retrieve Safayer** from the belly of the silver dragon **[[oversee/npcs/Vythrax|Vythrax]]** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **[[oversee/locations/Frosthaven Peak|Frosthaven Peak]]**, in the village of **[[Frostheart Village|Frostheart]]** — **[[oversee/pcs/Syl Frost|Syl]]**'s birthplace.
+**Retrieve Safayer** from the belly of the silver dragon **[[oversee/npcs/Vythrax]]** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **[[oversee/locations/Frosthaven Peak]]**, in the village of **[[Frostheart Village|Frostheart]]** — **[[oversee/pcs/Syl Frost|Syl]]**'s birthplace.
 
-Accarus equipped them with anti-freeze gear, potions, and heavy cloaks. **[[oversee/pcs/Husgus|Husgus]]** asked for **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — the bow Accarus carried, the bow that had belonged to **[[oversee/npcs/Olaf Guirela|Olaf Guirela]]**, then **[[oversee/npcs/Gordon|Gordon]]**, then Husgus. Accarus said he would give it to him after the mission.
+Accarus equipped them with anti-freeze gear, potions, and heavy cloaks. **[[oversee/pcs/Husgus]]** asked for **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — the bow Accarus carried, the bow that had belonged to **[[oversee/npcs/Olaf Guirela]]**, then **[[oversee/npcs/Gordon]]**, then Husgus. Accarus said he would give it to him after the mission.
 
-They departed: the Five Sticks, Accarus, **[[oversee/npcs/Antrem Klaus|Antrem]]**, and **[[oversee/npcs/Jarko|Jarko]]**.
+They departed: the Five Sticks, Accarus, **[[oversee/npcs/Antrem Klaus|Antrem]]**, and **[[oversee/npcs/Jarko]]**.
 
 The journey from desert to ice took days. The temperature dropped with every mile.
 
@@ -216,7 +217,7 @@ Vythrax descended — but not in peace. She was **in rampage mode** — poisoned
 
 They obeyed.
 
-The party improvised. **Renal** — Ama's Imp — was wrapped in Husgus's rope and mixed with Syl's blood in HVS's holy water bottle. The plan: get Vythrax to drink.
+The party improvised. **[[oversee/items/Renal]]** — Ama's Imp — was wrapped in Husgus's rope and mixed with Syl's blood in HVS's holy water bottle. The plan: get Vythrax to drink.
 
 **Syl** stepped forward and offered the bottle.
 
@@ -238,13 +239,13 @@ They carved **Syl Frost** onto the family mural.
 
 ## Part 8: The Raid
 
-Five days passed. The party had earned Will of Grin's trust. **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** was given to **[[oversee/pcs/Husgus|Husgus]]**.
+Five days passed. The party had earned Will of Grin's trust. **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** was given to **[[oversee/pcs/Husgus]]**.
 
-They trained in **Basement 3** with **[[oversee/npcs/Jarko|Jarko]]**.
+They trained in **Basement 3** with **[[oversee/npcs/Jarko]]**.
 
 But something was wrong. The upstairs was too quiet.
 
-**Renal** and HVS's familiar scouted. They returned with a report: **infiltrators had taken out every guard.**
+**[[oversee/items/Renal]]** and HVS's familiar scouted. They returned with a report: **infiltrators had taken out every guard.**
 
 Accarus, Antrem, Geneva, and Hildag were **not in the building**.
 
@@ -256,7 +257,7 @@ Ama fell. The other four fought — and won.
 
 They healed. And then, from above, they felt it.
 
-**[[oversee/npcs/Lei Iron Gort|Lei Iron Gort]]**.
+**[[oversee/npcs/Lei Iron Gort]]**.
 
 The party tried a **Minor Illusion** — a false report that everyone on Basement 2 was dead. The illusion flickered in front of Gort as he sat smoking a cigarette.
 
@@ -264,7 +265,7 @@ Gort did not laugh.
 
 He put out his cigarette. He struck the wooden floor with his fist — and **shattered two floors**.
 
-The party and **[[oversee/npcs/Jarko|Jarko]]** fell to the bottom level.
+The party and **[[oversee/npcs/Jarko]]** fell to the bottom level.
 
 Gort descended slowly. The wind around him was **visible** — swirling, choking. Each of them felt their throat close. They could not breathe. They could not move.
 
@@ -294,7 +295,7 @@ They guessed at directions. They dodged patrols. They were wanted criminals of t
 
 Each of them changed.
 
-- **[[oversee/pcs/Husgus|Husgus]]** trained in stealth. He learned to move without sound, without trace. He became a rogue. And his body began to **crack** — faint golden lines appearing across his skin, as if something inside him was pushing out.
+- **[[oversee/pcs/Husgus]]** trained in stealth. He learned to move without sound, without trace. He became a rogue. And his body began to **crack** — faint golden lines appearing across his skin, as if something inside him was pushing out.
 - **[[oversee/pcs/Shin Van Hel|HVS]]** began to worship **Valla**. He had been saved so many times — by luck, by fate, by something — that he could no longer deny it. He became a **paladin**.
 - **[[oversee/pcs/Syl Frost|Syl]]** learned to heal. She studied the sacred texts of Vythrax's clan and became a **cleric**.
 - **[[Vya Arleschia|Vya]]** felt something burning in her chest — ever since Jarko's death. A fire that had always been dormant, and was now awake.
@@ -314,7 +315,7 @@ HVS collapsed. Severe headache. He clutched his skull and fell to his knees.
 
 The others went deeper.
 
-**[[oversee/pcs/Husgus|Husgus]]**, **[[Vya Arleschia|Vya]]**, and **[[oversee/pcs/Zure Ama|Ama]]** found a **mural** — robed figures standing before a portal, with **four colored stones** set at the doorway.
+**[[oversee/pcs/Husgus]]**, **[[Vya Arleschia|Vya]]**, and **[[oversee/pcs/Zure Ama|Ama]]** found a **mural** — robed figures standing before a portal, with **four colored stones** set at the doorway.
 
 They returned to Syl.
 
@@ -323,29 +324,41 @@ She had finished translating.
 > *"HVS. Human Vessel Shell."*
 
 ## Loot & Rewards
-- **[[oversee/items/Safayer|Safayer]]** — the blue Gemheart, returned by Vythrax
+- **[[oversee/items/Safayer]]** — the blue Gemheart, returned by Vythrax
 - **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — given to Husgus
-- **Dungeon Master Notes/oversee/items/Hildag's Map** — incomplete world map
-- **Atreus's Letter** — the final words of the Grin druid
+- **[[Dungeon Master Notes/oversee/items/Hildag's Map]]** — incomplete world map
+- **[[oversee/handouts/Atreus's Letter]]** — the final words of the Grin druid
 - The truth of the Initial Six — the ritual, the betrayal, the murder
 
 ## NPCs Encountered
-- **[[oversee/npcs/Geneva Grin|Geneva Grin]]** — Accarus's wife, Jarko's mother
-- **[[oversee/npcs/Hildag Grin|Hildag Grin]]** — the Weaver, cartographer, Geneva's mother
-- **[[oversee/npcs/Jarko|Jarko]]** — Vya's cousin, killed by Iron Gort
-- **[[oversee/npcs/Antrem Klaus|Antrem Klaus]]** — Vya's father, the simple twin
-- **[[oversee/npcs/Vythrax|Vythrax]]** — the silver dragon, Syl's mother
+- **[[oversee/npcs/Geneva Grin]]** — Accarus's wife, Jarko's mother
+- **[[oversee/npcs/Hildag Grin]]** — the Weaver, cartographer, Geneva's mother
+- **[[oversee/npcs/Jarko]]** — Vya's cousin, killed by Iron Gort
+- **[[oversee/npcs/Antrem Klaus]]** — Vya's father, the simple twin
+- **[[oversee/npcs/Vythrax]]** — the silver dragon, Syl's mother
 - **The Cabbage Merchant** — Syl's adoptive parent
-- **[[oversee/npcs/Elder Jarl|Elder Jarl]]** — leader of the Klan Frostscale elders
-- **[[oversee/npcs/Lei Iron Gort|Lei Iron Gort]]** — Wakil Pertahanan, killed Jarko
+- **[[oversee/npcs/Elder Jarl]]** — leader of the Klan Frostscale elders
+- **[[oversee/npcs/Lei Iron Gort]]** — Wakil Pertahanan, killed Jarko
 
 ## Locations Visited
-- **[[oversee/locations/Maw Desert|Maw Desert]]** — the Will of Grin headquarters
-- **[[oversee/locations/Frosthaven Peak|Frosthaven Peak]]** — the mountain of the silver dragon
+- **[[oversee/locations/Maw Desert]]** — the Will of Grin headquarters
+- **[[oversee/locations/Frosthaven Peak]]** — the mountain of the silver dragon
 - **[[Frostheart Village|Frostheart]]** — Syl's birthplace
-- **[[oversee/locations/The Temple of Vythrax|The Temple of Vythrax]]** — the holy shrine
+- **[[oversee/locations/The Temple of Vythrax]]** — the holy shrine
 - **The Ruin of Cycle** — the Cycle Clan ruin
 
 ## Sessions Chain
 - **Previous:** [[Session 04 — The Festival (Full Recap)|Session 04]]
 - **Next:** [[Session 06 — The Underground (Full Recap)|Session 06]]
+::/pf
+
+%% DM SECRETS %%
+- **The Initial Six were murdered by Lei Alejandro** to feed **Simon** — the current Valla — whose soul was cracking. This was the first **Divine Hunger** ritual in 500 years.
+- **Atreus's letter is addressed to Vya** — through the Grin bloodline. He knew his descendants would one day read it.
+- **Hildag realized Vya is the True Heir** — not Jarko. In the chaos of Iron Gort's attack, she made the cold calculation: leave Jarko to die as a decoy, save Vya as the hope of the revolution. **Accarus agreed.** They teleported away with an emergency scroll. **They never told Vya.**
+- **Jarko had no "Spark."** He was a fire mage, but not a True Heir. His death was **calculated** — a sacrifice for the greater good. This is the darkest secret Will of Grin carries.
+- **Vythrax is still weak.** Safayer was poisoning her for 300 years. She can fight if called, but it will cost her.
+- **Syl's blood now contains traces of Safayer** — she is a universal antidote, and she is slowly dying.
+- **The "wandering demon"** that rescues Syl in Session 7 (from The Depths) is likely **[[oversee/npcs/Zargoth]]** — the fragment of the Grin father inside HVS. The party does not know this yet.
+- **HVS's collapse at the Ruin of Cycle** was caused by his own body reacting to the truth. He is HVS-02. The Ruin was designed for him. **Husgus is HVS-01.** The party will discover this in Season 3.
+- **Session 05 stakes:** The party learned the truth of the Initial Six — the betrayal, the murder, the sacrifice. They chose to fight on. They lost Jarko. They gained a dragon. They lost their innocence.

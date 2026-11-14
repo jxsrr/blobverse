@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Adam Findias.md"
+type: Oversee NPC
+role: Arujaya Local, Guide
+faction: Arujaya
+home: Arujaya (The Stack)
+status: alive
+first_seen: Session 06
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Local boy who guided the party through Arujaya
 > **Where:** Arujaya (The Stack)
@@ -18,3 +23,9 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Adam Findias.md"
 
 ## Current Goal
 Survive. Learn. Maybe leave Arujaya one day.
+::/pf
+
+%% DM SECRETS %%
+- Adam's mechanical heart was installed by Dr. Vektor after a mining accident.
+- Adam's parents are dead. He doesn't talk about it.
+- He has a map of the sealed lower levels of Arujaya. He will give it to the party if they return.

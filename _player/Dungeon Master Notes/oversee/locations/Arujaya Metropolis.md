@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/locations/Arujaya Metropolis.md"
+type: Oversee Location
+parent_location: Elis (underground)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Part of:** Beneath Elis
 > **Notable People:** Adam, Dr. Vektor, Echo Gzirmo
@@ -19,3 +20,9 @@ pfn-source: "Dungeon Master Notes/oversee/locations/Arujaya Metropolis.md"
 - Ama got a new arm ([[oversee/sessions/Session 06 — Ethical Choices|Session 06]]).
 - Syl saw the Overseer ([[oversee/sessions/Session 07 — Opressed|Session 07]]).
 - The party escaped with Livia as hostage.
+::/pf
+
+%% DM SECRETS %%
+- Arujaya was built by Tinkers who rejected the Commonwealth's magic monopoly.
+- The reactor runs on Echo Gzirmo's trapped consciousness.
+- The First Tree above Arujaya was drained to build the city.

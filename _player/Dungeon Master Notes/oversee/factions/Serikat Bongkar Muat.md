@@ -1,8 +1,10 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/factions/Serikat Bongkar Muat.md"
+type: Oversee Faction
+leader: Pak Basir
+attitude_to_party: neutral (friendly if earned)
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Leader:** Pak Basir
 > **Attitude Toward Us:** Neutral (friendly if earned)
@@ -22,3 +24,10 @@ pfn-source: "Dungeon Master Notes/oversee/factions/Serikat Bongkar Muat.md"
 
 ## What They Want
 - Expose the Commonwealth's crimes. Protect their workers.
+::/pf
+
+%% DM SECRETS %%
+- Pak Basir is a **former adventurer**. He retired after his party was betrayed by the Commonwealth. He lost his brother.
+- He has a **hidden ledger** of every Commonwealth crime in Javan Town. It is enough evidence to damage the Triase.
+- He knows **Sasimo** is a Will of Grin agent. He does not care.
+- If the party helps him expose the Commonwealth, he will give them the ledger. This is a **key item** for a Season 3 political arc.

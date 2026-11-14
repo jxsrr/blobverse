@@ -1,8 +1,8 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/lore/Jounce.md"
+type: Sonstige Lore
+universe: Sonstige
 ---
-
+::pf
 > [!info] Jounce
 > Olahraga tim magis tradisional Sonstige. Berabad-abad lamanya. Bola-nya adalah makhluk hidup — **Jounceling**.
 
@@ -125,3 +125,39 @@ Catatan: Ini reputasi, bukan aturan ketat. Setiap house bisa menghasilkan pemain
 - FBA punya empat houses dan Jounce Cup.
 - The Bateleur Eagle adalah tim varsity FBA.
 - Lilia adalah kaptennya.
+::/pf
+
+%% DM SECRETS %%
+
+### Jounce — The Sport, Not the Battery
+- **Jounce TIDAK terhubung ke baterai.** Jounce adalah olahraga murni — tradisional, berabad-abad, tidak ada kaitannya dengan RAIB atau Bride of Bellweather.
+- **Jounce adalah pengalih perhatian.** Sementara semua orang fokus pada pertandingan Jounce — rivalitas house, Jounce Cup, The Bateleur Eagle — baterai bekerja di belakang layar: memanen RAIB (envy) dan menyiapkan Bride (devotion).
+- **Jounce Tokens tidak ada.** Jounce menggunakan Jounceling sebagai bola hidup.
+
+### Houses — DM Decision Required
+- **Nama house adalah DM's decision.** Placeholder di atas (Raven, Hawk, Owl, Swallow) disarankan — tema burung cocok dengan "Free Bird Academy" — tapi DM bebas mengganti dengan nama lain.
+- **PC families BUKAN houses.** Grafsten, Ironhide, Cortenya, Ashbourne adalah **nama keluarga** — bukan house. Setiap PC berasal dari keluarga tersebut, tapi **house mereka di FBA adalah terpisah**.
+- **Contoh:** Brougha Ironhide berasal dari keluarga Ironhide. Ia masuk house apa di FBA? **DM must decide** — bisa House Hawk (agresif), bisa house lain. Keluarga tidak menentukan house.
+
+### The Bateleur Eagle — Team History
+- **The Bateleur Eagle = tim varsity Jounce FBA.** BUKAN house team. Ini adalah all-star team dari empat houses.
+- **2016 — The Bateleur Incident:** Tim varsity Jounce FBA tahun 2016 dihapus oleh RAIB massal di tengah pertandingan. Coach Garrick (saat itu siswa, kapten) adalah satu-satunya yang ingat. Ia tidak tahu apa yang terjadi — hanya timnya hilang.
+- **2026:** Lilia Etheridge II menjadi kapten The Bateleur Eagle. Tidak ada yang tahu bahwa tim ini punya nama lama — karena 2016 dihapus dari ingatan semua orang.
+
+### Jounceling — Not Void-Touched
+- Jounceling **bukan** bagian dari RAIB atau Bride. Ini makhluk alami — bagian dari olahraga Jounce.
+- Jounceling **hidup**. Ia bisa mati. Jounceling profesional yang pensiun sering diadopsi.
+- Breeder Jounceling **ada**. Bloodline tertentu sangat dicari. Ini adalah industri nyata di Sonstige.
+- **Rekomendasi:** Jounceling **tidak** punya hubungan dengan Void. Ini menjauhkan Jounce dari plot baterai dan membuatnya murni olahraga.
+
+## Connections
+- `Brougha Ironhide.md` — pemain Jounce dari keluarga Ironhide (house TBD)
+- `Mya Cortenya.md` — dari keluarga Cortenya (house TBD)
+- `Vivienne Ashbourne.md` — dari keluarga Ashbourne (house TBD)
+- `Zenroy Dala.md` — disponsori keluarga Grafsten (house TBD)
+- `Lilia Etheridge II.md` — kapten The Bateleur Eagle
+- `Coach Garrick.md` — coach The Bateleur Eagle, kapten 2016
+- `The Free Bird Academy.md` — sekolah
+- `SO3 The Three Dates.md` — 2016 Bateleur Incident
+- `Jounceling.md` — makhluk bolanya
+- `The Hidden Garden.md` — milik Bellweather (sangat rahasia)

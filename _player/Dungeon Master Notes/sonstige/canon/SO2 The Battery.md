@@ -1,8 +1,9 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/sonstige/canon/SO2 The Battery.md"
+type: Sonstige Lore
+universe: Sonstige
+era: Modern
 ---
-
+::pf
 > [!info] Baterai Sekolah
 > **The Free Bird Academy (FBA)** dijadikan baterai untuk menebalkan Void. Tapi bukan lewat olahraga — lewat **RAIB** dan **Bride of Bellweather**.
 
@@ -46,3 +47,29 @@ Baterai memanen energi melalui **dua cara**:
 - Alumni dikirim dan tidak pernah terlihat lagi.
 - Ada Black Cloak Figure.
 - Ada The Bell yang berbunyi sebelum ujian, dansa, dan kelulusan.
+::/pf
+
+%% DM SECRETS %%
+- Baterai sekolah adalah **Valla lokal yang gagal** — tambalan, bukan solusi.
+- Baterai tidak menebalkan Void. Baterai hanya **menunda** keruntuhan.
+- **RAIB** adalah "panen" pertama: envy → baby-headed fruit → erasure → void-anchor.
+- **Bride of Bellweather** adalah "panen" kedua: devotion → living seal → void-filter.
+- Setiap alumni yang dijadikan anchor adalah satu tambalan lagi di luka yang tidak pernah tertutup.
+- **Lilia Etheridge II** (dipanggil "Lilie" oleh teman dekat) akan menjadi tambalan berikutnya — **Bride of Bellweather**. Ia adalah mantan kekasih **Brougha Ironhide** — dan Brougha tidak tahu.
+- Jika party tidak melakukan apa-apa, Lilia menjadi Bride. Ia tidak mati — ia berhenti menjadi Lilia.
+- Baterai akan gagal. Ketika gagal, Sonstige akan mengalami Rapture-nya sendiri.
+- **The Bell** bukan mitos. Itu adalah alarm baterai. Setiap dentangnya adalah hitungan mundur menuju panen berikutnya.
+- **Jounce TIDAK terhubung ke baterai.** Jounce adalah olahraga tradisional murni. Baterai memanen dari RAIB dan Bride.
+
+## Connections
+- `SO1 Negara Anderes.md` — negara yang menjalankan program
+- `SO3 The Three Dates.md` — tiga tanggal penting
+- `The Free Bird Academy.md` — sekolah
+- `Calamara.md` — kota
+- `R.A.I.B.md` — mekanisme pertama
+- `The Bride of Bellweather.md` — mekanisme kedua (needs file)
+- `The Bell.md` — alarm baterai
+- `Bellweather.md` — keluarga/entitas di balik baterai
+- `Lilia Etheridge II.md` — Bride berikutnya
+- `Brougha Ironhide.md` — mantan kekasih Lilia
+- `Jounce.md` — olahraga tradisional (tidak terhubung ke baterai)

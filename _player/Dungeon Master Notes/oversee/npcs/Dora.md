@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Dora.md"
+type: Oversee NPC
+role: Rhino Stable Owner, Dora's Rhino Stable
+faction: Independent
+home: Javan Town
+status: Alive
+first_seen: Session 04
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Owner of Dora's Rhino Stable in Javan Town.
 > **Where:** Javan Town
@@ -21,3 +26,10 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Dora.md"
 
 ## Current Goal
 Run her stable. Keep her rhinos safe.
+::/pf
+
+%% DM SECRETS %%
+- Dora is a **former adventurer**. She retired after her party was killed in a dungeon. She only survived because her rhino carried her out.
+- She knows the roads of Harka better than anyone. She can guide the party through dangerous territory.
+- She has a **secret route** to Padre City that avoids the Commonwealth checkpoints. It costs extra (300 gp), but it is safe.
+- She has a **soft spot for Husgus**. He reminds her of her old party's ranger.

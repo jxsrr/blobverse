@@ -1,8 +1,13 @@
 ---
-publish: true
-pfn-source: "Dungeon Master Notes/oversee/npcs/Yrsa Frostscale.md"
+type: Oversee NPC
+role: Innkeeper, The Frosted Roost
+faction: Klan Frostscale
+home: Frostheart Village
+status: alive
+first_seen: Session 05
+universe: Oversee
 ---
-
+::pf
 > [!info] At a Glance
 > **Role:** Keeper of The Frosted Roost (hunter's rest house)
 > **Where:** Frostheart Village
@@ -16,3 +21,4 @@ pfn-source: "Dungeon Master Notes/oversee/npcs/Yrsa Frostscale.md"
 - Sharpened her claws on the same stone for decades.
 ## Current Goal
 Keep the hunters fed and rested. Protect the village.
+::/pf
