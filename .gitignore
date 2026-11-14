@@ -1,5 +1,3 @@
+_player/
 .DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.trash/
-.obsidian/plugins/mass-editor/backups/
+.obsidian/plugins/

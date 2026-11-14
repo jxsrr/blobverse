@@ -326,7 +326,7 @@ She had finished translating.
 ## Loot & Rewards
 - **[[Safayer]]** — the blue Gemheart, returned by Vythrax
 - **[[Gustaero — The Swan Bow|Gustaero]]** — given to Husgus
-- **[[Dungeon Master Notes/Oversee/05 Items/Hildag's Map]]** — incomplete world map
+- **[[Dungeon Master Notes/oversee/items/Hildag's Map]]** — incomplete world map
 - **[[Atreus's Letter]]** — the final words of the Grin druid
 - The truth of the Initial Six — the ritual, the betrayal, the murder
 

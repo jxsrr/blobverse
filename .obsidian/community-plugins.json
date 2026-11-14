@@ -9,5 +9,6 @@
   "dnd-campaign-manager",
   "copy-contents",
   "mass-editor",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-bulk-rename-plugin"
 ]
