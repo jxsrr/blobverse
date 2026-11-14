@@ -41,8 +41,8 @@ universe: Oversee
 - Wrap his player-facing content in `::pf` markers when encountered.
 
 ## Naming Note
-- **Not the same as [[Jenderal Kael]]** (the imprisoned Cipher at Benteng Atlan). Kael is a common name in Oversee — this is a coincidence.
-- To avoid confusion in wikilinks: reference this one as `[[Kael (Student)|Kael]]` and the other as `[[Jenderal Kael|Jenderal Kael]]`.
+- **Not the same as Jenderal Kael** (the imprisoned Cipher at Benteng Atlan). Kael is a common name in Oversee — this is a coincidence.
+- To avoid confusion in wikilinks: reference this one as `Kael` (`oversee/npcs/Kael`) and the other as `Jenderal Kael` (if a separate note is created).
 
 ## Open Questions
 - Does he know about the **Living Failures** in the underground library? (Yes — but he is terrified of them.)

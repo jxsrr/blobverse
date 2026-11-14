@@ -50,6 +50,8 @@ aliases:
 - **The "Lei Firsa declared herself the first Valla" story is a rumor.** No one outside the Cycle Clan knows Simon is the Valla. The public believes Lei Firsa / "Lei the Great" ascended. This lie is the foundation of the Klan's legitimacy.
 
 
+::/pf
+
 %% DM SECRETS %%
 - **Lei Firsa's current status is ambiguous.** She is extremely old — 700+ years. She may be alive. She may be dead. She may be something else. The DM will decide whether she is the final antagonist or whether her legacy (the Klan Lei and the Commonwealth) is the antagonist. (See `Lei Firsa.md`.)
 - **The "first Valla" claim** was never Lei Firsa's own boast — it was a **rumor** that spread organically after 01 BV. Lei Firsa encouraged it without confirming it. She let the world believe what was convenient. No one knows Simon is the Valla. The Cycle Clan knows. The Klan Lei believes the rumor. This is the core deception.

@@ -218,7 +218,7 @@ The party will have to decide how much of the Cycle Clan's version to trust.
 - **[[The Shell]]** — the Architect's shed skin
 - **[[Klan Lei]]** — the bloodline that engineered the first Rapture
 - **[[The Cycle Clan]]** — the organization that guards this truth
-- **[[The Devourer Comet]]** — the Overseer's tool
+- **[[oversee/lore/The Rapture|The Devourer Comet]]** — the Overseer's tool
 
 ## Timeline Note
 

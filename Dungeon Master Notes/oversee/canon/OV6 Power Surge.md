@@ -880,7 +880,7 @@ The player-facing text above is the **Keeper of Secret's archive entry** for the
 
 **The Gunung Rayu project is not just an excavation.**
 
-It is a **Cycle Clan seed vault** — a smaller version of the **[[The Bahtera Bawah Tanah|Bahtera Bawah Tanah]]**. Inside: a fragment of the **[[The Edisi Law|Edisi Law]]**, a **Topaju fragment**, and a **cryo-pod with a preserved Cycle Clan member**. This is how **[[Valerius Thorne]]** learned about the Edisi Law and the override clause. He found it here.
+It is a **Cycle Clan seed vault** — a smaller version of the **[[oversee/locations/The Underground Ark|Bahtera Bawah Tanah]]**. Inside: a fragment of the **[[The Edisi Law|Edisi Law]]**, a **Topaju fragment**, and a **cryo-pod with a preserved Cycle Clan member**. This is how **[[Valerius Thorne]]** learned about the Edisi Law and the override clause. He found it here.
 
 **The Gruffgud War was engineered by the Commonwealth.**
 

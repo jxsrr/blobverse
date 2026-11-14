@@ -361,7 +361,7 @@ He knows they are there. He knows what happened. He knows **Alejandro** did this
 
 **Alejandro's true fate.**
 
-Alejandro did not die at the altar. He survived. He is still alive — 500 years later. He is hiding in the **[[The Bahtera Bawah Tanah|Bahtera Bawah Tanah]]**, protecting the **[[The Edisi Law|Edisi Law]]**, waiting for someone to come. He is the **final Cipher — the Cipher of Guilt.**
+Alejandro did not die at the altar. He survived. He is still alive — 500 years later. He is hiding in the **[[oversee/locations/The Underground Ark|Bahtera Bawah Tanah]]**, protecting the **[[The Edisi Law|Edisi Law]]**, waiting for someone to come. He is the **final Cipher — the Cipher of Guilt.**
 
 He has spent five hundred years punishing himself. He will not speak unless the party proves they are worthy.
 
