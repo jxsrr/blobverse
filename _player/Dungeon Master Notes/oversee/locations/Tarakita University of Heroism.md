@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Rioquan Timur Barat
 universe: Oversee
+aliases:
+  - Universitas Tarakita
 ---
 > [!info] At a Glance
 > **Part of:** Rioquan Timur Barat

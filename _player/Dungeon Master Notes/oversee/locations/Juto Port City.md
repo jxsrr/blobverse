@@ -2,6 +2,8 @@
 type: Oversee location
 parent_location: Rioquan
 universe: Oversee
+aliases:
+  - Kota Juto
 ---
 > [!info] At a Glance
 > **Part of:** Rioquan (South)

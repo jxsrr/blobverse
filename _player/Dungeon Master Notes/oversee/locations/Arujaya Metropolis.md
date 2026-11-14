@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Elis (underground)
 universe: Oversee
+aliases:
+  - Arujaya
 ---
 > [!info] At a Glance
 > **Part of:** Beneath Elis

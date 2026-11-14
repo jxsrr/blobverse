@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: West Harka
 universe: Oversee
+aliases:
+  - Padre City
 ---
 ::pf
 > [!info] At a Glance

@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Elis (underground)
 universe: Oversee
+aliases:
+  - Arujaya
 ---
 ::pf
 > [!info] At a Glance

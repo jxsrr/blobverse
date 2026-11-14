@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Between Harka and Pirizia
 universe: Oversee
+aliases:
+  - Pulau Dima
 ---
 ::pf
 > [!info] At a Glance

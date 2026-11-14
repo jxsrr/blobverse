@@ -6,6 +6,8 @@ home: The Gap (originally)
 status: Deceased (10XX BV)
 first_seen: Not yet met (in history)
 universe: Oversee
+aliases:
+  - Gavaevodata
 ---
 > [!info] At a Glance
 > **Role:** Founder of the Grin bloodline. The woman who married Zargoth.

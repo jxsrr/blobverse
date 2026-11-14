@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: West Harka
 universe: Oversee
+aliases:
+  - Gunung Rayu
 ---
 > [!info] At a Glance
 > **Part of:** West Harka

@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: West Harka
 universe: Oversee
+aliases:
+  - Ghuffghuff
 ---
 > [!info] At a Glance
 > **Part of:** West Harka

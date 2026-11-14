@@ -2,6 +2,8 @@
 type: Oversee location
 parent_location: Rioquan
 universe: Oversee
+aliases:
+  - Kota Juto
 ---
 ::pf
 > [!info] At a Glance

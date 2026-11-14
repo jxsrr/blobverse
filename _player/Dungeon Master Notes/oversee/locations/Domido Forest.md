@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: West Harka
 universe: Oversee
+aliases:
+  - Hutan Domido
 ---
 > [!info] At a Glance
 > **Part of:** West Harka (between Ghuffghuff and Gudameng)

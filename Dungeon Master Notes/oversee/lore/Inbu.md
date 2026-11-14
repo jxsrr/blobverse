@@ -1,6 +1,8 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - The Inbu
 ---
 ::pf
 > [!info] The Mother of All Races

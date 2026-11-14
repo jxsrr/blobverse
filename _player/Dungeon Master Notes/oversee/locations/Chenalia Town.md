@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Elis North
 universe: Oversee
+aliases:
+  - Chenalia
 ---
 > [!info] At a Glance
 > **Part of:** Elis North

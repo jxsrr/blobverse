@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Rioquan East
 universe: Oversee
+aliases:
+  - Ngarai Ratapan
 ---
 > [!info] At a Glance
 > **Part of:** Rioquan East

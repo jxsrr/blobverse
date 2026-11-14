@@ -1,6 +1,8 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - Klan Lei
 ---
 > [!info] The Four Branches
 > The ruling magical aristocracy of Oversee. Four bloodlines. Four elements. One source.

@@ -1,6 +1,8 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - Klan Lei
 ---
 ::pf
 > [!info] The Four Branches

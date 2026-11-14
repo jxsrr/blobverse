@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Pirizia North
 universe: Oversee
+aliases:
+  - Frostheart Village
 ---
 > [!info] At a Glance
 > **Part of:** Pirizia North

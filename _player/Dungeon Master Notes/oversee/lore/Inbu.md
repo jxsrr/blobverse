@@ -1,6 +1,8 @@
 ---
 type: Oversee Lore
 universe: Oversee
+aliases:
+  - The Inbu
 ---
 > [!info] The Mother of All Races
 > Before humans, elves, dwarves, or dragonborn, there were the Inbu. They are the ancestors of every mortal race in Oversee.

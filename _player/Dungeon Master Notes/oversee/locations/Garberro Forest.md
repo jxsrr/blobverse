@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Pirizia (deep forest)
 universe: Oversee
+aliases:
+  - Hutan Garberro
 ---
 > [!info] At a Glance
 > **Part of:** Pirizia

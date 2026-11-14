@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Juto Port City (Rioquan South)
 universe: Oversee
+aliases:
+  - The Observatorium
 ---
 > [!info] At a Glance
 > **Part of:** Juto Port City
