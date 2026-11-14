@@ -432,7 +432,7 @@ They married in a small ceremony attended only by Vreina's family and a few of A
 
 Vreina's family — already tired of noble pretense — liked this sincerity.
 
-Years later, **[[Vya Arleschia|Vya]]** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
+Years later, **[[oversee/pcs/Vya Arleschia|Vya]]** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
 
 Or perhaps, between the blood of a simple shepherd and the blood of a minor noble, **something older had awakened** — something connected to the **Lei Firage** bloodline, to the fire that no longer burned in Antrem, to a destiny not yet revealed.
 
@@ -446,7 +446,7 @@ For him, the past had died with his parents on the day the sky fell. All that ex
 
 **~682 AV — Chenalia**
 
-That year, **[[Vya Arleschia|Vya]]** was only **four years old**.
+That year, **[[oversee/pcs/Vya Arleschia|Vya]]** was only **four years old**.
 
 **[[Chenalia]]** was as usual — quiet, green, surrounded by gently rolling hills like frozen waves. Vya spent her days chasing butterflies in the meadows, or sitting on her mother **[[oversee/npcs/Vreina Arleschia|Vreina's]]** lap, listening to stories about stars and seas she had never seen.
 

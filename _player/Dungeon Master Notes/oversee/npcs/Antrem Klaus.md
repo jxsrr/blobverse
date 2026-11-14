@@ -56,7 +56,7 @@ Be useful to his brother. Survive. See Vya grow up — even if only from a dista
 - Vreina was drawn to this quiet young man — not for his wealth or his looks, but for his **simplicity**. In her eyes, Antrem was unlike other men who only wanted to raise their status by marrying a noble. He only wanted to live quietly, tend sheep, and perhaps one day have a family.
 - They married in a small ceremony attended only by Vreina's family and a few of Antrem's neighbors. Antrem knew nothing about dowries or noble traditions — he came with the best clothes he had, a bunch of wildflowers, and a **sheep** as a gift.
 - Vreina's family — already tired of noble pretense — liked this sincerity.
-- Years later, **[[Vya Arleschia|Vya]]** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
+- Years later, **[[oversee/pcs/Vya Arleschia|Vya]]** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
 - **Or perhaps, between the blood of a simple shepherd and the blood of a minor noble, something older had awakened** — something connected to the **Lei Firage** bloodline, to the fire that no longer burned in Antrem, to a destiny not yet revealed.
 
 ### The Summons — Why He Left

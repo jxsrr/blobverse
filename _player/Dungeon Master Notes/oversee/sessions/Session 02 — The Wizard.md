@@ -24,7 +24,7 @@ Each of them saw a figure — not a face, but a presence. A dealer. A reader of 
 Each card carried a blessing and a curse.
 
 - **[[oversee/pcs/Syl Frost|Syl]]** was dealt **The Magician** — cursed to be the center of every magical failure, to feel her own spells turn wild and burn her. But **Temperance** balanced it — her blood was purified, a universal cure for poison, disease, and curse.
-- **[[Vya Arleschia|Vya]]** drew **Wheel of Fortune** — a systematic erosion of her luck, small chaos chasing her every step. But **Death** gave her peace — a quiet, unshakable calm in the face of terror.
+- **[[oversee/pcs/Vya Arleschia|Vya]]** drew **Wheel of Fortune** — a systematic erosion of her luck, small chaos chasing her every step. But **Death** gave her peace — a quiet, unshakable calm in the face of terror.
 - **[[oversee/pcs/Husgus]]** saw **Judgement** — a legend written before the deeds, his name known wherever he walked. But **The Lovers** bound him — a magical dread of losing the companions beside him.
 - **[[oversee/pcs/Zure Ama]]** was cursed by **The Hanged Man** — his smile frozen forever, maddening to all who saw it. But **The Devil** gave him **Qain** — a bound Imp, later renamed **[[oversee/items/Renal]]**, whose loyalty was absolute.
 - **[[oversee/pcs/Shin Van Hel|HVS]]** was given **The Tower** — the blade **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]**, able to steal life from the dying and return the dead to breath. But it whispered. It gnawed at his peace.
@@ -48,7 +48,7 @@ Each of the Five Sticks was asked three questions by the others. The room would 
 - **[[oversee/pcs/Zure Ama]]** was asked about **Reins**. He spoke, for the first time without defending himself, about the friend he had lost. About the guilt that had driven him across worlds.
 - **[[oversee/pcs/Shin Van Hel|HVS]]** was asked about his gloves. About the Curse Mark. About **Zargoyle**. He spoke, and the room listened.
 - **[[oversee/pcs/Syl Frost|Syl]]** was asked why her magic was self-taught. Why her clan had never accepted her. She answered.
-- **[[Vya Arleschia|Vya]]** was asked about the burning of her village. About **[[oversee/factions/Will of Grin]]**. About the nightmares she could not explain.
+- **[[oversee/pcs/Vya Arleschia|Vya]]** was asked about the burning of her village. About **[[oversee/factions/Will of Grin]]**. About the nightmares she could not explain.
 - **[[oversee/pcs/Husgus]]** was asked about **[[oversee/npcs/Gordon]]**'s last words. About the spell that had turned him from a boy into a halfling. About the curse that had made him what he was.
 
 When the last question was answered, the room released them.

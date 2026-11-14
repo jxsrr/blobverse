@@ -47,7 +47,7 @@ They woke in a room that was not a room. Blackness, and stars, and the feeling o
 
 But they were not themselves.
 
-**[[oversee/pcs/Husgus]]** looked down at his hands and saw the hands of a half-orc, old and scarred. **[[Vya Arleschia|Vya]]** felt a beard on her face. **[[oversee/pcs/Syl Frost|Syl]]** was a dragon of orange-gold scales. **[[oversee/pcs/Zure Ama|Ama]]** felt the weight of a sailor's coat. **[[oversee/pcs/Shin Van Hel|HVS]]** was shorter, grey-skinned, smiling with the eternal grin of a Grin.
+**[[oversee/pcs/Husgus]]** looked down at his hands and saw the hands of a half-orc, old and scarred. **[[oversee/pcs/Vya Arleschia|Vya]]** felt a beard on her face. **[[oversee/pcs/Syl Frost|Syl]]** was a dragon of orange-gold scales. **[[oversee/pcs/Zure Ama|Ama]]** felt the weight of a sailor's coat. **[[oversee/pcs/Shin Van Hel|HVS]]** was shorter, grey-skinned, smiling with the eternal grin of a Grin.
 
 They were inside the memory of **[[oversee/npcs/Sam Hurls]]** — playing the roles of the **[[oversee/lore/The Initial Six|Initial Six]]**.
 
@@ -130,7 +130,7 @@ She also gave them a letter. **Atreus Grin's** last words, written before the ri
 
 ## Part 4: Vya and Antrem
 
-**[[Vya Arleschia|Vya]]** finally met her father.
+**[[oversee/pcs/Vya Arleschia|Vya]]** finally met her father.
 
 **[[oversee/npcs/Antrem Klaus]]** was not what she expected.
 
@@ -298,7 +298,7 @@ Each of them changed.
 - **[[oversee/pcs/Husgus]]** trained in stealth. He learned to move without sound, without trace. He became a rogue. And his body began to **crack** — faint golden lines appearing across his skin, as if something inside him was pushing out.
 - **[[oversee/pcs/Shin Van Hel|HVS]]** began to worship **Valla**. He had been saved so many times — by luck, by fate, by something — that he could no longer deny it. He became a **paladin**.
 - **[[oversee/pcs/Syl Frost|Syl]]** learned to heal. She studied the sacred texts of Vythrax's clan and became a **cleric**.
-- **[[Vya Arleschia|Vya]]** felt something burning in her chest — ever since Jarko's death. A fire that had always been dormant, and was now awake.
+- **[[oversee/pcs/Vya Arleschia|Vya]]** felt something burning in her chest — ever since Jarko's death. A fire that had always been dormant, and was now awake.
 - **[[oversee/pcs/Zure Ama|Ama]]** carried the weight of everything. His arm. His failures. His debts.
 
 After six months, they found it.
@@ -315,7 +315,7 @@ HVS collapsed. Severe headache. He clutched his skull and fell to his knees.
 
 The others went deeper.
 
-**[[oversee/pcs/Husgus]]**, **[[Vya Arleschia|Vya]]**, and **[[oversee/pcs/Zure Ama|Ama]]** found a **mural** — robed figures standing before a portal, with **four colored stones** set at the doorway.
+**[[oversee/pcs/Husgus]]**, **[[oversee/pcs/Vya Arleschia|Vya]]**, and **[[oversee/pcs/Zure Ama|Ama]]** found a **mural** — robed figures standing before a portal, with **four colored stones** set at the doorway.
 
 They returned to Syl.
 

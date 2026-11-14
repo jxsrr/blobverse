@@ -41,7 +41,7 @@ Thirty-five gold a bottle. Extortion.
 
 The party had no money. They had no options.
 
-**[[Vya Arleschia|Vya]]** was assigned the task of "extracting" milk from a rhino named **Steve**.
+**[[oversee/pcs/Vya Arleschia|Vya]]** was assigned the task of "extracting" milk from a rhino named **Steve**.
 
 Steve was male. Male rhinos do not produce milk. Vya did not know this. Or perhaps she did, and did not care.
 
@@ -71,7 +71,7 @@ He grabbed Ama. Wrapped him in a hug that was not a hug — a hold. A lock. A ca
 
 The party acted.
 
-**[[oversee/pcs/Shin Van Hel|HVS]]** pulled Joni off. **[[oversee/pcs/Husgus]]** pulled the door open. **[[Vya Arleschia|Vya]]**, **[[oversee/pcs/Syl Frost|Syl]]**, and **[[oversee/pcs/Zure Ama|Ama]]** ran.
+**[[oversee/pcs/Shin Van Hel|HVS]]** pulled Joni off. **[[oversee/pcs/Husgus]]** pulled the door open. **[[oversee/pcs/Vya Arleschia|Vya]]**, **[[oversee/pcs/Syl Frost|Syl]]**, and **[[oversee/pcs/Zure Ama|Ama]]** ran.
 
 Behind them, the sound of boots.
 
@@ -93,7 +93,7 @@ They landed on the coast of **Elis** — hidden cove, black sand, salt in the ai
 
 It was **[[Chenalia]]**.
 
-The village where **[[Vya Arleschia|Vya]]** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
+The village where **[[oversee/pcs/Vya Arleschia|Vya]]** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
 
 It was being rebuilt.
 
@@ -161,7 +161,7 @@ He was going to die.
 
 **[[oversee/npcs/Lei Darvin Thorne|Darvin]]** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
 
-**[[oversee/pcs/Shin Van Hel|HVS]]** and **[[Vya Arleschia|Vya]]** held the door as it closed.
+**[[oversee/pcs/Shin Van Hel|HVS]]** and **[[oversee/pcs/Vya Arleschia|Vya]]** held the door as it closed.
 
 Behind them, Livia screamed in frustration. Her wind could not reach through the closing doors.
 

@@ -119,7 +119,7 @@ They needed to protect the survivors.
 
 A plan:
 - **[[oversee/pcs/Husgus]]** would watch **[[Herman]]**
-- **[[Vya Arleschia|Vya]]** would watch **[[Cindy]]**
+- **[[oversee/pcs/Vya Arleschia|Vya]]** would watch **[[Cindy]]**
 - **[[oversee/pcs/Syl Frost|Syl]]** and **[[oversee/pcs/Shin Van Hel|HVS]]** would watch **[[oversee/npcs/Memeng]]**
 - **[[oversee/pcs/Zure Ama|Ama]]** and **[[oversee/npcs/Agus]]** would sleep together
 
@@ -149,7 +149,7 @@ The others — the ones who had heard the singing the night before — were stil
 
 The party realized the truth: **Hearing the song traps you in the illusion.** Those who covered their ears saw the real Ghuffghuff. Those who did not, stayed inside the dream.
 
-That night, they tested it. **[[oversee/pcs/Syl Frost|Syl]]**, **[[HVS]]**, and **[[Vya Arleschia|Vya]]** covered their ears. **[[oversee/pcs/Zure Ama|Ama]]** and **[[oversee/pcs/Husgus]]** did not.
+That night, they tested it. **[[oversee/pcs/Syl Frost|Syl]]**, **[[HVS]]**, and **[[oversee/pcs/Vya Arleschia|Vya]]** covered their ears. **[[oversee/pcs/Zure Ama|Ama]]** and **[[oversee/pcs/Husgus]]** did not.
 
 By morning, Ama and Husgus were free. They saw the ruined village. They saw the empty houses. They found **[[Cindy]]** in the Mektol house, alone, crying, making her own food.
 
@@ -159,7 +159,7 @@ They planned the confrontation.
 
 - **[[oversee/pcs/Syl Frost|Syl]]** would take **[[Cindy]]** and **[[oversee/npcs/Memeng]]** to **[[oversee/locations/Gudameng Town|Gudameng]]** — out of the illusion.
 - **[[HVS]]** and **[[oversee/pcs/Zure Ama|Ama]]** would wait at the temple.
-- **[[oversee/pcs/Husgus]]** and **[[Vya Arleschia|Vya]]** would go to the **teater**.
+- **[[oversee/pcs/Husgus]]** and **[[oversee/pcs/Vya Arleschia|Vya]]** would go to the **teater**.
 
 The plan: cover their ears when the singing started.
 
@@ -167,7 +167,7 @@ At the teater, dozens of villagers sang — but their forms were translucent now
 
 The party covered their ears and attacked.
 
-The battle was brutal. **[[oversee/pcs/Zure Ama|Ama]]** cut off a head — it grew back. **[[Vya Arleschia|Vya]]** fired arrow after arrow — none of it mattered. The creature was not a living thing. It was a **grief made manifest**.
+The battle was brutal. **[[oversee/pcs/Zure Ama|Ama]]** cut off a head — it grew back. **[[oversee/pcs/Vya Arleschia|Vya]]** fired arrow after arrow — none of it mattered. The creature was not a living thing. It was a **grief made manifest**.
 
 **[[HVS]]** had been preparing. He drew **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** and stabbed himself, feeding the blade a Hit Die. Then he drove it into the creature's heart.
 
