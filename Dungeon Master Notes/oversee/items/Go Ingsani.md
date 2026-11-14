@@ -1,13 +1,16 @@
 ---
-type: Oversee Vehicle
-first_seen: Session 06
+type: Oversee Item
+item_type: Vehicle (Submarine)
+faction: Will of Grin (formerly)
 universe: Oversee
 ---
 ::pf
-> [!info] Stub
-> Former Will of Grin submarine.
+> [!info] At a Glance
+> **Type:** Retrofitted Submarine
+> **Origin:** Former [[oversee/factions/Will of Grin|Will of Grin]] vessel
+> **Status:** Repainted black for camouflage; discovered without fuel in [[oversee/sessions/Session 06 — Ethical Choices|Session 06]]
 
 ## What Matters Here
-- A submarine formerly belonging to the **[[Will of Grin]]**, repainted black for camouflage.
-- Found waiting without fuel during **Session 06**.
+- A submersible vessel originally operated by **[[oversee/factions/Will of Grin|Will of Grin]]** and repainted matte black for stealth operations.
+- Found moored and waiting without fuel during the events of **[[oversee/sessions/Session 06 — Ethical Choices|Session 06]]**.
 ::/pf

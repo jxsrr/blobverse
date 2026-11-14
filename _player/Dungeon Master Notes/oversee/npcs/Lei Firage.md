@@ -1,12 +1,14 @@
 ---
 type: Oversee NPC
+role: Founder of the Lei Firage Branch
 faction: Klan Lei
+status: Deceased (Historical)
 universe: Oversee
 ---
-> [!info] Stub
-> Second child of Lei Firsa and progenitor of the Fire branch of Klan Lei.
+> [!info] At a Glance
+> **Role:** Second-born of [[oversee/npcs/Lei Firsa|Lei Firsa]]; founder of the Fire branch of [[oversee/lore/Lei Bloodline|Klan Lei]]
+> **Element & Gemheart:** Fire — associated with [[oversee/items/Rubion|Rubion]]
+> **Status:** Deceased (Historical figure, 01 AV era)
 
-## What Matters Here
-- Second of the quadruplets born to **[[oversee/npcs/Lei Firsa]]** at the founding of the **[[oversee/lore/Lei Bloodline|Klan Lei]]**.
-- Associated with the element of **Fire** and the Gemheart **[[oversee/items/Rubion]]**.
-- Ancestor of the split Fire lineage involving **[[oversee/npcs/Accarus Grin|Accarus]]** and **Antrem**.
+## What the Party Knows
+- The second of **[[oversee/npcs/Lei Firsa|Lei Firsa]]**'s quadruplets and progenitor of the **Lei Firage** fire bloodline.
