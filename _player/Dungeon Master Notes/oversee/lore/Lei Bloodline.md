@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 > [!info] The Four Branches
 > The ruling magical aristocracy of Oversee. Four bloodlines. Four elements. One source.
 
@@ -46,28 +45,3 @@ universe: Oversee
 - They believe their power comes from their blood. **It does not.** It comes from **Simon** — the Valla. Every Lei descendant carries a drop of his sacrifice.
 - If Simon is freed, the Klan Lei will lose their power. They will do anything to prevent this.
 - **The "Lei Firsa declared herself the first Valla" story is a rumor.** No one outside the Cycle Clan knows Simon is the Valla. The public believes Lei Firsa / "Lei the Great" ascended. This lie is the foundation of the Klan's legitimacy.
-
-
-%% DM SECRETS %%
-- **Lei Firsa's current status is ambiguous.** She is extremely old — 700+ years. She may be alive. She may be dead. She may be something else. The DM will decide whether she is the final antagonist or whether her legacy (the Klan Lei and the Commonwealth) is the antagonist. (See `Lei Firsa.md`.)
-- **The "first Valla" claim** was never Lei Firsa's own boast — it was a **rumor** that spread organically after 01 BV. Lei Firsa encouraged it without confirming it. She let the world believe what was convenient. No one knows Simon is the Valla. The Cycle Clan knows. The Klan Lei believes the rumor. This is the core deception.
-- **The four Gemhearts are not just power sources.** They are **keys** to the original seal. Each one is associated with a branch — but the association is not the same as ownership. Emelanica is with **Mira** (Keeper of Secret). Safayer is with **the party**. Rubion is with **Mira** (taken from the party after Session 2). Topaju is with **Lei Alejandro**.
-- **Accarus and Antrem** are the true twins of the Klan Lei. They are the children of **Hildag Grin** — not of a Lei mother. This is the secret the Will of Grin has been hiding. Hildag is their mother. Their father is a Lei Firage descendant. They are the **only surviving twins** of the Klan Lei's twin-killing tradition.
-- **Accarus does not carry Rubion.** He carries **Gustaero** — and gave it to **Husgus** after the Frosthaven mission. Rubion was taken by the party from Jarko in Session 1 and later handed to **Mira** after Session 2.
-- **Vya is Hildag's magnum opus.** She was not planned as a twin — she is a later child. Hildag recognized her potential only after **Jarko's death** opened the way for a new heir. Vya is the only Lei descendant with **both** the fire of Lei Firage **and** the anti-magic protection of the Grin. She is the perfect weapon against both the Overseer and the Klan.
-- **If the Klan Lei discovers Vya is the True Heir of Lei Firage**, they will try to kill her.
-- **If they discover Darvin is the True Heir of Lei Roiga** — they will try to kill him too. **Darvin does not carry Topaju** (Lei Alejandro does). Darvin carries the **claim** — the bloodline right to Topaju. He is hunted for what he could become, not what he holds.
-- **The twin tradition can be broken.** Exposing it would collapse the Klan Lei. Stopping it would weaken Lei Firsa (or her legacy). This is the key to defeating the Klan in Season 3.
-
-## Connections to Other Lore
-- `Lei Firsa.md` — the founder
-- `Simon Greenbottle.md` — the source of the bloodline's power
-- `The Valla.md` — the seal
-- `The Twin Tradition.md` — the darkest rule
-- `Hildag Grin.md` — the mother of Accarus and Antrem, the architect of Vya
-- `Accarus Grin.md` — the surviving twin
-- `Antrem Klaus.md` — the other surviving twin
-- `Vya Arleschia.md` — the magnum opus
-- `Darvin Thorne.md` — the True Heir of Lei Roiga
-- `The Gemhearts.md` — the four stones
-- `One Voice Commonwealth.md` — the government built on the lie

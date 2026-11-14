@@ -7,7 +7,6 @@ status: Alive
 first_seen: Session 04
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Master blacksmith. Owner of "Baja Hitam."
 > **Where:** Javan Town
@@ -26,11 +25,3 @@ universe: Oversee
 
 ## Current Goal
 Run his forge. Protect his family.
-::/pf
-
-%% DM SECRETS %%
-- Pak Andreas's wife is not just a merchant. She is a **Keeper of Secret courier**. She carries messages between cities.
-- He knows this. He does not approve. But he loves her.
-- He has a **hidden forge** in the basement. It is where he makes weapons for the Keeper of Secret. Some of them are magical.
-- If the party brings him **rare materials** (like Frostfang's ice shards or Behemoth bone), he can forge a **legendary weapon**.
-- His wife's name is **Ibu Ratna**.

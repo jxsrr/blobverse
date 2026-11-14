@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 06
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Local boy who guided the party through Arujaya
 > **Where:** Arujaya (The Stack)
@@ -23,9 +22,3 @@ universe: Oversee
 
 ## Current Goal
 Survive. Learn. Maybe leave Arujaya one day.
-::/pf
-
-%% DM SECRETS %%
-- Adam's mechanical heart was installed by Dr. Vektor after a mining accident.
-- Adam's parents are dead. He doesn't talk about it.
-- He has a map of the sealed lower levels of Arujaya. He will give it to the party if they return.

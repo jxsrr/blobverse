@@ -23,10 +23,3 @@ universe: Oversee
 ## What the Party Knows
 - Legend says no one has ever descended to the bottom and returned.
 - The blade was forged for **protection**, not conquest.
-
-
-%% DM SECRETS %%
-- Zenahhi was Simon's **second** legendary weapon. He received it from a dying knight named Valerius Zenithar (not the same Valerius).
-- The blade is guarded by the **Teary Knight** — a spirit bound to it.
-- The Teary Knight will only release the blade to someone who **cries for someone they lost**. It tests the heart, not the sword arm.
-- If the party recovers Zenahhi, it will bond with **Vya** — because she has lost the most.

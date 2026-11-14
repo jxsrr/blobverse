@@ -22,10 +22,3 @@ universe: Oversee
 
 ## Current State
 - Quiet. The village is dying. Young people leave. Old people stay.
-
-
-%% DM SECRETS %%
-- Olaf's Hut contains a **hidden chest** under the floorboards. Inside: a **letter from Olaf to his grandfather Gunnar**, a **map to the Wind Silo**, and a **lock of pink hair** (from Grin Qain, his old companion).
-- Erah the hermit is **Grin Qain's daughter**. She has been waiting for someone to ask about her mother.
-- If the party mentions Grin Qain, Erah will tell them the truth about Swaith, Qain's death, and Lei Firsa's betrayal.
-- This location is a **Season 3 optional dungeon**. It contains emotional lore for Shin and Husgus.

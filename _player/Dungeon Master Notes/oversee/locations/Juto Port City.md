@@ -3,7 +3,6 @@ type: Oversee location
 parent_location: Rioquan
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Rioquan (South)
 > **Notable People:** Mira, Elara, Pops, Babi
@@ -19,8 +18,3 @@ universe: Oversee
 ## What Happened Here
 - The party joined Keeper of Secret ([[oversee/sessions/Session 02 — The Wizard|Session 02]]).
 - Found Atlan's hidden base beneath the Observatorium.
-::/pf
-
-%% DM SECRETS %%
-- The Observatorium was Atlan's original workplace.
-- Pops knows more about Atlan than he lets on.

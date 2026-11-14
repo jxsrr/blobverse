@@ -4,7 +4,6 @@ class: Ranger
 player: Allyda
 universe: Oversee
 ---
-::pf
 > [!info] The Party
 > **Class:** Ranger
 > **Role:** Ranged damage, fire awakening
@@ -28,9 +27,3 @@ Elf from Elis. Slender, tall. Pink hair adorned with white flowers. Shell-like a
 
 ## Fate Card
 **Wheel of Fortune & Death** — every even d20 result is reduced by 2. But she has found true peace: 5 temporary HP each morning, cannot be Frightened, death saves reduced to 1.
-::/pf
-
-%% DM SECRETS %%
-- Vya is the True Heir of Lei Firage. The fire is awakening.
-- Her mother Vreina made a pact with Kopling to protect Vya from Will of Grin until she was ready.
-- Who burned Chenalia is still unknown — it may not have been Will of Grin.

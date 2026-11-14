@@ -7,7 +7,6 @@ status: Alive
 first_seen: Session 04
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Bartender at The Salty Gill.
 > **Where:** Javan Town Docks
@@ -26,11 +25,3 @@ universe: Oversee
 
 ## Current Goal
 Survive. Avenge his father.
-::/pf
-
-%% DM SECRETS %%
-- Junior's father was a dockworker who was killed by the Commonwealth for witnessing a smuggling operation. Junior saw it happen.
-- He is a **Keeper of Secret informant**. He reports to [[oversee/npcs/Mira Nouveau|Mira]].
-- He has a **hidden crossbow** under the bar. He is a good shot.
-- He wants to join the party. He is too young. If they take him, he will be a liability — but also a loyal friend.
-- His real name is **Juniper**. He goes by Junior because his father did.

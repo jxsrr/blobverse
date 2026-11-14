@@ -29,9 +29,3 @@ universe: Oversee
 - **The Fool — "The Initial Lie":** Cannot benefit from Long Rest in cities over 100 people. Must sleep in wilderness.
 - **The World — "The Keeper's Key":** Can ask one meta-game question to the DM. DM must answer truthfully.
 - **Who has this card?** Unknown.
-
-
-%% DM SECRETS %%
-- The Fool & The World card belongs to **[[oversee/npcs/Mira Nouveau|Mira]]**. She has never told the party.
-- The Fate Cards are tied to the **Tarot of the Architect** — the original set of cards used in the ritual that created Oversee.
-- There are 22 cards total. The party has 10 of them.

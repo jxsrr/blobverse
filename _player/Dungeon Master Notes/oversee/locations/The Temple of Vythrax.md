@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: Frostheart Village (Frosthaven Peak)
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Frostheart Village
 > **Notable People:** Elder Jarl, the priests of [[oversee/npcs/Vythrax]]
@@ -26,10 +25,3 @@ universe: Oversee
 ## Current State
 - The temple is in a state of quiet celebration. The clan has a new purpose.
 - Elder Jarl is preparing to step down. He will name Syl as his successor.
-::/pf
-
-%% DM SECRETS %%
-- The Frozen Legion statues are **alive**. They are ancient dragonborn who were frozen in battle. They will thaw if [[oversee/npcs/Vythrax]] dies.
-- The Nest of Whispers is a **Gap-touched zone**. The meditating dragonborn sometimes hear the Overseer's voice. They call it "the whisper of [[oversee/npcs/Vythrax]]" but it is not.
-- The temple's foundations are built on a **Cycle Clan ruin**. The clan does not know this.
-- Elder Jarl knows. He has been guarding the ruin for centuries. He will show it to Syl when she is ready.

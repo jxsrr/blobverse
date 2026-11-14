@@ -7,7 +7,6 @@ status: Alive (if saved)
 first_seen: Session 01
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Guanik's daughter. The other child the party helped.
 > **Where:** Pulau Dima (destroyed) / Kota Juto (adopted)
@@ -21,10 +20,3 @@ universe: Oversee
 ## Her Personality
 - Emotional. Cried easily. Loved her mother deeply.
 - Drew pictures of the shells she collected in a small notebook.
-::/pf
-
-%% DM SECRETS %%
-- Nila was **hiding behind the house** when her mother was killed. She saw it happen. She has not spoken about it since.
-- She has **nightmares** of the Grin smile. She sees it in her sleep.
-- **Her notebook** survived the attack. She still draws in it. Every picture now has a small wave at the top — she draws it for her mother, who loved the sea.
-- **Reveal schedule:** Season 3, if the party returns to Kota Juto. Nila will want to talk to them — she remembers them as the people who kept her safe.

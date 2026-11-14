@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 1
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.
 ## Part 1: Forming the Company and the Road to Greyland
@@ -137,13 +136,3 @@ The ship did not need a crew. It moved on its own. It had a destination already 
 
 ## Sessions Chain
 - **Next:** [[oversee/sessions/Session 02 — The Wizard|Session 02]]
-::/pf
-
-%% DM SECRETS %%
-- **The carving at Greyland Castle** was written by Lei Alejandro **after** the Great Disappearance — after his betrayal. He was hiding the Gemhearts. He was protecting secrets he already knew would be misunderstood.
-- **Grolnok knew Alejandro personally.** His daughter Ratu Ghaniba married Alejandro. She died in childbirth with a stillborn child. The gem was meant for goblin heirs. This is why Grolnok refused to give it up.
-- **The gem was stored in an anti-magic chest.** Taking it from the chest sent a signal to Will of Grin. Their arrival at Pulau Dima was not coincidental — it was a response.
-- **Pulau Dima was the party's first failure.** Guanik and Janja died because the party took the gem. This moment will echo through the campaign. **Dontol** — the eldest son — will carry this loss into Season 3.
-- **The divine touch on Pulau Dima** was the first time the Overseer noticed the party. They have not yet realized that "divine" does not mean "benevolent."
-- **The Will of Grin ship** was designed to return to the Maw Desert basecamp in Pirizia. The party did not know this. When they boarded, they became prisoners without realizing it.
-- **Session 01 setup:** Everything that follows is set in motion by **taking the gem from the anti-magic chest**. The party thought they were solving a simple retrieval quest. They were actually unraveling a 500-year-old secret.

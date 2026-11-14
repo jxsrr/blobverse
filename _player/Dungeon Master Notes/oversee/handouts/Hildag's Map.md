@@ -20,9 +20,3 @@ universe: Oversee
 
 ## Hildag's Note (in the margin)
 > *"I have mapped what I can. The rest is for my descendants. Fill in the blanks. Do not let the world be forgotten."*
-
-
-%% DM SECRETS %%
-- The blank areas are not blank because Hildag didn't have time. They are blank because **the Cycle Clan forbade mapping them**. These are the locations of the four Gemhearts (besides Emelanica).
-- If the party fills in the map, they will discover the **Bahtera Bawah Tanah** (beneath Pegunungan Arbor), the **Celah Keajaiban** (between Harka and the eastern lowlands), and the **Awan Penjara** (above Pegunungan Arbor).
-- Hildag will pay 1,000 gp for a completed map. She will also reveal the location of the **Underground Ark**.

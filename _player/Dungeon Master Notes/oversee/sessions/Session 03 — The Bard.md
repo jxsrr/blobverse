@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 3
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > A village sang. A priest vanished. A deaf man knew the truth. A bard's echo waited at the end.
 
@@ -227,15 +226,3 @@ Then he walked into the dark and was gone.
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 02 — The Wizard|Session 02]]
 - **Next:** [[oversee/sessions/Session 04 — Territorial|Session 04]]
-::/pf
-
-%% DM SECRETS %%
-- **Echo Sam was the first Echo the party met.** There are five more: Atreus, Olaf, Atlan, Gzirmo, and Alejandro.
-- **Echo Sam was not evil.** He was **hungry** — an Echo without **[[oversee/items/Safayer]]**'s purification becomes a starving thing. The song was his unfinished melody, and it consumed minds the way his own mind had been consumed by the ritual.
-- **Agus was not a traitor.** He was compelled by Echo Sam's song to kill **[[oversee/npcs/Bud-eg]]** — Echo Sam wanted to prevent the party from learning the truth. Agus was eaten that same night. His body was never found. He may return as an Echo in Season 3.
-- **Bud-eg knew.** He was deaf — immune to the song — and had been watching Echo Sam for years. His journal (in his hut) contains everything: the song's patterns, how to see through it, how to survive it.
-- **Accarus killed Echo Sam** to prevent the party from learning too much. Echo Sam was about to reveal the **betrayal of the Initial Six** — and Accarus is not ready for them to know yet.
-- **Cindy is the only survivor of the Mektol family.** She does not remember her parents. Echo Sam's song erased them from her mind. She is now under the care of **[[oversee/npcs/Guo Lao]]** and the **[[oversee/factions/The Guo Family|Guo family]]** in Gudameng.
-- **The Gruffgud War is real** — and its true cause is not fried rice vs. fried noodles. It was engineered by **the Commonwealth** to hide the excavation at **[[Gunung Rayu]]**. The party does not know this yet. **[[oversee/npcs/Gordon]]** knew. It killed him.
-- **The seven-day decision** is the first branching point of the campaign. Whichever faction the party chooses shapes Season 2. They will choose **Will of Grin** (per Session 4).
-- **Session 03 stakes:** The party learns that memory can be weaponized, that the dead do not always stay dead, and that the world has more secrets than they can carry.

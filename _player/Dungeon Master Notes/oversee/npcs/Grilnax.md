@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 01
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Registration clerk at The Yawning Guild
 > **Where:** Yawning Town
@@ -19,8 +18,3 @@ universe: Oversee
 - Transactional. Wants to finish his shift.
 - Dreams of opening a **grilled mushroom tavern** when he retires.
 - Registered the Five Sticks as a party. Gave them their first mission.
-::/pf
-
-%% DM SECRETS %%
-- [[oversee/npcs/Grilnax]] is a contact point between Keeper of Secret and adventurers.
-- He knows more about the guild's true purpose than he lets on.

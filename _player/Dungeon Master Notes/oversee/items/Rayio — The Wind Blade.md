@@ -24,10 +24,3 @@ universe: Oversee
 ## What the Party Knows
 - The forest is twisted and fog-choked. Spirits live there.
 - Rayio is held by the **Spirit King** — a creature that mimics voices.
-
-
-%% DM SECRETS %%
-- The Spirit King is a **Gap-touched Echo**. It was once a mortal who got lost in the forest.
-- It will offer Rayio in exchange for a "voice." If the party gives it a voice (a memory of a loved one speaking), it will hand over the blade.
-- If they refuse, they must fight. The Spirit King is CR 10.
-- Rayio's true power is **silence**. It can cut through magical barriers without a sound.

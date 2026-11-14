@@ -30,11 +30,3 @@ universe: Oversee
 
 ## The Letter (from Simon's perspective)
 > *"She smiled even as she died. That is the Grin curse. You cannot stop smiling. You cannot show pain. She died smiling. I have never forgiven myself for letting her."*
-
-
-%% DM SECRETS %%
-- Grin Qain's Echo is **not in Oversee**. It is inside **Simon**. She speaks to him in the silence.
-- She is the one who tells Simon to forgive himself.
-- She is the one who tells Simon that the party is coming.
-- If the party ever finds Grin Qain's remains, they will find **a ring** — not magical, just a simple silver band. Simon's wedding ring to Lei Firsa. Qain took it when she died. She never told him.
-- This ring is the key to the "third path" ending. It proves that Simon loved Lei Firsa — and that she loved him. It is the proof of humanity that the Edisi Law requires.

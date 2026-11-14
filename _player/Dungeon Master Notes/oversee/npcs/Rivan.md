@@ -7,7 +7,6 @@ status: Alive
 first_seen: Not yet met
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** The man who drew the original HVS sketches.
 > **Where:** The Half House, Zundabun
@@ -27,12 +26,3 @@ universe: Oversee
 
 ## Current Goal
 Finish the house. Forget.
-::/pf
-
-%% DM SECRETS %%
-- Rivan's wife and children died in a **Commonwealth raid** on a Cycle Clan safehouse. He has been grieving for 20 years.
-- He drew the HVS shells as a **young man** for Guanik Wiseman. He did not know what they were for.
-- He knows that HVS-01 and HVS-02 are **empty shells** — designed to hold consciousness.
-- If the party tells him about **Shin (HVS-02)** and **Husgus (HVS-01)**, he will break down and cry. Then he will tell them everything.
-- His basement is a treasure trove: sketches, maps, Edisi Law fragment, and a **hidden letter from Guanik Wiseman**.
-- He has never finished the house. He never will. The house is his grief made physical.

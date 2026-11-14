@@ -22,10 +22,3 @@ universe: Oversee
 
 ## Current Goal
 Solve death. Bring back Kristine. (Or at least, never lose anyone again.)
-
-
-%% DM SECRETS %%
-- Vektor's research into the First Tree is not just about immortality. He believes the tree is connected to the **Overseer's biology**.
-- He has preserved Kristine's body in a stasis tube in his private lab.
-- He will trade anything for the party's help in finding a way to bring her back.
-- His research is dangerous. The Commonwealth would kill him for it.

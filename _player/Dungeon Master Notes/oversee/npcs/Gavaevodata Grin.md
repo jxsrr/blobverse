@@ -26,10 +26,3 @@ universe: Oversee
 
 ## Current State
 - Dead. Her legacy is the Grin people.
-
-
-%% DM SECRETS %%
-- Gavaevodata did not just marry Zargoth. She **made a pact** with him: her descendants would be protected from the Overseer, in exchange for being magic-deaf. This is the origin of the Grin curse.
-- The pact is still active. It can be broken by **Vya's fire** — or strengthened.
-- Her tomb is in **Elis Selatan** (the Grin Kingdom ruins). No one has found it.
-- If Vya finds it, she will learn the truth about the fire inside her.

@@ -22,9 +22,3 @@ universe: Oversee
 
 ## Current State
 - Still incomplete. The party has added nothing yet.
-
-
-%% DM SECRETS %%
-- The blank spaces are not unexplored. They are **places Hildag could not map** — because they are Gap-touched, or because the Cycle Clan forbade it.
-- If the party fills in the map, they will discover hidden locations that even the Commonwealth doesn't know about.
-- Hildag will pay handsomely for a completed map. She may even reveal the location of the **Underground Ark**.

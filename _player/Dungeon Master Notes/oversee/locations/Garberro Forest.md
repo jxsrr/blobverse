@@ -16,10 +16,3 @@ universe: Oversee
 
 ## Current State
 - Unmapped. Unclaimed. Extremely dangerous.
-
-
-%% DM SECRETS %%
-- The forest is a **Gap-touched zone**. Small tears in reality open and close. The spirits are beings from the Gap who slipped through.
-- Rayio is held by the **Spirit King** — a creature that mimics voices and offers deals.
-- To get Rayio, the party must answer a riddle. Wrong answer = they lose something precious.
-- The Spirit King knows Sam Hurls's unfinished song. It will play it for the party if asked.

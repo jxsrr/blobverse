@@ -23,10 +23,3 @@ universe: Oversee
 ## What the Party Knows
 - [[oversee/npcs/Mira Nouveau|Mira]] carries it. She has never used it in front of the party.
 - It is the only thing keeping her safe from Commonwealth assassins.
-
-
-%% DM SECRETS %%
-- Kkana was Simon's **first** legendary weapon. He received it from a dying knight named Ksatrian.
-- The blade remembers Simon. It will not willingly serve anyone who serves the Commonwealth.
-- [[oversee/npcs/Mira Nouveau|Mira]] will not part with it unless the party proves they are worthy — by finding the truth about her father.
-- If Mira dies, Kkana will choose a new wielder. It will choose **Husgus** (because of his connection to Gordon, who was Olaf's student).

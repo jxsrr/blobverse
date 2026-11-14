@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 > [!info] The People Who Rejected Magic
 > The builders of Arujaya. The creators of technology. The outcasts of Oversee.
 
@@ -31,11 +30,3 @@ universe: Oversee
 - Arujaya is a city of technology.
 - The Tinkers rejected magic.
 - They are not hostile, but they are not friendly.
-::/pf
-
-%% DM SECRETS %%
-- The Tinkers are not just engineers. They are the **last link** to the world before the Rapture.
-- The ruins under the First Tree contain **pre-Rapture technology** — including a device that can **block the Gap** (temporarily).
-- The Tinkers have been secretly building a weapon to fight the Overseer. It is incomplete. It is in the lowest levels of Arujaya.
-- If the party helps the Tinkers complete the weapon, they will gain a **powerful ally** in the final battle.
-- But the weapon requires a **sacrifice** — a piece of a Gemheart. The party will have to choose.

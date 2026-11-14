@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: Pirizia North
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Pirizia North
 > **Notable People:** Elder Jarl, Yrsa, Oldrunn, Syl's mother
@@ -24,9 +23,3 @@ universe: Oversee
 
 ## Current State
 - Awakened. Syl's name is carved on the family tree. The clan has a new purpose.
-::/pf
-
-%% DM SECRETS %%
-- The Frozen Legion statues are real dragonborn — frozen, not dead.
-- [[oversee/npcs/Vythrax]] is still weak. She can be called but not for long.
-- Elder Jarl knows the truth about Lei Watigi's assault on [[oversee/npcs/Vythrax]]. He has not spoken it aloud.

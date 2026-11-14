@@ -23,10 +23,3 @@ universe: Oversee
 
 ## Current State
 - Still with the party. Still pointing at things they haven't named yet.
-
-
-%% DM SECRETS %%
-- The compass does not point to the nearest "lost thing." It points to the **most important** lost thing.
-- If the party names "Atlan Nouveau," the compass will point to **the Shell**. This is a huge reveal.
-- If they name "Vreina," it will point to the secret Commonwealth facility in Elis.
-- If they name "the fifth Gemheart," it will spin wildly — because there is no fifth Gemheart, but the compass is trying.

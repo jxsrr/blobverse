@@ -7,8 +7,6 @@ status: Unknown (presumed dead)
 first_seen: Session 02
 universe: Oversee
 ---
-
-::pf
 > [!info] At a Glance
 > **Role:** Keeper of Secret agent assigned to guide the party
 > **Where:** Unknown
@@ -25,10 +23,3 @@ universe: Oversee
 - He knew the road to Ghuffghuff well.
 - He was calm. Too calm.
 - When Bud-eg tried to warn the party, Agus shot him.
-::/pf
-
-%% DM SECRETS %%
-- Agus was not a traitor. He was **compelled** by Echo Sam's song to kill Bud-eg — Echo Sam wanted to prevent the party from learning the truth.
-- Agus was eaten by Echo Sam that night. His body was never found.
-- He may appear as an **Echo** in Season 3.
-- If the party investigates, they will find his Keeper badge in the forest, scratched with a message: "I'm sorry."

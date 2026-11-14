@@ -7,7 +7,6 @@ status: Alive
 first_seen: Session 07
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** An old woman who lives at the entrance to The Depths in Arujaya.
 > **Where:** The Depths, Arujaya
@@ -26,10 +25,3 @@ universe: Oversee
 
 ## Current Goal
 Survive. Scam travelers. Stay out of the deep.
-::/pf
-
-%% DM SECRETS %%
-- Fidale is not a scam artist. She is a **former Arujaya scientist** who went mad after seeing the Overseer in The Depths. She has been trying to warn people ever since.
-- Her masks are useless because the sludge is not a gas — it is a **liquid**. She knows this. She is just trying to help in her own broken way.
-- She has a **hidden stash** of real anti-sludge equipment in her home. She will give it to the party if they promise to destroy The Depths.
-- She knows the **true name of the sludge**: **Ambitio-Ether**.

@@ -19,10 +19,3 @@ universe: Oversee
 ## Current State
 - Fortified. Guarded. Hostile to all outsiders.
 - [[oversee/npcs/Lei Iron Gort|Gort]] is not here often — he is on campaign.
-
-
-%% DM SECRETS %%
-- Ironhold is where the Commonwealth produces its anti-magic weapons.
-- The city is powered by a **captured Echo** — not Gzirmo, but another fragment. It is being tortured for power.
-- The workers are planning a rebellion. A Keeper of Secret agent is hiding among them.
-- If the party ever needs a base in Pirizia, this is the place — but it will cost lives.

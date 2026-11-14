@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 7
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.
 
@@ -238,17 +237,3 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 ## Sessions Chain
 - **Previous:** [[Session 06 — The Underground (Full Recap)|Session 06]]
 - **Next:** [[Session 08 — The Reckoning|Session 08]]
-::/pf
-
-%% DM SECRETS %%
-- **Syl saw the Overseer directly.** Her memory was suppressed by the entity — she does not remember what she saw. But she knows something happened. She dreams of it.
-- **The "wandering demon"** who rescued Syl is almost certainly **[[oversee/npcs/Zargoth]]** — the fragment of the Grin father inside **[[oversee/pcs/Shin Van Hel|HVS]]**. Zargoth acts through HVS's body without HVS's knowledge. He is protecting the party, and he has his own reasons.
-- **Ama's "limitless" power** comes from **[[oversee/items/Renal]]** — the Imp can consume Ambitio-Ether residue, and when Ama consumes residue himself, Renal gives him bursts of power. It costs him HP and stamina. He cannot do it indefinitely.
-- **Livia's sister** was named **Livia too** — the family killed the younger twin (the "real" Livia) and raised the older one (the "stolen" Livia) under her name. The current Livia carries the name of a dead girl.
-- **Valerius has known for years** that his sister was killed. He has been waiting for the moment when his "sister" is no longer useful — then he will kill her and blame it on the party.
-- **The twin-killing tradition is real.** It is the darkest secret of Klan Lei. It was invented by **[[oversee/npcs/Lei Firsa]]** 650 years ago. It is why Vya was never killed (her mother hid her), and why Darvin was hidden (not killed). The survivors of the tradition are **[[oversee/npcs/Lei Livia Vane]]**, **[[oversee/npcs/Lei Valerius Thorne]]** (the older twin), and **[[oversee/pcs/Vya Arleschia|Vya]]** (the hidden heir).
-- **HVS's discovery of the name "Human Vessel Shell"** is the beginning of his Season 3 arc. He will learn what it means — that he is not a man, but a **shell** — and he will have to decide what to do with that truth.
-- **Husgus's golden cracks** are now visible. He has not yet connected them to anything. When he learns about HVS-01 and HVS-02, he will understand. He is **HVS-01**. He was meant to hold the **Architect**. The Architect was never placed inside him. He developed his own soul. The golden light is the Architect's old structure showing through.
-- **Darvin carries Topaju.** He will die in Session 8. His death is the end of Season 2. It is also the beginning of Vya's path to becoming the True Heir.
-- **Livia's fear of Valerius is genuine.** She is not lying. She will become an ally in Season 3 — but only if the party can protect her from Valerius.
-- **Session 07 stakes:** Syl saw the Overseer and survived. Ama unlocked Renal's power. HVS learned the meaning of his name. Livia was captured and the twin-killing tradition was revealed. The party is now carrying a hostage, a secret, and a truth that could destroy the Commonwealth.

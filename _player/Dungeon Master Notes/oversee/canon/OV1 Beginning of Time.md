@@ -4,7 +4,6 @@ universe: Oversee
 era: Beginning of Time
 years: 1XXXX – 20XX BV
 ---
-::pf
 > [!info] The Making of the World
 > The first age. When the Architect gave everything. When the Inbu walked. When the sky first learned to hunger.
 
@@ -167,59 +166,3 @@ It is not a natural phenomenon. It is not a punishment. It is not even, strictly
 And it will happen again.
 
 It always does.
-::/pf
-
-%% DM SECRETS %%
-
-## The Truth Beyond the Player-Facing Text
-
-The player-facing text above is the **Cycle Clan's version** of the beginning — the version taught in their archives, passed to initiates, and recorded in their oldest scrolls. It is **mostly accurate**. But it omits several key truths.
-
-### What the Players Do Not Know Yet
-
-- **The Inbu were the first failed Vessel.** The Architect did not create them to be a race. It created them to be a **container** — a race powerful enough to hold its consciousness. They were too powerful. They attracted the Overseer's attention. The Architect **scattered them into lesser races** to hide them from the Overseer. That is why every race has a fragment of Inbu DNA. That is why every race can use magic.
-
-- **The Gemhearts are not scattered randomly.** They were **hidden deliberately** by the Cycle Clan after the Architect became the Valla. Each one is in a place that only the Cycle Clan Ciphers know. The locations are encoded in the **[[oversee/lore/The Edisi Law|Edisi Law]]**, the **Bahtera Bawah Tanah**, and the memories of the four Ciphers.
-
-- **The Rapture is not the Overseer's only method.** It is the most **visible** one. The Overseer has other, subtler ways of feeding — including through the **[[oversee/lore/The Valla|Valla]]**, which feeds it filtered energy, and through the **Gap**, which leaks raw Ambitio-Ether into the void. The Rapture is the **emergency valve** — what happens when the filter fails.
-
-- **The High Magic Societies were not foolish.** They did not "forget the balance." They were **deliberately misled** by the earliest Klan Lei — who already knew the truth about the Overseer and chose to hide it. The first Klan Lei Elders wanted the Rapture to happen, because each Rapture **killed the competing bloodlines** and left the Lei as the only survivors. The Lei **engineered** the first Rapture. This is the darkest secret of the Klan.
-
-- **The Devourer Comet is not just a shard of the Overseer.** It is a **fragment of the Shell** — a piece of the Architect's shed skin that the Overseer has **reanimated** and sent back. The Shell in the sky is not the only piece of the Architect's body. The comets are pieces of it, animated by the Overseer's hunger, used as tools.
-
-- **The Inbu's descendants are the key.** The nine races are not just "children of the Inbu." They are the **scattered containers** of the Architect's original plan — each carrying a fragment of the potential that could one day hold the Architect's full consciousness. This is why the HVS project was possible. The Architect **knew** its descendants would eventually produce a suitable vessel.
-
-### When the Party Learns the Truth
-
-1. **Session 6** — The Shell video. The party learns the world is built on the remains of a cosmic entity.
-2. **Session 8–10** — The party reaches the **Bahtera Bawah Tanah** and reads the original **Edisi Law**. The truth about the Klan Lei's role in the first Rapture is revealed.
-3. **Session 11** — **[[oversee/npcs/Lei Firsa]]** reveals the truth about the Inbu and the Vessel project.
-4. **Endgame** — The party must decide what to do with this knowledge.
-
-### What This Document Is
-
-This is **the Cycle Clan's archive entry** — the version they would allow an initiate to read. It is accurate in its broad strokes, but it **omits** the role of the Klan Lei, the true origin of the Inbu, and the truth about the comets.
-
-The truth is in the DM secrets.
-
-The party will have to decide how much of the Cycle Clan's version to trust.
-
-## Connections to Other Lore
-
-- **[[oversee/canon/OV0 Before Oversee]]** — the previous chronological document (the primordial era)
-- **[[oversee/lore/The Overseer & The Architect]]** — the two primordial entities
-- **[[oversee/lore/The Gap]]** — the barrier between the world and the Overseer
-- **[[oversee/lore/The Valla]]** — the living seal (the Architect, and all who followed)
-- **[[oversee/lore/The Gemhearts]]** — the organs of the Architect
-- **[[The Inbu]]** — the first race
-- **[[oversee/lore/The Behemoths]]** — the last of the primordial giants
-- **[[oversee/lore/The Three Surviving Dragons]]** — the last of the Elder Dragons
-- **[[oversee/lore/The Rapture]]** — the feeding mechanism of the Overseer
-- **[[oversee/lore/The Shell]]** — the Architect's shed skin
-- **[[Klan Lei]]** — the bloodline that engineered the first Rapture
-- **[[oversee/lore/The Cycle Clan]]** — the organization that guards this truth
-- **[[The Devourer Comet]]** — the Overseer's tool
-
-## Timeline Note
-
-The events in this document span **over 10,000 years** — from the creation of the world to the last recorded Rapture before the Age of Knowledge. The exact dates are approximate; the Cycle Clan kept imperfect records. The era ends when the last High Magic Society fell and the survivors began to rebuild — which is where **the Age of Knowledge** begins.

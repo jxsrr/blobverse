@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Ibu Vivienne. Pembuat ramuan. Dari keluarga penyihir terpandang.
 > **Where:** Ashbourne Manor, Pinggiran Calamara
@@ -30,16 +29,3 @@ universe: Sonstige
 - Dari keluarga penyihir terpandang.
 - Memberi Vivienne cincin perak warisan keluarga.
 - Tinggal di Ashbourne Manor.
-::/pf
-
-%% DM SECRETS %%
-- Cordelia **tahu** tentang manuskrip yang ditemukan Vivienne. Ia **lebih khawatir** daripada Edmund — tapi ia tidak melarang Vivienne.
-- Ia **tahu** bahwa keluarga Ashbourne menyembunyikan sesuatu. Ia **tidak tahu** apa — tapi ia **merasakan** ada sesuatu.
-- Ia **tidak tahu** tentang baterai FBA, RAIB, atau Bellweather. Ia hanya tahu bahwa FBA memiliki **rahasia**.
-- **DM Note:** Cordelia adalah kekuatan pendiam keluarga Ashbourne. Jika Vivienne dalam masalah, Cordelia adalah orang pertama yang akan bertindak — dengan ramuan, dengan racun, atau dengan kata-kata.
-
-## Connections
-- `Vivienne Ashbourne.md` — putrinya
-- `Edmund Ashbourne.md` — suaminya
-- `Ashbourne Family.md` — keluarganya
-- `Ashbourne Manor.md` — rumahnya

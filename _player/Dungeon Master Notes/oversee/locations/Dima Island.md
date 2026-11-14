@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: Between Harka and Pirizia
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Tropical island between Harka and Pirizia
 > **Notable People:** [[oversee/npcs/Guanik Smith|Guanik]] (deceased), Janja (deceased), Dontol, Huan, Nila
@@ -22,9 +21,3 @@ universe: Oversee
 
 ## Current State
 - Abandoned. Burned. A memorial to the party's first failure.
-::/pf
-
-%% DM SECRETS %%
-- Dontol (the eldest son) survived. His current whereabouts are unknown.
-- The "giant crab" was a kobold. The shell collection was a fake quest to test the party's kindness.
-- [[oversee/npcs/Guanik Smith|Guanik]]'s family carried the last fragment of the **Shell video** before it was taken to Arujaya.

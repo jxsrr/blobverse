@@ -23,10 +23,3 @@ universe: Oversee
 ## What the Party Knows
 - The ruins are cursed. The Rapture happened here.
 - The skeleton wizard was once a great mage. Now it is an Echo.
-
-
-%% DM SECRETS %%
-- Terrde was Simon's **third** legendary weapon. He received it from a dying mercenary named Ksatrian.
-- The skeleton wizard is **Echo of a Cycle Clan mage** who tried to use Terrde to stop the Rapture. He failed. He is still trying.
-- Terrde is the only weapon that can **cut through fate**. Once per campaign, it can force a reroll on any d20. The DM must accept the new result.
-- If the party recovers Terrde, it will bond with **Shin** — because it is a weapon of patience, and Shin has learned to wait.

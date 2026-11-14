@@ -32,12 +32,3 @@ universe: Oversee
   5. **Wonder** — gain 3d10 temporary HP, see a vision of another Gemheart's location.
   6. **Grand Edition** — ask the DM one question about the Gap or the Overseer. The DM must answer truthfully.
 - The Well is guarded by the **Well Guardian** (CR 6, golden water elemental). It only attacks if the party takes more water than they need.
-
-
-%% DM SECRETS %%
-- Jenderal Bisu is the last person alive who knew **Olaf Guirela** personally. He will recognize Husgus as Olaf's spiritual successor.
-- The Well of Wonders is a direct leak from **Topaju** (with Lei Alejandro). Drinking from it creates a temporary connection to the Gemheart.
-- If Darvin is nearby, the Well will pulse in resonance.
-- The swords in the walls are not just memorials. They are **seals**. Each one holds a fragment of a soldier's soul. Removing them would release the souls — and weaken the seal on the Well.
-- Jenderal Bisu's voice was taken by the **Overseer** itself when he screamed for peace. The entity heard him and silenced him permanently.
-- **Jenderal Bisu is not a Cipher.** He is not part of any four-Cipher structure. He is a former general who runs a tea shop. He is a witness to history — not a guardian of a map.

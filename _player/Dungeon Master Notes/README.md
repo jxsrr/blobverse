@@ -4,7 +4,6 @@ description: Player-facing wiki for the Blobverse campaigns.
 showSidebar: false
 showToc: false
 ---
-
 # Blobverse
 
 Three campaigns, one wiki. Everything here is written for players: recaps, people, places, and the parts of the world you have already seen. If something has not happened at your table yet, it is not here.

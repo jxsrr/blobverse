@@ -7,7 +7,6 @@ status: Deceased (long before Session 01)
 first_seen: Session 05 (mentioned via Olaf's backstory)
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Olaf's grandfather. The one who found the Gustaero bow in his fishing net.
 > **Where:** Wind's Rest (fishing village, South Harka)
@@ -23,11 +22,3 @@ universe: Oversee
 ## His Legacy
 - The bow passed from Gunnar → Olaf → **[[oversee/npcs/Gordon]]** → **[[oversee/pcs/Husgus]]**.
 - The current wielder, Husgus, does not know Gunnar's name.
-::/pf
-
-%% DM SECRETS %%
-- Gunnar was **not a fighter**. He was a fisherman. He never used the bow.
-- He had a daughter — **Olaf's mother**. She died young. Gunnar raised Olaf alone.
-- **His old house** is still in Wind's Rest. The attic still has a small chest where the bow was kept.
-- **His daughter (Olaf's aunt)** still lives in Wind's Rest. She is old now. She remembers Olaf leaving with the bow.
-- **Reveal schedule:** Season 3, if the party visits Wind's Rest.

@@ -2,7 +2,6 @@
 type: Sonstige Creature
 universe: Sonstige
 ---
-::pf
 > [!info] Jounceling
 > Makhluk magis kecil yang dijadikan bola hidup dalam olahraga Jounce.
 
@@ -24,13 +23,3 @@ universe: Sonstige
 - Jounceling diperiksa sebelum dan sesudah pertandingan.
 - Pemain dilarang melukai atau menakut-nakuti Jounceling.
 - Manipulasi magis terhadap Jounceling dilarang.
-::/pf
-
-%% DM SECRETS %%
-- Jounceling **bukan** bagian dari RAIB atau Bride. Ini makhluk biasa — bagian dari olahraga Jounce.
-- Jounceling **hidup**. Ia bisa mati. Jounceling profesional yang pensiun sering diadopsi.
-- Breeder Jounceling **ada**. Bloodline tertentu sangat dicari. Ini adalah industri nyata di Sonstige.
-- **DM Decision:** Apakah Jounceling punya hubungan dengan Void? **Rekomendasi: tidak.** Jounceling adalah makhluk alami, bukan Gap-touched. Ini menjauhkan Jounce dari plot baterai dan membuatnya murni olahraga.
-
-## Connections
-- `Jounce.md` — olahraga

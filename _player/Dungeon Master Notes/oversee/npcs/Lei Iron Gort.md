@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 04
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Wakil Pertahanan, leader of Garda Besi
 > **Where:** Ironhold / mobile
@@ -22,8 +21,3 @@ universe: Oversee
 
 ## Current Goal
 Crush Will of Grin. Prove Garda Besi is the strongest.
-::/pf
-
-%% DM SECRETS %%
-- Gort is not loyal to Valerius. He is loyal to strength.
-- He could be turned, but it would require defeating him in combat first.

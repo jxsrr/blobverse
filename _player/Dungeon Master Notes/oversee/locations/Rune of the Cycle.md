@@ -17,10 +17,3 @@ universe: Oversee
 
 ## Current State
 - Undisturbed. Waiting.
-
-
-%% DM SECRETS %%
-- The Rune is a Cycle Clan outpost. It is warded against scrying.
-- Beneath the stones: a hidden vault with the **fourth Gemheart's location** (Topaju, inside Darvin).
-- The vault can only be opened by someone who has touched a Gemheart.
-- If the party returns, they can find the vault.

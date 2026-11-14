@@ -2,7 +2,6 @@
 type: Oversee Guide
 universe: Oversee
 ---
-::pf
 > [!info] Welcome, Player
 > This is your campaign wiki. It is **safe**. Nothing here will spoil the plot. If you see it here, your character can know it.
 
@@ -32,4 +31,3 @@ universe: Oversee
 ## The Golden Rule
 - **If it's not on the wiki, it's not canon.** Your character cannot reference it.
 - **If it's on the wiki, it's fair game.** Your character can know it, use it, or plan around it.
-::/pf

@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 6
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.
 
@@ -297,17 +296,3 @@ And they climbed, for the first time, out of the earth.
 ## Sessions Chain
 - **Previous:** [[Session 05 — The Shell (Full Recap)|Session 05]]
 - **Next:** [[Session 07 — The Depths (Full Recap)|Session 07]]
-::/pf
-
-%% DM SECRETS %%
-- **Joni and Siti were not always brainwashed.** Their loyalty was bought with threats — the Commonwealth promised to burn Nesia if they did not cooperate. They genuinely believe Ama is a terrorist. They are not evil. They are **scared**.
-- **Joni whispered something as he held Ama** — something the party did not hear. He said: *"I am sorry. I did not know what else to do. They said they would burn the village."* Ama did not hear this. He will learn it in Season 3 if he returns.
-- **The Golden Sheaf hides a secret** — a compartment under the bar containing Ama's childhood belongings: a wooden toy, a letter Joni never sent, and a photo of the three of them. If the party ever returns, Siti will give it to them.
-- **Darvin is the True Heir of Lei Roiga** — he carries **[[oversee/items/Topaju]]** (the yellow Gemheart) inside his chest. He does not know this. His body is partially fused with Topaju's geomantic network — that is why he can "see" the earth. That is why he found Arujaya. That is why he will die stabilizing the continent in Session 8.
-- **Valerius is not the True Heir.** He is the twin who was kept. Darvin is the twin who was hidden. This is why Valerius wants Darvin dead — so he can absorb the Topaju and become the full heir.
-- **Livia Vane was the twin who was supposed to be killed.** Her sister was killed instead. She carries the guilt. She will tell the party this in Session 7.
-- **Dr. Vektor's daughter Kristine** is preserved in a stasis tube in his private lab. He believes the First Tree holds the secret of immortality. He is wrong — but he will not know that until Season 3.
-- **Echo Gzirmo is slowly losing coherence.** Each time he powers the reactor, he fades. He knows he is dying. He gave the party the Shell video because he wanted someone to carry the truth.
-- **The Shell video is the single most important artifact in the campaign.** It is the only proof that the Overseer is real. Every faction wants it. The party has a copy.
-- **The First Tree is the root system of the Shell** — the 20km humanoid skin in the sky. It fell 10,000 years ago, and its roots spread across Elis. The life drained from the tree was used to build Arujaya. When the Shell wakes, the roots will wake too.
-- **Session 06 stakes:** The party lost Ama's arm, gained a debt, and learned that the world is older and stranger than they knew. They also learned that family can betray you — and that sometimes the only way forward is to go deeper.

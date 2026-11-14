@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 4
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > A festival, three leaders, one dead professor, and a choice between two factions.
 ## Part 1: Seven Days
@@ -253,15 +252,3 @@ And the ship set sail for **Pirizia**.
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 03 — The Bard|Session 03]]
 - **Next:** [[oversee/sessions/Session 05 — Empty Husk|Session 05]]
-::/pf
-
-%% DM SECRETS %%
-- **Howdy was killed by the Garda Besi** on Valerius's orders. His research was too close to the truth. His "heart attack" was staged.
-- **Donta was forced to suicide** by a slow-acting compulsion spell — triggered when he spoke Howdy's name. The spell was placed on him weeks earlier, by a Commonwealth agent he trusted.
-- **Donta was a Keeper of Secret informant.** He had been in contact with **[[oversee/npcs/Mira Nouveau|Mira]]** for years. His personal collection (hidden in the Lyceum archives) contains fragments of the Edisi Law and a letter from Mira dated 12 years ago.
-- **The Cycle Clan Research File** contains the truth about the Gemhearts, the HVS project, and the Ritual of Replacement. The party has not read all of it yet.
-- **Gort respects Husgus now.** He will remember the ale catch. He is not loyal to Valerius — he is loyal to strength. He can be turned.
-- **Joni's brainwashing** is complete. He does not know he is under Commonwealth influence. He genuinely believes Ama is a terrorist.
-- **The choice to join Will of Grin** was observed by Keeper agents. **[[oversee/npcs/Mira Nouveau|Mira]]** knows. She is disappointed, but she is not surprised.
-- **The party did not see it yet,** but Valerius's smile during the parade never reached his eyes. He is not the kindly chancellor he appears to be.
-- **Session 04 stakes:** The party learned that their choices matter — that killing one man (Donta) could save them, that drinking a bottle of ale could earn them an ally, and that aligning with one faction means losing access to another.

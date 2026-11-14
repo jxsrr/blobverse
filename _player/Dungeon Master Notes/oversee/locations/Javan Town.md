@@ -20,9 +20,3 @@ universe: Oversee
 - The party arrived here on their way to Padre City ([[oversee/sessions/Session 04 — Territorial|Session 04]]).
 - They learned about the Triase from Commonwealth soldiers.
 - They met Pak Andreas here.
-
-
-%% DM SECRETS %%
-- Javan Town is a major smuggling hub for Will of Grin. Sasimo is a Grin agent.
-- Father Tulus is not corrupt — he is just broken. He knows who killed the port workers but can't prove it.
-- The port tunnels connect to an underground safehouse used by Keeper of Secret.

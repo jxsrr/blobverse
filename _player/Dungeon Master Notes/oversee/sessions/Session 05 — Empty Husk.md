@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 5
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.
 
@@ -350,15 +349,3 @@ She had finished translating.
 ## Sessions Chain
 - **Previous:** [[Session 04 — The Festival (Full Recap)|Session 04]]
 - **Next:** [[Session 06 — The Underground (Full Recap)|Session 06]]
-::/pf
-
-%% DM SECRETS %%
-- **The Initial Six were murdered by Lei Alejandro** to feed **Simon** — the current Valla — whose soul was cracking. This was the first **Divine Hunger** ritual in 500 years.
-- **Atreus's letter is addressed to Vya** — through the Grin bloodline. He knew his descendants would one day read it.
-- **Hildag realized Vya is the True Heir** — not Jarko. In the chaos of Iron Gort's attack, she made the cold calculation: leave Jarko to die as a decoy, save Vya as the hope of the revolution. **Accarus agreed.** They teleported away with an emergency scroll. **They never told Vya.**
-- **Jarko had no "Spark."** He was a fire mage, but not a True Heir. His death was **calculated** — a sacrifice for the greater good. This is the darkest secret Will of Grin carries.
-- **Vythrax is still weak.** Safayer was poisoning her for 300 years. She can fight if called, but it will cost her.
-- **Syl's blood now contains traces of Safayer** — she is a universal antidote, and she is slowly dying.
-- **The "wandering demon"** that rescues Syl in Session 7 (from The Depths) is likely **[[oversee/npcs/Zargoth]]** — the fragment of the Grin father inside HVS. The party does not know this yet.
-- **HVS's collapse at the Ruin of Cycle** was caused by his own body reacting to the truth. He is HVS-02. The Ruin was designed for him. **Husgus is HVS-01.** The party will discover this in Season 3.
-- **Session 05 stakes:** The party learned the truth of the Initial Six — the betrayal, the murder, the sacrifice. They chose to fight on. They lost Jarko. They gained a dragon. They lost their innocence.

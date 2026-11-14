@@ -21,9 +21,3 @@ universe: Oversee
 
 ## Current State
 - Gone. Underwater. Only the sea cave may remain accessible.
-
-
-%% DM SECRETS %%
-- The castle was already unstable before the party arrived. Grolnok had been planning to demolish it himself.
-- The sea cave carving is still intact. It can be re-read.
-- There are other carvings in other goblin ruins. Each one points to a Gemheart.

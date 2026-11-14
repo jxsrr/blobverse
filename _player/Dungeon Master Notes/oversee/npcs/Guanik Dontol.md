@@ -7,7 +7,6 @@ status: Alive (whereabouts unknown)
 first_seen: Session 01 (mentioned), never met
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Eldest son of [[oversee/npcs/Guanik Smith|Guanik]] and [[oversee/npcs/Janja]]. Brother of [[Huan]] and [[Nila]].
 > **Where:** Unknown
@@ -22,14 +21,3 @@ universe: Oversee
 ## What the Party Heard
 - Guanik spoke of him warmly — "my eldest, Dontol, he is the best fisherman in the family."
 - Huan and Nila looked up to him. They have not seen him since the attack.
-::/pf
-
-%% DM SECRETS %%
-- Dontol returned to Pulau Dima **two days after** the attack. He found the burned village, his parents' bodies, and no siblings.
-- He buried his parents himself. **Janja's grave** and Guanik's grave are small cairns on the beach — he built them alone.
-- He has spent the last six months **hunting Will of Grin**. He does not know about **Accarus**, or about the party, or about the Gemhearts.
-- He is a fisherman, not a fighter — but he has learned. He has killed two Grin scouts.
-- **His current location:** Following a lead into the **Gunung Rayu** region. He believes Will of Grin has a base there. (He is wrong — that is where Grolnok is hiding.)
-- **When he meets the party:** He will not trust them at first. He will ask about his siblings. When he learns Huan and Nila are alive in Kota Juto, he will break down.
-- **His role in Season 3:** He can become a **guide** to the Gunung Rayu region, or a **messenger** who carries word between Kota Juto and the party.
-- **His grief:** He blames himself for not being there. He blames Guanik for befriending the party. He blames the party for bringing Will of Grin to Pulau Dima.

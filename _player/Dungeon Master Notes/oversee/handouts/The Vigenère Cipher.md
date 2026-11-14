@@ -22,8 +22,3 @@ TABVPTXLQYURAQIOUOVQPA!VOZJINOULSUINXAUPVTRREPSIQDWJVHPPVIPXHFPSPVEAGRIWUXVZBNUR
 - "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of [[oversee/npcs/Lei Livia Vane|Livia]].
 - The message was written by someone tracking Alejandro.
 - The **West RQ Observatory** is the destination.
-
-
-%% DM SECRETS %%
-- The message was written by **[[oversee/npcs/Lei Livia Vane|Livia]]** herself, in a moment of doubt. She sent it to her handler, then regretted it. This is the message that made Valerius suspicious of her.
-- "The teacher" (guru) is a key revelation: Alejandro taught Livia. She was his student. She is not just a Commonwealth officer — she is a link to the Initial Six.

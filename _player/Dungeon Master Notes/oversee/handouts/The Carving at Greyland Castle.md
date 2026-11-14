@@ -12,10 +12,3 @@ We hid the key of the sea lord's legacy here,
 beneath forgotten watch.
 
 — Lei Alejandro, 200 AV
-
-
-%% DM SECRETS %%
-- The "star" is the Shell.
-- The "six" are the Initial Six.
-- "The key of the sea lord's legacy" is Emelanica.
-- Alejandro wrote this AFTER the betrayal. He was already hiding the Gemhearts. He was already planning the lie.

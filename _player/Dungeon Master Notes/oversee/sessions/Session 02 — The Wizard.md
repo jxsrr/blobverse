@@ -3,7 +3,6 @@ type: Oversee Session
 session_number: 2
 universe: Oversee
 ---
-::pf
 > [!teaser] Previously...
 > Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.
 
@@ -231,15 +230,3 @@ And they did not know — not yet — that Agus was already working for someone 
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 01 — The Sorcerer|Session 01]]
 - **Next:** [[oversee/sessions/Session 03 — The Bard|Session 03]]
-::/pf
-
-%% DM SECRETS %%
-- **The Fate Cards are permanent.** They cannot be removed. They cannot be traded. Each PC is bound to what they drew.
-- **The Confession Field** was a Grin interrogation mechanism. It forced truth. It was designed to break spies. The party passed it, and the mechanism rewarded them with the Meal Key.
-- **Elara was testing the party.** She moved the gems herself. The "theft" was a test of how they solved problems — with violence or with patience. They passed.
-- **Pops knows more about Atlan than he says.** He was Atlan's friend. He is also **not actually a Tortle** — he is a Gap-touched creature who took the shape of a Tortle centuries ago. His real name is **Oos**.
-- **Agus was compromised** — but not by choice. He was compelled by **Echo Sam's** song. In Session 3, he will kill **[[oversee/npcs/Bud-eg]]** and be taken by Echo Sam.
-- **The "Destroyer God" in Aede** — the entity Reins feared — is the same entity as **The Overseer**. The party does not know this yet.
-- **Mira's childhood:** She saw her father disappear at age 12. She has spent the last 25 years building the Keeper of Secret. She has never told anyone the full story of what she saw.
-- **The Twin Shell Amulet** — found in Atlan's base — is a key item. It allows the wearer to take 10 on one attack roll per day. **It is also a key to the Bahtera Bawah Tanah.** Mira has not told the party this yet.
-- **Session 02 stakes:** The party thinks they are solving a theft. They are actually being recruited into a war that has been fought in secret for 500 years.

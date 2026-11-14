@@ -3,7 +3,6 @@ type: Sonstige Location
 parent_location: Southeast Peninsula
 universe: Sonstige
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Southeast Peninsula
 > **Notable People:** Keluarga Grafsten, Zenroy Dala
@@ -21,15 +20,3 @@ universe: Sonstige
 - Kota asal Zenroy. Kota pelabuhan di Southeast Peninsula.
 - Dikuasai keluarga Grafsten.
 - Sedang dalam masalah dengan keluarga kekaisaran.
-::/pf
-
-%% DM SECRETS %%
-- Grafstenmouth adalah **kota yang sedang sekarat**. Perselisihan dengan keluarga kekaisaran telah memutus jalur perdagangan. Warga mulai pergi.
-- **Keluarga Grafsten** adalah penguasa lokal — bukan bangsawan tinggi, tapi cukup berpengaruh di wilayahnya.
-- **DM Note:** Grafstenmouth adalah tempat yang **terlupakan**. Tidak ada yang peduli pada kota ini — kecuali keluarga Grafsten, yang mencoba menyelamatkannya.
-
-## Connections
-- `Zenroy Dala.md` — tinggal di sini
-- `Lord Aldric Grafsten.md` — penguasanya
-- `Grafsten Family.md` — keluarganya
-- `Imperial Academy.md` — sekolah rival di Imperial Capitol

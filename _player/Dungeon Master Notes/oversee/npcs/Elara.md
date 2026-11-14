@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 02
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Innkeeper at Karang Tidur
 > **Where:** Kota Juto, Distrik Pasang
@@ -22,9 +21,3 @@ universe: Oversee
 
 ## Current Goal
 Run her inn. Stay out of trouble. (Or so she says.)
-::/pf
-
-%% DM SECRETS %%
-- Elara knows the location of **Atlantis's base** beneath the Observatorium.
-- She was the one who moved the gems to test the party.
-- She is connected to Keeper of Secret.

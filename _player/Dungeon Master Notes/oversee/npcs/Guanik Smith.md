@@ -7,7 +7,6 @@ status: deceased
 first_seen: Session 01
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Old dwarf fisherman who rescued the party
 > **Where:** Pulau Dima (home destroyed)
@@ -25,9 +24,3 @@ universe: Oversee
 ## Legacy
 - His knowledge survives in the party's memory.
 - His research was later found in Arujaya — the video of the Shell.
-::/pf
-
-%% DM SECRETS %%
-- [[oversee/npcs/Guanik Smith|Guanik]] was a descendant of **Guanik Wiseman** — the founder of Cycle Clan.
-- His video on the Shell is the most important artifact in the campaign.
-- His family's death is the party's first real guilt.

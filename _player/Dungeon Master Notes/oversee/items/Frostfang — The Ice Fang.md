@@ -23,10 +23,3 @@ universe: Oversee
 ## What the Party Knows
 - The Klan Frostscale believe it is a sacred weapon.
 - If Syl finds it, it may be her signature weapon.
-
-
-%% DM SECRETS %%
-- Frostfang was created from the **tooth of an ancient ice dragon** — possibly one of [[oversee/npcs/Vythrax]]'s ancestors.
-- It is sentient. It chooses its wielder. It has been waiting for Syl.
-- [[oversee/npcs/Vythrax]] will give it to Syl freely if asked. She knows it is her daughter's birthright.
-- If Syl wields it, she will gain a **permanent +1 to her cold damage** and can use **Freezing Touch** once per day without expending a spell slot.

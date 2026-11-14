@@ -23,11 +23,3 @@ universe: Oversee
 
 ## What Happened Here
 - Not yet visited by the party.
-
-
-%% DM SECRETS %%
-- The colony is not fully abandoned. There are still people there — descendants of the original researchers, living in the fog, unaware that 200 years have passed.
-- The "second Valla" experiment failed because the subject was not a willing sacrifice. She is still alive, frozen in time, in the basement of the observatory. She is not named Echo. She is a **failed vessel** — an HVS shell that was never filled. Her name is lost.
-- Varek will give the Cloud Key only if the party promises to **destroy the colony** after they leave. He believes the fog is protecting the world from something worse.
-- The fog is starting to thin. The Overseer is slowly becoming aware of the colony again.
-- **Varek is not a Cipher.** He is not part of any four-Cipher structure. He is the last lucid resident of the Cloud Colony. He has been waiting for someone to come. He has been waiting for 200 years.

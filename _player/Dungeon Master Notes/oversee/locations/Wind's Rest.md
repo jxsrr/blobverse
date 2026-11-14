@@ -20,10 +20,3 @@ universe: Oversee
 
 ## Current State
 - Quiet. The villagers do not know the significance of their village.
-
-
-%% DM SECRETS %%
-- The village has a **shrine to Lei the Great** — not a Valla temple, but a small stone marker. It was built by Gunnar after he found Gustaero.
-- The old lighthouse is still standing. It is where Gunnar first saw the bow.
-- If the party visits, an old woman (Gunnar's daughter, Olaf's aunt) will recognize Husgus as "a friend of Olaf's."
-- She will give the party a **tattered map** — Gunnar's old sea chart. It marks the location of the **Wind Silo** in Ghuffghuff.

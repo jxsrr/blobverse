@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: Pirizia East
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Pirizia East
 > **Notable People:** [[oversee/npcs/Accarus Grin|Accarus]], Geneva, Hildag
@@ -24,8 +23,3 @@ universe: Oversee
 
 ## Current State
 - Damaged but functional. The Grin survivors are scattered.
-::/pf
-
-%% DM SECRETS %%
-- The Maw Desert hideout was built on top of an older Cycle Clan site.
-- There are sealed lower levels no one has opened in centuries.

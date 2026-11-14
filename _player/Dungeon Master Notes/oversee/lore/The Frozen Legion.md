@@ -18,10 +18,3 @@ universe: Oversee
 
 ## What the Party Knows
 - They saw the statues in Session 5. They did not know they were alive.
-
-%% DM SECRETS %%
-- The Frozen Legion is not just a legend. They are **real dragonborn**, frozen by [[oversee/npcs/Vythrax]] 1,000 years ago to stop a Gap invasion.
-- If [[oversee/npcs/Vythrax]] dies, they will thaw. They will be confused, angry, and dangerous. They will not recognize the modern clan.
-- If the party can **communicate with them** (using Dragonborn language or Syl's connection to [[oversee/npcs/Vythrax]]), they can recruit them as allies.
-- The Legion is **1,000 strong**. They are all CR 3. They are enough to turn the tide of a battle.
-- This is a **Season 3 optional quest**. The party can choose to thaw them or leave them frozen.

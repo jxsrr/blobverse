@@ -7,7 +7,6 @@ status: alive
 first_seen: Session 05
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Keeper of The Frosted Roost (hunter's rest house)
 > **Where:** Frostheart Village
@@ -21,4 +20,3 @@ universe: Oversee
 - Sharpened her claws on the same stone for decades.
 ## Current Goal
 Keep the hunters fed and rested. Protect the village.
-::/pf

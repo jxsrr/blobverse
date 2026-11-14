@@ -22,9 +22,3 @@ universe: Oversee
 ## History
 - Found in Greyland Castle's supply room ([[oversee/sessions/Session 01 — The Sorcerer|Session 01]]).
 - Used occasionally. Mostly a joke item.
-
-
-%% DM SECRETS %%
-- The bag is not actually "worn out." It is a fragment of a Cycle Clan artifact.
-- The animals are not real — they are **echoes** of creatures that once lived near the bag.
-- If the bag is destroyed, the echoes are freed.

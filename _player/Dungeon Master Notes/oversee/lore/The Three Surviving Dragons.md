@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 > [!info] The Last of the Ancient Dragons
 > Once there were thousands. Now there are three. They are hiding.
 
@@ -30,10 +29,3 @@ universe: Oversee
 ## What the Party Knows
 - They know [[oversee/npcs/Vythrax]]. They do not know the others exist.
 - The dragons are the last of their kind.
-::/pf
-
-%% DM SECRETS %%
-- Verdantus is **not hidden**. He is sleeping. If the party enters the Kanopi Tanpa Ujung, they will wake him. He will be angry. He will attack. But if they can calm him, he will give them a **seed of the first tree** — a seed that can grow into a new filter for Ambitio-Ether.
-- Aurelia is **dying**. She has been poisoned by something in the lake. If the party saves her, she will give them **a scale** — a scale that can breathe underwater.
-- [[oversee/npcs/Vythrax]] will not survive the campaign. She is already dying. She will give her remaining strength to protect Syl in the final battle.
-- The three dragons are the **last connection to the world before the Rapture**. If they die, the old world dies with them.

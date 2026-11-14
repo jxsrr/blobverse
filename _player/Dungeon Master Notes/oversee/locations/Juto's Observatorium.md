@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: Juto Port City (Rioquan South)
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** Juto Port City
 > **Notable People:** [[oversee/npcs/Mira Nouveau|Mira]], Keeper of Secret agents
@@ -51,15 +50,3 @@ There are **three Observatories** built by the Cycle Clan:
 ## Current State
 - Still operating. [[oversee/npcs/Mira Nouveau|Mira]] still runs it from the shadows.
 - The Commonwealth is watching it more closely.
-::/pf
-
-%% DM SECRETS %%
-- The Observatorium was built on top of **Atlan's original laboratory** — and on top of the Cycle Clan's **Second Observatory**.
-- The building's foundations are much older than the current structure. They are Cycle Clan.
-- **The Twin Shell Amulet** (found in the basement) is a key item. It allows the wearer to take 10 on one attack roll per day. It is also a **key** to the Bahtera Bawah Tanah.
-- [[oversee/npcs/Mira Nouveau|Mira]] has not told the party that the Amulet is a key. She is waiting for the right moment.
-- **The second Cycle Clan sigil** is in the basement — hidden in the eternal flame's pedestal.
-- **The second Observatory** was not just for study. It was a **warning system** — a way to detect the Shell's movement before it reached the world.
-- **Atlan** did not know he was repurposing a Cycle Clan installation. He thought he was just using an old observatory. He was wrong.
-- **Mira knows** the Observatory is a Cycle Clan site. She has known for years. She has not told the party.
-- **Pops Tortle** knows more about the Observatory than he lets on. He was Atlan's friend — and he helped him repurpose the instruments.

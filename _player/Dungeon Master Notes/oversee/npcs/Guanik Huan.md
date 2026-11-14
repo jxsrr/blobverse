@@ -7,7 +7,6 @@ status: Alive (if saved)
 first_seen: Session 01
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Role:** Guanik's son. One of the two children the party helped.
 > **Where:** Pulau Dima (destroyed) / Kota Juto (adopted)
@@ -23,11 +22,3 @@ universe: Oversee
 ## His Personality
 - Shy. Curious. Spoke more to his sister than to the party.
 - Loved collecting shells more than anything.
-::/pf
-
-%% DM SECRETS %%
-- Huan and Nila were evacuated by a neighbor during the Will of Grin attack. They are alive.
-- They were adopted by a fishing family in **Kota Juto**. They live in the Distrik Pasang.
-- **Huan's shell collection** is his most treasured possession. It survived the attack because he had it with him.
-- **He blames himself** for not being there when his parents died. He thinks if he had been faster, he could have helped.
-- **Reveal schedule:** Season 3, if the party returns to Kota Juto. He will be older — 16-17 now.

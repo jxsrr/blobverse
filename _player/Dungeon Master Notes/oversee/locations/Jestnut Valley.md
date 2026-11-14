@@ -32,12 +32,3 @@ universe: Oversee
 
 ## Current State
 - Quarantined. Still infected. The Commonwealth has sealed it off.
-
-
-%% DM SECRETS %%
-- The Jestnut blight is not natural. It is a **Gap-touched fungus** that Valerius cultivated to test HVS's resistance to cosmic contamination.
-- If HVS can survive the blight, Valerius believes HVS can survive the Gap.
-- **Greta** is a former Cycle Clan member who defected. She is the only one who can make a vaccine.
-- If the party saves Greta, she will join them as an **NPC ally** (a non-combat healer/alchemist).
-- The **Lucky Coin** is a real magic item. It can be used once to reroll any d20. Then it crumbles.
-- This location is a **Season 3 optional dungeon**. It contains a moral choice: destroy the Jestnut (end the blight but destroy the local economy) or preserve it (risk spreading, but gain a weapon against Valerius).

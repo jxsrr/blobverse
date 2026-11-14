@@ -16,10 +16,3 @@ universe: Oversee
 
 ## Current State
 - Unmapped. Unclaimed. Extremely dangerous.
-
-
-%% DM SECRETS %%
-- The canyon is not bottomless. It leads to a **Cycle Clan ruin** and a cult that worships the tears.
-- Zenahhi is held by a **Teary Knight** — a spirit bound to the blade.
-- The cult believes the sword is a divine gift. They will not give it up easily.
-- The sword glows brighter the closer it is to its true wielder. It is waiting.

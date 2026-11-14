@@ -7,8 +7,6 @@ status: Alive
 first_seen: Session 04 (mentioned), Session 06 (met)
 universe: Oversee
 ---
-
-::pf
 > [!info] At a Glance
 > **Role:** Ama's adoptive mother. Innkeeper at The Golden Sheaf.
 > **Where:** Nesia Town
@@ -27,11 +25,3 @@ universe: Oversee
 
 ## Current State
 - Still runs The Golden Sheaf. Under Commonwealth surveillance.
-::/pf
-
-%% DM SECRETS %%
-- Siti did not agree with Joni's decision. But she was too afraid to stop him.
-- She has been crying every night since Ama left.
-- She secretly **hides letters** Ama wrote from the road (some he never sent). She keeps them in a tin under the bed.
-- If the party ever returns to Nesia, Siti will find them first — alone, without Joni. She will beg them to take her to Ama.
-- Her arc in Season 3 is about **guilt and redemption**.

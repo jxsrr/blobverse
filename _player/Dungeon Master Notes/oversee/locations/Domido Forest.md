@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: West Harka
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** West Harka (between Ghuffghuff and Gudameng)
 > **Notable People:** Gordon (deceased), Husgus (raised here)
@@ -26,9 +25,3 @@ universe: Oversee
 
 ## Current State
 - Quiet. The birds have returned. The forest is healing.
-::/pf
-
-%% DM SECRETS %%
-- Gordon's hut is still standing. Inside: a few old hunting trophies, a worn-out bedroll, and a hidden compartment under the floorboards containing a **letter from Olaf** (never delivered) and a **map to the Wind Silo**.
-- Echo Olaf waits here. He is not hostile. He is waiting for Husgus.
-- The forest is **Gap-touched** in a small way. Sometimes the trees whisper in Sam's voice.

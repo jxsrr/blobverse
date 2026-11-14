@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Beneath Pegunungan Arbor
 universe: Oversee
 ---
- [!info] At a Glance
+[!info] At a Glance
 > **Part of:** Beneath Pegunungan Arbor (Harka/Elis border)
 > **Notable People:** None (sealed)
 > **Status:** Sealed. Unknown.
@@ -20,23 +20,3 @@ universe: Oversee
 - Rivan mentioned it. He has not yet given them the map.
 - It is where the truth about the Valla is kept.
 - It may also contain a way to **free Simon** without killing him.
-
-
-%% DM SECRETS %%
-- The Ark is not just a vault. It is a **seed ship** — designed to preserve civilization if the Overseer ever consumed Oversee.
-- It contains **cryo-pods** with preserved Cycle Clan members from 1,000 years ago. They are still alive.
-- The original Edisi Law is not a legal code. It is a **promise** — the contract between Guanik Wiseman, the Architect, and the mortal races. Breaking it would dissolve the seal.
-- The Ark also contains a **fragment of the Architect's consciousness** — a recording that can answer one question truthfully.
-- This is the key to the "third path" ending.
-- **The Ark is guarded by Lei Alejandro** — alive, hiding, waiting for someone worthy.
-- **The first Cycle Clan sigil** is NOT here. It is in the submerged cave beneath Universitas Tarakita.
-- **The third Cycle Clan sigil** is NOT here. It is in the Radio Observatory in Pegunungan Arbor.
-- **The Bat Trio** is NOT here. It is hidden with the royal families of Oversee.
-- **The Fool Trio** is NOT here. Swaith is with Shin. Kkana is with Mira. Zenahhi is lost in Ngarai Ratapan.
-- The Ark contains:
-  - The original Edisi Law
-  - The Cycle Clan archives
-  - The cryo-pods with preserved Cycle Clan members
-  - The fragment of the Architect's consciousness
-  - Lei Alejandro
-- **Access:** Rivan's map (the Peta Bahtera) and the Twin Shell Amulet (held by Mira).

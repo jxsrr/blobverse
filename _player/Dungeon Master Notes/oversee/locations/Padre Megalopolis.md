@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: West Harka
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** West Harka (capital)
 > **Notable People:** Hanzel Lei Krow (Governor), Valerius, Livia, [[oversee/npcs/Lei Iron Gort|Gort]]
@@ -23,8 +22,3 @@ universe: Oversee
 
 ## Current State
 - Tense. Valerius is consolidating power. Livia is missing (hostage).
-::/pf
-
-%% DM SECRETS %%
-- Padre City is the political heart of the Commonwealth.
-- The Tower of Time is where the Calendar was set. Its clock runs backwards — no one knows why.

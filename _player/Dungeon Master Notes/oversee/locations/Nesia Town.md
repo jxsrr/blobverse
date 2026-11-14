@@ -3,7 +3,6 @@ type: Oversee Location
 parent_location: West Harka (rural)
 universe: Oversee
 ---
-::pf
 > [!info] At a Glance
 > **Part of:** West Harka
 > **Notable People:** Hora, Abu, Joni (formerly), Siti (formerly)
@@ -23,9 +22,3 @@ universe: Oversee
 
 ## Current State
 - Under heavy Commonwealth surveillance. Joni and Siti still run The Golden Sheaf.
-::/pf
-
-%% DM SECRETS %%
-- Joni and Siti were not always brainwashed. Their loyalty was bought with promises of safety.
-- They genuinely believe Ama is a terrorist. They are not evil — they are scared.
-- If the party ever returns, they will have to face the people who raised Ama. This is a Season 3 emotional beat.
