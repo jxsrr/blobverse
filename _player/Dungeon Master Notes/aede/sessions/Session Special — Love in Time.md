@@ -1,7 +1,7 @@
 ---
-type: Oversee Session
-session_number: 8
-universe: Oversee
+type: Aede Session
+session_number: 1
+universe: Aede
 ---
 > [!teaser] Previously...
 > The party escaped Arujaya with Livia as hostage. Syl saw something beyond the veil — the Overseer itself. Darvin is Valerius's twin. Somewhere in the deep, Echo Gzirmo waits. And the sea is calling.

@@ -1,7 +1,7 @@
 ---
-type: Oversee Session
-session_number: 8
-universe: Oversee
+type: Aede Session
+session_number: 1
+universe: Aede
 ---
 ::pf
 > [!teaser] Previously...
