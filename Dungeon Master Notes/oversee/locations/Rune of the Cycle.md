@@ -2,6 +2,8 @@
 type: Oversee Location
 parent_location: Pirizia East / Maw Desert
 universe: Oversee
+aliases:
+  - The Rune of the Cycle
 ---
 > [!info] At a Glance
 > **Part of:** Near Maw Desert

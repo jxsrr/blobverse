@@ -3,6 +3,8 @@ type: Overseer Lore
 universe: Oversee
 era: The First God
 years: 01 – 70 AV
+aliases:
+  - The First God
 ---
 
 ::pf

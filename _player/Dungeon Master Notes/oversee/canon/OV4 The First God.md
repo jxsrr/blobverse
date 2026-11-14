@@ -3,6 +3,8 @@ type: Overseer Lore
 universe: Oversee
 era: The First God
 years: 01 – 70 AV
+aliases:
+  - The First God
 ---
 > [!info] The Age of the First God
 > When the calendar was rewritten. When the bloodline was founded. When the truth became a lie.

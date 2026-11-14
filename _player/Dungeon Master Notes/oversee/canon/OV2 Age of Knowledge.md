@@ -3,6 +3,8 @@ type: Oversee Lore
 universe: Oversee
 era: Age of Knowledge
 years: 19XX – 10XX BV
+aliases:
+  - Age of Knowledge
 ---
 > [!info] The Age That Remembered
 > The survivors did not rebuild. They studied. For the first time, mortals tried to understand the fire that had burned them.

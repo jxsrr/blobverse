@@ -3,6 +3,8 @@ type: Oversee Lore
 universe: Oversee
 era: Age of Knowledge
 years: 19XX – 10XX BV
+aliases:
+  - Age of Knowledge
 ---
 ::pf
 > [!info] The Age That Remembered

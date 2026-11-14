@@ -1,0 +1,17 @@
+# Whitelist untuk scripts/check_broken_links.py
+# Satu baris per target wikilink (isi di dalam [[...]], tanpa [[ dan ]]).
+# Baris berawalan '#' adalah komentar.
+
+# --- Future session placeholders (intentional reference to unwritten recap) ---
+Session 04 — The Festival (Full Recap)
+Session 05 — The Shell (Full Recap)
+Session 06 — The Underground (Full Recap)
+Session 07 — The Depths (Full Recap)
+Session 08 — The Reckoning
+Session 09 — The Truth
+
+# --- Catatan ---
+# Target 'real_missing' (content gap, 31 target) TIDAK di-whitelist.
+# Ini bukan bug, melainkan halaman lore yang belum dibuat.
+# Tracked di Item 12: Content-gap reconciliation.
+# Ketika halaman dibuat atau link diperbaiki, warning otomatis hilang.
