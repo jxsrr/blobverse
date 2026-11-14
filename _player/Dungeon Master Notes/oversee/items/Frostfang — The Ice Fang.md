@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Lost (Frosthaven Peak)
 universe: Oversee
+aliases:
+  - Frostfang
 ---
 > [!info] At a Glance
 > **Type:** Greataxe

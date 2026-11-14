@@ -6,6 +6,8 @@ home: Padre City
 status: hostage
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Livia Vane
 ---
 > [!info] At a Glance
 > **Role:** Wakil Keadilan, leader of Garda Mawar

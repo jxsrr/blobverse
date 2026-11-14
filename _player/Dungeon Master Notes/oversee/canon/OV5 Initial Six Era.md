@@ -119,7 +119,7 @@ As a **bard**, Sam was a collector of stories. He had wandered farther than anyo
 
 He knew every story had two sides, and that the truth was often hidden between the notes that were never played.
 
-His meeting with **[[00 Player Dashboard|The Five Sticks]]** — centuries after his death — would happen in **[[Ghuffghuff]]**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
+His meeting with **[[oversee/pcs/README|The Five Sticks]]** — centuries after his death — would happen in **[[Ghuffghuff]]**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
 
 And he was right. He would write that song. But it would not be a song of victory — it would be a **quiet requiem** creeping from behind the stars.
 

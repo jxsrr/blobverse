@@ -6,6 +6,8 @@ home: Gudameng
 status: Alive
 first_seen: Session 03
 universe: Oversee
+aliases:
+  - Cindy
 ---
 > [!info] At a Glance
 > **Role:** The only survivor of the Mektol family. Guardian of the Legendary Noodle Temple.

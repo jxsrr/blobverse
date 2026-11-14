@@ -6,6 +6,8 @@ home: Arujaya (as Echo)
 status: Echo (trapped), Released by Swaith
 first_seen: Session 06 (as Echo)
 universe: Oversee
+aliases:
+  - Echo Gzirmo Kopling
 ---
 > [!info] At a Glance
 > **Role:** The dragonborn tinker of the Initial Six. Later, the cyborg consciousness that ran Arujaya's reactor.

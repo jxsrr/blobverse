@@ -605,7 +605,7 @@ The creature was not evil in the ordinary sense. It was only **hungry** — hung
 
 And it sang. It kept singing — the same song it never finished at the altar — hoping that one day, someone would come and **play the final note for it**.
 
-When **[[00 Player Dashboard|The Five Sticks]]** finally faced the creature at the **teater of Ghuffghuff**, they realized ordinary violence could not defeat it. Every head that was cut off grew back. Because it was not a flesh-and-blood creature — it was an **Echo**, and Echoes cannot be killed with a sword.
+When **[[oversee/pcs/README|The Five Sticks]]** finally faced the creature at the **teater of Ghuffghuff**, they realized ordinary violence could not defeat it. Every head that was cut off grew back. Because it was not a flesh-and-blood creature — it was an **Echo**, and Echoes cannot be killed with a sword.
 
 **[[oversee/pcs/Shin Van Hel|HVS]]** — with the soul-thirsting sword **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — drove the blade into the creature's heart.
 
@@ -856,7 +856,7 @@ Children sang it without knowing what it meant. Mothers hummed it while putting 
 
 The melody seeped into the soil, into the trees, into the air.
 
-**Centuries later**, when **[[00 Player Dashboard|The Five Sticks]]** came to **[[Ghuffghuff]]**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
+**Centuries later**, when **[[oversee/pcs/README|The Five Sticks]]** came to **[[Ghuffghuff]]**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
 
 At **[[Gunung Rayu]]**, the **secret project of the Commonwealth continued for centuries**.
 

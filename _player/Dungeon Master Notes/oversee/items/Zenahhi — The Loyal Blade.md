@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Lost (Ngarai Ratapan)
 universe: Oversee
+aliases:
+  - Zenahhi
 ---
 > [!info] At a Glance
 > **Type:** Longsword

@@ -7,9 +7,8 @@ universe: Oversee
 
 ## Where to Start
 1. **Read the latest session recap.** Start with [[oversee/sessions/Session 07 — Opressed]].
-2. **Check the Active Quests.** See what's still open.
-3. **Look up an NPC.** If you met someone and forgot their name, If you met someone and forgot their name, browse the NPCs folder.
-4. **Check your PC's page.** See what the party knows about you.
+2. **Look up an NPC.** If you met someone and forgot their name, browse the NPCs folder.
+3. **Check your PC's page.** See what the party knows about you.
 
 ## What's Safe to Read
 - **Session Recaps** — everything that happened.

@@ -3,6 +3,8 @@ type: Oversee item
 rarity: legendary
 current_holder: Husgus
 universe: Oversee
+aliases:
+  - Gustaero
 ---
 > [!info] At a Glance
 > **Type:** Longbow

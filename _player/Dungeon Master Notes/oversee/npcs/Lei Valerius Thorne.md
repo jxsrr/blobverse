@@ -6,6 +6,8 @@ home: Padre City
 status: alive
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Valerius Thorne
 ---
 > [!info] At a Glance
 > **Role:** Kanselir Agung, leader of the Triase

@@ -6,6 +6,8 @@ home: Ironhold
 status: alive
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Iron Gort
 ---
 > [!info] At a Glance
 > **Role:** Wakil Pertahanan, leader of Garda Besi

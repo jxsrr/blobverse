@@ -6,6 +6,8 @@ home: Javan Town
 status: Alive
 first_seen: Session 04
 universe: Oversee
+aliases:
+  - Pak Basir
 ---
 > [!info] At a Glance
 > **Role:** Leader of the Stevedore Union.

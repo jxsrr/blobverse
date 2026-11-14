@@ -6,6 +6,8 @@ home: Pulau Dima (destroyed) / Kota Juto (adopted)
 status: Alive (if saved)
 first_seen: Session 01
 universe: Oversee
+aliases:
+  - Huan
 ---
 > [!info] At a Glance
 > **Role:** Guanik's son. One of the two children the party helped.

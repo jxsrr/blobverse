@@ -6,6 +6,8 @@ home: Greyland Castle (destroyed)
 status: Deceased (before Session 01)
 first_seen: Session 01 (mentioned via Grolnok's story)
 universe: Oversee
+aliases:
+  - Ratu Ghaniba
 ---
 > [!info] At a Glance
 > **Role:** The goblin queen who married **Lei Alejandro**. Mother of his stillborn child.

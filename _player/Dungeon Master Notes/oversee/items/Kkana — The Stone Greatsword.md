@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Mira Nouveau
 universe: Oversee
+aliases:
+  - Kkana
 ---
 > [!info] At a Glance
 > **Type:** Greatsword

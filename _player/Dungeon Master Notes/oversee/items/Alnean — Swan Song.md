@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Kuo Lau King
 universe: Oversee
+aliases:
+  - Alnean
 ---
 > [!info] At a Glance
 > **Type:** Breathing Relic

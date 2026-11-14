@@ -6,6 +6,8 @@ home: Mnemonic Archive
 status: Alive
 first_seen: Session 07
 universe: Oversee
+aliases:
+  - Besik
 ---
 > [!info] At a Glance
 > **Role:** Keeper of the Mnemonic Archive in Arujaya.

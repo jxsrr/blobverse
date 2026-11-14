@@ -6,6 +6,8 @@ home: Arujaya (The Stack)
 status: alive
 first_seen: Session 06
 universe: Oversee
+aliases:
+  - Adam
 ---
 > [!info] At a Glance
 > **Role:** Local boy who guided the party through Arujaya

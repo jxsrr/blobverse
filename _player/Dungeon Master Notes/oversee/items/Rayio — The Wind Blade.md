@@ -3,6 +3,8 @@ type: Oversee Item
 rarity: legendary
 current_holder: Garberro Forest (lost)
 universe: Oversee
+aliases:
+  - Rayio
 ---
 > [!info] At a Glance
 > **Type:** Longsword

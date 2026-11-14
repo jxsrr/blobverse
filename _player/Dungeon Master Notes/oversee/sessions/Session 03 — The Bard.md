@@ -16,7 +16,7 @@ The cart carried more than the party. Along for the ride were:
 
 - **[[oversee/npcs/Memeng]]** — a plump, cheerful cook who wanted to learn the secret fried rice recipe of Ghuffghuff
 - **[[oversee/npcs/Yahanda]]** — a quiet priest assigned to teach at the new temple
-- **The Mektol family** — **[[Herman Mektol]]** (father), **[[oversee/npcs/Faska Mektol]]** (mother), and **[[oversee/npcs/Cindy Mektol]]** (daughter), moving to Ghuffghuff to start a new life
+- **The Mektol family** — **[[oversee/npcs/Herman Mektol]]** (father), **[[oversee/npcs/Faska Mektol]]** (mother), and **[[oversee/npcs/Cindy Mektol]]** (daughter), moving to Ghuffghuff to start a new life
 
 Along the road, **[[oversee/npcs/Agus]]** told them about the **Gruffgud War** — a centuries-long civil conflict between **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**. The cause? A dispute over whether **fried rice** or **fried noodles** was the superior dish.
 
