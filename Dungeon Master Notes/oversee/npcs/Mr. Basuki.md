@@ -8,6 +8,13 @@ first_seen: Mentioned only in Pak Basir's DM secrets
 universe: Oversee
 ---
 
+::pf
+## Overview
+A former dockworker in [[Javan Town]] and the late younger brother of [[Pak Basir]], leader of the local Stevedore Union (*Serikat Bongkar Muat*).
+
+## Background
+- **Harbor Accident:** Official port records list Basuki as having died in a workplace accident at the Javan Town docks prior to the party's arrival in the city, when a heavy cargo crate fell on him during unloading.
+::/pf
 %% DM SECRETS %%
 
 ## Who He Was

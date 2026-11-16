@@ -7,6 +7,14 @@ status: Deceased (200 AV or shortly after)
 first_seen: Not yet met
 universe: Oversee
 ---
+::pf
+## Overview
+A former High Chancellor (*Kanselir Agung*) of the [[One Voice Commonwealth]] who governed from [[Padre City]] roughly five centuries ago, during the era around 200 AV.
+
+## Historical Notes
+- **Chancellor of the Old Era:** Surviving public archives list Geldfre among the early High Chancellors who succeeded the founders of the Commonwealth before its modern administrative structure took shape.
+- **Faded Legacy:** Outside of official succession rolls in Padre City, little of his personal tenure remains widely known today.
+::/pf
 %% DM SECRETS %%
 
 ## Who They Were
