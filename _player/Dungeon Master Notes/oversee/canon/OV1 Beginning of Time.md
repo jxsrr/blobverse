@@ -4,6 +4,8 @@ universe: Oversee
 era: Beginning of Time
 years: 1XXXX – 20XX BV
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 02 OF 07</div><div class="bv-world-title">OV1 Beginning of Time</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Beginning of Time</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">1XXXX – 20XX BV</div></div></div></div>
+
 > [!info] The Making of the World
 > The first age. When the Architect gave everything. When the Inbu walked. When the sky first learned to hunger.
 
@@ -166,3 +168,4 @@ It is not a natural phenomenon. It is not a punishment. It is not even, strictly
 And it will happen again.
 
 It always does.
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV0%20Before%20Oversee"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV0 Before Oversee</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a></div>

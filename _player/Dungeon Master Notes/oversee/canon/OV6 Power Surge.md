@@ -4,6 +4,8 @@ universe: Oversee
 era: Power Surge
 years: 201 – 699 AV
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 07 OF 07</div><div class="bv-world-title">OV6 Power Surge</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Power Surge</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">201 – 699 AV</div></div></div></div>
+
 > [!info] The Age of the Long War
 > When a hunter became a laughingstock. When a kingdom fell. When two brothers were separated by the sky itself.
 
@@ -867,3 +869,4 @@ In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground**
 But the fire of his struggle **continued to burn** — in **[[oversee/pcs/Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 
 Because **Gordon had taught**: sometimes, all that is needed is **one voice loud enough** to disturb the sleep of the powerful.
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV5%20Initial%20Six%20Era"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV5 Initial Six Era</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><div></div></div>

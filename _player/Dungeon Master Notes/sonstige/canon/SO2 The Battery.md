@@ -3,6 +3,8 @@ type: Sonstige Lore
 universe: Sonstige
 era: Modern
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · CANON ERA 03 OF 04</div><div class="bv-world-title">SO2 The Battery</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Modern</div></div></div></div>
+
 > [!info] The School Battery
 > **The Free Bird Academy (FBA)** has been turned into a battery to thicken the Void. But not through sport — through **RAIB** and the **Bride of Bellweather**.
 
@@ -46,3 +48,4 @@ The Battery harvests energy through **two means**:
 - Alumni are sent away and never seen again.
 - There is a Black Cloak Figure.
 - There is a Bell that rings before exams, dances, and graduation.
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">SO1 Negara Anderes</span></a><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/sonstige/canon/SO3%20The%20Three%20Dates"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">SO3 The Three Dates</span></a></div>

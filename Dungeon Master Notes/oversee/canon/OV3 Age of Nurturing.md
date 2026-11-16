@@ -5,6 +5,8 @@ era: Age of Nurturing
 years: 9XX – 01 BV
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 04 OF 07</div><div class="bv-world-title">OV3 Age of Nurturing</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Age of Nurturing</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">9XX – 01 BV</div></div></div></div>
+
 > [!info] The Age of the Guardian
 > When the Cycle Clan found its greatest champion — and lost him to a woman with a plan.
 
@@ -303,6 +305,7 @@ These truths will come in **Season 3**.
 ## Sessions Chain
 - **Previous Era:** [[Age of Knowledge]]
 - **Next Era:** [[The First God]]
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV4 The First God</span></a></div>
 ::/pf
 
 

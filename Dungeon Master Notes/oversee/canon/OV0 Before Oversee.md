@@ -4,6 +4,8 @@ universe: Oversee
 era: Primordial
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 01 OF 07</div><div class="bv-world-title">OV0 Before Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Primordial</div></div></div></div>
+
 > [!info] Before the World
 > What came before the first stone, the first breath, the first name. The oldest story — and the one most often forgotten.
 
@@ -104,6 +106,7 @@ And the mortals of Oversee — the Inbu, the Lei, the Grin, the farmers, the wiz
 They are the **reason** the shield holds.
 
 They are the **reason** the Overseer has not yet consumed everything.
+<div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a></div>
 ::/pf
 
 %% DM SECRETS %%

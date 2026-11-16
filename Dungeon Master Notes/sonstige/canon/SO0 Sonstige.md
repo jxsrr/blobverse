@@ -4,6 +4,8 @@ universe: Sonstige
 era: Primordial
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · CANON ERA 01 OF 04</div><div class="bv-world-title">SO0 Sonstige</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Primordial</div></div></div></div>
+
 > [!info] The World of Sonstige
 > The third world in the known blobverse — after **Oversee** and **Aede**. The story centres on the city of **Calamara**, in the country of **Negara Anderes**. Magic is entirely ordinary here.
 
@@ -27,6 +29,7 @@ era: Primordial
 - Campaign year: **2026**.
 - Three important dates: **2001, 2016, 2026**.
 - FBA has a myth about **The Bell** — a bell that rings before major exams, before the social season's dances, and above all before graduation.
+<div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">SO1 Negara Anderes</span></a></div>
 ::/pf
 
 %% DM SECRETS %%

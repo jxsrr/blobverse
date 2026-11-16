@@ -6,6 +6,8 @@ years: 19XX – 10XX BV
 aliases:
   - Age of Knowledge
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 03 OF 07</div><div class="bv-world-title">OV2 Age of Knowledge</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Age of Knowledge</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">19XX – 10XX BV</div></div></div></div>
+
 > [!info] The Age That Remembered
 > The survivors did not rebuild. They studied. For the first time, mortals tried to understand the fire that had burned them.
 
@@ -331,3 +333,4 @@ But that is precisely where their survival lies. In a world constantly haunted b
 They are the true survivors — the ones who can endure in a world where the magical are wiped out.
 
 And in times of crisis, when other kingdoms begin to forget their fear and think again of attack, **the door of the Gap will open slightly** — enough to remind them that behind the eternal smile of the Grin family, there is a darkness ready to be called.
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV3%20Age%20of%20Nurturing"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV3 Age of Nurturing</span></a></div>

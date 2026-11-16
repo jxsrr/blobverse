@@ -4,6 +4,8 @@ universe: Sonstige
 era: Modern
 years: 2001, 2016, 2026
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · CANON ERA 04 OF 04</div><div class="bv-world-title">SO3 The Three Dates</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Modern</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">2001, 2016, 2026</div></div></div></div>
+
 > [!info] The Three Dates
 > Three dates that changed Sonstige. Three turning points. Three wounds.
 
@@ -30,3 +32,4 @@ years: 2001, 2016, 2026
 ## What the Party Knows
 - Three important dates: 2001, 2016, 2026.
 - Something happened on each of them.
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/sonstige/canon/SO2%20The%20Battery"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">SO2 The Battery</span></a><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><div></div></div>
