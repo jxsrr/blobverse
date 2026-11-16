@@ -4,20 +4,9 @@ title: Locations
 showSidebar: false
 showToc: false
 ---
-Calamara, the Free Bird Academy, and the quiet corners around them.
 
-## The City
-- [[sonstige/locations/Calamara Metropole|Calamara Metropole]]
-- [[sonstige/locations/Grafstenmouth|Grafstenmouth]]
+::pf
+<div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · ATLAS & LOCATIONS (8 ENTRIES)</div><div class="bv-sec-title">Sonstige — Locations</div><p class="bv-sec-sub">Cities, landmarks, regions, and territories charted so far.</p></div>
 
-## Schools
-- [[sonstige/locations/Everglade Academy|Everglade Academy]]
-- [[sonstige/locations/Free Bird Academy Campus|Free Bird Academy Campus]]
-- [[sonstige/locations/Imperial Academy|Imperial Academy]]
-
-## Estates & Wilds
-- [[sonstige/locations/Ashbourne Manor|Ashbourne Manor]]
-- [[sonstige/locations/The Azures|The Azures]]
-- [[sonstige/locations/Wood Elf Forest|Wood Elf Forest]]
-
-Back to [[sonstige/README|Sonstige]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/sonstige/locations/Ashbourne%20Manor"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Ashbourne Manor</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Calamara%20Metropole"><span class="bv-idx-tag">Modern</span><span class="bv-idx-name">Calamara Metropole</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Everglade%20Academy"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Everglade Academy</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Free%20Bird%20Academy%20Campus"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Free Bird Academy Campus</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Grafstenmouth"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Grafstenmouth</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Imperial%20Academy"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Imperial Academy</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/The%20Azures"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">The Azures</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/locations/Wood%20Elf%20Forest"><span class="bv-idx-tag">LOCATIONS</span><span class="bv-idx-name">Wood Elf Forest</span><span class="bv-idx-meta"></span></a></div>
+::/pf

@@ -4,30 +4,9 @@ title: NPCs
 showSidebar: false
 showToc: false
 ---
-Teachers, students, and the families behind them.
 
-## Faculty & Staff
-- [[sonstige/npcs/Coach Garrick|Coach Garrick]]
-- [[sonstige/npcs/Dr. Fenwick|Dr. Fenwick]]
-- [[sonstige/npcs/Dr. Ope|Dr. Ope]]
-- [[sonstige/npcs/Madame Seraphine|Madame Seraphine]]
-- [[sonstige/npcs/Maestro Lorenzo|Maestro Lorenzo]]
-- [[sonstige/npcs/Mr. Elias|Mr. Elias]]
-- [[sonstige/npcs/Prof. Imelda|Prof. Imelda]]
-- [[sonstige/npcs/Prof. Quill|Prof. Quill]]
+::pf
+<div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · CHARACTER ARCHIVE (18 ENTRIES)</div><div class="bv-sec-title">Sonstige — Npcs</div><p class="bv-sec-sub">Allies, rivals, patrons, and figures encountered across the campaign.</p></div>
 
-## Families & Nobility
-- [[sonstige/npcs/Cordelia Ashbourne|Cordelia Ashbourne]]
-- [[sonstige/npcs/Edmund Ashbourne|Edmund Ashbourne]]
-- [[sonstige/npcs/Gargathun Ironhide|Gargathun Ironhide]]
-- [[sonstige/npcs/Lord Aldric Grafsten|Lord Aldric Grafsten]]
-- [[sonstige/npcs/Ramarz Ironhide|Ramarz Ironhide]]
-
-## Students & Others
-- [[sonstige/npcs/Bellweather|Bellweather]]
-- [[sonstige/npcs/Calathea Cortenya|Calathea Cortenya]]
-- [[sonstige/npcs/Lilia Etheridge II|Lilia Etheridge II]]
-- [[sonstige/npcs/Mr. Rababrie Bellweather|Mr. Rababrie Bellweather]]
-- [[sonstige/npcs/Oliver Deen|Oliver Deen]]
-
-Back to [[sonstige/README|Sonstige]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/sonstige/npcs/Bellweather"><span class="bv-idx-tag">Bellweather</span><span class="bv-idx-name">Bellweather</span><span class="bv-idx-meta">The Family Behind the School, The Entity Behind the Battery, The Keepers of The Bell</span></a><a class="bv-idx-card" href="/sonstige/npcs/Calathea%20Cortenya"><span class="bv-idx-tag">Cortenya Family</span><span class="bv-idx-name">Calathea Cortenya</span><span class="bv-idx-meta">Mya's Older Sister, The Golden Child, Heir of the Cortenya Family</span></a><a class="bv-idx-card" href="/sonstige/npcs/Coach%20Garrick"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Coach Garrick</span><span class="bv-idx-meta">Physical Education Professor, Former Duel Athlete</span></a><a class="bv-idx-card" href="/sonstige/npcs/Cordelia%20Ashbourne"><span class="bv-idx-tag">Ashbourne Family</span><span class="bv-idx-name">Cordelia Ashbourne</span><span class="bv-idx-meta">Vivienne's Mother, Potion Maker, From a Respected Wizard Family</span></a><a class="bv-idx-card" href="/sonstige/npcs/Dr.%20Fenwick"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Dr. Fenwick</span><span class="bv-idx-meta">Practical Sciences Professor, The Enthusiastic Failure</span></a><a class="bv-idx-card" href="/sonstige/npcs/Dr.%20Ope"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Dr. Ope</span><span class="bv-idx-meta">Divination Ethics Professor, The Theoretical Seer</span></a><a class="bv-idx-card" href="/sonstige/npcs/Edmund%20Ashbourne"><span class="bv-idx-tag">Ashbourne Family</span><span class="bv-idx-name">Edmund Ashbourne</span><span class="bv-idx-meta">Vivienne's Father, Artifact Researcher, Head of the Ashbourne Lineage</span></a><a class="bv-idx-card" href="/sonstige/npcs/Gargathun%20Ironhide"><span class="bv-idx-tag">Ironhide Family</span><span class="bv-idx-name">Gargathun Ironhide</span><span class="bv-idx-meta">Brougha's Baby Brother, The Chaos Bringer</span></a><a class="bv-idx-card" href="/sonstige/npcs/Lilia%20Etheridge%20II"><span class="bv-idx-tag">The Free Bird Academy / FBA</span><span class="bv-idx-name">Lilia Etheridge II</span><span class="bv-idx-meta">FBA's The Bateleur Eagle Captain, Bellweather Candidate, Brougha's Ex-Girlfriend</span></a><a class="bv-idx-card" href="/sonstige/npcs/Lord%20Aldric%20Grafsten"><span class="bv-idx-tag">Grafsten Family</span><span class="bv-idx-name">Lord Aldric Grafsten</span><span class="bv-idx-meta">Head of the Grafsten Family, Ruler of Grafstenmouth, Zenroy's Employer</span></a><a class="bv-idx-card" href="/sonstige/npcs/Madame%20Seraphine"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Madame Seraphine</span><span class="bv-idx-meta">Social Enchantment Professor, The Polite Manipulator</span></a><a class="bv-idx-card" href="/sonstige/npcs/Maestro%20Lorenzo"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Maestro Lorenzo</span><span class="bv-idx-meta">Literature Professor, The Theatrical Storyteller</span></a><a class="bv-idx-card" href="/sonstige/npcs/Mr.%20Elias"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Mr. Elias</span><span class="bv-idx-meta">History Professor, The Keeper of Scandals</span></a><a class="bv-idx-card" href="/sonstige/npcs/Mr.%20Rababrie%20Bellweather"><span class="bv-idx-tag">Bellweather / The Free Bird Academy</span><span class="bv-idx-name">Mr. Rababrie Bellweather</span><span class="bv-idx-meta">Headmaster of The Free Bird Academy, The Smiling Bellweather</span></a><a class="bv-idx-card" href="/sonstige/npcs/Oliver%20Deen"><span class="bv-idx-tag">Independent</span><span class="bv-idx-name">Oliver Deen</span><span class="bv-idx-meta">Singer, The One Who Was Silenced</span></a><a class="bv-idx-card" href="/sonstige/npcs/Prof.%20Imelda"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Prof. Imelda</span><span class="bv-idx-meta">Algebra Professor, The Precise Wizard</span></a><a class="bv-idx-card" href="/sonstige/npcs/Prof.%20Quill"><span class="bv-idx-tag">The Free Bird Academy</span><span class="bv-idx-name">Prof. Quill</span><span class="bv-idx-meta">Civics & Magical Law Professor, Former Lawyer</span></a><a class="bv-idx-card" href="/sonstige/npcs/Ramarz%20Ironhide"><span class="bv-idx-tag">Ironhide Family / Everglade Academy</span><span class="bv-idx-name">Ramarz Ironhide</span><span class="bv-idx-meta">Brougha's Father, Former Jounce Professional Athlete, The Ironhide Reversal</span></a></div>
+::/pf

@@ -4,34 +4,6 @@ title: Items
 showSidebar: false
 showToc: false
 ---
-Weapons, relics, and the Gemhearts that hold the world together.
+<div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · RELICS & ARTIFACTS (18 ENTRIES)</div><div class="bv-sec-title">Oversee — Items</div><p class="bv-sec-sub">Weapons, curiosities, and named items uncovered in play.</p></div>
 
-## The Gemhearts
-- [[oversee/items/Emelanica|Emelanica]]
-- [[oversee/items/Rubion|Rubion]]
-- [[oversee/items/Safayer|Safayer]]
-- [[oversee/items/Topaju|Topaju]]
-
-## Named Blades
-- [[oversee/items/Frostfang — The Ice Fang|Frostfang — The Ice Fang]]
-- [[oversee/items/Kkana — The Stone Greatsword|Kkana — The Stone Greatsword]]
-- [[oversee/items/Rayio — The Wind Blade|Rayio — The Wind Blade]]
-- [[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith — The Soul-Thirsting Blade]]
-- [[oversee/items/Terrde — The Patient Blade|Terrde — The Patient Blade]]
-- [[oversee/items/Zenahhi — The Loyal Blade|Zenahhi — The Loyal Blade]]
-
-## The Swan's Armory
-- [[oversee/items/Alnean — Swan Song|Alnean — Swan Song]]
-- [[oversee/items/Gustaero — The Swan Bow|Gustaero — The Swan Bow]]
-- [[oversee/items/Niette — The Wing of the Swan|Niette — The Wing of the Swan]]
-
-## Tools, Maps & Oddities
-- [Atlan's Compass](/oversee/items/Atlan%27s%20Compass)
-- [Hildag's Map](/oversee/items/Hildag%27s%20Map)
-- [[oversee/items/Worn-Out Bag of Tricks|Worn-Out Bag of Tricks]]
-
-## Other Relics
-- [[oversee/items/Go Ingsani|Go Ingsani]]
-- [[oversee/items/Renal|Renal]]
-
-Back to [[oversee/README|Oversee]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/oversee/items/Alnean%20%E2%80%94%20Swan%20Song"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Alnean — Swan Song</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Atlan%27s%20Compass"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Atlan's Compass</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Emelanica"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Emelanica</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Frostfang%20%E2%80%94%20The%20Ice%20Fang"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Frostfang — The Ice Fang</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Go%20Ingsani"><span class="bv-idx-tag">Will of Grin</span><span class="bv-idx-name">Go Ingsani</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Gustaero — The Swan Bow</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Hildag%27s%20Map"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Hildag's Map</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Kkana%20%E2%80%94%20The%20Stone%20Greatsword"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Kkana — The Stone Greatsword</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Niette%20%E2%80%94%20The%20Wing%20of%20the%20Swan"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Niette — The Wing of the Swan</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Rayio — The Wind Blade</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Renal"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Renal</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Rubion"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Rubion</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Safayer"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Safayer</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Swaith — The Soul-Thirsting Blade</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Terrde%20%E2%80%94%20The%20Patient%20Blade"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Terrde — The Patient Blade</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Topaju"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Topaju</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Worn-Out%20Bag%20of%20Tricks"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Worn-Out Bag of Tricks</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade"><span class="bv-idx-tag">ITEMS</span><span class="bv-idx-name">Zenahhi — The Loyal Blade</span><span class="bv-idx-meta"></span></a></div>

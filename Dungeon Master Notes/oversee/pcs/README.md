@@ -4,13 +4,9 @@ title: PCs
 showSidebar: false
 showToc: false
 ---
-The Five Sticks — the party themselves.
 
-## The Five Sticks
-- [[oversee/pcs/Zure Ama|Zure Ama]] — Fighter, the White Calamity
-- [[oversee/pcs/Husgus|Husgus]] — Ranger, the Golden-Cracked
-- [[oversee/pcs/Vya Arleschia|Vya Arleschia]] — Ranger, the Fire Heir
-- [[oversee/pcs/Syl Frost|Syl Frost]] — Sorcerer, the Ice Anomaly
-- [[oversee/pcs/Shin Van Hel|Shin Van Hel]] — Warlock, the Shell
+::pf
+<div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · PLAYER CHARACTERS (5 ENTRIES)</div><div class="bv-sec-title">Oversee — Pcs</div><p class="bv-sec-sub">The party members you play alongside at the table.</p></div>
 
-Back to [[oversee/README|Oversee]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/oversee/pcs/Husgus"><span class="bv-idx-tag">Ranger</span><span class="bv-idx-name">Husgus</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/pcs/Shin%20Van%20Hel"><span class="bv-idx-tag">Warlock</span><span class="bv-idx-name">Shin Van Hel</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/pcs/Syl%20Frost"><span class="bv-idx-tag">Sorcerer</span><span class="bv-idx-name">Syl Frost</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/pcs/Vya%20Arleschia"><span class="bv-idx-tag">Ranger</span><span class="bv-idx-name">Vya Arleschia</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/oversee/pcs/Zure%20Ama"><span class="bv-idx-tag">Fighter</span><span class="bv-idx-name">Zure Ama</span><span class="bv-idx-meta"></span></a></div>
+::/pf

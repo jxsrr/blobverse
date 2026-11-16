@@ -670,3 +670,34 @@ a.wikilink:hover, a[href*="/oversee/"]:hover, a[href*="/sonstige/"]:hover, a[hre
   .bv-world-canon { --bv-card-accent: #fbbf24; }
   .bv-world-sub { color: var(--color-d-text-secondary); }
 }
+
+/* === Section Directory Headers & Quick-Link Grids === */
+.bv-sec-hero {
+  position: relative; padding: 1.5rem 1.7rem; margin: 0.75rem 0 1.75rem;
+  border-radius: 10px; border: 1px solid var(--color-l-border);
+  background: linear-gradient(135deg, color-mix(in srgb, var(--color-l-accent) 9%, var(--color-l-bg)) 0%, var(--color-l-bg-secondary) 100%);
+  overflow: hidden;
+}
+.bv-sec-hero::before { content: ""; position: absolute; top: 0; left: 0; bottom: 0; width: 5px; background: var(--color-l-accent); }
+.bv-sec-kicker { font-family: var(--font-family-monospace); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-l-accent); margin-bottom: 0.3rem; }
+.bv-sec-title { font-family: var(--font-family-heading); font-size: 2rem; font-weight: 700; line-height: 1.15; margin: 0 0 0.4rem; }
+.bv-sec-sub { font-size: 0.96rem; color: var(--color-l-text-secondary); margin: 0; line-height: 1.5; }
+.bv-idx-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.75rem; margin: 1.25rem 0 2rem; }
+.bv-idx-card {
+  display: flex; flex-direction: column; justify-content: space-between;
+  padding: 0.95rem 1.05rem; border-radius: 8px;
+  border: 1px solid var(--color-l-border); background: var(--color-l-bg-secondary);
+  text-decoration: none !important; transition: border-color 120ms ease, transform 120ms ease;
+}
+.bv-idx-card:hover { border-color: var(--color-l-accent); transform: translateY(-1px); }
+.bv-idx-tag { font-family: var(--font-family-monospace); font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-l-text-secondary); margin-bottom: 0.25rem; }
+.bv-idx-name { font-family: var(--font-family-heading); font-size: 1.15rem; font-weight: 700; color: var(--color-l-accent); line-height: 1.25; margin-bottom: 0.25rem; }
+.bv-idx-meta { font-size: 0.84rem; color: var(--color-l-text-secondary); line-height: 1.35; }
+@media (prefers-color-scheme: dark) {
+  .bv-sec-hero { border-color: var(--color-d-border); background: linear-gradient(135deg, color-mix(in srgb, var(--color-d-accent) 12%, var(--color-d-bg)) 0%, var(--color-d-bg-secondary) 100%); }
+  .bv-sec-hero::before { background: var(--color-d-accent); }
+  .bv-sec-kicker, .bv-idx-name { color: var(--color-d-accent); }
+  .bv-sec-sub, .bv-idx-tag, .bv-idx-meta { color: var(--color-d-text-secondary); }
+  .bv-idx-card { border-color: var(--color-d-border); background: var(--color-d-bg-secondary); }
+  .bv-idx-card:hover { border-color: var(--color-d-accent); }
+}

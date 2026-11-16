@@ -4,12 +4,6 @@ title: Timeline
 showSidebar: false
 showToc: false
 ---
-The three dates that shaped Sonstige — 2001, 2016, 2026 — and the world they left behind.
+<div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · CANON TIMELINE (4 ENTRIES)</div><div class="bv-sec-title">Sonstige — Canon</div><p class="bv-sec-sub">Chronological eras and recorded historical ages.</p></div>
 
-## Eras
-- [[sonstige/canon/SO0 Sonstige|SO0 — Sonstige]]
-- [[sonstige/canon/SO1 Negara Anderes|SO1 — Negara Anderes]]
-- [[sonstige/canon/SO2 The Battery|SO2 — The Battery]]
-- [[sonstige/canon/SO3 The Three Dates|SO3 — The Three Dates]]
-
-Back to [[sonstige/README|Sonstige]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/sonstige/canon/SO0%20Sonstige"><span class="bv-idx-tag">Primordial</span><span class="bv-idx-name">SO0 Sonstige</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-idx-tag">Modern</span><span class="bv-idx-name">SO1 Negara Anderes</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/canon/SO2%20The%20Battery"><span class="bv-idx-tag">Modern</span><span class="bv-idx-name">SO2 The Battery</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/canon/SO3%20The%20Three%20Dates"><span class="bv-idx-tag">Modern</span><span class="bv-idx-name">SO3 The Three Dates</span><span class="bv-idx-meta"></span></a></div>

@@ -4,19 +4,6 @@ title: Lore
 showSidebar: false
 showToc: false
 ---
-FBA life, Jounce, The Bell, and the things hiding beneath the school.
+<div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · WORLD LORE (7 ENTRIES)</div><div class="bv-sec-title">Sonstige — Lore</div><p class="bv-sec-sub">History, metaphysics, magic systems, and documented knowledge.</p></div>
 
-## School Life
-- [[sonstige/lore/FBA Class Schedule|FBA Class Schedule]]
-- [[sonstige/lore/FBA Wing System|FBA Wing System]]
-
-## Jounce
-- [[sonstige/lore/Jounce|Jounce]]
-- [[sonstige/lore/Jounceling|Jounceling]]
-
-## The Bell & Below
-- [[sonstige/lore/R.A.I.B|R.A.I.B]]
-- [[sonstige/lore/The Bell|The Bell]]
-- [[sonstige/lore/The Hidden Garden|The Hidden Garden]]
-
-Back to [[sonstige/README|Sonstige]].
+<div class="bv-idx-grid"><a class="bv-idx-card" href="/sonstige/lore/FBA%20Class%20Schedule"><span class="bv-idx-tag">Modern</span><span class="bv-idx-name">FBA Class Schedule</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/FBA%20Wing%20System"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">FBA Wing System</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/Jounce"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">Jounce</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/Jounceling"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">Jounceling</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/R.A.I.B"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">R.A.I.B</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/The%20Bell"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">The Bell</span><span class="bv-idx-meta"></span></a><a class="bv-idx-card" href="/sonstige/lore/The%20Hidden%20Garden"><span class="bv-idx-tag">LORE</span><span class="bv-idx-name">The Hidden Garden</span><span class="bv-idx-meta"></span></a></div>

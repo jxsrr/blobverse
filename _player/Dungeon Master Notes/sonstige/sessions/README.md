@@ -4,8 +4,6 @@ title: Sessions
 showSidebar: false
 showToc: false
 ---
-Session notes, recaps, and records from the Sonstige campaign.
+<div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · SESSION LOGS (0 ENTRIES)</div><div class="bv-sec-title">Sonstige — Sessions</div><p class="bv-sec-sub">Episode-by-episode recaps of everything that happened at the table.</p></div>
 
-No session recaps published yet.
-
-Back to [[sonstige/README|Sonstige]].
+<p><em>No entries revealed in play yet.</em></p>
