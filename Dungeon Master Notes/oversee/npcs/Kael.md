@@ -8,8 +8,12 @@ first_seen: Not yet met
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> *This character has not yet appeared in the session recaps.*
+## Overview
+A quiet, thin student at [[Tarakita University of Heroism]], appearing to be in his late teens with persistent dark circles under his eyes. He keeps largely to himself around the university grounds and library corridors.
+
+## Reputation
+- **Unremarkable on Paper:** To most classmates and instructors, he seems like an ordinary, somewhat anxious student weighed down by his studies.
+- *(Note: Not to be confused with General Kael of the Commonwealth—Kael is simply a common given name across the continent.)*
 ::/pf
 %% DM SECRETS %%
 
