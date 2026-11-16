@@ -55,6 +55,6 @@ showToc: false
 
 | Campaign | Sessions | Characters | World &amp; Lore |
 | :--- | :--- | :--- | :--- |
-| **[[oversee/README\|Oversee]]** | [[oversee/sessions/README\|7 Recaps]] | [[oversee/pcs/README\|5 PCs]] · [[oversee/npcs/README\|NPCs]] | [[oversee/locations/README\|Locations]] · [[oversee/lore/README\|Lore]] · [[oversee/items/README\|Items]] |
-| **[[sonstige/README\|Sonstige]]** | [[sonstige/sessions/README\|Session Log]] | [[sonstige/pcs/README\|4 PCs]] · [[sonstige/npcs/README\|NPCs]] | [[sonstige/locations/README\|Locations]] · [[sonstige/factions/README\|Factions]] |
-| **[[aede/README\|Aede]]** | [[aede/sessions/README\|1 Special]] | — | — |
+| **<a href="/oversee">Oversee</a>** | <a href="/oversee/sessions">7 Recaps</a> | <a href="/oversee/pcs">5 PCs</a> · <a href="/oversee/npcs">NPCs</a> | <a href="/oversee/locations">Locations</a> · <a href="/oversee/lore">Lore</a> · <a href="/oversee/items">Items</a> |
+| **<a href="/sonstige">Sonstige</a>** | <a href="/sonstige/sessions">Session Log</a> | <a href="/sonstige/pcs">4 PCs</a> · <a href="/sonstige/npcs">NPCs</a> | <a href="/sonstige/locations">Locations</a> · <a href="/sonstige/factions">Factions</a> |
+| **<a href="/aede">Aede</a>** | <a href="/aede/sessions">1 Special</a> | — | — |
