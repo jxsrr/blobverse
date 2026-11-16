@@ -468,8 +468,13 @@ The Age of Nurturing spans roughly **900 years** — from the last recorded Rapt
 
 The era ends when **Lei Firsa** declares the new calendar — year **1 AV** — and rewrites history to make herself the hero. That is where **The First God** begins.
 
-**Suggested edits to existing files:**
-- `The Valla's History.md` — confirm only two Vallas; remove "third" from DM secrets
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV4 The First God</span></a></div>
+
+::/pf
+
+%% DM SECRETS %%
+
+**Suggested edits to existing files:**- `The Valla's History.md` — confirm only two Vallas; remove "third" from DM secrets
 - `Timeline of Oversee.md` — confirm Simon born ~60 BV, ritual at ~44-45
 - `Tarakita University of Heroism.md` — confirm Danau Kuno = Universitas Tarakita
 - `Grin Qain.md` — add the detail that her sacrifice was **not voluntary** (currently it might say "sacrificed by Lei Firsa" but doesn't make clear it was murder)
