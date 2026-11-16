@@ -10,9 +10,9 @@ aliases:
 
 
 ## What Matters Here
-- Built by **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** around **1040 BV** on the shores of **Danau Kuno** — the crater lake formed by a fragment of the Shell.
-- The site where Wiseman first observed **[[oversee/lore/The Shell|The Shell]]** descending in the sky, received his vision from **[[oversee/lore/The Overseer & The Architect|The Architect]]**, and founded **[[oversee/lore/The Cycle Clan|The Cycle Clan]]**.
-- The modern campus of **[[oversee/locations/Tarakita University of Heroism|Universitas Tarakita]]** was later constructed atop its grounds.
+- Built by **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** around **1040 BV** on the shores of **Danau Kuno** — the crater lake formed by a fragment of the Shell.
+- The site where Wiseman first observed **<a href="/oversee/lore/The%20Shell">The Shell</a>** descending in the sky, received his vision from **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">The Architect</a>**, and founded **<a href="/oversee/lore/The%20Cycle%20Clan">The Cycle Clan</a>**.
+- The modern campus of **<a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Universitas Tarakita</a>** was later constructed atop its grounds.
 
 ## What the Party Knows
 - Mentioned in Cycle Clan historical logs as the birthplace of the Cycle Clan and the first of the three ancient observatories.

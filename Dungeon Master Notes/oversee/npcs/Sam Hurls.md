@@ -23,7 +23,7 @@ universe: Oversee
 - They all sing the same unfinished melody.
 - Lured villagers of Ghuffghuff into an illusory world. Drained them dry.
 - **HVS stabbed him with Swaith.** Released the trapped souls. He briefly returned to his true form.
-- Said only a few words before **[[Accarus Grin|Accarus]] shot him with an arrow**.
+- Said only a few words before **<a href="/Accarus%20Grin">Accarus</a> shot him with an arrow**.
 - His body crumbled. His Echo returned to Simon.
 
 ## Personality

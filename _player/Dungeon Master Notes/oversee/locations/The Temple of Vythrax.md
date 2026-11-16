@@ -14,8 +14,8 @@ universe: Oversee
 - **The Frozen Legion** — outside the temple, on the path to the Spire. Ice statues of ancient dragonborn protectors. They move when unobserved.
 
 ## What Happened Here
-- The party discovered the truth about Syl ([[oversee/sessions/Session 05 — Empty Husk|Session 05]]).
-- [[oversee/npcs/Vythrax]] was healed here.
+- The party discovered the truth about Syl (<a href="/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>).
+- <a href="/Vythrax">Vythrax</a> was healed here.
 - The clan bowed to Syl.
 - Syl's name was carved on the monolith.
 

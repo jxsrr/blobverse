@@ -15,7 +15,7 @@ aliases:
 - The **Lyceum University of Arcane Arts** is here. Professor Donta taught here.
 
 ## What Happened Here
-- The Five Sticks watched the Festival parade ([[oversee/sessions/Session 04 — Territorial|Session 04]]).
+- The Five Sticks watched the Festival parade (<a href="/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).
 - Met the Triase for the first time.
 - Donta committed suicide after the party confronted him.
 - Howdy was found dead.

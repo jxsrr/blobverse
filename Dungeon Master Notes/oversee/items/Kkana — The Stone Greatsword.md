@@ -19,14 +19,14 @@ aliases:
 ## History
 - One of six legendary weapons.
 - Thrown into the Misty Mountains (Elis) by Lei Firsa.
-- Recovered by **[[Mira Nouveau|Mira]]** through a Keeper of Secret expedition 12 years ago.
+- Recovered by **<a href="/Mira%20Nouveau">Mira</a>** through a Keeper of Secret expedition 12 years ago.
 
 ## What the Party Knows
-- [[Mira Nouveau|Mira]] carries it. She has never used it in front of the party.
+- <a href="/Mira%20Nouveau">Mira</a> carries it. She has never used it in front of the party.
 - It is the only thing keeping her safe from Commonwealth assassins.
 ::/pf
 %% DM SECRETS %%
 - Kkana was Simon's **first** legendary weapon. He received it from a dying knight named Ksatrian.
 - The blade remembers Simon. It will not willingly serve anyone who serves the Commonwealth.
-- [[Mira Nouveau|Mira]] will not part with it unless the party proves they are worthy — by finding the truth about her father.
+- <a href="/Mira%20Nouveau">Mira</a> will not part with it unless the party proves they are worthy — by finding the truth about her father.
 - If Mira dies, Kkana will choose a new wielder. It will choose **Husgus** (because of his connection to Gordon, who was Olaf's student).

@@ -14,9 +14,9 @@ universe: Oversee
 - **The Alchemy Exchange** — trade dungeon loot for Grin gear.
 
 ## What Happened Here
-- The party trained and rested here ([[oversee/sessions/Session 05 — Empty Husk|Session 05]]).
-- [[oversee/npcs/Jarko]] was killed here.
-- [[oversee/npcs/Lei Iron Gort|Gort]]'s raid destroyed the upper floors.
+- The party trained and rested here (<a href="/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>).
+- <a href="/Jarko">Jarko</a> was killed here.
+- <a href="/Lei%20Iron%20Gort">Gort</a>'s raid destroyed the upper floors.
 - Vya reunited with Antrem here.
 
 ## Current State

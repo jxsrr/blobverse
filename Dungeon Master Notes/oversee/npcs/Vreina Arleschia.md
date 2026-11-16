@@ -13,7 +13,7 @@ universe: Oversee
 
 ## What the Party Knows
 - Minor noble of the **Arleschia** family in Elis.
-- Married **[[Antrem Klaus|Antrem]]**, a simple shepherd. Defied her family's expectations.
+- Married **<a href="/Antrem%20Klaus">Antrem</a>**, a simple shepherd. Defied her family's expectations.
 - Made a pact with **Kopling** to protect Vya from Will of Grin and from her own awakening fire.
 - Warned Kopling: *"If the fire awakens before she is ready, she will burn from within."*
 - Was not present when Chenalia was burned. Her fate is unknown.
@@ -47,7 +47,7 @@ Survive. Find Vya. Warn her about the fire.
 
 ### Her Current Whereabouts
 - Vreina is **alive**. She is being held in a **secret Commonwealth facility in Elis**.
-- The facility is the real reason **[[Valerius Thorne|Valerius]]** is "reconstructing" **Chenalia**. The village is a cover for an excavation. The Commonwealth is looking for something beneath the village — something ancient, something connected to the Lei bloodline.
+- The facility is the real reason **<a href="/Valerius%20Thorne">Valerius</a>** is "reconstructing" **Chenalia**. The village is a cover for an excavation. The Commonwealth is looking for something beneath the village — something ancient, something connected to the Lei bloodline.
 - Vreina was captured by Commonwealth agents — not because she knew too much, but because she was Vya's mother. Valerius wanted a bargaining chip. He wanted leverage over Vya, over Antrem, over Will of Grin.
 - She has been in the facility for years. She has been interrogated. She has been tested. She has not broken. She is Vya's mother. She is stronger than she looks.
 

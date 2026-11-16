@@ -29,4 +29,4 @@ universe: Oversee
 %% DM SECRETS %%
 - Donta was forced to suicide by a Commonwealth agent. The method: a slow-acting compulsion spell that triggered when he spoke Howdy's name.
 - He knew more about the Gemhearts than he admitted. His personal notes are hidden in the Lyceum archives.
-- He had been in contact with [[Mira Nouveau|Mira]] secretly for years.
+- He had been in contact with <a href="/Mira%20Nouveau">Mira</a> secretly for years.

@@ -14,7 +14,7 @@ universe: Oversee
 
 ## History
 - Atlan Nouveau's personal compass. Used for ocean navigation.
-- Passed to [[oversee/npcs/Mira Nouveau|Mira]]. Given to the party.
+- Passed to <a href="/Mira%20Nouveau">Mira</a>. Given to the party.
 - Used to track the stolen gems to the Sea Temple.
 - Used to find the hidden door in the Observatorium.
 

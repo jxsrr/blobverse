@@ -40,7 +40,7 @@ universe: Oversee
 
 
 ## What the Party Knows
-- Twin brother of **[[Lei Valerius Thorne|Valerius]]** (Kanselir Agung).
+- Twin brother of **<a href="/Lei%20Valerius%20Thorne">Valerius</a>** (Kanselir Agung).
 - Appears senile, rambling about "Arumanehjaya" — a mechanical underground city with gears and automatic rifles.
 - Hired the party for 500 gold to excavate the city. The city was real — **Arujaya**.
 - Has genuine elemental earth magic. Much stronger than Valerius's.
@@ -54,7 +54,7 @@ Find his underground city. Survive. (He does not fully understand the danger he 
 %% DM SECRETS %%
 
 ### Who Darvin Is
-- **Darvin Thorne** is the **younger twin** of **[[Lei Valerius Thorne|Valerius Thorne]]**. He was hidden at birth — not killed. Valerius was kept. Darvin was hidden.
+- **Darvin Thorne** is the **younger twin** of **<a href="/Lei%20Valerius%20Thorne">Valerius Thorne</a>**. He was hidden at birth — not killed. Valerius was kept. Darvin was hidden.
 - He is the **True Heir of Lei Roiga** — by blood, not by stone. He carries the **claim** to Topaju. He does not carry Topaju itself.
 - He is **not crazy**. His mind is partially fused with the **earth element** — the same element that Topaju governs. He can feel the earth. He can sense the stone. He is drawn to it. He is a living compass pointing to Topaju.
 - He found **Arujaya** because he was drawn to it. The city is built on ancient earth-magic foundations. He could feel it. He could hear it. He followed it.

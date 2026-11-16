@@ -12,7 +12,7 @@ aliases:
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kristine</div><div class="bv-world-sub">Dr. Vektor's Daughter, Preserved in Stasis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">None (Arujaya)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Deceased (in stasis, technically)</div></div></div></div>
 
 ## Overview
-The late daughter of [[oversee/npcs/Dr. Vektor]], the renowned cybernetic surgeon of [[oversee/locations/Arujaya Metropolis]].
+The late daughter of <a href="/Dr.%20Vektor">Dr. Vektor</a>, the renowned cybernetic surgeon of <a href="/Arujaya">Arujaya</a>.
 
 ## Background
 - **Tragedy in Arujaya:** According to townsfolk who remember the doctor's earlier years, Kristine died as a teenager in a mining accident in Arujaya—a loss from which Dr. Vektor never truly recovered.

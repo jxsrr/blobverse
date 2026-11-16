@@ -13,7 +13,7 @@ aliases:
 
 ## What the Party Knows
 - Beloved by the people. Warm smile. Diplomatic.
-- Twin brother of **[[oversee/npcs/Lei Darvin Thorne|Darvin]]**.
+- Twin brother of **<a href="/Lei%20Darvin%20Thorne">Darvin</a>**.
 - Wants to "thicken the Gap" and merge it with Oversee.
 - Extremely dangerous. Extremely careful.
 - He was the one who ordered the burning of Chenalia — or so the party suspects.

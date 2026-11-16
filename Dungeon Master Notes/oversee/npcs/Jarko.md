@@ -15,7 +15,7 @@ universe: Oversee
 - Young Grin warrior. Eager to prove himself. Kind. Hopeful.
 - Trained with the party in the Maw Desert hideout. Welcomed them as family.
 - Was the first to welcome Vya as family — he called her "cousin" before anyone else did.
-- **Killed by [[Iron Gort|Gort]]** during the raid — his skull crushed in front of the party.
+- **Killed by <a href="/Iron%20Gort">Gort</a>** during the raid — his skull crushed in front of the party.
 - His death ignited Vya's fire.
 - His mother Geneva has not recovered. His father Accarus does not speak of it.
 

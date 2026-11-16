@@ -10,7 +10,7 @@ universe: Oversee
 
 ## What We Know
 - The adventurer's guild. Registers new adventurers and assigns missions.
-- **[[Grilnax]]** is the clerk. He gave the party their first mission.
+- **<a href="/Grilnax">Grilnax</a>** is the clerk. He gave the party their first mission.
 - The Guild has branches in most major cities.
 - It issues the **SIP** (Adventurer's Permit).
 - It provides **insurance** (10% of loot to beneficiaries).
@@ -28,7 +28,7 @@ universe: Oversee
 
 %% DM SECRETS %%
 - The Yawning Guild is not politically neutral. It is **secretly funded by the Keeper of Secret**.
-- [[Grilnax]] is a Keeper agent. He was placed in Yawning Town to watch for adventurers who might be useful.
-- The Guild's regional master is **[[Mira Nouveau|Mira]]**. She uses the Guild to gather information and recruit agents.
+- <a href="/Grilnax">Grilnax</a> is a Keeper agent. He was placed in Yawning Town to watch for adventurers who might be useful.
+- The Guild's regional master is **<a href="/Mira%20Nouveau">Mira</a>**. She uses the Guild to gather information and recruit agents.
 - If the party is ever lost or needs a mission, the Guild will have one for them.
 - The Guild has a **hidden vault** beneath Yawning Town. It contains artifacts recovered by adventurers over the years. Some are dangerous.

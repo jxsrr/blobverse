@@ -40,8 +40,8 @@ universe: Oversee
 
 
 ## What the Party Knows
-- Twin brother of **[[Antrem Klaus|Antrem]]** (Vya's father).
-- Husband of **[[Geneva Grin|Geneva]]**. Father of **[[Jarko]]** (deceased).
+- Twin brother of **<a href="/Antrem%20Klaus">Antrem</a>** (Vya's father).
+- Husband of **<a href="/Geneva%20Grin">Geneva</a>**. Father of **<a href="/Jarko">Jarko</a>** (deceased).
 - Carried **Gustaero** — gave it to Husgus after the Frosthaven mission.
 - Wants to collect the Gemhearts. Wants to avenge the Grin people. Wants to find the truth.
 - Morally gray. Willing to sacrifice for the cause.

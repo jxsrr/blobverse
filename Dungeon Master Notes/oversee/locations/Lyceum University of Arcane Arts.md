@@ -16,14 +16,14 @@ universe: Oversee
 - **Secret Basement** — beneath the Navigation Archive. Atlan's hidden base? No — that's in Kota Juto. This basement is **Donta's private collection**.
 
 ## What Happened Here
-- The party met Donta ([[Session 04 — Territorial|Session 04]]).
+- The party met Donta (<a href="/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).
 - Donta showed them the painting of the Initial Six.
 - Donta committed suicide here.
 - The party was fined 200 gp for trespassing.
 ::/pf
 
 %% DM SECRETS %%
-- Donta's private collection contains a **fragment of the Edisi Law** and a **letter from [[Mira Nouveau|Mira]]** dated 12 years ago.
+- Donta's private collection contains a **fragment of the Edisi Law** and a **letter from <a href="/Mira%20Nouveau">Mira</a>** dated 12 years ago.
 - The letter proves Donta was a Keeper of Secret informant.
 - The Navigation Archive's locked door was pickable (DC 15). Inside: a **hidden staircase** leading down to Donta's collection.
 - Donta's collection also contains a **map of the Bahtera Bawah Tanah** — a copy of the one Kael has. Donta was preparing to go there before he died.

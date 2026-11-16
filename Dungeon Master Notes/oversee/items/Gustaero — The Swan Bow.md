@@ -52,16 +52,16 @@ aliases:
 ### The Swan Trio — Confirmed Canon
 | Relic | Part of the Swan | Type | Current Holder |
 | :--- | :--- | :--- | :--- |
-| **Gustaero** | The Neck | Longbow | [[Husgus]] |
+| **Gustaero** | The Neck | Longbow | <a href="/Husgus">Husgus</a> |
 | **Niette** | The Wing | Spear | Tomb of Gavaevodata (Elis Selatan) |
 | **Alnean — Swan Song** | The Breath | Breathing Relic | Kuo Lau King (underwater kingdom) |
 
 ### The Six Blades — Not Relics
 | Blade | Type | Current Holder |
 | :--- | :--- | :--- |
-| **Swaith** | Dagger | [[Shin Van Hel]] |
+| **Swaith** | Dagger | <a href="/Shin%20Van%20Hel">Shin Van Hel</a> |
 | **Rayio** | Longsword | Hutan Garberro |
-| **Kkana** | Greatsword | [[Mira Nouveau]] |
+| **Kkana** | Greatsword | <a href="/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
 | **Zenahhi** | Longsword | Ngarai Ratapan |
 | **Terrde** | Longsword | Ruins of the Rapture |

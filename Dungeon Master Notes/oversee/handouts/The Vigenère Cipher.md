@@ -21,11 +21,11 @@ TABVPTXLQYURAQIOUOVQPA!VOZJINOULSUINXAUPVTRREPSIQDWJVHPPVIPXHFPSPVEAGRIWUXVZBNUR
 > *"The main target is TOPAJU! In the hands of the teacher. I follow. Go to the West RQ Observatory."*
 
 ## What It Means
-- **Topaju** is one of the four Gemhearts. It is inside **[[Lei Darvin Thorne|Darvin]]**.
-- "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of [[Lei Livia Vane|Livia]].
+- **Topaju** is one of the four Gemhearts. It is inside **<a href="/Lei%20Darvin%20Thorne">Darvin</a>**.
+- "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of <a href="/Lei%20Livia%20Vane">Livia</a>.
 - The message was written by someone tracking Alejandro.
 - The **West RQ Observatory** is the destination.
 ::/pf
 %% DM SECRETS %%
-- The message was written by **[[Lei Livia Vane|Livia]]** herself, in a moment of doubt. She sent it to her handler, then regretted it. This is the message that made Valerius suspicious of her.
+- The message was written by **<a href="/Lei%20Livia%20Vane">Livia</a>** herself, in a moment of doubt. She sent it to her handler, then regretted it. This is the message that made Valerius suspicious of her.
 - "The teacher" (guru) is a key revelation: Alejandro taught Livia. She was his student. She is not just a Commonwealth officer — she is a link to the Initial Six.

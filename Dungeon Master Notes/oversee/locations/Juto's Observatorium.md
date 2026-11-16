@@ -44,12 +44,12 @@ There are **three Observatories** built by the Cycle Clan:
 - **The second sigil** is in Atlan's base, beneath the Navigation Archive.
 
 ## What Happened Here
-- The party found Atlan's diary ([[Session 02 — The Wizard|Session 02]]).
-- Met [[Mira Nouveau|Mira]] in the basement.
+- The party found Atlan's diary (<a href="/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
+- Met <a href="/Mira%20Nouveau">Mira</a> in the basement.
 - Joined Keeper of Secret.
 
 ## Current State
-- Still operating. [[Mira Nouveau|Mira]] still runs it from the shadows.
+- Still operating. <a href="/Mira%20Nouveau">Mira</a> still runs it from the shadows.
 - The Commonwealth is watching it more closely.
 ::/pf
 
@@ -57,7 +57,7 @@ There are **three Observatories** built by the Cycle Clan:
 - The Observatorium was built on top of **Atlan's original laboratory** — and on top of the Cycle Clan's **Second Observatory**.
 - The building's foundations are much older than the current structure. They are Cycle Clan.
 - **The Twin Shell Amulet** (found in the basement) is a key item. It allows the wearer to take 10 on one attack roll per day. It is also a **key** to the Bahtera Bawah Tanah.
-- [[Mira Nouveau|Mira]] has not told the party that the Amulet is a key. She is waiting for the right moment.
+- <a href="/Mira%20Nouveau">Mira</a> has not told the party that the Amulet is a key. She is waiting for the right moment.
 - **The second Cycle Clan sigil** is in the basement — hidden in the eternal flame's pedestal.
 - **The second Observatory** was not just for study. It was a **warning system** — a way to detect the Shell's movement before it reached the world.
 - **Atlan** did not know he was repurposing a Cycle Clan installation. He thought he was just using an old observatory. He was wrong.

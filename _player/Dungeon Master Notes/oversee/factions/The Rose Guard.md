@@ -8,7 +8,7 @@ universe: Oversee
 
 ## What We Know
 - The law enforcement arm of the Commonwealth. Officially called the **Garda Mawar**.
-- Led by **[[oversee/npcs/Lei Livia Vane|Livia]]**. Composed of disciplined soldiers, mages, and spies.
+- Led by **<a href="/Lei%20Livia%20Vane">Livia</a>**. Composed of disciplined soldiers, mages, and spies.
 - They enforce the **Edisi Law**. They suppress dissent. They hunt "terrorists."
 - They are the ones who arrested the party in Kota Juto. They are the ones who burned Chenalia.
 - They are **everywhere**.

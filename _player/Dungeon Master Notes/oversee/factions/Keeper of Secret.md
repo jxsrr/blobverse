@@ -8,7 +8,7 @@ universe: Oversee
 
 ## What We Know
 - Secret organization dedicated to finding the truth about the Initial Six.
-- Founded by **[[oversee/npcs/Mira Nouveau|Mira]]** — daughter of **[[oversee/npcs/Atlan Nouveau]]** and **[[oversee/npcs/Reins]]**.
+- Founded by **<a href="/Mira%20Nouveau">Mira</a>** — daughter of **<a href="/Atlan%20Nouveau">Atlan Nouveau</a>** and **<a href="/Reins">Reins</a>**.
 - Operates from the Observatorium in Kota Juto. Has cells in most major cities.
 - Wants to expose **Lei Alejandro's** betrayal.
 - Knows about the Gemhearts. Knows about the Echoes.

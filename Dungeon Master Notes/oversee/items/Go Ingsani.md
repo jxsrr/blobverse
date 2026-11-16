@@ -9,6 +9,6 @@ universe: Oversee
 
 
 ## What Matters Here
-- A submersible vessel originally operated by **[[oversee/factions/Will of Grin|Will of Grin]]** and repainted matte black for stealth operations.
-- Found moored and waiting without fuel during the events of **[[oversee/sessions/Session 06 — Ethical Choices|Session 06]]**.
+- A submersible vessel originally operated by **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** and repainted matte black for stealth operations.
+- Found moored and waiting without fuel during the events of **<a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>**.
 ::/pf

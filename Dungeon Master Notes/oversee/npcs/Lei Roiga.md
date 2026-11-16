@@ -10,9 +10,9 @@ universe: Oversee
 
 
 ## What the Party Knows
-- The fourth of **[[oversee/npcs/Lei Firsa|Lei Firsa]]**'s quadruplets and progenitor of the **Lei Roiga** earth bloodline.
+- The fourth of **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**'s quadruplets and progenitor of the **Lei Roiga** earth bloodline.
 ::/pf
 
 %% DM SECRETS %%
-- The Lei Roiga lineage and the Gemheart **[[oversee/items/Topaju|Topaju]]** are currently held in secret by **[[oversee/npcs/Lei Alejandro|Lei Alejandro]]**, who survived the Initial Six betrayal.
+- The Lei Roiga lineage and the Gemheart **<a href="/oversee/items/Topaju">Topaju</a>** are currently held in secret by **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>**, who survived the Initial Six betrayal.
 %%

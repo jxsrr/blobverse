@@ -10,9 +10,9 @@ universe: Oversee
 
 
 ## What the Party Knows
-- The second of **[[oversee/npcs/Lei Firsa|Lei Firsa]]**'s quadruplets and progenitor of the **Lei Firage** fire bloodline.
+- The second of **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**'s quadruplets and progenitor of the **Lei Firage** fire bloodline.
 ::/pf
 
 %% DM SECRETS %%
-- Centuries later, a descendant of the Lei Firage line fathered **[[oversee/npcs/Accarus Grin|Accarus]]** and **[[oversee/npcs/Antrem Klaus|Antrem]]** with **[[oversee/npcs/Hildag Grin|Hildag Grin]]**, creating twins who carry both Grin anti-magic and dormant Firage fire.
+- Centuries later, a descendant of the Lei Firage line fathered **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** and **<a href="/oversee/npcs/Antrem%20Klaus">Antrem</a>** with **<a href="/oversee/npcs/Hildag%20Grin">Hildag Grin</a>**, creating twins who carry both Grin anti-magic and dormant Firage fire.
 %%

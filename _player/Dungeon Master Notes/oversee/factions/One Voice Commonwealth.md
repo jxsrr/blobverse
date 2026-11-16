@@ -9,8 +9,8 @@ universe: Oversee
 ## What We Know
 - Ruling government of Oversee. Based in Padre City.
 - Led by the **Triase**: Chancellor, Justice, Defense.
-- **Garda Mawar** (Rose Guard) — Justice. Led by [[oversee/npcs/Lei Livia Vane|Livia]].
-- **Garda Besi** (Iron Guard) — Defense. Led by [[oversee/npcs/Lei Iron Gort|Gort]].
+- **Garda Mawar** (Rose Guard) — Justice. Led by <a href="/Lei%20Livia%20Vane">Livia</a>.
+- **Garda Besi** (Iron Guard) — Defense. Led by <a href="/Lei%20Iron%20Gort">Gort</a>.
 - Controls most of Harka, Pirizia, and Rioquan.
 - Wants to control all magic. Suppresses technology.
 - We are **wanted criminals**.

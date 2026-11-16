@@ -16,10 +16,10 @@ aliases:
 - Domido Forest borders it. Gordon's hut is nearby.
 
 ## What Happened Here
-- Echo Sam Hurls terrorized the village ([[Session 03 — The Bard|Session 03]]).
+- Echo Sam Hurls terrorized the village (<a href="/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>).
 - Yahanda, Faska, and many villagers were eaten.
 - Agus killed Bud-eg here.
-- [[Accarus Grin|Accarus]] appeared and made his offer.
+- <a href="/Accarus%20Grin">Accarus</a> appeared and made his offer.
 
 ## Current State
 - Half-ruined. Rebuilding. Cindy (the Mektol orphan) runs the Legendary Noodle Temple in Gudameng now.

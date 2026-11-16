@@ -11,14 +11,14 @@ universe: Oversee
 - Industrial city. No ornament. No warmth.
 - Sky is permanently covered in smog. Buildings are black steel.
 - **The Forges** — massive foundries. The sound of hammers and steam never stops.
-- **The Barracks** — home of Garda Besi (Iron Guard). [[Lei Iron Gort|Gort]]'s seat of power.
+- **The Barracks** — home of Garda Besi (Iron Guard). <a href="/Lei%20Iron%20Gort">Gort</a>'s seat of power.
 - **The War Machines** — production line of siege engines and armored vehicles.
 - The city is built on **slave labor** and **conscripted workers**.
 - No magic is allowed inside the city walls. Only steel and steam.
 
 ## Current State
 - Fortified. Guarded. Hostile to all outsiders.
-- [[Lei Iron Gort|Gort]] is not here often — he is on campaign.
+- <a href="/Lei%20Iron%20Gort">Gort</a> is not here often — he is on campaign.
 ::/pf
 %% DM SECRETS %%
 - Ironhold is where the Commonwealth produces its anti-magic weapons.

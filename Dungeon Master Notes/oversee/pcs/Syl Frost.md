@@ -43,10 +43,10 @@ Dragonborn of Klan Frostscale. Metallic scales with natural frost patterns. Eyes
 - From **Frosthaven Peak** (northern Pirizia), home of Klan Frostscale.
 - Was the clan's scout. Secretly self-taught in magic — taboo in a clan that only wields Ice Breath.
 - Ostracized and called **"anak haram"** (bastard child). The clan believed he was the result of a forbidden relationship between his adoptive mother and a foreigner.
-- In Session 5, learned the truth: he is the son of **[[Vythrax]]**, the silver dragon, and **[[Lei Watigi]]** of Klan Lei.
+- In Session 5, learned the truth: he is the son of **<a href="/Vythrax">Vythrax</a>**, the silver dragon, and **<a href="/Lei%20Watigi">Lei Watigi</a>** of Klan Lei.
 - The "Breathstone" the clan worshipped was actually his egg.
-- [[Vythrax]] swallowed the **full Safayer** to protect the egg; the poison passed into Syl's blood. Syl carries a **fragment of Safayer's power** — it is what makes his blood a universal cure. It is also what is slowly killing him.
-- Syl healed [[Vythrax]] by feeding her his own blood. [[Vythrax]] recovered and returned the full Safayer to the party.
+- <a href="/Vythrax">Vythrax</a> swallowed the **full Safayer** to protect the egg; the poison passed into Syl's blood. Syl carries a **fragment of Safayer's power** — it is what makes his blood a universal cure. It is also what is slowly killing him.
+- Syl healed <a href="/Vythrax">Vythrax</a> by feeding her his own blood. <a href="/Vythrax">Vythrax</a> recovered and returned the full Safayer to the party.
 - The clan now bows to him. His name is carved on the family tree.
 
 ## Quirks

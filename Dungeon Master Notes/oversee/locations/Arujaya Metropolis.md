@@ -18,8 +18,8 @@ aliases:
 - **Modification Parlor** — Dr. Vektor's cybernetic clinic.
 
 ## What Happened Here
-- Ama got a new arm ([[Session 06 — Ethical Choices|Session 06]]).
-- Syl saw the Overseer ([[Session 07 — Opressed|Session 07]]).
+- Ama got a new arm (<a href="/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>).
+- Syl saw the Overseer (<a href="/Session%2007%20%E2%80%94%20Opressed">Session 07</a>).
 - The party escaped with Livia as hostage.
 ::/pf
 

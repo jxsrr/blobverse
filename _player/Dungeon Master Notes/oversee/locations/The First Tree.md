@@ -14,8 +14,8 @@ universe: Oversee
 - **A second First Tree** — a living one — is hidden in the deep jungle of Elis. It is the last living First Tree in Oversee. It is guarded by **Verdantus**, the Green Dragon.
 
 ## What Happened Here
-- The party found the First Tree and descended into Arujaya ([[oversee/sessions/Session 06 — Ethical Choices|Session 06]]).
-- [[oversee/npcs/Lei Livia Vane|Livia]] amputated Ama's arm here.
+- The party found the First Tree and descended into Arujaya (<a href="/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>).
+- <a href="/Lei%20Livia%20Vane">Livia</a> amputated Ama's arm here.
 
 ## Current State
 - The tree is still there. The entrance to Arujaya is still open.

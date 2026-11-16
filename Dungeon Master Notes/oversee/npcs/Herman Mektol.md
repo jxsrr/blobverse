@@ -14,17 +14,17 @@ aliases:
 
 
 ## What the Party Knows
-- Moved from Nesia to **[[oversee/locations/Ghuffghuff Town|Ghuffghuff]]** with his wife **[[oversee/npcs/Faska Mektol|Faska]]** and daughter **[[oversee/npcs/Cindy Mektol|Cindy]]** to start a new life ([[oversee/sessions/Session 03 — The Bard|Session 03]]).
+- Moved from Nesia to **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff</a>** with his wife **<a href="/oversee/npcs/Faska%20Mektol">Faska</a>** and daughter **<a href="/oversee/npcs/Cindy%20Mektol">Cindy</a>** to start a new life (<a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>).
 - After Faska was eaten by Echo Sam on the first night, Herman's memories of her were completely erased — he insisted only he and Cindy had come to Ghuffghuff.
-- On the second night, **[[oversee/pcs/Husgus|Husgus]]** was assigned to keep watch over Herman, but fell asleep early.
-- When the illusion over Ghuffghuff shattered the next morning, Herman had vanished from the ruined village without a trace, leaving **[[oversee/npcs/Cindy Mektol|Cindy]]** alone.
+- On the second night, **<a href="/oversee/pcs/Husgus">Husgus</a>** was assigned to keep watch over Herman, but fell asleep early.
+- When the illusion over Ghuffghuff shattered the next morning, Herman had vanished from the ruined village without a trace, leaving **<a href="/oversee/npcs/Cindy%20Mektol">Cindy</a>** alone.
 
 ## What the Party Remembers
 - His eerie certainty that his wife had never existed was the party's first chilling proof of how Echo Sam's song erases victims from memory.
 ::/pf
 
 %% DM SECRETS %%
-- Herman was taken by **Echo Sam** on the second night in Ghuffghuff while **[[oversee/pcs/Husgus|Husgus]]** was asleep, leaving **[[oversee/npcs/Cindy Mektol|Cindy]]** as the sole survivor of the Mektol family.
-- Unlike Faska and **[[oversee/npcs/Yahanda|Yahanda]]**, Herman's dried corpse was never recovered in **[[oversee/locations/Domido Forest|Domido Forest]]**.
-- Echo Sam's song erased both Herman and Faska from Cindy's memories, though she keeps a family photo and Faska's final note in a small wooden box under her bed in **[[oversee/locations/Gudameng Town|Gudameng]]**.
+- Herman was taken by **Echo Sam** on the second night in Ghuffghuff while **<a href="/oversee/pcs/Husgus">Husgus</a>** was asleep, leaving **<a href="/oversee/npcs/Cindy%20Mektol">Cindy</a>** as the sole survivor of the Mektol family.
+- Unlike Faska and **<a href="/oversee/npcs/Yahanda">Yahanda</a>**, Herman's dried corpse was never recovered in **<a href="/oversee/locations/Domido%20Forest">Domido Forest</a>**.
+- Echo Sam's song erased both Herman and Faska from Cindy's memories, though she keeps a family photo and Faska's final note in a small wooden box under her bed in **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>**.
 %%

@@ -13,7 +13,7 @@ universe: Oversee
 - **Habara Cemetery** — old, quiet, overgrown.
 
 ## What Happened Here
-- The party tried to buy milk for HVS ([[oversee/sessions/Session 06 — Ethical Choices]]).
+- The party tried to buy milk for HVS (<a href="/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06 — Ethical Choices</a>).
 - Vya tried to milk the male rhino "Steve" and was kicked for 22 damage.
 - They stole the milk. Fled.
 - **Joni and Siti betrayed Ama** to the Commonwealth.

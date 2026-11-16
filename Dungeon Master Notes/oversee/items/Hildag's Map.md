@@ -16,7 +16,7 @@ universe: Oversee
 - Hildag asked the party to **finish the map**.
 
 ## History
-- Given by [[Hildag Grin|Hildag]] in the Maw Desert ([[Session 05 — Empty Husk|Session 05]]).
+- Given by <a href="/Hildag%20Grin">Hildag</a> in the Maw Desert (<a href="/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>).
 - Hildag is a legendary cartographer. This is her life's work.
 
 ## Current State

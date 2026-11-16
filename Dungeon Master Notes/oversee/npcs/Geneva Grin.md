@@ -41,12 +41,12 @@ universe: Oversee
 
 ## What the Party Knows
 - Elf with the eternal Grin smile. Kind but hardened.
-- Wife of **[[Accarus Grin|Accarus]]**. Mother of **[[Jarko]]** (deceased).
+- Wife of **<a href="/Accarus%20Grin">Accarus</a>**. Mother of **<a href="/Jarko">Jarko</a>** (deceased).
 - Married Accarus after they met in Will of Grin.
-- Lost her son to [[Lei Iron Gort]]. Has not recovered.
+- Lost her son to <a href="/Lei%20Iron%20Gort">Lei Iron Gort</a>. Has not recovered.
 
 ## Current Goal
-Avenge [[Jarko]]. Protect her people. Support [[Accarus Grin|Accarus]].
+Avenge <a href="/Jarko">Jarko</a>. Protect her people. Support <a href="/Accarus%20Grin">Accarus</a>.
 ::/pf
 
 %% DM SECRETS %%
@@ -60,7 +60,7 @@ Avenge [[Jarko]]. Protect her people. Support [[Accarus Grin|Accarus]].
 - **Jarko** was born a few years later. He was their only child. He was not the True Heir. Hildag knew. Geneva did not. She loved him anyway.
 
 ### Jarko's Death
-- Jarko was killed by **[[Iron Gort|Gort]]** during the raid on the Maw Desert hideout (Session 05). His skull was crushed in front of the party. His blood pooled on the stone floor.
+- Jarko was killed by **<a href="/Iron%20Gort">Gort</a>** during the raid on the Maw Desert hideout (Session 05). His skull was crushed in front of the party. His blood pooled on the stone floor.
 - **Geneva was not there.** She was in another part of the compound, coordinating the evacuation. She did not see her son die. She heard about it afterward. She has not forgiven herself for not being there.
 - **Hildag and Accarus knew Jarko was not the True Heir.** They used him as a decoy. They let him die. Geneva **did not know**. She does not know now. She believes her son died a hero — a Grin warrior defending his people. She does not know he was sacrificed by his own grandmother and father.
 - If Geneva ever learns the truth — that Hildag and Accarus let Jarko die — she will break. She may hate them. She may forgive them. The choice is hers.

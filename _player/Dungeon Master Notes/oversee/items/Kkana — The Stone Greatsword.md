@@ -17,8 +17,8 @@ aliases:
 ## History
 - One of six legendary weapons.
 - Thrown into the Misty Mountains (Elis) by Lei Firsa.
-- Recovered by **[[oversee/npcs/Mira Nouveau|Mira]]** through a Keeper of Secret expedition 12 years ago.
+- Recovered by **<a href="/Mira%20Nouveau">Mira</a>** through a Keeper of Secret expedition 12 years ago.
 
 ## What the Party Knows
-- [[oversee/npcs/Mira Nouveau|Mira]] carries it. She has never used it in front of the party.
+- <a href="/Mira%20Nouveau">Mira</a> carries it. She has never used it in front of the party.
 - It is the only thing keeping her safe from Commonwealth assassins.

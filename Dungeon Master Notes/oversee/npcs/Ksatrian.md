@@ -11,7 +11,7 @@ universe: Oversee
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Ksatrian</div><div class="bv-world-sub">The Dying Knight, Kkana and Terrde's Previous Owner</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Deceased (before 01 BV)</div></div></div></div>
 
 ## Overview
-A wandering knight from the era prior to 01 BV, remembered only in fragmented historical records and weapon lore as the previous bearer of [[Kkana — The Stone Greatsword]] and [[Terrde — The Patient Blade]].
+A wandering knight from the era prior to 01 BV, remembered only in fragmented historical records and weapon lore as the previous bearer of <a href="/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana — The Stone Greatsword</a> and <a href="/Terrde%20%E2%80%94%20The%20Patient%20Blade">Terrde — The Patient Blade</a>.
 
 ## Historical Notes
 - **Bearer of Two Blades:** According to surviving accounts of the legendary weapons, Ksatrian carried both swords during his final travels before entrusting them to another shortly before his death.
@@ -22,8 +22,8 @@ A wandering knight from the era prior to 01 BV, remembered only in fragmented hi
 ## Who He Was
 - A wandering knight. Old. Dying of wounds he could not heal.
 - Simon Greenbottle found him on the road. Ksatrian gave Simon two weapons before he died:
-  - **[[Kkana — The Stone Greatsword]]** — "for the one who protects."
-  - **[[Terrde — The Patient Blade]]** — "for the one who waits."
+  - **<a href="/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana — The Stone Greatsword</a>** — "for the one who protects."
+  - **<a href="/Terrde%20%E2%80%94%20The%20Patient%20Blade">Terrde — The Patient Blade</a>** — "for the one who waits."
 - He asked Simon for one thing: *"Do not use them to conquer. Use them to protect."*
 - He died in Simon's arms.
 

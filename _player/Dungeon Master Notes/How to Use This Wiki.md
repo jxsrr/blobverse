@@ -8,7 +8,7 @@ universe: Oversee
 > This is your campaign wiki. It is **safe**. Nothing here will spoil the plot. If you see it here, your character can know it.
 
 ## Where to Start
-1. **Read the latest session recap.** Start with [[oversee/sessions/Session 07 — Opressed]].
+1. **Read the latest session recap.** Start with <a href="/Session%2007%20%E2%80%94%20Opressed">Session 07 — Opressed</a>.
 2. **Look up an NPC.** If you met someone and forgot their name, browse the NPCs folder.
 3. **Check your PC's page.** See what the party knows about you.
 

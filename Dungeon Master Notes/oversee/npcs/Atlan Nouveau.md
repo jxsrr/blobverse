@@ -14,7 +14,7 @@ universe: Oversee
 ## Living Form — The Oceanographer
 - One of the **Initial Six**. A human man. No magic of his own — but the sharpest mind of the group.
 - Studied the sea, the currents, the stars. Wrote the first reliable maps of Rioquan.
-- Loved **Reins** deeply. She was from another world (Aede). Their daughter is **[[Mira Nouveau|Mira]]**.
+- Loved **Reins** deeply. She was from another world (Aede). Their daughter is **<a href="/Mira%20Nouveau">Mira</a>**.
 - Made a pact with **Keeper of Secret** to protect Mira and her descendants.
 - Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
 - His final words, recorded in the ritual memory: *"Tell Mira! This wasn't destiny — this was murder!"*

@@ -11,14 +11,14 @@ aliases:
 - Highest mountain in Pirizia. Perpetual blizzard. Absolute zero temperatures.
 - Home of **Klan Frostscale** — dragonborn with ice breath.
 - **Frostheart Village** — carved into the cliffside. Igloo-like homes.
-- **Temple of [[oversee/npcs/Vythrax]]** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
+- **Temple of <a href="/Vythrax">Vythrax</a>** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
 - **The Frozen Legion** — ice statues of ancient dragonborn protectors. They move when unobserved.
-- The **Spire of Whispering Ice** — [[oversee/npcs/Vythrax]]'s lair. Above the clouds.
+- The **Spire of Whispering Ice** — <a href="/Vythrax">Vythrax</a>'s lair. Above the clouds.
 
 ## What Happened Here
 - The party climbed in Session 5.
 - Syl's identity was revealed.
-- [[oversee/npcs/Vythrax]] was healed.
+- <a href="/Vythrax">Vythrax</a> was healed.
 - Klan Frostscale bowed to Syl.
 
 ## Current State

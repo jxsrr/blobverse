@@ -15,7 +15,7 @@ universe: Oversee
 - Family: wife **Janja**, sons **Huan** and **Nila**, eldest **Dontol**.
 - Told the party the Green Emerald was one of **four treasures of Lei**.
 - Named the four heirs: **Wendigo, Firage, Watigi, Roiga**.
-- Family was killed by **Will of Grin** (led by [[oversee/npcs/Jarko]]) when the party was away.
+- Family was killed by **Will of Grin** (led by <a href="/Jarko">Jarko</a>) when the party was away.
 - His home was burned.
 
 ## Legacy

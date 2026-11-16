@@ -14,7 +14,7 @@ aliases:
 
 
 ## What the Party Knows
-- Son of **[[Guanik Smith|Guanik]]** and **[[Janja]]**. Brother of **[[Nila]]** and **Dontol**.
+- Son of **<a href="/Guanik%20Smith">Guanik</a>** and **<a href="/Janja">Janja</a>**. Brother of **<a href="/Nila">Nila</a>** and **Dontol**.
 - Asked the party for help recovering his and his sister's **shell collection** — stolen by a "giant crab monster" (actually a kobold).
 - If the party saved the shells: he gave them a **spiral shell** as thanks.
 - **Was on Pulau Dima when Will of Grin attacked.** Survived (per Session 2 recap).

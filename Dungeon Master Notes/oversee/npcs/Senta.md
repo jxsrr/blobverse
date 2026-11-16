@@ -30,4 +30,4 @@ Run her shop. Survive.
 - Senta's daughter was an adventurer. She died in Greyland Castle five years ago.
 - She does not know the party's connection to Greyland. If she finds out, she will be devastated — and then furious.
 - She has a **hidden stash of healing potions** in the back room. She will give them to the party if they promise to avenge her daughter.
-- Her daughter's name was **Samira**. (Not the same Samira NOT [[Mira Nouveau|Mira]]. Different person. Common name.)
+- Her daughter's name was **Samira**. (Not the same Samira NOT <a href="/Mira%20Nouveau">Mira</a>. Different person. Common name.)

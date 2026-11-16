@@ -12,4 +12,4 @@ universe: Oversee
 - The Guild is where adventurers register and get jobs.
 
 ## What Happened Here
-- The Five Sticks formed here ([[oversee/sessions/Session 01 — The Sorcerer|Session 01]]).
+- The Five Sticks formed here (<a href="/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>).

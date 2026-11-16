@@ -8,8 +8,8 @@ universe: Oversee
 
 ## What We Know
 - The military arm of the Commonwealth. Officially called the **Garda Besi**.
-- Led by **[[oversee/npcs/Lei Iron Gort|Gort]]**. Composed of disciplined soldiers, war machines, and conscripts.
-- They are the ones who killed **[[oversee/npcs/Jarko]]**. They are the ones who attacked the Maw Desert hideout.
+- Led by **<a href="/Lei%20Iron%20Gort">Gort</a>**. Composed of disciplined soldiers, war machines, and conscripts.
+- They are the ones who killed **<a href="/Jarko">Jarko</a>**. They are the ones who attacked the Maw Desert hideout.
 - They are the ones who are hunting the party.
 
 ## Their Tactics

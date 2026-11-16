@@ -14,7 +14,7 @@ aliases:
 
 
 ## What the Party Knows
-- Daughter of **[[Guanik Smith|Guanik]]** and **[[Janja]]**. Sister of **[[Huan]]** and **Dontol**.
+- Daughter of **<a href="/Guanik%20Smith">Guanik</a>** and **<a href="/Janja">Janja</a>**. Sister of **<a href="/Huan">Huan</a>** and **Dontol**.
 - Cried when her shell collection was stolen. Gave the party a **rainbow spiral shell** as thanks if they recovered it.
 - **Was on Pulau Dima when Will of Grin attacked.** Survived.
 

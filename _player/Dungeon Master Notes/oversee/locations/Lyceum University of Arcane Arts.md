@@ -14,7 +14,7 @@ universe: Oversee
 - **Secret Basement** — beneath the Navigation Archive. Atlan's hidden base? No — that's in Kota Juto. This basement is **Donta's private collection**.
 
 ## What Happened Here
-- The party met Donta ([[oversee/sessions/Session 04 — Territorial|Session 04]]).
+- The party met Donta (<a href="/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).
 - Donta showed them the painting of the Initial Six.
 - Donta committed suicide here.
 - The party was fined 200 gp for trespassing.

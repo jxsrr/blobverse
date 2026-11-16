@@ -19,7 +19,7 @@ universe: Oversee
 - His final words, recorded in the ritual memory: *"You think you win, Lei? This smile... this curse... will haunt you!"*
 
 ## His Letter
-- Found by **[[Hildag Grin|Hildag]]** among his possessions after the betrayal.
+- Found by **<a href="/Hildag%20Grin">Hildag</a>** among his possessions after the betrayal.
 - Addressed to *"whoever inherits this Smile."*
 - Key line: *"Don't look for who. Look for what has been lost. All keys reside in Emelanica."*
 - His last written line: *"Laugh for me. I will perform my last show."*

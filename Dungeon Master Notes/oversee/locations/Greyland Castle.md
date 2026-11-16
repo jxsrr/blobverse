@@ -17,7 +17,7 @@ universe: Oversee
 ## What Happened
 - The party infiltrated, fought Grolnok, took the gem.
 - The castle collapsed into the sea.
-- The party nearly drowned. Rescued by [[Guanik Smith|Guanik]].
+- The party nearly drowned. Rescued by <a href="/Guanik%20Smith">Guanik</a>.
 
 ## Current State
 - Gone. Underwater. Only the sea cave may remain accessible.

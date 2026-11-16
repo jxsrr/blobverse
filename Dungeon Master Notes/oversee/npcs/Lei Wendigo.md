@@ -10,10 +10,10 @@ universe: Oversee
 
 
 ## What the Party Knows
-- The eldest of **[[oversee/npcs/Lei Firsa|Lei Firsa]]**'s quadruplets born at the dawn of the AV era.
-- Established the **Lei Wendigo** bloodline, one of the four ruling elemental houses of Oversee, whose living descendants include **[[oversee/npcs/Hanzel Lei Krow|Hanzel Lei Krow]]**.
+- The eldest of **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**'s quadruplets born at the dawn of the AV era.
+- Established the **Lei Wendigo** bloodline, one of the four ruling elemental houses of Oversee, whose living descendants include **<a href="/oversee/npcs/Hanzel%20Lei%20Krow">Hanzel Lei Krow</a>**.
 ::/pf
 
 %% DM SECRETS %%
-- Like his siblings, Lei Wendigo was conceived before **[[oversee/npcs/Simon Greenbottle|Simon Greenbottle]]** was bound as the Valla, inheriting the Wind aspect of Simon's Valla-touched blood.
+- Like his siblings, Lei Wendigo was conceived before **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** was bound as the Valla, inheriting the Wind aspect of Simon's Valla-touched blood.
 %%

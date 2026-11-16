@@ -42,10 +42,10 @@ There are **three Observatories** built by the Cycle Clan:
 - **The second sigil** is in Atlan's base, beneath the Navigation Archive.
 
 ## What Happened Here
-- The party found Atlan's diary ([[oversee/sessions/Session 02 — The Wizard|Session 02]]).
-- Met [[oversee/npcs/Mira Nouveau|Mira]] in the basement.
+- The party found Atlan's diary (<a href="/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
+- Met <a href="/Mira%20Nouveau">Mira</a> in the basement.
 - Joined Keeper of Secret.
 
 ## Current State
-- Still operating. [[oversee/npcs/Mira Nouveau|Mira]] still runs it from the shadows.
+- Still operating. <a href="/Mira%20Nouveau">Mira</a> still runs it from the shadows.
 - The Commonwealth is watching it more closely.

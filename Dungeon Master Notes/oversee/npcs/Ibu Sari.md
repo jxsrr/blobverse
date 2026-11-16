@@ -12,6 +12,6 @@ universe: Oversee
 
 
 ## What the Party Knows
-- A local lemonade seller in the fishing town of **[[oversee/locations/Muangching Bay|Muangching]]**.
-- Encountered when the party searched the town for milk during **[[oversee/sessions/Session 06 — Ethical Choices|Session 06]]**; she shook her head and confirmed no milk was to be found in a fishing port.
+- A local lemonade seller in the fishing town of **<a href="/oversee/locations/Muangching%20Bay">Muangching</a>**.
+- Encountered when the party searched the town for milk during **<a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>**; she shook her head and confirmed no milk was to be found in a fishing port.
 ::/pf

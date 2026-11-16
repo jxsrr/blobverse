@@ -14,21 +14,21 @@ universe: Oversee
 ## What the Party Knows
 - A large, rough man. Mechanical hand. Anchor tattoo.
 - Runs the docks. Controls who comes and goes.
-- Will not talk to strangers. Will talk to anyone who mentions **[[Accarus Grin|Accarus]]**.
+- Will not talk to strangers. Will talk to anyone who mentions **<a href="/Accarus%20Grin">Accarus</a>**.
 - Smuggles weapons for Will of Grin.
 
 ## What He Offers
 - **Passage** on a smuggling ship.
 - **Information** about the Commonwealth's ship movements.
-- **A favor** to [[Accarus Grin|Accarus]].
+- **A favor** to <a href="/Accarus%20Grin">Accarus</a>.
 
 ## Current Goal
 Smuggle weapons. Protect his crew.
 ::/pf
 
 %% DM SECRETS %%
-- Sasimo's mechanical hand is a **Grin artifact**. It was made by [[Hildag Grin|Hildag]] herself.
-- He lost his real hand in a Commonwealth raid. He was saved by [[Accarus Grin|Accarus]].
-- He is fiercely loyal to [[Accarus Grin|Accarus]]. He would die for him.
+- Sasimo's mechanical hand is a **Grin artifact**. It was made by <a href="/Hildag%20Grin">Hildag</a> herself.
+- He lost his real hand in a Commonwealth raid. He was saved by <a href="/Accarus%20Grin">Accarus</a>.
+- He is fiercely loyal to <a href="/Accarus%20Grin">Accarus</a>. He would die for him.
 - He knows about the **Bahtera Bawah Tanah**. He has never been there, but he knows it exists.
-- If the party is sent by [[Accarus Grin|Accarus]], he will give them a **hidden compartment** on his ship. It contains weapons, gold, and a **map to the Ark**.
+- If the party is sent by <a href="/Accarus%20Grin">Accarus</a>, he will give them a **hidden compartment** on his ship. It contains weapons, gold, and a **map to the Ark**.

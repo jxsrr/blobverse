@@ -18,9 +18,9 @@ showToc: false
 ## NEWS &amp; DISCOVERIES
 
 > [!abstract] Latest Across the Table
-> - **Oversee — Session 07:** The Five Sticks escaped [[oversee/locations/Arujaya Metropolis|Arujaya Metropolis]] with [[oversee/npcs/Lei Livia Vane|Livia]] as hostage. [[oversee/pcs/Syl Frost|Syl]] glimpsed the Overseer beyond the veil, and [[oversee/npcs/Lei Darvin Thorne|Darvin]] was revealed as Valerius's twin.
+> - **Oversee — Session 07:** The Five Sticks escaped <a href="/oversee/locations/Arujaya%20Metropolis">Arujaya Metropolis</a> with <a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a> as hostage. <a href="/oversee/pcs/Syl%20Frost">Syl</a> glimpsed the Overseer beyond the veil, and <a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a> was revealed as Valerius's twin.
 > - **Aede — Session Special:** The *Go Ingsani* cut through a storm on the Elis Ocean and plunged through a tear in reality into Argent.
-> - **Sonstige — Roster Live:** Profiles for [[sonstige/pcs/Brougha Ironhide|Brougha]], [[sonstige/pcs/Mya Cortenya|Mya]], [[sonstige/pcs/Vivienne Ashbourne|Vivienne]], and [[sonstige/pcs/Zenroy Dala|Zenroy]] are active for the academy campaign.
+> - **Sonstige — Roster Live:** Profiles for <a href="/sonstige/pcs/Brougha%20Ironhide">Brougha</a>, <a href="/sonstige/pcs/Mya%20Cortenya">Mya</a>, <a href="/sonstige/pcs/Vivienne%20Ashbourne">Vivienne</a>, and <a href="/sonstige/pcs/Zenroy%20Dala">Zenroy</a> are active for the academy campaign.
 
 ## CAMPAIGNS
 

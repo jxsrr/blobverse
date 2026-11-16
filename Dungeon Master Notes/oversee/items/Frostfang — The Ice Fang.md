@@ -19,14 +19,14 @@ aliases:
 ## History
 - One of six legendary weapons.
 - Thrown into a storm on Frosthaven Peak by Lei Firsa.
-- **Not yet recovered.** It is buried in [[Vythrax]]'s lair.
+- **Not yet recovered.** It is buried in <a href="/Vythrax">Vythrax</a>'s lair.
 
 ## What the Party Knows
 - The Klan Frostscale believe it is a sacred weapon.
 - If Syl finds it, it may be her signature weapon.
 ::/pf
 %% DM SECRETS %%
-- Frostfang was created from the **tooth of an ancient ice dragon** — possibly one of [[Vythrax]]'s ancestors.
+- Frostfang was created from the **tooth of an ancient ice dragon** — possibly one of <a href="/Vythrax">Vythrax</a>'s ancestors.
 - It is sentient. It chooses its wielder. It has been waiting for Syl.
-- [[Vythrax]] will give it to Syl freely if asked. She knows it is her daughter's birthright.
+- <a href="/Vythrax">Vythrax</a> will give it to Syl freely if asked. She knows it is her daughter's birthright.
 - If Syl wields it, she will gain a **permanent +1 to her cold damage** and can use **Freezing Touch** once per day without expending a spell slot.

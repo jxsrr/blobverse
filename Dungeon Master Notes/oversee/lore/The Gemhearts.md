@@ -11,10 +11,10 @@ universe: Oversee
 ## The Four
 | Stone         | Color  | Function                | Current Holder      |
 | :------------ | :----- | :---------------------- | :------------------ |
-| **Emelanica** | Green  | Time and mana flow      | [[Mira Nouveau]] (Keeper of Secret) |
+| **Emelanica** | Green  | Time and mana flow      | <a href="/Mira%20Nouveau">Mira Nouveau</a> (Keeper of Secret) |
 | **Safayer**   | Blue   | Purification of souls   | The Party           |
-| **Rubion**    | Red    | Instant annihilation    | [[Mira Nouveau]] (Keeper of Secret) |
-| **Topaju**    | Yellow | Structure and stability | [[Lei Alejandro]]   |
+| **Rubion**    | Red    | Instant annihilation    | <a href="/Mira%20Nouveau">Mira Nouveau</a> (Keeper of Secret) |
+| **Topaju**    | Yellow | Structure and stability | <a href="/Lei%20Alejandro">Lei Alejandro</a>   |
 
 ## What They Do
 - **Emelanica** — modulates time. Slows the burning of the Valla's soul. Governs absolute mana flow.

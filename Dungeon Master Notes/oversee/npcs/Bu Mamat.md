@@ -12,6 +12,6 @@ universe: Oversee
 
 
 ## What the Party Knows
-- Ran a local *warung* in **[[oversee/locations/Ghuffghuff Town|Ghuffghuff]]** where the party purchased maps before entering **[[oversee/locations/Domido Forest|Domido Forest]]** ([[oversee/sessions/Session 03 — The Bard|Session 03]]).
+- Ran a local *warung* in **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff</a>** where the party purchased maps before entering **<a href="/oversee/locations/Domido%20Forest">Domido Forest</a>** (<a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>).
 - Killed early during the haunting of Ghuffghuff by Echo Sam.
 ::/pf

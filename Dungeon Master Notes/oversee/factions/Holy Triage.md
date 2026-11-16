@@ -12,30 +12,30 @@ universe: Oversee
 - The governing body of the Commonwealth.
 - Three leaders, each representing a pillar of civilization.
 - They balance each other. They check each other. They rule together.
-- The current Triase is **Valerius Thorne** (Chancellor), **[[Lei Livia Vane|Livia]]** (Justice), and **[[Lei Iron Gort|Gort]]** (Defense).
+- The current Triase is **Valerius Thorne** (Chancellor), **<a href="/Lei%20Livia%20Vane">Livia</a>** (Justice), and **<a href="/Lei%20Iron%20Gort">Gort</a>** (Defense).
 - They control most of Harka, Pirizia, and Rioquan.
 - They are hunting us.
 
 ## The Three Pillars
 ### Kanselir Agung — The Chancellor
-- **Current:** [[Lei Valerius Thorne|Valerius]]
+- **Current:** <a href="/Lei%20Valerius%20Thorne">Valerius</a>
 - **Represents:** Wisdom, long-term vision, unity
 - **Role:** Final decision-maker. Mediator. Symbol of stability.
-- **Previous (at the time of the Initial Six, 200 AV):** [[Geldfre]]
+- **Previous (at the time of the Initial Six, 200 AV):** <a href="/Geldfre">Geldfre</a>
 
 ### Wakil Keadilan — The Justice
-- **Current:** [[Lei Livia Vane|Livia]]
+- **Current:** <a href="/Lei%20Livia%20Vane">Livia</a>
 - **Represents:** Law, courts, internal affairs
 - **Leads:** Garda Mawar (Rose Guard)
 - **Role:** Oversees courts, contracts, disputes, doctrine.
-- **Previous:** [[Erard Gelnne]]
+- **Previous:** <a href="/Erard%20Gelnne">Erard Gelnne</a>
 
 ### Wakil Pertahanan — The Defense
-- **Current:** [[Lei Iron Gort|Gort]]
+- **Current:** <a href="/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
 - **Leads:** Garda Besi (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
-- **Previous (at the time of the Initial Six, 200 AV):** [[Hildag Grin]]
+- **Previous (at the time of the Initial Six, 200 AV):** <a href="/Hildag%20Grin">Hildag Grin</a>
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.

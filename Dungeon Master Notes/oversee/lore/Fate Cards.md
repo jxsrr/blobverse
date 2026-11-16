@@ -34,6 +34,6 @@ universe: Oversee
 - **Who has this card?** Unknown.
 ::/pf
 %% DM SECRETS %%
-- The Fool & The World card belongs to **[[Mira Nouveau|Mira]]**. She has never told the party.
+- The Fool & The World card belongs to **<a href="/Mira%20Nouveau">Mira</a>**. She has never told the party.
 - The Fate Cards are tied to the **Tarot of the Architect** — the original set of cards used in the ritual that created Oversee.
 - There are 22 cards total. The party has 10 of them.
