@@ -32,7 +32,7 @@ showToc: false
   <div class="bv-ep-card">
     <div>
       <div class="bv-ep-num">SPECIAL EPISODE · 01</div>
-      <div class="bv-ep-title">[[aede/sessions/Session Special — Love in Time|Love in Time]]</div>
+      <div class="bv-ep-title"><a href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Love in Time</a></div>
       <div class="bv-ep-desc">A black submarine enters an unnatural storm in the Elis Ocean and plunges through a tear in reality into Argent.</div>
     </div>
   </div>

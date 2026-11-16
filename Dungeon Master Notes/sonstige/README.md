@@ -33,19 +33,19 @@ showToc: false
 <div class="bv-char-grid">
   <div class="bv-char-card">
     <div class="bv-char-role">Player Character</div>
-    <div class="bv-char-name">[[sonstige/pcs/Brougha Ironhide|Brougha Ironhide]]</div>
+    <div class="bv-char-name"><a href="/sonstige/pcs/Brougha%20Ironhide">Brougha Ironhide</a></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Player Character</div>
-    <div class="bv-char-name">[[sonstige/pcs/Mya Cortenya|Mya Cortenya]]</div>
+    <div class="bv-char-name"><a href="/sonstige/pcs/Mya%20Cortenya">Mya Cortenya</a></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Player Character</div>
-    <div class="bv-char-name">[[sonstige/pcs/Vivienne Ashbourne|Vivienne Ashbourne]]</div>
+    <div class="bv-char-name"><a href="/sonstige/pcs/Vivienne%20Ashbourne">Vivienne Ashbourne</a></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Player Character</div>
-    <div class="bv-char-name">[[sonstige/pcs/Zenroy Dala|Zenroy Dala]]</div>
+    <div class="bv-char-name"><a href="/sonstige/pcs/Zenroy%20Dala">Zenroy Dala</a></div>
   </div>
 </div>
 
@@ -56,35 +56,35 @@ showToc: false
 
 <div class="bv-index-grid">
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/canon/README|Timeline]]</div>
+    <div class="bv-index-label"><a href="/sonstige/canon">Timeline</a></div>
     <div class="bv-index-hint">Historical chronology</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/locations/README|Locations]]</div>
+    <div class="bv-index-label"><a href="/sonstige/locations">Locations</a></div>
     <div class="bv-index-hint">Academy &amp; surroundings</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/npcs/README|NPCs]]</div>
+    <div class="bv-index-label"><a href="/sonstige/npcs">NPCs</a></div>
     <div class="bv-index-hint">Faculty, staff &amp; peers</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/factions/README|Factions]]</div>
+    <div class="bv-index-label"><a href="/sonstige/factions">Factions</a></div>
     <div class="bv-index-hint">Houses, clubs &amp; orders</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/lore/README|Lore]]</div>
+    <div class="bv-index-label"><a href="/sonstige/lore">Lore</a></div>
     <div class="bv-index-hint">World rules &amp; legends</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/items/README|Items]]</div>
+    <div class="bv-index-label"><a href="/sonstige/items">Items</a></div>
     <div class="bv-index-hint">Relics &amp; equipment</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/handouts/README|Handouts]]</div>
+    <div class="bv-index-label"><a href="/sonstige/handouts">Handouts</a></div>
     <div class="bv-index-hint">Notices &amp; documents</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label">[[sonstige/sessions/README|Sessions]]</div>
+    <div class="bv-index-label"><a href="/sonstige/sessions">Sessions</a></div>
     <div class="bv-index-hint">Session archive</div>
   </div>
 </div>

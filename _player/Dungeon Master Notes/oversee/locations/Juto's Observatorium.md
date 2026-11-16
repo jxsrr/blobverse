@@ -5,7 +5,7 @@ universe: Oversee
 aliases:
   - The Observatorium
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[oversee/npcs/Mira Nouveau|Mira]], Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/Mira%20Nouveau">Mira</a>, Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
 
 ## What Matters Here
 - A white stone tower in the center of **Juto Port City**. The "Center of Knowledge."

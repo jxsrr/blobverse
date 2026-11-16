@@ -5,7 +5,7 @@ universe: Oversee
 aliases:
   - Padre City
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Padre Megalopolis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (capital)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Hanzel Lei Krow (Governor), Valerius, Livia, [[oversee/npcs/Lei Iron Gort|Gort]]</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Padre Megalopolis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (capital)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Hanzel Lei Krow (Governor), Valerius, Livia, <a href="/Lei%20Iron%20Gort">Gort</a></div></div></div></div>
 
 ## What Matters Here
 - Built on a mesa. White granite walls 15 meters high.

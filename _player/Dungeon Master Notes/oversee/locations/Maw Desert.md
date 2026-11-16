@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Pirizia East
 universe: Oversee
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Maw Desert</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Pirizia East</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[oversee/npcs/Accarus Grin|Accarus]], Geneva, Hildag</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Maw Desert</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Pirizia East</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/Accarus%20Grin">Accarus</a>, Geneva, Hildag</div></div></div></div>
 
 ## What Matters Here
 - Harsh eastern desert. Hidden behind optical illusions and sand.

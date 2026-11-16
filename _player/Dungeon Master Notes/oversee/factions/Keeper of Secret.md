@@ -4,7 +4,7 @@ leader: Mira Nouveau
 attitude_to_party: friendly
 universe: Oversee
 ---
-<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Keeper of Secret</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">[[oversee/npcs/Mira Nouveau]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Friendly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium, Kota Juto</div></div></div></div>
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Keeper of Secret</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/Mira%20Nouveau">Mira Nouveau</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Friendly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium, Kota Juto</div></div></div></div>
 
 ## What We Know
 - Secret organization dedicated to finding the truth about the Initial Six.

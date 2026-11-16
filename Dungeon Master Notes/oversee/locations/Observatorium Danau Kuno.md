@@ -6,7 +6,7 @@ aliases:
   - First Observatory
 ---
 ::pf
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Observatorium Danau Kuno</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Ancient Optical/Stellar Observatory (First Observatory)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Founder</div><div class="bv-stat-val">[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]] (~1040 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Superseded by [[oversee/locations/Tarakita University of Heroism|Universitas Tarakita]]</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Observatorium Danau Kuno</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Ancient Optical/Stellar Observatory (First Observatory)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Founder</div><div class="bv-stat-val"><a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a> (~1040 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Superseded by <a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Universitas Tarakita</a></div></div></div></div>
 
 
 ## What Matters Here
