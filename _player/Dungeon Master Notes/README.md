@@ -3,20 +3,16 @@ title: Blobverse
 description: Player-facing wiki for the Blobverse campaigns.
 showSidebar: false
 showToc: false
-cta:
-  - label: "Start with Oversee"
-    href: "/oversee"
-    variant: "primary"
-  - label: "Visit Sonstige"
-    href: "/sonstige"
-    variant: "secondary"
-  - label: "Read Aede"
-    href: "/aede"
-    variant: "secondary"
 ---
 # Blobverse
 
 Three campaigns, one wiki. Everything here is written for players: recaps, people, places, and the parts of the world you have already seen. If something has not happened at your table yet, it is not here.
+
+<div class="bv-cta-row">
+  <a href="/oversee" class="bv-btn bv-btn-primary">Start with Oversee</a>
+  <a href="/sonstige" class="bv-btn bv-btn-secondary">Visit Sonstige</a>
+  <a href="/aede" class="bv-btn bv-btn-secondary">Read Aede</a>
+</div>
 
 ## Pick a campaign
 

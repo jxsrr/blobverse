@@ -109,3 +109,55 @@ a.wikilink:hover, a[href*="/oversee/"]:hover, a[href*="/sonstige/"]:hover, a[hre
   table th { background: var(--color-d-bg-secondary); border-bottom-color: var(--color-d-border); }
   table td { border-bottom-color: var(--color-d-border); }
 }
+
+/* Hub CTA Buttons */
+.bv-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2rem;
+}
+.bv-btn {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+.bv-btn-primary {
+  background: var(--color-l-accent, #4f46e5);
+  color: #ffffff !important;
+  border: 1px solid var(--color-l-accent, #4f46e5);
+}
+.bv-btn-primary:hover {
+  background: var(--color-l-accent-hover, #4338ca);
+}
+.bv-btn-secondary {
+  background: transparent;
+  color: var(--color-l-text, #1f2937) !important;
+  border: 1px solid var(--color-l-border, #d1d5db);
+}
+.bv-btn-secondary:hover {
+  border-color: var(--color-l-accent, #4f46e5);
+  color: var(--color-l-accent, #4f46e5) !important;
+}
+@media (prefers-color-scheme: dark) {
+  .bv-btn-primary {
+    background: var(--color-d-accent, #b8a4d4);
+    color: #15171c !important;
+    border-color: var(--color-d-accent, #b8a4d4);
+  }
+  .bv-btn-primary:hover {
+    background: var(--color-d-accent-hover, #d0bfe6);
+  }
+  .bv-btn-secondary {
+    color: var(--color-d-text, #e6e2d9) !important;
+    border-color: var(--color-d-border, #2b2f38);
+  }
+  .bv-btn-secondary:hover {
+    border-color: var(--color-d-accent, #b8a4d4);
+    color: var(--color-d-accent, #b8a4d4) !important;
+  }
+}
