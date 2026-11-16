@@ -8,10 +8,8 @@ first_seen: Session 01
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Old dwarf fisherman who rescued the party
-> **Where:** Pulau Dima (home destroyed)
-> **Status:** Deceased (killed by Will of Grin)
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased</span></div><div class="bv-dossier-name">Guanik Smith</div><div class="bv-dossier-epithet">Old Fisherman, Cycle Clan Scholar</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (fragment)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Pulau Dima (home destroyed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Pulau Dima</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01</div></div></div></div>
+
 
 ## What the Party Knows
 - Found the party floating at sea after Greyland Castle collapsed.

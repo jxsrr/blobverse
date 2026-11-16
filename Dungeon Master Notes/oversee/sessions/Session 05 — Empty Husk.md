@@ -5,8 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-> [!abstract] Previously...
-> The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 05 · OVERSEE</div><div class="bv-ep-heading">Session 05 — Empty Husk</div><p class="bv-ep-synopsis">The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.</p></div>
 
 ## Part 1: The Body of a Bard
 
@@ -351,6 +350,8 @@ She had finished translating.
 ## Sessions Chain
 - **Previous:** [[Session 04 — The Festival (Full Recap)|Session 04]]
 - **Next:** [[Session 06 — The Underground (Full Recap)|Session 06]]
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 04 — Territorial</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 06 — Ethical Choices</span></a></div>
 ::/pf
 
 %% DM SECRETS %%

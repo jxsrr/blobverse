@@ -5,10 +5,8 @@ current_holder: The Party
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Type:** Gemheart (Blue)
-> **Holder:** The Party
-> **Rarity:** Legendary
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Safayer</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Gemheart (Blue)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">The Party</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+
 
 ## What It Does
 - One of the four Gemhearts. Blue.

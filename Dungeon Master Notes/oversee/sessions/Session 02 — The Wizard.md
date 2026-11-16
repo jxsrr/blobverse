@@ -5,8 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-> [!abstract] Previously...
-> Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 02 · OVERSEE</div><div class="bv-ep-heading">Session 02 — The Wizard</div><p class="bv-ep-synopsis">Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.</p></div>
 
 ## Part 1: The Dream of Fate
 
@@ -232,6 +231,8 @@ And they did not know — not yet — that Agus was already working for someone 
 ## Sessions Chain
 - **Previous:** [[Session 01 — The Sorcerer|Session 01]]
 - **Next:** [[Session 03 — The Bard|Session 03]]
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 01 — The Sorcerer</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 03 — The Bard</span></a></div>
 ::/pf
 
 %% DM SECRETS %%

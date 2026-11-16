@@ -9,10 +9,7 @@ universe: Oversee
 aliases:
   - Echo Gzirmo Kopling
 ---
-> [!info] At a Glance
-> **Role:** The dragonborn tinker of the Initial Six. Later, the cyborg consciousness that ran Arujaya's reactor.
-> **Where:** The Depths, Arujaya (as Echo)
-> **Status:** Echo — active, slowly fading
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-alive">Echo (trapped), released by swaith</span></div><div class="bv-dossier-name">Gzirmo Kopling</div><div class="bv-dossier-epithet">The Dragonborn Tinker of the Initial Six, Echo of the Reactor</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The Depths, Arujaya (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Arujaya (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 06 (as Echo)</div></div></div></div>
 
 ## Living Form — The Tinker
 - One of the **Initial Six**. A dragonborn of orange-gold scales. A mechanical genius.

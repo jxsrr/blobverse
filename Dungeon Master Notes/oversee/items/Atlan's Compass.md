@@ -4,10 +4,9 @@ rarity: rare
 current_holder: The Party
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** Wondrous item
-> **Holder:** The Party
-> **Rarity:** Rare
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Atlan's Compass</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Wondrous item</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">The Party</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Rare</div></div></div></div>
+
 
 ## What It Does
 - Points to **lost things** — not north.
@@ -23,8 +22,7 @@ universe: Oversee
 
 ## Current State
 - Still with the party. Still pointing at things they haven't named yet.
-
-
+::/pf
 %% DM SECRETS %%
 - The compass does not point to the nearest "lost thing." It points to the **most important** lost thing.
 - If the party names "Atlan Nouveau," the compass will point to **the Shell**. This is a huge reveal.

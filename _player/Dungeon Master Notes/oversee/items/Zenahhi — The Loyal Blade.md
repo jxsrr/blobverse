@@ -6,10 +6,7 @@ universe: Oversee
 aliases:
   - Zenahhi
 ---
-> [!info] At a Glance
-> **Type:** Longsword
-> **Location:** Ngarai Ratapan (Rioquan East)
-> **Rarity:** Legendary
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Zenahhi — The Loyal Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Ngarai Ratapan (Rioquan East)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex. Magical.

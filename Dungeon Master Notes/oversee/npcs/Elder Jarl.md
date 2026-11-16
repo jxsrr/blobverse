@@ -8,10 +8,8 @@ first_seen: Session 05
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Leader of the Council of Elders, Klan Frostscale
-> **Where:** Temple of [[Vythrax]], Frostheart Village
-> **Status:** Alive — but dying
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Frostscale</span></div><span class="bv-status bv-status-alive">Alive (dying)</span></div><div class="bv-dossier-name">Elder Jarl</div><div class="bv-dossier-epithet">Leader of the Council of Elders, Klan Frostscale</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Frostscale</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Temple of [[Vythrax]], Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
+
 
 ## What the Party Knows
 - Oldest dragonborn in Frostheart. Scales nearly white and translucent. Horns spiral like a ram's.

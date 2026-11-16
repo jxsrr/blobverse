@@ -6,11 +6,7 @@ universe: Oversee
 aliases:
   - Swaith
 ---
-> [!info] At a Glance
-> **Type:** Dagger
-> **Holder:** [[oversee/pcs/Shin Van Hel]]
-> **Rarity:** Legendary (cursed)
-> **Part of:** The Six Blades
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Swaith — The Soul-Thirsting Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Dagger</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">[[oversee/pcs/Shin Van Hel]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary (cursed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Six Blades</div></div></div></div>
 
 ## Stat Block
 - +1 dagger. 1d8 + Dex modifier. Magical.

@@ -7,10 +7,7 @@ status: Alive
 first_seen: Session 04
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** The "merchant wife" the party escorted to Padre City. A Keeper of Secret courier.
-> **Where:** Javan Town (travels frequently)
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Keeper of Secret</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Mrs. Ratna</div><div class="bv-dossier-epithet">Keeper of Secret Courier, Pak Andreas's Wife</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Keeper of Secret</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Javan Town (travels frequently)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Javan Town</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
 
 ## What the Party Knows
 - The wife of **Pak Andreas** the blacksmith. Hired the party to guard her on the road to Padre City in Session 4.

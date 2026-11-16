@@ -5,8 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-> [!abstract] Previously...
-> Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 07 · OVERSEE</div><div class="bv-ep-heading">Session 07 — Opressed</div><p class="bv-ep-synopsis">Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.</p></div>
 
 ## Part 1: The Recovery Ward
 
@@ -239,6 +238,8 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 ## Sessions Chain
 - **Previous:** [[Session 06 — The Underground (Full Recap)|Session 06]]
 - **Next:** [[Session 08 — The Reckoning|Session 08]]
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 06 — Ethical Choices</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><div></div></div>
 ::/pf
 
 %% DM SECRETS %%

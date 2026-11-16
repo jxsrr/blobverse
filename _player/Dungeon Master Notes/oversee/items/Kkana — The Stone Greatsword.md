@@ -6,10 +6,7 @@ universe: Oversee
 aliases:
   - Kkana
 ---
-> [!info] At a Glance
-> **Type:** Greatsword
-> **Holder:** [[oversee/npcs/Mira Nouveau]]
-> **Rarity:** Legendary
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Kkana — The Stone Greatsword</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Greatsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">[[oversee/npcs/Mira Nouveau]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 greatsword. 2d6 + Str. Magical. Heavy, two-handed.

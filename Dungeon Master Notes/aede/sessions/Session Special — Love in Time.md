@@ -5,8 +5,7 @@ universe: Aede
 showToc: true
 ---
 ::pf
-> [!abstract] Previously...
-> The party escaped Arujaya with Livia as hostage. Syl saw something beyond the veil — the Overseer itself. Darvin is Valerius's twin. Somewhere in the deep, Echo Gzirmo waits. And the sea is calling.
+<div class="bv-ep-header"><div class="bv-ep-kicker">SPECIAL EPISODE · AEDE</div><div class="bv-ep-heading">Session Special — Love in Time</div><p class="bv-ep-synopsis">The party escaped Arujaya with Livia as hostage. Syl saw something beyond the veil — the Overseer itself. Darvin is Valerius's twin. Somewhere in the deep, Echo Gzirmo waits. And the sea is calling.</p></div>
 
 ## Part 1: The Storm
 
@@ -173,6 +172,8 @@ They did not know how. They did not know why. They only knew they had survived. 
 - **Next:** [[Session 09 — The Truth|Session 09]]
 
 %% DM SECRETS %%
+
+<div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/aede/sessions">All Sessions</a><div></div></div>
 ::/pf
 ### The Session's True Premise
 - **This is a time loop session.** The party arrives in Aede. They are supposed to help the Regalia. They are supposed to let Aede die. They are supposed to move on. **That is the real timeline.**

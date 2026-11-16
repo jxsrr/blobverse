@@ -7,10 +7,7 @@ status: Alive
 first_seen: Session 02
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Owner of "Teritip Tua" diving shop.
-> **Where:** Kota Juto, Distrik Pasang
-> **Status:** Alive. Ancient (1000+ years old). Deaf.
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Pops Tortle</div><div class="bv-dossier-epithet">Diving Shop Owner, Atlan's Old Friend</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kota Juto, Distrik Pasang</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kota Juto</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02</div></div></div></div>
 
 ## Appearance
 An ancient Tortle. Slow-moving. Smells of rust, oil, and copper. Surrounded by antique diving helmets, harpoons, nets, and strange oxygen tanks made from giant nautilus shells.

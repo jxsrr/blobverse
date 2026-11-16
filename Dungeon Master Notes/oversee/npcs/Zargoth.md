@@ -8,10 +8,8 @@ first_seen: Not yet met (in history)
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** The ancient demon who fathered the Grin. The fragment inside Shin.
-> **Where:** Originally the Gap. Now: a fragment inside **Shin Van Hel**.
-> **Status:** Fragment — dormant, waking.
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Gap</span></div><span class="bv-status bv-status-alive">Fragment (inside shin)</span></div><div class="bv-dossier-name">Zargoth</div><div class="bv-dossier-epithet">The Ancient Demon, Father of the Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Gap (originally)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Originally the Gap. Now: a fragment inside **Shin Van Hel**.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally) / The Valla (currently)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+
 
 ## What the Party Knows (from Lore)
 - An ancient, wise demon from the Gap.

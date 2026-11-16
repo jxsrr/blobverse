@@ -9,10 +9,7 @@ universe: Oversee
 aliases:
   - Kopling
 ---
-> [!info] At a Glance
-> **Role:** Vya's adoptive father. The old wanderer who raised her after her mother disappeared.
-> **Where:** Wandering (whereabouts unknown)
-> **Status:** Alive — but not seen since Vya left
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (whereabouts unknown)</span></div><div class="bv-dossier-name">Yayat Kopling</div><div class="bv-dossier-epithet">Vya's Adoptive Father, Dragonborn-Blooded Wanderer, Distant Relative of Gzirmo Kopling</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Wandering (whereabouts unknown)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Chenalia (formerly) / Wandering</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned via Vya's backstory), not yet met</div></div></div></div>
 
 ## What the Party Knows
 - An old man who raised **Vya** for 10 years after her mother **[[oversee/npcs/Vreina Arleschia|Vreina]]** disappeared.

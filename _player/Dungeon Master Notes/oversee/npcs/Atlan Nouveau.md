@@ -7,10 +7,7 @@ status: Deceased (200 AV), Echo whereabouts unknown
 first_seen: Session 02 (via diary), not yet met in person
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** The oceanographer of the Initial Six. Father of **[[oversee/npcs/Mira Nouveau|Mira]]**. Husband of **[[oversee/npcs/Reins]]**.
-> **Where:** Kota Juto (as Echo)
-> **Status:** Deceased
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kota Juto (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kota Juto (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
 
 ## Living Form — The Oceanographer
 - One of the **Initial Six**. A human man. No magic of his own — but the sharpest mind of the group.

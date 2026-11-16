@@ -10,10 +10,8 @@ aliases:
   - Herman
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Father of the Mektol family. Husband of [[oversee/npcs/Faska Mektol|Faska]]. Father of [[oversee/npcs/Cindy Mektol|Cindy]].
-> **Where:** Last seen in [[oversee/locations/Ghuffghuff Town|Ghuffghuff]]
-> **Status:** Missing / Presumed Deceased
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Missing / presumed deceased (session 03)</span></div><div class="bv-dossier-name">Herman Mektol</div><div class="bv-dossier-epithet">Farmer, Mektol Family Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Last seen in [[oversee/locations/Ghuffghuff Town|Ghuffghuff]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Nesia (formerly) / Ghuffghuff</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
+
 
 ## What the Party Knows
 - Moved from Nesia to **[[oversee/locations/Ghuffghuff Town|Ghuffghuff]]** with his wife **[[oversee/npcs/Faska Mektol|Faska]]** and daughter **[[oversee/npcs/Cindy Mektol|Cindy]]** to start a new life ([[oversee/sessions/Session 03 — The Bard|Session 03]]).

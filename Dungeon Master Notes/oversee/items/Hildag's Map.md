@@ -4,10 +4,9 @@ rarity: unique
 current_holder: The Party
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** World Map
-> **Holder:** The Party
-> **Rarity:** Unique
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Hildag's Map</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">World Map</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">The Party</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Unique</div></div></div></div>
+
 
 ## What It Does
 - A hand-drawn map of the known world. Incomplete.
@@ -22,8 +21,7 @@ universe: Oversee
 
 ## Current State
 - Still incomplete. The party has added nothing yet.
-
-
+::/pf
 %% DM SECRETS %%
 - The blank spaces are not unexplored. They are **places Hildag could not map** — because they are Gap-touched, or because the Cycle Clan forbade it.
 - If the party fills in the map, they will discover hidden locations that even the Commonwealth doesn't know about.

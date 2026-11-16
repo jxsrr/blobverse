@@ -6,10 +6,9 @@ universe: Oversee
 aliases:
   - Kkana
 ---
-> [!info] At a Glance
-> **Type:** Greatsword
-> **Holder:** [[Mira Nouveau]]
-> **Rarity:** Legendary
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Kkana — The Stone Greatsword</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Greatsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">[[Mira Nouveau]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+
 
 ## Stat Block
 - +1 greatsword. 2d6 + Str. Magical. Heavy, two-handed.
@@ -25,8 +24,7 @@ aliases:
 ## What the Party Knows
 - [[Mira Nouveau|Mira]] carries it. She has never used it in front of the party.
 - It is the only thing keeping her safe from Commonwealth assassins.
-
-
+::/pf
 %% DM SECRETS %%
 - Kkana was Simon's **first** legendary weapon. He received it from a dying knight named Ksatrian.
 - The blade remembers Simon. It will not willingly serve anyone who serves the Commonwealth.

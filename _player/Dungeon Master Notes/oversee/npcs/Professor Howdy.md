@@ -7,10 +7,7 @@ status: deceased (Session 04, before party arrived)
 first_seen: Session 04 (body only)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Expert on Gemhearts and Cycle Clan history
-> **Where:** Outer Ring, Padre City
-> **Status:** Deceased (before party arrived)
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Lyceum University</span></div><span class="bv-status bv-status-deceased">Deceased (session 04, before party arrived)</span></div><div class="bv-dossier-name">Professor Howdy</div><div class="bv-dossier-epithet">Gemheart Researcher</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Lyceum University (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Outer Ring, Padre City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City (Outer Ring)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04 (body only)</div></div></div></div>
 
 ## What the Party Knows
 - Was Donta's colleague. Studied the Gemhearts.

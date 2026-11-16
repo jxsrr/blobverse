@@ -8,10 +8,8 @@ first_seen: Not yet met (mentioned in lore)
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** The true founder of Klan Lei. The woman who forced Simon into the Valla role.
-> **Where:** Unknown
-> **Status:** Ambiguous — she may be alive, she may be dead, she may be something else.
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Lei</span></div><span class="bv-status bv-status-deceased">Ambiguous (may be alive, may be dead, may be something else)</span></div><div class="bv-dossier-name">Lei Firsa</div><div class="bv-dossier-epithet">The True Founder of Klan Lei, The Woman Who Forced Simon into the Valla Role</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Lei (hidden)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (mentioned in lore)</div></div></div></div>
+
 
 ## What the Party Knows (from Lore)
 - A female ranger, born in Harka. Illegitimate daughter of a wealthy merchant family.

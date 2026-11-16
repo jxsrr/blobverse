@@ -6,10 +6,7 @@ universe: Oversee
 aliases:
   - Frostfang
 ---
-> [!info] At a Glance
-> **Type:** Greataxe
-> **Location:** Spire of Whispering Ice (Frosthaven Peak)
-> **Rarity:** Legendary
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Frostfang — The Ice Fang</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Greataxe</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Spire of Whispering Ice (Frosthaven Peak)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +3 greataxe. 1d12 + Str slashing + 2d8 cold damage. Magical. Heavy, two-handed.

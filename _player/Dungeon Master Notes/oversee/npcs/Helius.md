@@ -7,10 +7,7 @@ status: Deceased (690 AV or earlier)
 first_seen: Session 05 (mentioned via Shin's backstory)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** The old man who took Shin in. The first person to show him kindness.
-> **Where:** Died in Elis
-> **Status:** Deceased
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Deceased (690 av or earlier)</span></div><div class="bv-dossier-name">Helius</div><div class="bv-dossier-epithet">The Old Man Who Raised Shin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent (Valla worshipper)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Elis</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Elis (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (mentioned via Shin's backstory)</div></div></div></div>
 
 ## What the Party Knows
 - A simple man. Worshipped **Valla** in the simplest way — prayer before sleep, bread shared even when there wasn't much.

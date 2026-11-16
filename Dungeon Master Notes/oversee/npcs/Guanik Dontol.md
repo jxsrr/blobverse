@@ -10,10 +10,8 @@ aliases:
   - Dontol
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Eldest son of [[Guanik Smith|Guanik]] and [[Janja]]. Brother of [[Huan]] and [[Nila]].
-> **Where:** Unknown
-> **Status:** Alive — whereabouts unknown
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive (whereabouts unknown)</span></div><div class="bv-dossier-name">Guanik Dontol</div><div class="bv-dossier-epithet">Guanik's Eldest Son, Missing Survivor</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Pulau Dima (destroyed) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned), never met</div></div></div></div>
+
 
 ## What the Party Knows
 - The eldest of Guanik's three children. Was not at home when the party arrived at Pulau Dima — he was out fishing.

@@ -7,10 +7,7 @@ status: deceased (Session 05)
 first_seen: Session 05
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** [[oversee/npcs/Accarus Grin|Accarus]] and [[oversee/npcs/Geneva Grin|Geneva]]'s son. Vya's cousin. Grandson of [[oversee/npcs/Hildag Grin|Hildag]].
-> **Where:** Deceased — killed in Maw Desert
-> **Status:** Dead
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Will of Grin</span></div><span class="bv-status bv-status-deceased">Deceased (session 05)</span></div><div class="bv-dossier-name">Jarko</div><div class="bv-dossier-epithet">Accarus's Son, Vya's Cousin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Will of Grin</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Deceased — killed in Maw Desert</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Maw Desert</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
 
 ## What the Party Knows
 - Young Grin warrior. Eager to prove himself. Kind. Hopeful.

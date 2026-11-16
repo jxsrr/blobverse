@@ -8,10 +8,8 @@ first_seen: Session 03
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** A priest assigned to teach at the new temple in Ghuffghuff.
-> **Where:** Died in Ghuffghuff
-> **Status:** Deceased (eaten by Echo Sam)
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Temple of Valla</span></div><span class="bv-status bv-status-deceased">Deceased (session 03)</span></div><div class="bv-dossier-name">Yahanda</div><div class="bv-dossier-epithet">Priest, traveling companion</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Temple of Valla</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Ghuffghuff</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ghuffghuff (assigned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
+
 
 ## What the Party Knows
 - Traveled with the party from Javan Town to Ghuffghuff.

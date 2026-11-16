@@ -8,10 +8,8 @@ first_seen: Session 02
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** A small fish-man (kuo-toa) who lives in the Sea Temple.
-> **Where:** Kuil Lautan, Kota Juto
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Babibubebo</div><div class="bv-dossier-epithet">Hunger Fish-Man, Kuil Lautan, Lost Kuo Lau Prince</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kuil Lautan, Kota Juto</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kuil Lautan, Juto Port City, Kuo Lau Kingdom (exiled/lost)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02</div></div></div></div>
+
 
 ## What the Party Knows
 - A small, pitiful fish-man. Large eyes. Scaly skin.

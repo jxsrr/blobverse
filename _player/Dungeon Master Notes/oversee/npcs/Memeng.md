@@ -7,10 +7,7 @@ status: Alive
 first_seen: Session 03
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Cook. Traveling companion in Session 3.
-> **Where:** Gudameng (now)
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Memeng</div><div class="bv-dossier-epithet">Cook, Ghuffghuff</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Gudameng (now)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ghuffghuff / Gudameng</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
 
 ## What the Party Knows
 - A cheerful, plump cook from Harka.

@@ -7,10 +7,7 @@ status: Alive
 first_seen: Session 07
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** An old woman who lives at the entrance to The Depths in Arujaya.
-> **Where:** The Depths, Arujaya
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Arujaya</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Fidale</div><div class="bv-dossier-epithet">Gatekeeper, The Depths, Arujaya</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Arujaya</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The Depths, Arujaya</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Depths</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 07</div></div></div></div>
 
 ## What the Party Knows
 - Warned the party not to descend into The Depths.

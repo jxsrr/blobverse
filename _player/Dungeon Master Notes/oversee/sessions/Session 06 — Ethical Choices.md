@@ -4,8 +4,7 @@ session_number: 6
 universe: Oversee
 showToc: true
 ---
-> [!abstract] Previously...
-> Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 06 · OVERSEE</div><div class="bv-ep-heading">Session 06 — Ethical Choices</div><p class="bv-ep-synopsis">Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.</p></div>
 
 ## Part 1: Muangching, Milk, and a Madman
 
@@ -297,3 +296,5 @@ And they climbed, for the first time, out of the earth.
 ## Sessions Chain
 - **Previous:** Session 05
 - **Next:** Session 07
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2005%20%E2%80%94%20Empty%20Husk"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 05 — Empty Husk</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 07 — Opressed</span></a></div>

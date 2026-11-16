@@ -4,8 +4,7 @@ session_number: 3
 universe: Oversee
 showToc: true
 ---
-> [!abstract] Previously...
-> A village sang. A priest vanished. A deaf man knew the truth. A bard's echo waited at the end.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 03 · OVERSEE</div><div class="bv-ep-heading">Session 03 — The Bard</div><p class="bv-ep-synopsis">A village sang. A priest vanished. A deaf man knew the truth. A bard's echo waited at the end.</p></div>
 
 ## Part 1: The Road to Ghuffghuff
 
@@ -227,3 +226,5 @@ Then he walked into the dark and was gone.
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 02 — The Wizard|Session 02]]
 - **Next:** [[oversee/sessions/Session 04 — Territorial|Session 04]]
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 02 — The Wizard</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 04 — Territorial</span></a></div>

@@ -7,10 +7,9 @@ status: Deceased (01 BV)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Simon's companion. The rogue who wielded Swaith.
-> **Where:** Died at the altar of Danau Kuno (01 BV)
-> **Status:** Deceased
+::pf
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Kerajaan Grin</span></div><span class="bv-status bv-status-deceased">Deceased (01 bv)</span></div><div class="bv-dossier-name">Grin Qain</div><div class="bv-dossier-epithet">The Sacrificed Grin, Simon's Best Friend</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Kerajaan Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died at the altar of Danau Kuno (01 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Altar of Danau Kuno (died here)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+
 
 ## What the Party Knows
 - A Grin elf. Eternal smile. Horns. Magic-deaf.
@@ -30,8 +29,7 @@ universe: Oversee
 
 ## The Letter (from Simon's perspective)
 > *"She smiled even as she died. That is the Grin curse. You cannot stop smiling. You cannot show pain. She died smiling. I have never forgiven myself for letting her."*
-
-
+::/pf
 %% DM SECRETS %%
 - Grin Qain's Echo is **not in Oversee**. It is inside **Simon**. She speaks to him in the silence.
 - She is the one who tells Simon to forgive himself.

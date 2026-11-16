@@ -7,11 +7,8 @@ aliases:
   - Niette
 ---
 ::pf
-> [!info] At a Glance
-> **Type:** Spear
-> **Location:** Tomb of Gavaevodata (Elis Selatan)
-> **Rarity:** Legendary
-> **Part of:** The Swan Trio (The Wing)
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Niette — The Wing of the Swan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Spear</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Tomb of Gavaevodata (Elis Selatan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Wing)</div></div></div></div>
+
 
 ## What It Does
 - +2 spear. 1d6 + Str/Dex (finesse, reach). Magical. Thrown (range 30/120).

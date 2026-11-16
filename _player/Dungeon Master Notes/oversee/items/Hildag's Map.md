@@ -4,10 +4,7 @@ rarity: unique
 current_holder: The Party
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** World Map
-> **Holder:** The Party
-> **Rarity:** Unique
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Hildag's Map</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">World Map</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">The Party</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Unique</div></div></div></div>
 
 ## What It Does
 - A hand-drawn map of the known world. Incomplete.

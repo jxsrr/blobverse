@@ -6,10 +6,9 @@ universe: Oversee
 aliases:
   - Terrde
 ---
-> [!info] At a Glance
-> **Type:** Longsword
-> **Location:** Ruins of the Rapture (Harka)
-> **Rarity:** Legendary
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Terrde — The Patient Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Ruins of the Rapture (Harka)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex. Magical.
@@ -25,8 +24,7 @@ aliases:
 ## What the Party Knows
 - The ruins are cursed. The Rapture happened here.
 - The skeleton wizard was once a great mage. Now it is an Echo.
-
-
+::/pf
 %% DM SECRETS %%
 - Terrde was Simon's **third** legendary weapon. He received it from a dying mercenary named Ksatrian.
 - The skeleton wizard is **Echo of a Cycle Clan mage** who tried to use Terrde to stop the Rapture. He failed. He is still trying.

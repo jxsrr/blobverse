@@ -4,8 +4,8 @@ session_number: 1
 universe: Oversee
 showToc: true
 ---
-> [!abstract] Previously...
-> Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 01 · OVERSEE</div><div class="bv-ep-heading">Session 01 — The Sorcerer</div><p class="bv-ep-synopsis">Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.</p></div>
+
 ## Part 1: Forming the Company and the Road to Greyland
 
 The story begins in the memory of a young girl named **Vya**, called V by those who love her — a child watching from the hillside as a ship arrived carrying soldiers whose faces were carved into permanent smiles.
@@ -137,3 +137,5 @@ The ship did not need a crew. It moved on its own. It had a destination already 
 
 ## Sessions Chain
 - **Next:** [[oversee/sessions/Session 02 — The Wizard|Session 02]]
+
+<div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 02 — The Wizard</span></a></div>

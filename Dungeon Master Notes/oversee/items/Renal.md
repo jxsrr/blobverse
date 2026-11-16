@@ -4,10 +4,9 @@ rarity: unique
 current_holder: Zure Ama
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** Bound Imp / Prosthetic Arm
-> **Holder:** [[Zure Ama]]
-> **Rarity:** Unique
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Renal</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Bound Imp / Prosthetic Arm</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">[[Zure Ama]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Unique</div></div></div></div>
+
 
 ## Stat Block
 - **Form:** A small imp. Can shift into:
@@ -21,8 +20,7 @@ universe: Oversee
 ## Current State
 - Fused into Ama's arm. Still waking up.
 - Dr. Vektor says it will take weeks to fully solidify.
-
-
+::/pf
 %% DM SECRETS %%
 - Renal was originally **Qain**, an imp bound to Ama's Devil Fate Card. The name "Renal" is a shortening. It has no connection to the historical Grin Qain — or does it? The imp chose the name itself.
 - Renal has fragments of memories that are not its own. It remembers a desert. It remembers a woman with pink hair.

@@ -7,10 +7,7 @@ status: Alive
 first_seen: Session 03 (mentioned), not yet met directly
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Elder of the Guo Family. Guardian of the Recipe Library. Cindy's adoptive grandfather.
-> **Where:** Legendary Noodle Temple, Gudameng
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Guo Family</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Guo Lao</div><div class="bv-dossier-epithet">Elder of the Guo Family, Guardian of the Recipe Library</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Guo Family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Legendary Noodle Temple, Gudameng</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Gudameng</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03 (mentioned), not yet met directly</div></div></div></div>
 
 ## What the Party Knows
 - The elder of the Guo Family — the cooks who guard the **Recipe Library** in the Legendary Noodle Temple in Gudameng.

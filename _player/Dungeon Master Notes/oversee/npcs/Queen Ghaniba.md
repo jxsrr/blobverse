@@ -9,10 +9,7 @@ universe: Oversee
 aliases:
   - Ratu Ghaniba
 ---
-> [!info] At a Glance
-> **Role:** The goblin queen who married **Lei Alejandro**. Mother of his stillborn child.
-> **Where:** Died in Greyland Castle
-> **Status:** Deceased
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Goblin Kingdom</span></div><span class="bv-status bv-status-deceased">Deceased (before session 01)</span></div><div class="bv-dossier-name">Queen Ghaniba</div><div class="bv-dossier-epithet">The Goblin Queen, Alejandro's Love</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Goblin Kingdom (destroyed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Greyland Castle</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Greyland Castle (destroyed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned via Grolnok's story)</div></div></div></div>
 
 ## What the Party Knows
 - A goblin queen. Daughter of **King Grolnok**.

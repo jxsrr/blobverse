@@ -10,10 +10,8 @@ aliases:
   - Nenek Elara
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Innkeeper at Karang Tidur
-> **Where:** Kota Juto, Distrik Pasang
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Elara</div><div class="bv-dossier-epithet">Innkeeper, Karang Tidur</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent (suspicious)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kota Juto, Distrik Pasang</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kota Juto</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02</div></div></div></div>
+
 
 ## What the Party Knows
 - Old halfling woman. Warm smile. Seems kind.

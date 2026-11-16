@@ -8,10 +8,8 @@ first_seen: Not yet met (in history)
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** The dwarf who raised Husgus. The man who ended the Gruffgud War. The Noisy Rhino.
-> **Where:** Died in Hutan Domido
-> **Status:** Deceased (killed by Malakor)
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-deceased">Deceased (695 av)</span></div><div class="bv-dossier-name">Gordon</div><div class="bv-dossier-epithet">Husgus's Mentor, The Peacebringer of Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Hutan Domido (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+
 
 ## What the Party Knows (from Husgus)
 - A dwarf ranger. Thick white beard. Big axe. Viking hat.

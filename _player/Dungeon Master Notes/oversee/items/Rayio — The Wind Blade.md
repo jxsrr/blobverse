@@ -6,10 +6,7 @@ universe: Oversee
 aliases:
   - Rayio
 ---
-> [!info] At a Glance
-> **Type:** Longsword
-> **Location:** Hutan Garberro (Pirizia)
-> **Rarity:** Legendary
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Rayio — The Wind Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Hutan Garberro (Pirizia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex (finesse). Magical.

@@ -6,10 +6,9 @@ universe: Oversee
 aliases:
   - Zenahhi
 ---
-> [!info] At a Glance
-> **Type:** Longsword
-> **Location:** Ngarai Ratapan (Rioquan East)
-> **Rarity:** Legendary
+::pf
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Zenahhi — The Loyal Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Ngarai Ratapan (Rioquan East)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex. Magical.
@@ -25,8 +24,7 @@ aliases:
 ## What the Party Knows
 - Legend says no one has ever descended to the bottom and returned.
 - The blade was forged for **protection**, not conquest.
-
-
+::/pf
 %% DM SECRETS %%
 - Zenahhi was Simon's **second** legendary weapon. He received it from a dying knight named Valerius Zenithar (not the same Valerius).
 - The blade is guarded by the **Teary Knight** — a spirit bound to it.

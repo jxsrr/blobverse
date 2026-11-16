@@ -4,8 +4,8 @@ session_number: 4
 universe: Oversee
 showToc: true
 ---
-> [!abstract] Previously...
-> A festival, three leaders, one dead professor, and a choice between two factions.
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 04 · OVERSEE</div><div class="bv-ep-heading">Session 04 — Territorial</div><p class="bv-ep-synopsis">A festival, three leaders, one dead professor, and a choice between two factions.</p></div>
+
 ## Part 1: Seven Days
 
 **[[oversee/npcs/Accarus Grin|Accarus]]** had given them seven days.
@@ -253,3 +253,5 @@ And the ship set sail for **Pirizia**.
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 03 — The Bard|Session 03]]
 - **Next:** [[oversee/sessions/Session 05 — Empty Husk|Session 05]]
+
+<div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 03 — The Bard</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2005%20%E2%80%94%20Empty%20Husk"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 05 — Empty Husk</span></a></div>

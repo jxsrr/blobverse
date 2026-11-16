@@ -7,10 +7,7 @@ status: Alive (missing?)
 first_seen: Session 03
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Largest spice merchant in Ghuffghuff.
-> **Where:** Ghuffghuff Market
-> **Status:** Unknown
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive (missing?)</span></div><div class="bv-dossier-name">Mr. Salim</div><div class="bv-dossier-epithet">Spice Merchant, Ghuffghuff</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Ghuffghuff Market</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ghuffghuff</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
 
 ## What the Party Knows
 - An old, kind man. Owns the biggest spice stall in the market.

@@ -8,10 +8,8 @@ first_seen: Session 06
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Street vendor (lemonade seller)
-> **Where:** [[oversee/locations/Muangching Bay|Muangching]]
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Ibu Sari</div><div class="bv-dossier-epithet">Lemonade Seller</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">[[oversee/locations/Muangching Bay|Muangching]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Muangching Bay</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 06</div></div></div></div>
+
 
 ## What the Party Knows
 - A local lemonade seller in the fishing town of **[[oversee/locations/Muangching Bay|Muangching]]**.
