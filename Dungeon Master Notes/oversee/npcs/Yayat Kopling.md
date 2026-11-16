@@ -14,7 +14,7 @@ aliases:
 
 
 ## What the Party Knows
-- An old man who raised **Vya** for 10 years after her mother **<a href="/Vreina%20Arleschia">Vreina</a>** disappeared.
+- An old man who raised **Vya** for 10 years after her mother **<a href="/oversee/npcs/Vreina%20Arleschia">Vreina</a>** disappeared.
 - A wanderer. Not from Chenalia. Not from anywhere the party has heard of.
 - Has **dragonborn blood** — faint scales on some parts of his skin, sharp eyes, a resilience that is not entirely human.
 - Told Vya stories about the world. Taught her to survive. Taught her to hunt, to track, to read the land.

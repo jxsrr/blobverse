@@ -9,11 +9,11 @@ showToc: true
 
 ## Part 1: The Recovery Ward
 
-They returned to **<a href="/Arujaya%20Metropolis">Arujaya Metropolis</a>** with **<a href="/Zure%20Ama">Ama</a>** barely alive.
+They returned to **<a href="/oversee/locations/Arujaya%20Metropolis">Arujaya Metropolis</a>** with **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** barely alive.
 
-The **Modification Parlor** took him. **<a href="/Dr.%20Vektor">Dr. Vektor</a>** and his machines worked through the night. When the sun rose — or whatever passed for dawn in a city with no sky — Ama was alive, but not yet whole.
+The **Modification Parlor** took him. **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** and his machines worked through the night. When the sun rose — or whatever passed for dawn in a city with no sky — Ama was alive, but not yet whole.
 
-His left arm was a soft, grey thing. Jelly. Not fully bone. Not fully flesh. **<a href="/Renal">Renal</a>**'s tissue had fused with his own, but the Imp was still waking up.
+His left arm was a soft, grey thing. Jelly. Not fully bone. Not fully flesh. **<a href="/oversee/items/Renal">Renal</a>**'s tissue had fused with his own, but the Imp was still waking up.
 
 > *"Give it time,"* Dr. Vektor said. *"The Imp needs to remember it is part of you. It will."*
 
@@ -23,37 +23,37 @@ Ama stared at his new arm for a long time. Then he stood, flexed it, and said no
 
 While Ama recovered, the party explored.
 
-**<a href="/Adam%20Findias">Adam Findias</a>** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
+**<a href="/oversee/npcs/Adam%20Findias">Adam Findias</a>** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
 
 > *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **<a href="/Besik">Besik</a>** is not… normal."*
 
 They went to the archive.
 
-**<a href="/Besik%20Findias">Besik Findias</a>** was waiting for them. He was old — older than Arujaya itself — and his body was more machine than flesh. He spoke in a voice that was half-human and half-static.
+**<a href="/oversee/npcs/Besik%20Findias">Besik Findias</a>** was waiting for them. He was old — older than Arujaya itself — and his body was more machine than flesh. He spoke in a voice that was half-human and half-static.
 
-He showed them the **<a href="/Gzirmo%20Kopling">Echo Gzirmo</a>** — not the cyborg they had met at the reactor, but the **body** of it. The original. The relic. It was now used as a **power source** for the city. His consciousness was the battery that lit the streets.
+He showed them the **<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** — not the cyborg they had met at the reactor, but the **body** of it. The original. The relic. It was now used as a **power source** for the city. His consciousness was the battery that lit the streets.
 
 Besik also showed them the Shell video again. The same video. The same horror.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** asked if he could see the Shell itself — the **actual** Shell, not just the video.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** asked if he could see the Shell itself — the **actual** Shell, not just the video.
 
 Besik said yes.
 
 ## Part 3: The Shell
 
-They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **<a href="/The%20First%20Tree">First Tree</a>**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
+They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **<a href="/oversee/locations/The%20First%20Tree">First Tree</a>**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
 
 A piece of the 20-kilometer skin that had fallen from the sky 1,000 years ago.
 
 It was **hollow**. Empty. Still.
 
-**HVS** drew **<a href="/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** and stabbed it.
+**HVS** drew **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** and stabbed it.
 
 Nothing happened.
 
 The blade did not drink. The Shell did not react. It was not dead. It was not alive. It was simply **there**.
 
-**<a href="/Syl%20Frost">Syl</a>** pressed her hand against it. She felt **cold**. Not the cold of ice. The cold of something that had never been warm.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** pressed her hand against it. She felt **cold**. Not the cold of ice. The cold of something that had never been warm.
 
 They left.
 
@@ -61,15 +61,15 @@ They left.
 
 The party needed to leave Arujaya. But the way up was blocked by the Commonwealth. The only other exit was through **The Depths**.
 
-**<a href="/Fidale">Fidale</a>** was waiting at the edge.
+**<a href="/oversee/npcs/Fidale">Fidale</a>** was waiting at the edge.
 
 She was an old woman — wrinkled, hunched, half-mad — who lived alone at the border of the Depths. She tried to sell them "anti-smog masks." They were rags soaked in oil. They would not work.
 
-When **<a href="/Husgus">Husgus</a>** tested one by dropping it into the Depths, it **melted** on contact with the air.
+When **<a href="/oversee/pcs/Husgus">Husgus</a>** tested one by dropping it into the Depths, it **melted** on contact with the air.
 
 > *"No one can go down there,"* Fidale said. *"No one comes back."*
 
-**<a href="/Syl%20Frost">Syl</a>** went down anyway.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** went down anyway.
 
 She was immune to poison. If anyone could survive the smog, it was her.
 
@@ -125,13 +125,13 @@ Gzirmo — cooperative after being stabbed with **Swaith** — explained more th
 
 > *"Demons fear water. It is the only thing that can cleanse them."*
 
-**<a href="/Zure%20Ama">Ama</a>** looked at his new arm. The soft, grey, jelly thing that was now half-Imp.
+**<a href="/oversee/pcs/Zure%20Ama">Ama</a>** looked at his new arm. The soft, grey, jelly thing that was now half-Imp.
 
 He **spat on it**.
 
 The Imp woke.
 
-**<a href="/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Overseer discarded.
+**<a href="/oversee/items/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Overseer discarded.
 
 He walked into the Depths.
 
@@ -145,23 +145,23 @@ They left together.
 
 The emergency exit opened. They climbed out of Arujaya, into the sun of **Elis**.
 
-Waiting for them: **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>**.
+Waiting for them: **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>**.
 
 She had been tracking them. She had been waiting. She had not expected them to come out with **Renal awake** and **Ama at full strength**.
 
 They captured her.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** bound her hands. **<a href="/Husgus">Husgus</a>** kept an arrow pointed at her back. **<a href="/Vya%20Arleschia">Vya</a>** watched her with something that was not quite hatred — something colder.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** bound her hands. **<a href="/oversee/pcs/Husgus">Husgus</a>** kept an arrow pointed at her back. **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** watched her with something that was not quite hatred — something colder.
 
 They walked.
 
 ## Part 9: The Rune of the Cycle
 
-They stopped at the **<a href="/Rune%20of%20the%20Cycle">Rune of the Cycle</a>** — a stone circle in the desert, warded against scrying. A safe place.
+They stopped at the **<a href="/oversee/locations/Rune%20of%20the%20Cycle">Rune of the Cycle</a>** — a stone circle in the desert, warded against scrying. A safe place.
 
 They rested.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** sat apart from the others. He had been quiet since the escape. He was reading something — a fragment of the Cycle Clan research file that had survived the raid. He traced his finger over a line of text.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** sat apart from the others. He had been quiet since the escape. He was reading something — a fragment of the Cycle Clan research file that had survived the raid. He traced his finger over a line of text.
 
 > *"HVS."*
 
@@ -171,21 +171,21 @@ He read the words around it. And then he looked up.
 
 No one spoke.
 
-**<a href="/Husgus">Husgus</a>** — whose body was beginning to crack, showing golden light beneath the skin — said nothing.
+**<a href="/oversee/pcs/Husgus">Husgus</a>** — whose body was beginning to crack, showing golden light beneath the skin — said nothing.
 
-**<a href="/Zure%20Ama">Ama</a>** — whose arm was now half-Imp, half-human — said nothing.
+**<a href="/oversee/pcs/Zure%20Ama">Ama</a>** — whose arm was now half-Imp, half-human — said nothing.
 
-**<a href="/Syl%20Frost">Syl</a>** — whose blood was slowly killing her — said nothing.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — whose blood was slowly killing her — said nothing.
 
-**<a href="/Vya%20Arleschia">Vya</a>** — whose fire was waking up, whose family had lied to her, whose cousin had been sacrificed — said nothing.
+**<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** — whose fire was waking up, whose family had lied to her, whose cousin had been sacrificed — said nothing.
 
 They did not know what it meant yet. But they knew it meant **something**.
 
 ## Part 10: Livia
 
-**<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** was tied to a rock, away from the fire.
+**<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** was tied to a rock, away from the fire.
 
-**<a href="/Zure%20Ama">Ama</a>** went to speak with her. He did not hate her — not after everything. He had lost an arm to her, yes. But he had also seen her, in that moment before she struck, and she had looked like someone who was **afraid**.
+**<a href="/oversee/pcs/Zure%20Ama">Ama</a>** went to speak with her. He did not hate her — not after everything. He had lost an arm to her, yes. But he had also seen her, in that moment before she struck, and she had looked like someone who was **afraid**.
 
 She was afraid now.
 
@@ -205,7 +205,7 @@ She paused.
 
 > *"He is waiting for the right moment to take me. To avenge her."*
 
-**<a href="/Lei%20Darvin%20Thorne">Darvin</a>** had been listening. He looked at Livia, and then at nothing, and said:
+**<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>** had been listening. He looked at Livia, and then at nothing, and said:
 
 > *"He is my brother. He is my twin. And he has been hunting me for ten years."*
 
@@ -216,18 +216,18 @@ The party looked at Darvin, and then at Livia, and then at each other.
 They had a hostage. They had a secret. And they had a **twin** who was the key to everything.
 
 ## Loot & Rewards
-- **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** — now a hostage and a source of information
+- **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — now a hostage and a source of information
 - The truth about the **twin-killing tradition**
-- **<a href="/Renal">Renal</a>** — fully awake, giving Ama "limitless" strength in short bursts
+- **<a href="/oversee/items/Renal">Renal</a>** — fully awake, giving Ama "limitless" strength in short bursts
 - The meaning of **HVS** — Human Vessel Shell
 
 ## NPCs Encountered
 - **<a href="/Adam">Adam</a>** — the local boy with a mechanical heart
 - **<a href="/Besik">Besik</a>** — the Mnemonic Archive keeper
-- **<a href="/Fidale">Fidale</a>** — the old woman at the edge of the Depths
+- **<a href="/oversee/npcs/Fidale">Fidale</a>** — the old woman at the edge of the Depths
 - **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, now fully cooperative
-- **<a href="/Dr.%20Vektor">Dr. Vektor</a>** — the surgeon, now fully open about his grief
-- **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** — captured, terrified of Valerius, a twin who should have died
+- **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** — the surgeon, now fully open about his grief
+- **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — captured, terrified of Valerius, a twin who should have died
 
 ## Locations Visited
 - **<a href="/Arujaya">Arujaya</a>** — now a memory behind them
@@ -244,11 +244,11 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 
 %% DM SECRETS %%
 - **Syl saw the Overseer directly.** Her memory was suppressed by the entity — she does not remember what she saw. But she knows something happened. She dreams of it.
-- **The "wandering demon"** who rescued Syl is almost certainly **<a href="/Zargoth">Zargoth</a>** — the fragment of the Grin father inside **<a href="/Shin%20Van%20Hel">HVS</a>**. Zargoth acts through HVS's body without HVS's knowledge. He is protecting the party, and he has his own reasons.
-- **Ama's "limitless" power** comes from **<a href="/Renal">Renal</a>** — the Imp can consume Ambitio-Ether residue, and when Ama consumes residue himself, Renal gives him bursts of power. It costs him HP and stamina. He cannot do it indefinitely.
+- **The "wandering demon"** who rescued Syl is almost certainly **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — the fragment of the Grin father inside **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>**. Zargoth acts through HVS's body without HVS's knowledge. He is protecting the party, and he has his own reasons.
+- **Ama's "limitless" power** comes from **<a href="/oversee/items/Renal">Renal</a>** — the Imp can consume Ambitio-Ether residue, and when Ama consumes residue himself, Renal gives him bursts of power. It costs him HP and stamina. He cannot do it indefinitely.
 - **Livia's sister** was named **Livia too** — the family killed the younger twin (the "real" Livia) and raised the older one (the "stolen" Livia) under her name. The current Livia carries the name of a dead girl.
 - **Valerius has known for years** that his sister was killed. He has been waiting for the moment when his "sister" is no longer useful — then he will kill her and blame it on the party.
-- **The twin-killing tradition is real.** It is the darkest secret of Klan Lei. It was invented by **<a href="/Lei%20Firsa">Lei Firsa</a>** 650 years ago. It is why Vya was never killed (her mother hid her), and why Darvin was hidden (not killed). The survivors of the tradition are **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>**, **<a href="/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** (the older twin), and **<a href="/Vya%20Arleschia">Vya</a>** (the hidden heir).
+- **The twin-killing tradition is real.** It is the darkest secret of Klan Lei. It was invented by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** 650 years ago. It is why Vya was never killed (her mother hid her), and why Darvin was hidden (not killed). The survivors of the tradition are **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>**, **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** (the older twin), and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** (the hidden heir).
 - **HVS's discovery of the name "Human Vessel Shell"** is the beginning of his Season 3 arc. He will learn what it means — that he is not a man, but a **shell** — and he will have to decide what to do with that truth.
 - **Husgus's golden cracks** are now visible. He has not yet connected them to anything. When he learns about HVS-01 and HVS-02, he will understand. He is **HVS-01**. He was meant to hold the **Architect**. The Architect was never placed inside him. He developed his own soul. The golden light is the Architect's old structure showing through.
 - **Darvin carries Topaju.** He will die in Session 8. His death is the end of Season 2. It is also the beginning of Vya's path to becoming the True Heir.

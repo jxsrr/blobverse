@@ -14,24 +14,24 @@ universe: Oversee
 
 ## The Three Pillars
 ### Kanselir Agung — The Chancellor
-- **Current:** <a href="/Lei%20Valerius%20Thorne">Valerius</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>
 - **Represents:** Wisdom, long-term vision, unity
 - **Role:** Final decision-maker. Mediator. Symbol of stability.
 - **Previous:** Geldfre (200 AV)
 
 ### Wakil Keadilan — The Justice
-- **Current:** <a href="/Lei%20Livia%20Vane">Livia</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>
 - **Represents:** Law, courts, internal affairs
 - **Leads:** Garda Mawar (Rose Guard)
 - **Role:** Oversees courts, contracts, disputes, doctrine.
 - **Previous:** Erard Gelnne (200 AV)
 
 ### Wakil Pertahanan — The Defense
-- **Current:** <a href="/Lei%20Iron%20Gort">Gort</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
 - **Leads:** Garda Besi (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
-- **Previous:** <a href="/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
+- **Previous:** <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.

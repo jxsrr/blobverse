@@ -15,7 +15,7 @@ universe: Oversee
 - Opened the Festival with a speech about the "Triase of the United Commonwealth."
 - Political. Smooth. Well-dressed.
 - Beloved by the crowds. Hated by Will of Grin.
-- Was seen with <a href="/Lei%20Iron%20Gort">Gort</a> in private after the parade.
+- Was seen with <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a> in private after the parade.
 
 ## Current Goal
 Maintain power. Serve Valerius. Suppress dissent.

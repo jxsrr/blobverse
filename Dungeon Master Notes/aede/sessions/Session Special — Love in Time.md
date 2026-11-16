@@ -168,7 +168,7 @@ They did not know how. They did not know why. They only knew they had survived. 
 - **The Bottom of the Elis Ocean** — where the party wakes
 
 ## Sessions Chain
-- **Previous:** <a href="/Session%2007%20%E2%80%94%20Opressed">Session 07</a>
+- **Previous:** <a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>
 - **Next:** <a href="/Session%2009%20%E2%80%94%20The%20Truth">Session 09</a>
 ::/pf
 %% DM SECRETS %%

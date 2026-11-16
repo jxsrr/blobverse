@@ -40,10 +40,10 @@ universe: Oversee
 
 
 ## What the Party Knows
-- Twin brother of **<a href="/Accarus%20Grin">Accarus</a>**. Both are descendants of **Lei Firage** (fire) through their father.
+- Twin brother of **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>**. Both are descendants of **Lei Firage** (fire) through their father.
 - Neither has full fire power. Antrem's is especially weak — dormant, almost silent.
-- Was a simple shepherd in Elis. Married **<a href="/Vreina%20Arleschia">Vreina Arleschia</a>**.
-- Left Vya when she was 4 years old, called by <a href="/Accarus%20Grin">Accarus</a> for a "greater purpose."
+- Was a simple shepherd in Elis. Married **<a href="/oversee/npcs/Vreina%20Arleschia">Vreina Arleschia</a>**.
+- Left Vya when she was 4 years old, called by <a href="/oversee/npcs/Accarus%20Grin">Accarus</a> for a "greater purpose."
 - Did not want to leave. Still loves Vya. Not ambitious, not clever — just kind.
 - Alive. Living with Will of Grin. Not allowed to see Vya or write to her.
 
@@ -78,11 +78,11 @@ Be useful to his brother. Survive. See Vya grow up — even if only from a dista
 ### Antrem and Vreina — The Life He Built
 - After the Great Strike, Antrem settled in **Nesia Town** — a farming village in Harka. He became a shepherd. He lived quietly. He did not speak of his past. He did not speak of his brother. He did not speak of the Great Strike.
 - Years later, fate brought him to **Elis**. A sheep merchant he knew offered him work on the other continent. Antrem — who had no ties left in Rioquan — accepted.
-- In Elis, he met **<a href="/Vreina%20Arleschia">Vreina Arleschia</a>** — a woman from a minor noble family who was not particularly ambitious.
+- In Elis, he met **<a href="/oversee/npcs/Vreina%20Arleschia">Vreina Arleschia</a>** — a woman from a minor noble family who was not particularly ambitious.
 - Vreina was drawn to this quiet young man — not for his wealth or his looks, but for his **simplicity**. In her eyes, Antrem was unlike other men who only wanted to raise their status by marrying a noble. He only wanted to live quietly, tend sheep, and perhaps one day have a family.
 - They married in a small ceremony attended only by Vreina's family and a few of Antrem's neighbors. Antrem knew nothing about dowries or noble traditions — he came with the best clothes he had, a bunch of wildflowers, and a **sheep** as a gift.
 - Vreina's family — already tired of noble pretense — liked this sincerity.
-- Years later, **<a href="/Vya%20Arleschia">Vya</a>** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
+- Years later, **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** was born — their daughter, a child with distinctive **pink hair**, sharp eyes, and a smile that never faded even though she was not a Grin descendant.
 - **Or perhaps, between the blood of a simple shepherd and the blood of a minor noble, something older had awakened** — something connected to the **Lei Firage** bloodline, to the fire that no longer burned in Antrem, to a destiny not yet revealed.
 
 ### The Summons — Why He Left

@@ -13,9 +13,9 @@ aliases:
 
 ## Age of Knowledge
 
-The era after **<a href="/The%20Rapture">The Rapture</a>** was dark, but it was not empty.
+The era after **<a href="/oversee/lore/The%20Rapture">The Rapture</a>** was dark, but it was not empty.
 
-The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **<a href="/Ambitio-Ether">Ambitio-Ether</a>** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
+The civilizations that survived the magical destruction began to **study** what had happened to their ancestors. They were determined not to repeat the same mistakes. For the first time in the history of Oversee, mortals did not merely *use* **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>** — which in this age was called simply **mana**, or *the source of magical power* — they tried to **understand** it.
 
 Philosophers, wizards, and scholars of every race began documenting the properties of mana, the patterns of its fluctuation, and its relationship to the great disasters that had erased civilizations before them.
 
@@ -27,7 +27,7 @@ This era became known as the **Age of Knowledge**: the age when wisdom began to 
 
 **~10XX BV**
 
-An ancient astrogeologist named **<a href="/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
+An ancient astrogeologist named **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
 
 Wiseman documented the approach of a semi-circular cosmic object drifting through space at an anomalous speed: **500 kilometers per hour**. Too slow for a meteor. Too fast for a natural object. Something was **braking** it.
 
@@ -45,13 +45,13 @@ It was not a living entity. It was a dead skin. A **shed shell** — the cast-of
 
 ## Guanik Wiseman and the Revelation of the Architect
 
-After that event, **<a href="/Guanik%20Wiseman">Guanik Wiseman</a>** was never the same.
+After that event, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was never the same.
 
 Every night, when he closed his eyes, he saw what he had seen through the probe's magical feed. He saw the **eyes** of that shell — empty, yet somehow staring directly into his soul. The nightmare came every night without fail, haunting every second of his sleep with the same image.
 
 But over time, the dream began to change.
 
-The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **<a href="/The%20Overseer%20%26%20The%20Architect">Architect</a>** — the creator of Oversee, who now sat as the **<a href="/The%20Valla">Valla</a>** before the **<a href="/The%20Overseer%20%26%20The%20Architect">Overseer</a>**.
+The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Architect</a>** — the creator of Oversee, who now sat as the **<a href="/oversee/lore/The%20Valla">Valla</a>** before the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**.
 
 It explained that it had held back the cosmic hunger alone for a very long time. But its strength was fading. It could no longer hold on by itself. The shell seen in the sky was its **old skin**, shed when it sacrificed itself to become the first seal.
 
@@ -59,14 +59,14 @@ And now, it needed help.
 
 The Architect explained the true nature of the universe to Wiseman:
 - The eternal hunger of the **Overseer**
-- The **<a href="/The%20Gap">Gap</a>** that hides Ambitio-Ether from that hunger
+- The **<a href="/oversee/lore/The%20Gap">Gap</a>** that hides Ambitio-Ether from that hunger
 - The mechanism of the seal that has kept Oversee safe
 
 It also explained that the seal was **not eternal**. The soul of the Architect, though extraordinarily strong, would eventually burn out. And when that happened, nothing would hold the Overseer back. Oversee would be devoured in an instant — like the magical civilizations before it, except this time there would be nothing left.
 
 But the Architect also offered a solution.
 
-There was a way to **replace** it. A ritual that could transfer the burden of the seal from a dying soul to a new soul that was willing to bear it. And the key to that ritual was the **<a href="/The%20Gemhearts">Gemheart</a>** — the organs of the Architect's body, separated when it created the world, now scattered across Oversee.
+There was a way to **replace** it. A ritual that could transfer the burden of the seal from a dying soul to a new soul that was willing to bear it. And the key to that ritual was the **<a href="/oversee/lore/The%20Gemhearts">Gemheart</a>** — the organs of the Architect's body, separated when it created the world, now scattered across Oversee.
 
 If the Gemhearts could be found and used correctly, the Valla could be replaced without causing destruction.
 
@@ -76,11 +76,11 @@ Wiseman woke from his dream with a new and terrible understanding. He was not me
 
 **~1040 BV**
 
-Realizing he could not bear this responsibility alone, **<a href="/Guanik%20Wiseman">Guanik Wiseman</a>** began designing an organization.
+Realizing he could not bear this responsibility alone, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** began designing an organization.
 
 It had to be **secret**, because knowledge of the Overseer and the mechanics of the seal could be easily misused by those who were not responsible. It had to be **neutral**, bound to no kingdom or race, because the safety of the whole world had to come before everything. And it had to be **ascetic**, because the temptation to use this knowledge for personal power would always exist.
 
-So the **<a href="/The%20Cycle%20Clan">Cycle Clan</a>** was born.
+So the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** was born.
 
 They were not an evil group in the conventional sense. They were closer to monks or scholars bearing a terrifying cosmic responsibility. Their members were philosophers, historians, and wizards of many races, who had sworn an oath to put the survival of Oversee above everything — including their own personal morality.
 
@@ -98,7 +98,7 @@ It considered them all part of itself. As children born from its sacrifice.
 
 **~104X BV**
 
-Under the guidance of the Architect's dreams, the **<a href="/The%20Cycle%20Clan">Cycle Clan</a>** began the greatest search in their history: the **excavation of the Gemhearts**.
+Under the guidance of the Architect's dreams, the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** began the greatest search in their history: the **excavation of the Gemhearts**.
 
 These artifacts — the crystallized organs of the Architect's body — were scattered across the world. Some were buried deep beneath mountains. Some were hidden at the bottom of the sea. Some had perhaps already been found by earlier civilizations, who never realized what they truly were.
 
@@ -108,7 +108,7 @@ The excavation took years, even decades. Each Gemheart was guarded by challenges
 
 But the Cycle Clan worked patiently, silently, without drawing the attention of the great kingdoms that might have wanted the Gemhearts' power for their own purposes.
 
-Unfortunately, a secret this large cannot last forever. In the course of history, knowledge of the Gemhearts would leak, and the ambition of mortals would take over. In a time yet to come, a figure named **<a href="/Lei%20Firsa">Lei Firsa</a>** would seize one of the Gemhearts by force, and use it for a purpose entirely different from the Architect's original intent.
+Unfortunately, a secret this large cannot last forever. In the course of history, knowledge of the Gemhearts would leak, and the ambition of mortals would take over. In a time yet to come, a figure named **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** would seize one of the Gemhearts by force, and use it for a purpose entirely different from the Architect's original intent.
 
 But that is a story for a later age.
 
@@ -116,7 +116,7 @@ But that is a story for a later age.
 
 **~10XX BV**
 
-With the Gemhearts successfully excavated and understood, the **<a href="/The%20Cycle%20Clan">Cycle Clan</a>** began preparing the most important and most terrible ritual in their history: the **<a href="/The%20Cycle%20Ritual">Ritual of Replacement</a>**.
+With the Gemhearts successfully excavated and understood, the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** began preparing the most important and most terrible ritual in their history: the **<a href="/oversee/lore/The%20Cycle%20Ritual">Ritual of Replacement</a>**.
 
 Its purpose was to replace the "battery" of the metaphysical prison — the soul of the Architect, which had held back the Overseer's hunger for ages — with a new soul willing to continue the task.
 
@@ -152,7 +152,7 @@ They became known as the **Grin Kingdom** — a name that would one day carry a 
 
 ### Gavaevodata
 
-In the early years of the fragile kingdom, a princess was born: **<a href="/Gavaevodata%20Grin">Gavaevodata Grin</a>**.
+In the early years of the fragile kingdom, a princess was born: **<a href="/oversee/npcs/Gavaevodata%20Grin">Gavaevodata Grin</a>**.
 
 At one hundred and twenty years old — still very young for an Elf — the restlessness of her ancestors was already planted in her soul. The Grin Kingdom, standing on barren land no one wanted, was only a small dot on the world map: poor, marginalized, and constantly an easy target for stronger neighbors rich in magic.
 
@@ -172,7 +172,7 @@ The greatest discovery in the history of the Grin Kingdom happened by accident.
 
 In an ancient underground library — a remnant from before the civil war — Gavaevodata found a manuscript written in a language long dead. It took her years to translate it, and what she found inside changed everything.
 
-The manuscript spoke of **<a href="/The%20Gap">The Gap</a>**: the remnants of creation, the failed digestion of the Overseer that never became the Architect. There, in the cracks of reality, dwelled the inhabitants of the dark — creatures who fed on the crumbs of energy that fell from the Valla. Cosmic scavengers, hungry for an offer.
+The manuscript spoke of **<a href="/oversee/lore/The%20Gap">The Gap</a>**: the remnants of creation, the failed digestion of the Overseer that never became the Architect. There, in the cracks of reality, dwelled the inhabitants of the dark — creatures who fed on the crumbs of energy that fell from the Valla. Cosmic scavengers, hungry for an offer.
 
 There were no instructions on how to open the door to the Gap, but there was a faint hint written there: **when the walls of the prison thin, when Ambitio-Ether surges somewhere, the crack will open for those who seek it.**
 
@@ -186,7 +186,7 @@ Without telling anyone, she stepped in.
 
 ### The Gap
 
-Inside **<a href="/The%20Gap">The Gap</a>**, Gavaevodata stood on an endless grey expanse. The sky above was not a sky, but a moving darkness — as if something enormous was watching from behind a curtain.
+Inside **<a href="/oversee/lore/The%20Gap">The Gap</a>**, Gavaevodata stood on an endless grey expanse. The sky above was not a sky, but a moving darkness — as if something enormous was watching from behind a curtain.
 
 In the distance, strange structures: towers of bone and alien metal, rivers of slow black liquid, and small glittering particles like diamond dust — crumbs of Ambitio-Ether that leaked from the Valla and fell into this place.
 
@@ -198,7 +198,7 @@ They were the demon races: **tieflings, imps, and devils** — the native inhabi
 
 The largest of them stepped forward, with curling horns like a crown.
 
-His name was **<a href="/Zargoth">Zargoth</a>**.
+His name was **<a href="/oversee/npcs/Zargoth">Zargoth</a>**.
 
 He asked Gavaevodata why she had come, and she answered that she needed power to save her dying kingdom. Zargoth explained that power could be given, but usually at the price of a soul-contract or blood.
 
@@ -216,7 +216,7 @@ Zargoth listened in silence, then laughed. He explained that losing magic was no
 
 From Zargoth, Gavaevodata understood the cosmic truth for the first time:
 - The **Overseer**, the hunger that eats Ambitio-Ether
-- The **<a href="/The%20Rapture">Silent Rapture</a>** that destroys great magical civilizations
+- The **<a href="/oversee/lore/The%20Rapture">Silent Rapture</a>** that destroys great magical civilizations
 - The truth that the demons of the Gap are scavengers, living on leaked crumbs
 - And that the demons have an interest in keeping the "cage" of the outside world intact — because if the Overseer eats everything, they will starve too
 
@@ -276,7 +276,7 @@ Twenty-five years after Gavaevodata stepped into the Gap, the Grin Kingdom stood
 
 It was in those final hours that Gavaevodata and Zargoth made an offer that changed everything.
 
-**<a href="/The%20Gap">The Gap</a>** was not only the home of the demons. In its deeper reaches, where the crumbs of Ambitio-Ether fell more rarely, there were creatures far more hungry — demons more feral than Zargoth and his followers. Hunters who would do anything for a drop of energy.
+**<a href="/oversee/lore/The%20Gap">The Gap</a>** was not only the home of the demons. In its deeper reaches, where the crumbs of Ambitio-Ether fell more rarely, there were creatures far more hungry — demons more feral than Zargoth and his followers. Hunters who would do anything for a drop of energy.
 
 Gavaevodata explained that if the door of the Gap were opened wider, those creatures would come out, attack the coalition army, and destroy their enemies.
 

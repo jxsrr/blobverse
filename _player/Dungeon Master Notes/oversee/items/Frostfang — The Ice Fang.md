@@ -17,7 +17,7 @@ aliases:
 ## History
 - One of six legendary weapons.
 - Thrown into a storm on Frosthaven Peak by Lei Firsa.
-- **Not yet recovered.** It is buried in <a href="/Vythrax">Vythrax</a>'s lair.
+- **Not yet recovered.** It is buried in <a href="/oversee/npcs/Vythrax">Vythrax</a>'s lair.
 
 ## What the Party Knows
 - The Klan Frostscale believe it is a sacred weapon.

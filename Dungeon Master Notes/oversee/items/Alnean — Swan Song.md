@@ -103,16 +103,16 @@ aliases:
 ### The Three Ancient Relics — Confirmed Canon
 | Relic | Part of the Swan | Type | Current Holder |
 | :--- | :--- | :--- | :--- |
-| **Gustaero** | The Neck | Longbow | <a href="/Husgus">Husgus</a> |
+| **Gustaero** | The Neck | Longbow | <a href="/oversee/pcs/Husgus">Husgus</a> |
 | **Niette** | The Wing | Spear | Tomb of Gavaevodata (Elis Selatan) |
 | **Alnean — Swan Song** | The Breath | Breathing Relic | Kuo Lau King (underwater kingdom) |
 
 ### The Six Blades — Not Relics
 | Blade | Type | Current Holder |
 | :--- | :--- | :--- |
-| **Swaith** | Dagger | <a href="/Shin%20Van%20Hel">Shin Van Hel</a> |
+| **Swaith** | Dagger | <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a> |
 | **Rayio** | Longsword | Hutan Garberro |
-| **Kkana** | Greatsword | <a href="/Mira%20Nouveau">Mira Nouveau</a> |
+| **Kkana** | Greatsword | <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
 | **Zenahhi** | Longsword | Ngarai Ratapan |
 | **Terrde** | Longsword | Ruins of the Rapture |

@@ -6,7 +6,7 @@ aliases:
   - Padre City
 ---
 ::pf
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Padre Megalopolis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (capital)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Hanzel Lei Krow (Governor), Valerius, Livia, <a href="/Lei%20Iron%20Gort">Gort</a></div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Padre Megalopolis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (capital)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Hanzel Lei Krow (Governor), Valerius, Livia, <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a></div></div></div></div>
 
 
 ## What Matters Here
@@ -17,7 +17,7 @@ aliases:
 - The **Lyceum University of Arcane Arts** is here. Professor Donta taught here.
 
 ## What Happened Here
-- The Five Sticks watched the Festival parade (<a href="/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).
+- The Five Sticks watched the Festival parade (<a href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).
 - Met the Triase for the first time.
 - Donta committed suicide after the party confronted him.
 - Howdy was found dead.

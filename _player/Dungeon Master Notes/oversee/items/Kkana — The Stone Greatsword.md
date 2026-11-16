@@ -6,7 +6,7 @@ universe: Oversee
 aliases:
   - Kkana
 ---
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Kkana — The Stone Greatsword</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Greatsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/Mira%20Nouveau">Mira Nouveau</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Kkana — The Stone Greatsword</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Greatsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 greatsword. 2d6 + Str. Magical. Heavy, two-handed.
@@ -17,8 +17,8 @@ aliases:
 ## History
 - One of six legendary weapons.
 - Thrown into the Misty Mountains (Elis) by Lei Firsa.
-- Recovered by **<a href="/Mira%20Nouveau">Mira</a>** through a Keeper of Secret expedition 12 years ago.
+- Recovered by **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>** through a Keeper of Secret expedition 12 years ago.
 
 ## What the Party Knows
-- <a href="/Mira%20Nouveau">Mira</a> carries it. She has never used it in front of the party.
+- <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> carries it. She has never used it in front of the party.
 - It is the only thing keeping her safe from Commonwealth assassins.

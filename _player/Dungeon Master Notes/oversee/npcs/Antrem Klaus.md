@@ -38,10 +38,10 @@ universe: Oversee
 </div>
 
 ## What the Party Knows
-- Twin brother of **<a href="/Accarus%20Grin">Accarus</a>**. Both are descendants of **Lei Firage** (fire) through their father.
+- Twin brother of **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>**. Both are descendants of **Lei Firage** (fire) through their father.
 - Neither has full fire power. Antrem's is especially weak — dormant, almost silent.
-- Was a simple shepherd in Elis. Married **<a href="/Vreina%20Arleschia">Vreina Arleschia</a>**.
-- Left Vya when she was 4 years old, called by <a href="/Accarus%20Grin">Accarus</a> for a "greater purpose."
+- Was a simple shepherd in Elis. Married **<a href="/oversee/npcs/Vreina%20Arleschia">Vreina Arleschia</a>**.
+- Left Vya when she was 4 years old, called by <a href="/oversee/npcs/Accarus%20Grin">Accarus</a> for a "greater purpose."
 - Did not want to leave. Still loves Vya. Not ambitious, not clever — just kind.
 - Alive. Living with Will of Grin. Not allowed to see Vya or write to her.
 

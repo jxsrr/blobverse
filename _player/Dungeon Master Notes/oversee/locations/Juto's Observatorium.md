@@ -5,7 +5,7 @@ universe: Oversee
 aliases:
   - The Observatorium
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/Mira%20Nouveau">Mira</a>, Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/oversee/npcs/Mira%20Nouveau">Mira</a>, Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
 
 ## What Matters Here
 - A white stone tower in the center of **Juto Port City**. The "Center of Knowledge."
@@ -42,10 +42,10 @@ There are **three Observatories** built by the Cycle Clan:
 - **The second sigil** is in Atlan's base, beneath the Navigation Archive.
 
 ## What Happened Here
-- The party found Atlan's diary (<a href="/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
-- Met <a href="/Mira%20Nouveau">Mira</a> in the basement.
+- The party found Atlan's diary (<a href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
+- Met <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> in the basement.
 - Joined Keeper of Secret.
 
 ## Current State
-- Still operating. <a href="/Mira%20Nouveau">Mira</a> still runs it from the shadows.
+- Still operating. <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> still runs it from the shadows.
 - The Commonwealth is watching it more closely.

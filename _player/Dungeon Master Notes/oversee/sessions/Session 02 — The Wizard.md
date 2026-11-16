@@ -22,11 +22,11 @@ Each of them saw a figure — not a face, but a presence. A dealer. A reader of 
 
 Each card carried a blessing and a curse.
 
-- **<a href="/Syl%20Frost">Syl</a>** was dealt **The Magician** — cursed to be the center of every magical failure, to feel her own spells turn wild and burn her. But **Temperance** balanced it — her blood was purified, a universal cure for poison, disease, and curse.
-- **<a href="/Vya%20Arleschia">Vya</a>** drew **Wheel of Fortune** — a systematic erosion of her luck, small chaos chasing her every step. But **Death** gave her peace — a quiet, unshakable calm in the face of terror.
-- **<a href="/Husgus">Husgus</a>** saw **Judgement** — a legend written before the deeds, his name known wherever he walked. But **The Lovers** bound him — a magical dread of losing the companions beside him.
-- **<a href="/Zure%20Ama">Zure Ama</a>** was cursed by **The Hanged Man** — his smile frozen forever, maddening to all who saw it. But **The Devil** gave him **Qain** — a bound Imp, later renamed **<a href="/Renal">Renal</a>**, whose loyalty was absolute.
-- **<a href="/Shin%20Van%20Hel">HVS</a>** was given **The Tower** — the blade **<a href="/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>**, able to steal life from the dying and return the dead to breath. But it whispered. It gnawed at his peace.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** was dealt **The Magician** — cursed to be the center of every magical failure, to feel her own spells turn wild and burn her. But **Temperance** balanced it — her blood was purified, a universal cure for poison, disease, and curse.
+- **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** drew **Wheel of Fortune** — a systematic erosion of her luck, small chaos chasing her every step. But **Death** gave her peace — a quiet, unshakable calm in the face of terror.
+- **<a href="/oversee/pcs/Husgus">Husgus</a>** saw **Judgement** — a legend written before the deeds, his name known wherever he walked. But **The Lovers** bound him — a magical dread of losing the companions beside him.
+- **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>** was cursed by **The Hanged Man** — his smile frozen forever, maddening to all who saw it. But **The Devil** gave him **Qain** — a bound Imp, later renamed **<a href="/oversee/items/Renal">Renal</a>**, whose loyalty was absolute.
+- **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was given **The Tower** — the blade **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>**, able to steal life from the dying and return the dead to breath. But it whispered. It gnawed at his peace.
 
 They woke separately. They did not speak of the dream — not yet.
 
@@ -44,11 +44,11 @@ The room forced truth.
 
 Each of the Five Sticks was asked three questions by the others. The room would not let them lie.
 
-- **<a href="/Zure%20Ama">Zure Ama</a>** was asked about **Reins**. He spoke, for the first time without defending himself, about the friend he had lost. About the guilt that had driven him across worlds.
-- **<a href="/Shin%20Van%20Hel">HVS</a>** was asked about his gloves. About the Curse Mark. About **Zargoyle**. He spoke, and the room listened.
-- **<a href="/Syl%20Frost">Syl</a>** was asked why her magic was self-taught. Why her clan had never accepted her. She answered.
-- **<a href="/Vya%20Arleschia">Vya</a>** was asked about the burning of her village. About **<a href="/Will%20of%20Grin">Will of Grin</a>**. About the nightmares she could not explain.
-- **<a href="/Husgus">Husgus</a>** was asked about **<a href="/Gordon">Gordon</a>**'s last words. About the spell that had turned him from a boy into a halfling. About the curse that had made him what he was.
+- **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>** was asked about **Reins**. He spoke, for the first time without defending himself, about the friend he had lost. About the guilt that had driven him across worlds.
+- **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was asked about his gloves. About the Curse Mark. About **Zargoyle**. He spoke, and the room listened.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** was asked why her magic was self-taught. Why her clan had never accepted her. She answered.
+- **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** was asked about the burning of her village. About **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**. About the nightmares she could not explain.
+- **<a href="/oversee/pcs/Husgus">Husgus</a>** was asked about **<a href="/oversee/npcs/Gordon">Gordon</a>**'s last words. About the spell that had turned him from a boy into a halfling. About the curse that had made him what he was.
 
 When the last question was answered, the room released them.
 
@@ -60,7 +60,7 @@ They ate.
 
 And then — without knowing how — the ship's course changed.
 
-**<a href="/Juto%20Port%20City">Juto Port City</a>**.
+**<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>**.
 
 A city of coral and steel. A city that climbed cliffs on pillars of ancient reef. A city built vertically, where the poor lived in the tidal districts and the wealthy lived above the floods.
 
@@ -68,7 +68,7 @@ The party arrived at the **Floating Docks**.
 
 Within minutes, they were arrested.
 
-Commonwealth police had been watching the docks for weeks. A group of heavily armed strangers, dressed in **<a href="/Will%20of%20Grin">Will of Grin</a>** armor, arriving on a ship with no registered crew — the arrest was automatic.
+Commonwealth police had been watching the docks for weeks. A group of heavily armed strangers, dressed in **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** armor, arriving on a ship with no registered crew — the arrest was automatic.
 
 **Ama's** armor was confiscated as evidence.
 
@@ -80,7 +80,7 @@ They had no money, no lodging, and no plan.
 
 They needed a place to sleep.
 
-Their first stop was the **<a href="/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
+Their first stop was the **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
 
 But the Observatorium was closed for the evening.
 
@@ -88,7 +88,7 @@ So they went to **Mutiara** — the Pearl — an elite tavern where wealthy adve
 
 They did not stay long.
 
-But they did meet a fighter named **<a href="/Agus">Agus</a>** — a young man with a confident smile and a story about a legendary weapon called *Drei*. The party would learn later that Agus's smile hid more than it showed.
+But they did meet a fighter named **<a href="/oversee/npcs/Agus">Agus</a>** — a young man with a confident smile and a story about a legendary weapon called *Drei*. The party would learn later that Agus's smile hid more than it showed.
 
 They left Mutiara. They could not afford it.
 
@@ -100,11 +100,11 @@ This was a mistake.
 
 They fell through the awning of a small shop — **Teritip Tua** — and landed in a sprawl of diving helmets, harpoons, and strange oxygen tanks made from giant nautilus shells.
 
-The shop belonged to **<a href="/Pops%20Tortle">Pops</a>** — an ancient Tortle, a thousand years old, deaf as stone, and slow as the tide.
+The shop belonged to **<a href="/oversee/npcs/Pops%20Tortle">Pops</a>** — an ancient Tortle, a thousand years old, deaf as stone, and slow as the tide.
 
 They had to shout to be heard.
 
-But Pops remembered. He remembered a name — **<a href="/Atlan%20Nouveau">Atlan Nouveau</a>** — and a children's book Atlan had written. He told them about Atlan's love of the sea, and about the lighthouse where Atlan had once stood and watched the horizon for someone who never came.
+But Pops remembered. He remembered a name — **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — and a children's book Atlan had written. He told them about Atlan's love of the sea, and about the lighthouse where Atlan had once stood and watched the horizon for someone who never came.
 
 They did not understand the significance yet.
 
@@ -116,13 +116,13 @@ They slept.
 
 At dawn, a scream.
 
-**<a href="/Elara">Elara</a>** stood at the entrance, pale, hands over her mouth.
+**<a href="/oversee/npcs/Elara">Elara</a>** stood at the entrance, pale, hands over her mouth.
 
 > *"Someone... something... came in the night!"*
 
 The party's emerald and ruby — the gem from Greyland and the gem from Pulau Dima — were gone.
 
-**<a href="/Atlan%27s%20Compass">Atlan's Compass</a>** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
+**<a href="/oversee/items/Atlan%27s%20Compass">Atlan's Compass</a>** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
 
 They followed it.
 
@@ -130,7 +130,7 @@ It led to the **Kuil Lautan** — the Sea Temple — a cave shrine on the lower 
 
 They descended.
 
-And inside, they found **<a href="/Babibubebo">Babibubebo</a>** — a small fish-man, hunched and trembling, surrounded by the shells and crumbs of a dozen stolen meals.
+And inside, they found **<a href="/oversee/npcs/Babibubebo">Babibubebo</a>** — a small fish-man, hunched and trembling, surrounded by the shells and crumbs of a dozen stolen meals.
 
 Not the gems. Just food.
 
@@ -150,7 +150,7 @@ Behind a bookshelf, a hidden staircase.
 
 They descended into a space that had not been touched in centuries.
 
-**<a href="/Atlan%20Nouveau">Atlan Nouveau</a>**'s base.
+**<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>**'s base.
 
 There was a stone pedestal with a pale blue eternal flame — a flame that did not flicker in the drafts. Beside it, a bowl of silver ash. And carved into the pedestal:
 
@@ -189,46 +189,46 @@ The woman spoke.
 
 > *"So. My father was right. Someone would come."*
 
-Her name was **<a href="/Mira%20Nouveau">Mira Nouveau</a>**. Daughter of **<a href="/Atlan%20Nouveau">Atlan Nouveau</a>** and **<a href="/Reins">Reins</a>**. Founder of the **<a href="/Keeper%20of%20Secret">Keeper of Secret</a>**.
+Her name was **<a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>**. Daughter of **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** and **<a href="/oversee/npcs/Reins">Reins</a>**. Founder of the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**.
 
-She told them she had been a child when her father disappeared. She had seen it — the ritual, the light, the man called **<a href="/Lei%20Alejandro">Lei Alejandro</a>**. She had spent her life building an organization to find the truth.
+She told them she had been a child when her father disappeared. She had seen it — the ritual, the light, the man called **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>**. She had spent her life building an organization to find the truth.
 
 She offered them a place in it.
 
 They accepted.
 
-She also told them something else: **<a href="/Safayer">Safayer</a>** — the second Gemheart — had been swallowed by a silver dragon in the mountains of **Pirizia**. The dragon was called **<a href="/Vythrax">Vythrax</a>**. It had been poisoned for centuries.
+She also told them something else: **<a href="/oversee/items/Safayer">Safayer</a>** — the second Gemheart — had been swallowed by a silver dragon in the mountains of **Pirizia**. The dragon was called **<a href="/oversee/npcs/Vythrax">Vythrax</a>**. It had been poisoned for centuries.
 
-To face a dragon, they would need **<a href="/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** — the legendary bow once carried by **<a href="/Olaf%20Guirela">Olaf Guirela</a>**, then passed to **<a href="/Gordon">Gordon</a>**, then to **<a href="/Husgus">Husgus</a>**.
+To face a dragon, they would need **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** — the legendary bow once carried by **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>**, then passed to **<a href="/oversee/npcs/Gordon">Gordon</a>**, then to **<a href="/oversee/pcs/Husgus">Husgus</a>**.
 
 And that bow, she believed, was in **<a href="/Ghuffghuff">Ghuffghuff</a>** — the village of fried rice, deep in Harka.
 
-She assigned **<a href="/Agus">Agus</a>** to travel with them.
+She assigned **<a href="/oversee/npcs/Agus">Agus</a>** to travel with them.
 
 The party accepted.
 
 And they did not know — not yet — that Agus was already working for someone else.
 
 ## Loot & Rewards
-- Membership in the **<a href="/Keeper%20of%20Secret">Keeper of Secret</a>**
-- **<a href="/Atlan%27s%20Compass">Atlan's Compass</a>** — a compass that points to lost things
-- The location of **<a href="/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>**
+- Membership in the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**
+- **<a href="/oversee/items/Atlan%27s%20Compass">Atlan's Compass</a>** — a compass that points to lost things
+- The location of **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>**
 
 ## NPCs Encountered
-- **<a href="/Pops%20Tortle">Pops Tortle</a>** — ancient Tortle shopkeeper, Atlan's old friend
-- **<a href="/Elara">Elara</a>** — innkeeper of Karang Tidur, secretly a Keeper agent
-- **<a href="/Babibubebo">Babibubebo</a>** — a hungry fish-man, not a thief
-- **<a href="/Mira%20Nouveau">Mira Nouveau</a>** — leader of the Keeper of Secret
-- **<a href="/Agus">Agus</a>** — assigned guide, secretly compromised
+- **<a href="/oversee/npcs/Pops%20Tortle">Pops Tortle</a>** — ancient Tortle shopkeeper, Atlan's old friend
+- **<a href="/oversee/npcs/Elara">Elara</a>** — innkeeper of Karang Tidur, secretly a Keeper agent
+- **<a href="/oversee/npcs/Babibubebo">Babibubebo</a>** — a hungry fish-man, not a thief
+- **<a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>** — leader of the Keeper of Secret
+- **<a href="/oversee/npcs/Agus">Agus</a>** — assigned guide, secretly compromised
 
 ## Locations Visited
-- **<a href="/Juto%20Port%20City">Juto Port City</a>** — the vertical city
-- **<a href="/Juto%27s%20Observatorium">Juto's Observatorium</a>** — Center of Knowledge
+- **<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>** — the vertical city
+- **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — Center of Knowledge
 - **Kuil Lautan** — the Sea Temple
 - **Karang Tidur** — the inn that became their home base
 
 ## Sessions Chain
-- **Previous:** <a href="/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>
-- **Next:** <a href="/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>
+- **Previous:** <a href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>
+- **Next:** <a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 01 — The Sorcerer</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 03 — The Bard</span></a></div>

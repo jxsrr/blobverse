@@ -13,14 +13,14 @@ aliases:
 - Highest mountain in Pirizia. Perpetual blizzard. Absolute zero temperatures.
 - Home of **Klan Frostscale** — dragonborn with ice breath.
 - **Frostheart Village** — carved into the cliffside. Igloo-like homes.
-- **Temple of <a href="/Vythrax">Vythrax</a>** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
+- **Temple of <a href="/oversee/npcs/Vythrax">Vythrax</a>** — highest structure in the village. Holds the **Breathstone** (now known to be Syl's egg).
 - **The Frozen Legion** — ice statues of ancient dragonborn protectors. They move when unobserved.
-- The **Spire of Whispering Ice** — <a href="/Vythrax">Vythrax</a>'s lair. Above the clouds.
+- The **Spire of Whispering Ice** — <a href="/oversee/npcs/Vythrax">Vythrax</a>'s lair. Above the clouds.
 
 ## What Happened Here
 - The party climbed in Session 5.
 - Syl's identity was revealed.
-- <a href="/Vythrax">Vythrax</a> was healed.
+- <a href="/oversee/npcs/Vythrax">Vythrax</a> was healed.
 - Klan Frostscale bowed to Syl.
 
 ## Current State
@@ -29,5 +29,5 @@ aliases:
 
 %% DM SECRETS %%
 - The Frozen Legion statues are real dragonborn — frozen, not dead.
-- <a href="/Vythrax">Vythrax</a> is still weak. She can be called but not for long.
-- Elder Jarl knows the truth about Lei Watigi's assault on <a href="/Vythrax">Vythrax</a>. He has not spoken it aloud.
+- <a href="/oversee/npcs/Vythrax">Vythrax</a> is still weak. She can be called but not for long.
+- Elder Jarl knows the truth about Lei Watigi's assault on <a href="/oversee/npcs/Vythrax">Vythrax</a>. He has not spoken it aloud.

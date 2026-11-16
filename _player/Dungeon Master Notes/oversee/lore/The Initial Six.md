@@ -8,12 +8,12 @@ universe: Oversee
 > Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**.
 
 ## The Six
-- **<a href="/Lei%20Alejandro">Lei Alejandro</a>** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the Bahtera Bawah Tanah.
-- **<a href="/Atreus%20Grin">Atreus Grin</a>** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
-- **<a href="/Sam%20Hurls">Sam Hurls</a>** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
-- **<a href="/Gzirmo%20Kopling">Gzirmo Kopling</a>** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
-- **<a href="/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Kota Juto.
-- **<a href="/Olaf%20Guirela">Olaf Guirela</a>** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
+- **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the Bahtera Bawah Tanah.
+- **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
+- **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
+- **<a href="/oversee/npcs/Gzirmo%20Kopling">Gzirmo Kopling</a>** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
+- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Kota Juto.
+- **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
 
 ## What We Learned in Sam's Memory
 - They were **betrayed by Lei Alejandro**.

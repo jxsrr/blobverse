@@ -41,12 +41,12 @@ universe: Oversee
 
 ## What the Party Knows
 - Elf with the eternal Grin smile. Kind but hardened.
-- Wife of **<a href="/Accarus%20Grin">Accarus</a>**. Mother of **<a href="/Jarko">Jarko</a>** (deceased).
+- Wife of **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>**. Mother of **<a href="/oversee/npcs/Jarko">Jarko</a>** (deceased).
 - Married Accarus after they met in Will of Grin.
-- Lost her son to <a href="/Lei%20Iron%20Gort">Lei Iron Gort</a>. Has not recovered.
+- Lost her son to <a href="/oversee/npcs/Lei%20Iron%20Gort">Lei Iron Gort</a>. Has not recovered.
 
 ## Current Goal
-Avenge <a href="/Jarko">Jarko</a>. Protect her people. Support <a href="/Accarus%20Grin">Accarus</a>.
+Avenge <a href="/oversee/npcs/Jarko">Jarko</a>. Protect her people. Support <a href="/oversee/npcs/Accarus%20Grin">Accarus</a>.
 ::/pf
 
 %% DM SECRETS %%

@@ -7,7 +7,7 @@ aliases:
   - Gustaero
 ---
 ::pf
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Gustaero — The Swan Bow</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longbow</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/Husgus">Husgus</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Neck)</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Gustaero — The Swan Bow</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longbow</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/pcs/Husgus">Husgus</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Neck)</div></div></div></div>
 
 
 ## What It Does
@@ -52,16 +52,16 @@ aliases:
 ### The Swan Trio — Confirmed Canon
 | Relic | Part of the Swan | Type | Current Holder |
 | :--- | :--- | :--- | :--- |
-| **Gustaero** | The Neck | Longbow | <a href="/Husgus">Husgus</a> |
+| **Gustaero** | The Neck | Longbow | <a href="/oversee/pcs/Husgus">Husgus</a> |
 | **Niette** | The Wing | Spear | Tomb of Gavaevodata (Elis Selatan) |
 | **Alnean — Swan Song** | The Breath | Breathing Relic | Kuo Lau King (underwater kingdom) |
 
 ### The Six Blades — Not Relics
 | Blade | Type | Current Holder |
 | :--- | :--- | :--- |
-| **Swaith** | Dagger | <a href="/Shin%20Van%20Hel">Shin Van Hel</a> |
+| **Swaith** | Dagger | <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a> |
 | **Rayio** | Longsword | Hutan Garberro |
-| **Kkana** | Greatsword | <a href="/Mira%20Nouveau">Mira Nouveau</a> |
+| **Kkana** | Greatsword | <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
 | **Zenahhi** | Longsword | Ngarai Ratapan |
 | **Terrde** | Longsword | Ruins of the Rapture |

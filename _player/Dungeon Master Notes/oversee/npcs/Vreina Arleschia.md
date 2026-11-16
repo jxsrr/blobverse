@@ -11,7 +11,7 @@ universe: Oversee
 
 ## What the Party Knows
 - Minor noble of the **Arleschia** family in Elis.
-- Married **<a href="/Antrem%20Klaus">Antrem</a>**, a simple shepherd. Defied her family's expectations.
+- Married **<a href="/oversee/npcs/Antrem%20Klaus">Antrem</a>**, a simple shepherd. Defied her family's expectations.
 - Made a pact with **Kopling** to protect Vya from Will of Grin and from her own awakening fire.
 - Warned Kopling: *"If the fire awakens before she is ready, she will burn from within."*
 - Was not present when Chenalia was burned. Her fate is unknown.

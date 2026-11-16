@@ -21,7 +21,7 @@ universe: Oversee
 - **Niette** — the **wing**. A spear. It strikes. It flies where the hand cannot.
 - **Alnean** — the **breath**. A breathing relic. It survives. It lets the wielder breathe in the Gap, in the void, in the deep.
 - **Purpose:** To **open the Gap**. To allow passage between worlds.
-- **Current holders:** Gustaero — <a href="/Husgus">Husgus</a>. Niette — the Tomb of Gavaevodata (Elis Selatan). Alnean — the Kuo Lau King (underwater kingdom).
+- **Current holders:** Gustaero — <a href="/oversee/pcs/Husgus">Husgus</a>. Niette — the Tomb of Gavaevodata (Elis Selatan). Alnean — the Kuo Lau King (underwater kingdom).
 
 ## The Bat Trio — The Seal Tools
 - **The Fang** — a **dagger**. It cuts the threads of passage. It severs the connection between worlds.
@@ -36,7 +36,7 @@ universe: Oversee
 - **Kkana** — the **greatsword**. It stands firm. It anchors a position. It holds back collapsing reality.
 - **Zenahhi** — the **longsword**. It protects. It parries any attack. It deflects a blow meant for another.
 - **Purpose:** To **keep the Swan and the Bat in check**. To prevent them from destroying each other — and the world with them.
-- **Current holders:** Swaith — <a href="/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Ngarai Ratapan.
+- **Current holders:** Swaith — <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Ngarai Ratapan.
 - **The Fool is the walker.** It does not open doors. It does not close them. It **chooses** which door to open and which to close.
 
 ## The Fool and the Tarot

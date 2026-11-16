@@ -3,7 +3,7 @@ type: Oversee location
 parent_location: West Harka
 universe: Oversee
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Yawning Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/Grilnax">Grilnax</a>, <a href="/Mr.%20Poise">Mr. Poise</a></div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Yawning Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/oversee/npcs/Grilnax">Grilnax</a>, <a href="/oversee/npcs/Mr.%20Poise">Mr. Poise</a></div></div></div></div>
 
 ## What Matters Here
 - Starting town. Home of **The Yawning Guild**.
@@ -12,4 +12,4 @@ universe: Oversee
 - The Guild is where adventurers register and get jobs.
 
 ## What Happened Here
-- The Five Sticks formed here (<a href="/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>).
+- The Five Sticks formed here (<a href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>).

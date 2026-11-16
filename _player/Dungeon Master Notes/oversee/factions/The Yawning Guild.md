@@ -8,7 +8,7 @@ universe: Oversee
 
 ## What We Know
 - The adventurer's guild. Registers new adventurers and assigns missions.
-- **<a href="/Grilnax">Grilnax</a>** is the clerk. He gave the party their first mission.
+- **<a href="/oversee/npcs/Grilnax">Grilnax</a>** is the clerk. He gave the party their first mission.
 - The Guild has branches in most major cities.
 - It issues the **SIP** (Adventurer's Permit).
 - It provides **insurance** (10% of loot to beneficiaries).

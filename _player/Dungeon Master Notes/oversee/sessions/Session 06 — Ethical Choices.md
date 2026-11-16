@@ -8,25 +8,25 @@ showToc: true
 
 ## Part 1: Muangching, Milk, and a Madman
 
-**<a href="/Muangching%20Bay">Muangching Bay</a>** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
+**<a href="/oversee/locations/Muangching%20Bay">Muangching Bay</a>** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** was not well.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was not well.
 
-He had been showing symptoms since the escape from **<a href="/Maw%20Desert">Maw Desert</a>** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **<a href="/Zargoth">Zargoth</a>**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
+He had been showing symptoms since the escape from **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **<a href="/oversee/npcs/Zargoth">Zargoth</a>**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
 
 He needed **milk**.
 
-They searched the town. **<a href="/Ibu%20Sari">Ibu Sari</a>**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
+They searched the town. **<a href="/oversee/npcs/Ibu%20Sari">Ibu Sari</a>**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
 
-> *"Try **<a href="/Nesia%20Town">Nesia</a>**. The rhino farmers. They sell it."*
+> *"Try **<a href="/oversee/locations/Nesia%20Town">Nesia</a>**. The rhino farmers. They sell it."*
 
 They crossed the rice paddies.
 
 On the road, they met a man who would change everything.
 
-**<a href="/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>**. An old man with long white hair and eyes that did not quite focus on the world in front of him. He spoke of a city called **"Arumanehjaya"** — a place of gears and robots and automatic rifles — and he spoke of it the way a drowning man speaks of land.
+**<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>**. An old man with long white hair and eyes that did not quite focus on the world in front of him. He spoke of a city called **"Arumanehjaya"** — a place of gears and robots and automatic rifles — and he spoke of it the way a drowning man speaks of land.
 
-The party listened. Some of them thought he was mad. **<a href="/Husgus">Husgus</a>** thought he was lying. **<a href="/Zure%20Ama">Ama</a>** thought he was telling the truth.
+The party listened. Some of them thought he was mad. **<a href="/oversee/pcs/Husgus">Husgus</a>** thought he was lying. **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** thought he was telling the truth.
 
 Darvin made an offer: **500 gold** for an excavation contract. Find the city. Prove it exists.
 
@@ -34,13 +34,13 @@ They agreed.
 
 ## Part 2: The Rhino Station
 
-**<a href="/Hora">Hora</a>**'s Rhino Stable was a wooden compound with a barn, a dairy, and a sign that said **"PREMIUM MILK — 35 GP"**.
+**<a href="/oversee/npcs/Hora">Hora</a>**'s Rhino Stable was a wooden compound with a barn, a dairy, and a sign that said **"PREMIUM MILK — 35 GP"**.
 
 Thirty-five gold a bottle. Extortion.
 
 The party had no money. They had no options.
 
-**<a href="/Vya%20Arleschia">Vya</a>** was assigned the task of "extracting" milk from a rhino named **Steve**.
+**<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** was assigned the task of "extracting" milk from a rhino named **Steve**.
 
 Steve was male. Male rhinos do not produce milk. Vya did not know this. Or perhaps she did, and did not care.
 
@@ -54,7 +54,7 @@ They got the milk anyway — poured into a wooden bucket, transferred to emptied
 
 They needed shelter.
 
-**<a href="/The%20Golden%20Sheaf">The Golden Sheaf</a>** was a small inn in **<a href="/Nesia%20Town">Nesia Town</a>** — run by **<a href="/Joni">Joni</a>** and **<a href="/Siti">Siti</a>**, **<a href="/Zure%20Ama">Ama</a>**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
+**<a href="/oversee/locations/The%20Golden%20Sheaf">The Golden Sheaf</a>** was a small inn in **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** — run by **<a href="/oversee/npcs/Joni">Joni</a>** and **<a href="/oversee/npcs/Siti">Siti</a>**, **<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
 
 They went to the door and knocked.
 
@@ -70,13 +70,13 @@ He grabbed Ama. Wrapped him in a hug that was not a hug — a hold. A lock. A ca
 
 The party acted.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** pulled Joni off. **<a href="/Husgus">Husgus</a>** pulled the door open. **<a href="/Vya%20Arleschia">Vya</a>**, **<a href="/Syl%20Frost">Syl</a>**, and **<a href="/Zure%20Ama">Ama</a>** ran.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** pulled Joni off. **<a href="/oversee/pcs/Husgus">Husgus</a>** pulled the door open. **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>**, **<a href="/oversee/pcs/Syl%20Frost">Syl</a>**, and **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** ran.
 
 Behind them, the sound of boots.
 
 They reached the docks.
 
-**<a href="/Go%20Ingsani">Go Ingsani</a>** was waiting — a submarine, once a Will of Grin vessel, now repainted black for camouflage. But it had no fuel.
+**<a href="/oversee/items/Go%20Ingsani">Go Ingsani</a>** was waiting — a submarine, once a Will of Grin vessel, now repainted black for camouflage. But it had no fuel.
 
 In desperation, they broke open the fuel tank of a parked Commonwealth military vehicle. They siphoned what they could — half a tank — and fled into the sea.
 
@@ -92,25 +92,25 @@ They landed on the coast of **Elis** — hidden cove, black sand, salt in the ai
 
 It was **<a href="/Chenalia">Chenalia</a>**.
 
-The village where **<a href="/Vya%20Arleschia">Vya</a>** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
+The village where **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
 
 It was being rebuilt.
 
-Under the direct supervision of the **<a href="/The%20Triase">Triase</a>**.
+Under the direct supervision of the **<a href="/oversee/lore/The%20Triase">Triase</a>**.
 
-**<a href="/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** stood at the center of the reconstruction, his white robes spotless, his smile warm, his hands gesturing as he directed workers. **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** stood beside him, cold, watching.
+**<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** stood at the center of the reconstruction, his white robes spotless, his smile warm, his hands gesturing as he directed workers. **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** stood beside him, cold, watching.
 
-And **<a href="/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>** — the old madman they had been escorting — saw them.
+And **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>** — the old madman they had been escorting — saw them.
 
 He **screamed**.
 
-He clutched his head and fell to his knees. He wept. He babbled. His body shook so hard that **<a href="/Zure%20Ama">Ama</a>** had to hold him up.
+He clutched his head and fell to his knees. He wept. He babbled. His body shook so hard that **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** had to hold him up.
 
 The party saw the face of **Valerius Thorne**. They saw the face of **Darvin Thorne**. They saw the same face — the same nose, the same jaw, the same eyes.
 
 **They were twins.**
 
-The party disguised themselves as Darvin's caretakers — medical orderlies, social workers, hired help for a man with "special needs." **<a href="/Shin%20Van%20Hel">HVS</a>** used **Suggestion** to reinforce the lie.
+The party disguised themselves as Darvin's caretakers — medical orderlies, social workers, hired help for a man with "special needs." **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** used **Suggestion** to reinforce the lie.
 
 Livia looked at them with contempt. But she bought it.
 
@@ -126,11 +126,11 @@ The jungle of Elis was **wrong**.
 
 The animals were too large. There were birds with human proportions. There were rhinos the size of houses. Something had twisted this land — and had been twisting it for a very long time.
 
-**<a href="/Lei%20Darvin%20Thorne">Darvin</a>** led them deeper. He was calmer now, more lucid. He spoke of "the entrance" and "the city" and "the gears" as if they were facts he had always known.
+**<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>** led them deeper. He was calmer now, more lucid. He spoke of "the entrance" and "the city" and "the gears" as if they were facts he had always known.
 
 They found the tree.
 
-**<a href="/The%20First%20Tree">The First Tree</a>**.
+**<a href="/oversee/locations/The%20First%20Tree">The First Tree</a>**.
 
 It was not a tree. It was a **petrified root** — a fragment of something older than the world. Its bark was scaly. Its trunk was wider than a castle. Its branches were dead, and had been dead for **10,000 years**.
 
@@ -148,19 +148,19 @@ They descended.
 
 Before they could enter, the air **twisted**.
 
-**<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** had followed them.
+**<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** had followed them.
 
 Her wind blade was invisible. A single strike.
 
-**<a href="/Zure%20Ama">Ama</a>**'s left arm was severed at the elbow.
+**<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s left arm was severed at the elbow.
 
-The wound did not bleed like a normal wound. The curse of the wind — Livia's wind — infected it. Magic could not heal it. **<a href="/Syl%20Frost">Syl</a>** tried. **<a href="/Husgus">Husgus</a>** tried. Nothing worked. The blood kept flowing. Ama's HP kept dropping.
+The wound did not bleed like a normal wound. The curse of the wind — Livia's wind — infected it. Magic could not heal it. **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** tried. **<a href="/oversee/pcs/Husgus">Husgus</a>** tried. Nothing worked. The blood kept flowing. Ama's HP kept dropping.
 
 He was going to die.
 
-**<a href="/Lei%20Darvin%20Thorne">Darvin</a>** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
+**<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>** acted first. He was lucid — fully lucid — and he knew what he was doing. He pushed the stone door open, pulled Ama inside, and started the lift.
 
-**<a href="/Shin%20Van%20Hel">HVS</a>** and **<a href="/Vya%20Arleschia">Vya</a>** held the door as it closed.
+**<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** held the door as it closed.
 
 Behind them, Livia screamed in frustration. Her wind could not reach through the closing doors.
 
@@ -174,13 +174,13 @@ It was scrap metal and neon and steam and LCD screens. It was people — short, 
 
 It was the future, buried beneath the past.
 
-They went to the **Modification Parlor** — a surgical clinic run by a man called **<a href="/Dr.%20Vektor">Dr. Vektor</a>**. He was old, grim, and had the eyes of a man who had lost everything and had decided to keep working anyway.
+They went to the **Modification Parlor** — a surgical clinic run by a man called **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>**. He was old, grim, and had the eyes of a man who had lost everything and had decided to keep working anyway.
 
 He examined Ama. He explained the problem: the curse could not be healed. But it could be **replaced**.
 
 **Fusion**.
 
-Ama's lost arm would be replaced by **<a href="/Renal">Renal</a>** — the Imp — who would be surgically merged with the living tissue of Ama's remaining arm. The procedure would take seven days. It would cost **500,000 gold**. It would bind Ama to a debt he could never repay.
+Ama's lost arm would be replaced by **<a href="/oversee/items/Renal">Renal</a>** — the Imp — who would be surgically merged with the living tissue of Ama's remaining arm. The procedure would take seven days. It would cost **500,000 gold**. It would bind Ama to a debt he could never repay.
 
 He agreed.
 
@@ -206,7 +206,7 @@ And then he showed them the video.
 
 The video was old. Analog. Monochrome.
 
-A man appeared on screen. **<a href="/Guanik%20Wiseman">Guanik Wiseman</a>** — the ancient astrologer, the founder of the **<a href="/The%20Cycle%20Clan">Cycle Clan</a>**. He spoke of an event that had happened 1,000 years ago.
+A man appeared on screen. **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** — the ancient astrologer, the founder of the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>**. He spoke of an event that had happened 1,000 years ago.
 
 Six minutes of sky a color no one could name.
 
@@ -236,7 +236,7 @@ Then he said:
 
 > *"That was 1,000 years ago. The Shell is still there. Above us. Waiting."*
 
-**<a href="/Syl%20Frost">Syl</a>** spoke first.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** spoke first.
 
 > *"Waiting for what?"*
 
@@ -246,9 +246,9 @@ Gzirmo did not answer.
 
 Seven days passed.
 
-**<a href="/Zure%20Ama">Ama</a>** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
+**<a href="/oversee/pcs/Zure%20Ama">Ama</a>** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
 
-**<a href="/Dr.%20Vektor">Dr. Vektor</a>** took the party aside. He told them about his daughter, **<a href="/Dr.%20Kristine">Kristine</a>**, who had died in a mining accident. He told them about the **<a href="/The%20First%20Tree">First Tree</a>**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
+**<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** took the party aside. He told them about his daughter, **<a href="/Dr.%20Kristine">Kristine</a>**, who had died in a mining accident. He told them about the **<a href="/oversee/locations/The%20First%20Tree">First Tree</a>**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
 
 He did not ask them for help. He did not have to.
 
@@ -269,28 +269,28 @@ They took the chip. They entered the emergency exit.
 And they climbed, for the first time, out of the earth.
 
 ## Loot & Rewards
-- **<a href="/Renal">Renal</a>** — now fused into **<a href="/Zure%20Ama">Ama</a>**'s arm
+- **<a href="/oversee/items/Renal">Renal</a>** — now fused into **<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s arm
 - **The Shell video** — the most important artifact in the campaign
-- **A 500,000 gp debt** to **<a href="/Dr.%20Vektor">Dr. Vektor</a>**
-- The truth about **<a href="/Lei%20Darvin%20Thorne">Darvin</a>** and **<a href="/Lei%20Valerius%20Thorne">Valerius</a>**
+- **A 500,000 gp debt** to **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>**
+- The truth about **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>** and **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>**
 
 ## NPCs Encountered
-- **<a href="/Ibu%20Sari">Ibu Sari</a>** — lemonade seller in Muangching, no milk
-- **<a href="/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>** — the "madman" who found a lost city
-- **<a href="/Hora">Hora</a>** — the rhino dairy owner
-- **<a href="/Joni">Joni</a>** — Ama's adoptive father, betrayed him
-- **<a href="/Siti">Siti</a>** — Ama's adoptive mother, silent accomplice
-- **<a href="/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** — the Chancellor, revealed as Darvin's twin
-- **<a href="/Lei%20Livia%20Vane">Lei Livia Vane</a>** — the Justice Deputy, amputated Ama's arm
-- **<a href="/Dr.%20Vektor">Dr. Vektor</a>** — the cybernetic surgeon, saved Ama's life
+- **<a href="/oversee/npcs/Ibu%20Sari">Ibu Sari</a>** — lemonade seller in Muangching, no milk
+- **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>** — the "madman" who found a lost city
+- **<a href="/oversee/npcs/Hora">Hora</a>** — the rhino dairy owner
+- **<a href="/oversee/npcs/Joni">Joni</a>** — Ama's adoptive father, betrayed him
+- **<a href="/oversee/npcs/Siti">Siti</a>** — Ama's adoptive mother, silent accomplice
+- **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** — the Chancellor, revealed as Darvin's twin
+- **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — the Justice Deputy, amputated Ama's arm
+- **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** — the cybernetic surgeon, saved Ama's life
 - **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, showed the Shell video
 
 ## Locations Visited
-- **<a href="/Muangching%20Bay">Muangching Bay</a>** — the fishing town with no milk
-- **<a href="/Nesia%20Town">Nesia Town</a>** — the rhino dairy town
+- **<a href="/oversee/locations/Muangching%20Bay">Muangching Bay</a>** — the fishing town with no milk
+- **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** — the rhino dairy town
 - **The Golden Sheaf** — the inn that betrayed Ama
 - **<a href="/Chenalia">Chenalia</a>** — Vya's burned village, now under reconstruction
-- **<a href="/The%20First%20Tree">The First Tree</a>** — the 10,000-year-old dead root
+- **<a href="/oversee/locations/The%20First%20Tree">The First Tree</a>** — the 10,000-year-old dead root
 - **<a href="/Arujaya">Arujaya</a>** — the underground cyberpunk city
 
 ## Sessions Chain

@@ -10,7 +10,7 @@ aliases:
 > [!info] The Last of the Ancient Dragons
 > Once there were thousands. Now there are three. They are hiding.
 
-## <a href="/Vythrax">Vythrax</a> — The Silver Wind
+## <a href="/oversee/npcs/Vythrax">Vythrax</a> — The Silver Wind
 - **Color:** Silver. **Element:** Cold.
 - **Location:** Spire of Whispering Ice (Frosthaven Peak).
 - **Status:** Alive, weakened by Safayer poison.
@@ -32,5 +32,5 @@ aliases:
 - **Personality:** Unknown. She has not been seen in 2,000 years.
 
 ## What the Party Knows
-- They know <a href="/Vythrax">Vythrax</a>. They do not know the others exist.
+- They know <a href="/oversee/npcs/Vythrax">Vythrax</a>. They do not know the others exist.
 - The dragons are the last of their kind.

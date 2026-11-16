@@ -14,8 +14,8 @@ universe: Oversee
 - They move when no one is looking. They only point in one direction: **toward Frosthaven**.
 
 ## The Legend
-- They are the **original protectors** of Klan Frostscale. They fought an ancient threat — a creature from the Gap — and were frozen by <a href="/Vythrax">Vythrax</a> to save them.
-- They will thaw when **<a href="/Vythrax">Vythrax</a> dies** or when **the Gap opens**.
+- They are the **original protectors** of Klan Frostscale. They fought an ancient threat — a creature from the Gap — and were frozen by <a href="/oversee/npcs/Vythrax">Vythrax</a> to save them.
+- They will thaw when **<a href="/oversee/npcs/Vythrax">Vythrax</a> dies** or when **the Gap opens**.
 - They will fight for the clan one last time.
 
 ## What the Party Knows

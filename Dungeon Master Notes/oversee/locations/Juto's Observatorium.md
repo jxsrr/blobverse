@@ -6,7 +6,7 @@ aliases:
   - The Observatorium
 ---
 ::pf
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/Mira%20Nouveau">Mira</a>, Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/oversee/npcs/Mira%20Nouveau">Mira</a>, Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
 
 
 ## What Matters Here
@@ -44,12 +44,12 @@ There are **three Observatories** built by the Cycle Clan:
 - **The second sigil** is in Atlan's base, beneath the Navigation Archive.
 
 ## What Happened Here
-- The party found Atlan's diary (<a href="/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
-- Met <a href="/Mira%20Nouveau">Mira</a> in the basement.
+- The party found Atlan's diary (<a href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
+- Met <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> in the basement.
 - Joined Keeper of Secret.
 
 ## Current State
-- Still operating. <a href="/Mira%20Nouveau">Mira</a> still runs it from the shadows.
+- Still operating. <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> still runs it from the shadows.
 - The Commonwealth is watching it more closely.
 ::/pf
 
@@ -57,7 +57,7 @@ There are **three Observatories** built by the Cycle Clan:
 - The Observatorium was built on top of **Atlan's original laboratory** — and on top of the Cycle Clan's **Second Observatory**.
 - The building's foundations are much older than the current structure. They are Cycle Clan.
 - **The Twin Shell Amulet** (found in the basement) is a key item. It allows the wearer to take 10 on one attack roll per day. It is also a **key** to the Bahtera Bawah Tanah.
-- <a href="/Mira%20Nouveau">Mira</a> has not told the party that the Amulet is a key. She is waiting for the right moment.
+- <a href="/oversee/npcs/Mira%20Nouveau">Mira</a> has not told the party that the Amulet is a key. She is waiting for the right moment.
 - **The second Cycle Clan sigil** is in the basement — hidden in the eternal flame's pedestal.
 - **The second Observatory** was not just for study. It was a **warning system** — a way to detect the Shell's movement before it reached the world.
 - **Atlan** did not know he was repurposing a Cycle Clan installation. He thought he was just using an old observatory. He was wrong.

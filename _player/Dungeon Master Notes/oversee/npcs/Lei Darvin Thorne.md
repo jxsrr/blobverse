@@ -38,7 +38,7 @@ universe: Oversee
 </div>
 
 ## What the Party Knows
-- Twin brother of **<a href="/Lei%20Valerius%20Thorne">Valerius</a>** (Kanselir Agung).
+- Twin brother of **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>** (Kanselir Agung).
 - Appears senile, rambling about "Arumanehjaya" — a mechanical underground city with gears and automatic rifles.
 - Hired the party for 500 gold to excavate the city. The city was real — **Arujaya**.
 - Has genuine elemental earth magic. Much stronger than Valerius's.

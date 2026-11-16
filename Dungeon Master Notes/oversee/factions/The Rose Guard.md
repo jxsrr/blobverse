@@ -5,12 +5,12 @@ attitude_to_party: hostile (officially), uncertain (via Livia)
 universe: Oversee
 ---
 ::pf
-<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Rose Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/Lei%20Livia%20Vane">Livia</a> (Wakil Keadilan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile (officially), uncertain (via Livia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div></div></div>
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Rose Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a> (Wakil Keadilan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile (officially), uncertain (via Livia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div></div></div>
 
 
 ## What We Know
 - The law enforcement arm of the Commonwealth. Officially called the **Garda Mawar**.
-- Led by **<a href="/Lei%20Livia%20Vane">Livia</a>**. Composed of disciplined soldiers, mages, and spies.
+- Led by **<a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>**. Composed of disciplined soldiers, mages, and spies.
 - They enforce the **Edisi Law**. They suppress dissent. They hunt "terrorists."
 - They are the ones who arrested the party in Kota Juto. They are the ones who burned Chenalia.
 - They are **everywhere**.
@@ -38,12 +38,12 @@ universe: Oversee
 - It was created during Lei Firsa's consolidation of power, after the Initial Six disappeared (200 AV).
 - It is loyal to the **Triase** — not to the original promise.
 - It is **everywhere**. It has cells in every major city. It has spies in every court. It has agents in every faction.
-- It is led by **<a href="/Lei%20Livia%20Vane">Livia</a>** — the current Wakil Keadilan. She was adopted by **Lei Alejandro**, the old man who raised her. She believes she was a twin who should have died. She is wrong. She is not a twin. She is a pawn.
+- It is led by **<a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>** — the current Wakil Keadilan. She was adopted by **Lei Alejandro**, the old man who raised her. She believes she was a twin who should have died. She is wrong. She is not a twin. She is a pawn.
 
 ### Livia Vane — The Current Leader
 - Livia was **not** a twin. She was alone from the start. She was adopted by an old man who was later revealed to be **Lei Alejandro**.
 - She believes the "twin who should have died" story. She carries the guilt of a sister she never had.
-- She is **terrified of <a href="/Lei%20Valerius%20Thorne">Valerius</a>**. She knows he is waiting for the right moment to kill her. She does not know why.
+- She is **terrified of <a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>**. She knows he is waiting for the right moment to kill her. She does not know why.
 - She is a hostage of the party (as of Session 07). She can be turned into an ally — but it will cost her everything.
 - **She is not evil.** She is broken. She was raised by a man who lied to her. She was placed in a position she did not earn. She is trying to survive.
 

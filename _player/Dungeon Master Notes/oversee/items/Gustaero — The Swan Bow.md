@@ -6,7 +6,7 @@ universe: Oversee
 aliases:
   - Gustaero
 ---
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Gustaero — The Swan Bow</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longbow</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/Husgus">Husgus</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Neck)</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Gustaero — The Swan Bow</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longbow</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/pcs/Husgus">Husgus</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Neck)</div></div></div></div>
 
 ## What It Does
 - +2 longbow.

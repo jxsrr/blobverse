@@ -16,7 +16,7 @@ aliases:
 ## What the Party Knows
 - Brash, loud, loves a fight.
 - Threw a bottle at Husgus during the Festival. Respected him for catching it.
-- Killed **<a href="/Jarko">Jarko</a>** in front of the party.
+- Killed **<a href="/oversee/npcs/Jarko">Jarko</a>** in front of the party.
 - Wields wind-and-steel combat style.
 - Not subtle. Not patient. Very dangerous.
 

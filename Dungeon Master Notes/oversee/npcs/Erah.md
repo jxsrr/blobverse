@@ -11,7 +11,7 @@ universe: Oversee
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Erah</div><div class="bv-world-sub">Hermit of Whisper Place, Daughter of Grin Qain</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
 
 ## Overview
-An elderly Grin woman who lives alone in a mountain cave known as the Hermitage near <a href="/Whisper%20Place">Whisper Place</a>. Small in stature with grey hair, sharp eyes, and the permanent, unmoving smile characteristic of the Grin curse, she rarely descends toward settled roads.
+An elderly Grin woman who lives alone in a mountain cave known as the Hermitage near <a href="/oversee/locations/Whisper%20Place">Whisper Place</a>. Small in stature with grey hair, sharp eyes, and the permanent, unmoving smile characteristic of the Grin curse, she rarely descends toward settled roads.
 
 ## Reputation
 - **The Hermit of Whisper Place:** Travelers passing through the region know of her mostly as a gruff, solitary figure who values her privacy and expects basic courtesy from anyone approaching her cave.
@@ -26,7 +26,7 @@ An elderly Grin woman who lives alone in a mountain cave known as the Hermitage 
 - She knows her mother's name because **Simon** told her — he visited her once, when she was a child. He told her: *"Your mother was the bravest person I ever knew."*
 
 ## What She Knows
-- The truth about **<a href="/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith — The Soul-Thirsting Blade</a>** — that it was her mother's blade.
+- The truth about **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith — The Soul-Thirsting Blade</a>** — that it was her mother's blade.
 - The truth about **Grin Qain's death** — that she was sacrificed, not killed in battle.
 - The truth about **Lei Firsa** — that she was the one who made Simon the Valla.
 - The truth about **Simon** — that he is still the Valla, still alive, still suffering.

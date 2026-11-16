@@ -48,5 +48,5 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- <a href="/Grilnax">Grilnax</a> is a contact point between Keeper of Secret and adventurers.
+- <a href="/oversee/npcs/Grilnax">Grilnax</a> is a contact point between Keeper of Secret and adventurers.
 - He knows more about the guild's true purpose than he lets on.

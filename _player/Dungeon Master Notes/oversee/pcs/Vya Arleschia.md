@@ -42,7 +42,7 @@ Elf from Elis. Slender, tall. Pink hair adorned with white flowers. Shell-like a
 - Village was burned by **Will of Grin**. Separated from parents **Vreina and Klaus**.
 - Raised for 10 years by the old man **Kopling** (a dragonborn-blooded wanderer).
 - Kopling died. Vya joined the adventurer's guild seeking purpose and answers.
-- In Session 5, learned her father **<a href="/Antrem%20Klaus">Antrem</a>** is alive and is the twin brother of **<a href="/Accarus%20Grin">Accarus</a>** (Will of Grin leader).
+- In Session 5, learned her father **<a href="/oversee/npcs/Antrem%20Klaus">Antrem</a>** is alive and is the twin brother of **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** (Will of Grin leader).
 - Her mother Vreina's fate is still unknown.
 
 ## Recent Developments

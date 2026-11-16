@@ -5,13 +5,13 @@ attitude_to_party: hostile
 universe: Oversee
 ---
 ::pf
-<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Iron Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/Lei%20Iron%20Gort">Gort</a> (Wakil Pertahanan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ironhold</div></div></div></div>
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Iron Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a> (Wakil Pertahanan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ironhold</div></div></div></div>
 
 
 ## What We Know
 - The military arm of the Commonwealth. Officially called the **Garda Besi**.
-- Led by **<a href="/Lei%20Iron%20Gort">Gort</a>**. Composed of disciplined soldiers, war machines, and conscripts.
-- They are the ones who killed **<a href="/Jarko">Jarko</a>**. They are the ones who attacked the Maw Desert hideout.
+- Led by **<a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>**. Composed of disciplined soldiers, war machines, and conscripts.
+- They are the ones who killed **<a href="/oversee/npcs/Jarko">Jarko</a>**. They are the ones who attacked the Maw Desert hideout.
 - They are the ones who are hunting the party.
 
 ## Their Tactics
@@ -37,12 +37,12 @@ universe: Oversee
 - It was created during Lei Firsa's consolidation of power, after the Initial Six disappeared (200 AV).
 - It is loyal to the **Triase** — not to the original promise.
 - It is **everywhere**. It has barracks in every major city. It has war machines on every road. It has conscripts in every village.
-- It is led by **<a href="/Lei%20Iron%20Gort">Gort</a>** — the current Wakil Pertahanan. He is not loyal to Valerius. He is loyal to **strength**. He can be turned.
+- It is led by **<a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>** — the current Wakil Pertahanan. He is not loyal to Valerius. He is loyal to **strength**. He can be turned.
 
 ### Iron Gort — The Current Leader
 - Gort is not a politician. He is a warrior. He respects strength above all else.
 - He threw a bottle at **Husgus** during the Festival. Husgus caught it and drank it. Gort respected him for it.
-- He killed **<a href="/Jarko">Jarko</a>** in front of the party — not out of cruelty, but out of necessity. Jarko was a Grin. Jarko was a threat. Gort eliminated him.
+- He killed **<a href="/oversee/npcs/Jarko">Jarko</a>** in front of the party — not out of cruelty, but out of necessity. Jarko was a Grin. Jarko was a threat. Gort eliminated him.
 - He is **not evil**. He is **brutal**. He is a soldier who has been told who the enemy is — and he believes it.
 - He can be turned. If the party defeats him in **single combat**, he will respect them. He will listen. He will consider.
 

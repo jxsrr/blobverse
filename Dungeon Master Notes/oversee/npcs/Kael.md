@@ -11,7 +11,7 @@ universe: Oversee
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kael</div><div class="bv-world-sub">Student at Tarakita University, Secret Cycle Clan Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Cycle Clan (secretly) / Universitas Tarakita (officially)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
 
 ## Overview
-A quiet, thin student at <a href="/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>, appearing to be in his late teens with persistent dark circles under his eyes. He keeps largely to himself around the university grounds and library corridors.
+A quiet, thin student at <a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>, appearing to be in his late teens with persistent dark circles under his eyes. He keeps largely to himself around the university grounds and library corridors.
 
 ## Reputation
 - **Unremarkable on Paper:** To most classmates and instructors, he seems like an ordinary, somewhat anxious student weighed down by his studies.
@@ -27,7 +27,7 @@ A quiet, thin student at <a href="/Tarakita%20University%20of%20Heroism">Tarakit
 ## What He Knows
 - He knows about **HVS-01 and HVS-02**. He has been told the shells are dangerous.
 - He has been told to **report any sighting** to his handler — a member of the Cycle Clan who reports directly to **Lei Firsa**.
-- He knows **<a href="/Professor%20Rubi">Professor Rubi</a>** — but does not know she is also Cycle Clan. He believes she is a "regular professor."
+- He knows **<a href="/oversee/npcs/Professor%20Rubi">Professor Rubi</a>** — but does not know she is also Cycle Clan. He believes she is a "regular professor."
 
 ## What He Offers
 - **A Charm of Silence** — if the party helps him with his "demonic voices." (The voices are real — a side effect of a failed HVS experiment that touched him as a child. The Charm silences them for 24 hours.)

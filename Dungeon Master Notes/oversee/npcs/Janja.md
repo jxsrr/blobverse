@@ -13,8 +13,8 @@ universe: Oversee
 
 ## What the Party Knows
 - A kind, quiet woman. Warm. Made the party tea when they arrived at her home.
-- Lived with her husband **<a href="/Guanik%20Smith">Guanik</a>** and their three children.
-- **Killed by <a href="/Will%20of%20Grin">Will of Grin</a>** when they attacked Pulau Dima in Session 2.
+- Lived with her husband **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>** and their three children.
+- **Killed by <a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** when they attacked Pulau Dima in Session 2.
 - Her home was burned. Her family scattered.
 - The party was not there when she died.
 

@@ -12,13 +12,13 @@ universe: Oversee
 ## What the Party Knows
 - A large, rough man. Mechanical hand. Anchor tattoo.
 - Runs the docks. Controls who comes and goes.
-- Will not talk to strangers. Will talk to anyone who mentions **<a href="/Accarus%20Grin">Accarus</a>**.
+- Will not talk to strangers. Will talk to anyone who mentions **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>**.
 - Smuggles weapons for Will of Grin.
 
 ## What He Offers
 - **Passage** on a smuggling ship.
 - **Information** about the Commonwealth's ship movements.
-- **A favor** to <a href="/Accarus%20Grin">Accarus</a>.
+- **A favor** to <a href="/oversee/npcs/Accarus%20Grin">Accarus</a>.
 
 ## Current Goal
 Smuggle weapons. Protect his crew.

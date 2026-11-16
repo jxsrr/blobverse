@@ -21,7 +21,7 @@ universe: Oversee
 ## The Gap and Oversee
 - The Gap **hides** Oversee from the Overseer.
 - It is a thin membrane. It can be **thickened** or **thinned**.
-- **<a href="/Lei%20Valerius%20Thorne">Valerius</a>** wants to thicken the Gap — merge it with Oversee.
+- **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>** wants to thicken the Gap — merge it with Oversee.
 - The **sludge** in Arujaya's Depths is Ambitio-Ether residue from a Gap leak.
 
 ## Known Entities from the Gap

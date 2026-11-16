@@ -13,7 +13,7 @@ universe: Oversee
 - Ama's best friend from their home world, **Aede**. Short pink hair. Moon-shaped staff. Purple robes.
 - Empathetic, calm, wise — the one who understood people's emotions best.
 - **Fell into Oversee** hundreds of years before Ama, near a lighthouse in Kota Juto.
-- Met **Atlan Nouveau**. They fell in love. Had a daughter, **<a href="/Mira%20Nouveau">Mira</a>**.
+- Met **Atlan Nouveau**. They fell in love. Had a daughter, **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**.
 - Chose to stay in Oversee instead of returning to Aede to fight the Destroyer God.
 - Her fate after Atlan's disappearance is unknown.
 

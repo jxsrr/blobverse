@@ -17,5 +17,5 @@ universe: Oversee
 - The animal disappears after 10 minutes.
 
 ## History
-- Found in Greyland Castle's supply room (<a href="/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>).
+- Found in Greyland Castle's supply room (<a href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a>).
 - Used occasionally. Mostly a joke item.

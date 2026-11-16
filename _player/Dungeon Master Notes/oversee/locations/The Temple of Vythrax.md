@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Frostheart Village (Frosthaven Peak)
 universe: Oversee
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Temple of Vythrax</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Elder Jarl, the priests of <a href="/Vythrax">Vythrax</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Holy. Changed.</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Temple of Vythrax</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Elder Jarl, the priests of <a href="/oversee/npcs/Vythrax">Vythrax</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Holy. Changed.</div></div></div></div>
 
 ## What Matters Here
 - The tallest and most intricate ice structure in Frostheart.
@@ -14,8 +14,8 @@ universe: Oversee
 - **The Frozen Legion** — outside the temple, on the path to the Spire. Ice statues of ancient dragonborn protectors. They move when unobserved.
 
 ## What Happened Here
-- The party discovered the truth about Syl (<a href="/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>).
-- <a href="/Vythrax">Vythrax</a> was healed here.
+- The party discovered the truth about Syl (<a href="/oversee/sessions/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>).
+- <a href="/oversee/npcs/Vythrax">Vythrax</a> was healed here.
 - The clan bowed to Syl.
 - Syl's name was carved on the monolith.
 

@@ -28,7 +28,7 @@ Survive. Avenge his father.
 
 %% DM SECRETS %%
 - Junior's father was a dockworker who was killed by the Commonwealth for witnessing a smuggling operation. Junior saw it happen.
-- He is a **Keeper of Secret informant**. He reports to <a href="/Mira%20Nouveau">Mira</a>.
+- He is a **Keeper of Secret informant**. He reports to <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>.
 - He has a **hidden crossbow** under the bar. He is a good shot.
 - He wants to join the party. He is too young. If they take him, he will be a liability — but also a loyal friend.
 - His real name is **Juniper**. He goes by Junior because his father did.

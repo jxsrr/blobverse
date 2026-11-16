@@ -16,5 +16,5 @@ aliases:
 - **Mutiara** — elite tavern. Home of legends.
 
 ## What Happened Here
-- The party joined Keeper of Secret (<a href="/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
+- The party joined Keeper of Secret (<a href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>).
 - Found Atlan's hidden base beneath the Observatorium.

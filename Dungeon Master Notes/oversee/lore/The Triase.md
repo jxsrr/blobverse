@@ -15,24 +15,24 @@ universe: Oversee
 
 ## The Three Pillars
 ### Kanselir Agung — The Chancellor
-- **Current:** <a href="/Lei%20Valerius%20Thorne">Valerius</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>
 - **Represents:** Wisdom, long-term vision, unity
 - **Role:** Final decision-maker. Mediator. Symbol of stability.
 - **Previous:** Geldfre (200 AV)
 
 ### Wakil Keadilan — The Justice
-- **Current:** <a href="/Lei%20Livia%20Vane">Livia</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>
 - **Represents:** Law, courts, internal affairs
 - **Leads:** Garda Mawar (Rose Guard)
 - **Role:** Oversees courts, contracts, disputes, doctrine.
 - **Previous:** Erard Gelnne (200 AV)
 
 ### Wakil Pertahanan — The Defense
-- **Current:** <a href="/Lei%20Iron%20Gort">Gort</a>
+- **Current:** <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
 - **Leads:** Garda Besi (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
-- **Previous:** <a href="/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
+- **Previous:** <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.
@@ -42,7 +42,7 @@ universe: Oversee
 ::/pf
 %% DM SECRETS %%
 - The Triase was founded by **Lei Firsa** to consolidate Klan Lei power.
-- <a href="/Hildag%20Grin">Hildag</a> was the original Wakil Pertahanan. She defected to Will of Grin.
+- <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> was the original Wakil Pertahanan. She defected to Will of Grin.
 - Valerius's plan is to dissolve the Triase and become the sole ruler — or something worse.
 - Livia is the wild card. She can be turned.
 - Gort is the wild card. He respects strength. He can be turned by combat.

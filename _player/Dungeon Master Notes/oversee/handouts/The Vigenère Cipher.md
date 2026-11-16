@@ -20,7 +20,7 @@ TABVPTXLQYURAQIOUOVQPA!VOZJINOULSUINXAUPVTRREPSIQDWJVHPPVIPXHFPSPVEAGRIWUXVZBNUR
 > *"The main target is TOPAJU! In the hands of the teacher. I follow. Go to the West RQ Observatory."*
 
 ## What It Means
-- **Topaju** is one of the four Gemhearts. It is inside **<a href="/Lei%20Darvin%20Thorne">Darvin</a>**.
-- "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of <a href="/Lei%20Livia%20Vane">Livia</a>.
+- **Topaju** is one of the four Gemhearts. It is inside **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>**.
+- "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of <a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>.
 - The message was written by someone tracking Alejandro.
 - The **West RQ Observatory** is the destination.

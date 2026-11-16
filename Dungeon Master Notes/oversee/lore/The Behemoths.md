@@ -31,7 +31,7 @@ universe: Oversee
 %% DM SECRETS %%
 - The Behemoth is not a monster. It is a **guardian of the old world**.
 - If the party heals the Behemoth (removes the poison from its veins), it will give them the Tear.
-- The poison is **Safayer residue** — the same poison that infected <a href="/Vythrax">Vythrax</a>. It is leaking from a buried Gemheart fragment in Pegunungan Kabut.
+- The poison is **Safayer residue** — the same poison that infected <a href="/oversee/npcs/Vythrax">Vythrax</a>. It is leaking from a buried Gemheart fragment in Pegunungan Kabut.
 - If the party removes the poison, they will also find the **buried Gemheart fragment**. It is a piece of Safayer that broke off during the Ritual of Replacement.
 - The Behemoth will die after giving the Tear. It is ready.
 - Its last words (telepathic): *"Thank you. Tell the world... we tried."*
