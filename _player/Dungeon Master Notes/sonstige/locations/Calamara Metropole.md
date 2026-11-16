@@ -3,6 +3,8 @@ type: Sonstige Lore
 universe: Sonstige
 era: Modern
 ---
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Calamara Metropole</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Modern</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] Calamara
 > A small, prosperous city in Negara Anderes. Magic is entirely ordinary here. Its reputation is flawless. Its history is not.
 

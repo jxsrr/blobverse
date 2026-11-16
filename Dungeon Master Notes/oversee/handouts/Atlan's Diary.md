@@ -3,6 +3,9 @@ type: handout
 given_in: Session 02
 universe: Oversee
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">Atlan's Diary</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!quote] Four entries from a water-stained journal found in the hidden basement beneath the Observatorium.
 
 ## Entry 1
@@ -16,3 +19,4 @@ universe: Oversee
 
 ## Entry 4
 *If you are my descendant and reading this, the pact still holds. The compass brought you here, as designed. Now, take the compass to the "Locked Sea Archive." Show it to the Keeper. They will give you the answers you seek.*
+::/pf

@@ -3,6 +3,8 @@ type: Oversee Lore
 universe: Oversee
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Bloodlines of Power</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] Who Has Magic and Why
 > Magic is not random. It follows bloodlines. It follows the Klan Lei.
 

@@ -2,6 +2,8 @@
 type: Sonstige Lore
 universe: Sonstige
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">FBA Wing System</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] The FBA Wing System
 > FBA does not have houses. Students are grouped into **Wings** — six academic faculties. Each Wing represents one **Vocational Track**. Students **choose** their Wing when they enrol — like choosing a major at a university.
 

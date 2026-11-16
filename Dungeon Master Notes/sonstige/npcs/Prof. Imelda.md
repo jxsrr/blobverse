@@ -8,10 +8,7 @@ first_seen: Session 01
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Algebra teacher at FBA. An old wizard with a strong jawline.
-> **Where:** FBA Campus, Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Prof. Imelda</div><div class="bv-world-sub">Algebra Professor, The Precise Wizard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - An old wizard. A strong jawline — a face that has never smiled.

@@ -3,6 +3,9 @@ type: handout
 given_in: Session 05
 universe: Oversee
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">Hildag's Map (Handout)</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!info] A hand-drawn map on old parchment. Four continents are visible. Some areas are blank.
 
 ## What Is Marked
@@ -20,8 +23,7 @@ universe: Oversee
 
 ## Hildag's Note (in the margin)
 > *"I have mapped what I can. The rest is for my descendants. Fill in the blanks. Do not let the world be forgotten."*
-
-
+::/pf
 %% DM SECRETS %%
 - The blank areas are not blank because Hildag didn't have time. They are blank because **the Cycle Clan forbade mapping them**. These are the locations of the four Gemhearts (besides Emelanica).
 - If the party fills in the map, they will discover the **Bahtera Bawah Tanah** (beneath Pegunungan Arbor), the **Celah Keajaiban** (between Harka and the eastern lowlands), and the **Awan Penjara** (above Pegunungan Arbor).

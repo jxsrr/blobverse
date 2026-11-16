@@ -5,10 +5,7 @@ current_holder: Vivienne Ashbourne
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Type:** An old manuscript
-> **Holder:** Vivienne Ashbourne
-> **Rarity:** Unique
+<div class="bv-relic"><div class="bv-world-kicker">SONSTIGE · RELIC & ARTIFACT ARCHIVE</div><div class="bv-world-title">The Manuscript</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Item</div></div></div></div>
 
 ## What It Is
 - An old manuscript Vivienne found among the Ashbourne family's heirlooms.

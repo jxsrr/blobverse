@@ -2,6 +2,8 @@
 type: Oversee Lore
 universe: Oversee
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Swan, the Bat, and the Fool</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Swan, the Bat, and the Fool
 > Nine ancient weapons. Three trios. One story. The royal families of Oversee have passed down this legend for centuries — but only the Crown remembers the whole of it.
 

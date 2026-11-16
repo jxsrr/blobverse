@@ -2,6 +2,9 @@
 type: Oversee Lore
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Triase</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Three Pillars
 > The ruling structure of the Commonwealth. Three leaders. Three powers. One purpose.
 
@@ -36,8 +39,7 @@ universe: Oversee
 - Most high positions are held by **Klan Lei** descendants.
 - Valerius is the true power. Livia and Gort are tools.
 - The Triase controls the narrative. It rewrites history.
-
-
+::/pf
 %% DM SECRETS %%
 - The Triase was founded by **Lei Firsa** to consolidate Klan Lei power.
 - [[Hildag Grin|Hildag]] was the original Wakil Pertahanan. She defected to Will of Grin.

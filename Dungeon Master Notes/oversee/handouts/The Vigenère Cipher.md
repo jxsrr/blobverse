@@ -3,6 +3,9 @@ type: handout
 given_in: Not yet given (Session 3 material)
 universe: Oversee
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">The Vigenère Cipher</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!info] The cipher was found in Graen, Rioquan East. Nenek Laksmi provided the key.
 
 ## The Cipher Text
@@ -22,8 +25,7 @@ TABVPTXLQYURAQIOUOVQPA!VOZJINOULSUINXAUPVTRREPSIQDWJVHPPVIPXHFPSPVEAGRIWUXVZBNUR
 - "The teacher" refers to **Lei Alejandro** — the "guru" (teacher) of [[Lei Livia Vane|Livia]].
 - The message was written by someone tracking Alejandro.
 - The **West RQ Observatory** is the destination.
-
-
+::/pf
 %% DM SECRETS %%
 - The message was written by **[[Lei Livia Vane|Livia]]** herself, in a moment of doubt. She sent it to her handler, then regretted it. This is the message that made Valerius suspicious of her.
 - "The teacher" (guru) is a key revelation: Alejandro taught Livia. She was his student. She is not just a Commonwealth officer — she is a link to the Initial Six.

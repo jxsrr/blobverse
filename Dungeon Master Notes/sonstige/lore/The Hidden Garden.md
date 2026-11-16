@@ -3,6 +3,8 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Hidden Garden</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] The Hidden Garden
 > A hidden garden at the school. Where fruit shaped like a baby's head grows. The source of RAIB.
 

@@ -2,6 +2,9 @@
 type: Sonstige Faction
 universe: Sonstige
 ---
+::pf
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">SONSTIGE · FACTION DOSSIER</div><div class="bv-world-title">FBA Extracurricular</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Faction</div></div></div></div>
+
 ---
 type: Sonstige Faction
 universe: Sonstige
@@ -53,7 +56,7 @@ universe: Sonstige
 - **Schedule:** Practice Thursdays, 16:00–17:30.
 - **Features:** Creativity, teamwork, experimentation, inter-school cook-offs.
 ::/pf
-
+::/pf
 %% DM SECRETS %%
 - **Extracurriculars are the main site of bonding** — because Wings are only homerooms and core classes.
 - **Every extracurricular has internal conflict:**

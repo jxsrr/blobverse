@@ -9,6 +9,8 @@ universe: Oversee
 aliases:
   - Dr. Kristine
 ---
+<div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kristine</div><div class="bv-world-sub">Dr. Vektor's Daughter, Preserved in Stasis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">None (Arujaya)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Deceased (in stasis, technically)</div></div></div></div>
+
 ## Overview
 The late daughter of [[oversee/npcs/Dr. Vektor]], the renowned cybernetic surgeon of [[oversee/locations/Arujaya Metropolis]].
 

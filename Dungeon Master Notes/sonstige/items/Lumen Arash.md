@@ -5,11 +5,7 @@ current_holder: Brougha Ironhide
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Type:** A poetry anthology
-> **Author:** Maestro Lorenzo
-> **Holder:** Brougha Ironhide (page 41)
-> **Rarity:** Unique
+<div class="bv-relic"><div class="bv-world-kicker">SONSTIGE · RELIC & ARTIFACT ARCHIVE</div><div class="bv-world-title">Lumen Arash</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Item</div></div></div></div>
 
 ## What It Is
 - A poetry anthology by **Maestro Lorenzo** — a celebrated poet and the Literature teacher at FBA.

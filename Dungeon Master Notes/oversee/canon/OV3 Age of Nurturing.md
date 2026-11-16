@@ -262,7 +262,7 @@ The party has learned:
 - The **six legendary blades** were collected by Simon, scattered by someone, and are now scattered again.
 - The **Cycle Clan** performed a ritual — but they do not yet know the details.
 - **[[Husgus]]** and **[[Shin Van Hel|HVS]]** are connected to something called "Human Vessel Shell" — but they do not know what it means.
-
+::/pf
 %% DM SECRETS %%
 They do not yet know:
 - Whether Lei Firsa is alive or dead.

@@ -7,6 +7,8 @@ status: Deceased (before 01 BV)
 first_seen: Not yet met
 universe: Oversee
 ---
+<div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Ksatrian</div><div class="bv-world-sub">The Dying Knight, Kkana and Terrde's Previous Owner</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Deceased (before 01 BV)</div></div></div></div>
+
 ## Overview
 A wandering knight from the era prior to 01 BV, remembered only in fragmented historical records and weapon lore as the previous bearer of [[oversee/items/Kkana — The Stone Greatsword]] and [[oversee/items/Terrde — The Patient Blade]].
 

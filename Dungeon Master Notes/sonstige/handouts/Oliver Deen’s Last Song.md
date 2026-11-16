@@ -3,6 +3,9 @@ type: handout
 given_in: Session 06
 universe: Sonstige
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">SONSTIGE · IN-WORLD HANDOUT</div><div class="bv-world-title">Oliver Deen’s Last Song</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!quote] Lirik lagu terakhir Oliver Deen, dirilis posthumously pada 2016.
 
 ## Verse 1
@@ -36,3 +39,4 @@ Remember me when I am gone.
 - "Two thousand sixteen, the eagle drowned" — 2016 Bateleur Incident.
 - "Two thousand twenty-six, the third will fall" — 2026 Third Thickening.
 - "The Bride will rise" — Lilie menjadi Bride of Bellweather.
+::/pf

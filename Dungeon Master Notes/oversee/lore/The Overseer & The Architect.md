@@ -2,6 +2,9 @@
 type: Oversee Lore
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Overseer & The Architect</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Two Primordial Entities
 > Before the world, there were two. One hungers. One builds.
 
@@ -32,8 +35,7 @@ universe: Oversee
 - The world is a **farm**. The Overseer eats souls. The Valla purifies them first so it doesn't notice.
 - The Cycle Clan has maintained this system for thousands of years.
 - If the system fails, the Overseer will notice. And it will come.
-
-
+::/pf
 %% DM SECRETS %%
 - The Overseer is not evil. It is hunger. It cannot be reasoned with.
 - The Architect is not good. It is preservation. It made a system that requires sacrifice.

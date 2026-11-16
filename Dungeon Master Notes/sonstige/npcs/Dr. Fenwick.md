@@ -8,10 +8,7 @@ first_seen: Session 01
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Practical Sciences teacher at FBA. An unnatural enthusiasm for failure.
-> **Where:** FBA Campus, Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Dr. Fenwick</div><div class="bv-world-sub">Practical Sciences Professor, The Enthusiastic Failure</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - A small man with thick glasses that are always askew.

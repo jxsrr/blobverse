@@ -3,6 +3,8 @@ type: Oversee Lore
 universe: Oversee
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Timeline of Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Ages of the World
 > This is the history the party has pieced together from Sam's memory, Atlan's diary, the Cycle Clan files, and Rivan's notes.
 
@@ -79,6 +81,7 @@ universe: Oversee
 - **Session 5** — Maw Desert. Sam's memory. **Vythrax** healed. **Jarko** killed. **Safayer** recovered.
 - **Session 6** — Chenalia. Darvin revealed. Arujaya entered. Ama's arm fused.
 - **Session 7** — The Depths. Overseer seen. Livia captured. Escape.
+::/pf
 %% DM SECRETS %%
 - **Session 8** — Darvin killed by Valerius. Season 3 begins.
 

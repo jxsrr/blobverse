@@ -2,6 +2,9 @@
 type: Oversee Lore
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Calendar & Time</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] How Time Works in Oversee
 > The current year is **700 AV** (After Valla). But time is not straightforward — and the calendar is a lie.
 
@@ -38,8 +41,7 @@ universe: Oversee
 - The "real" year is closer to **1700 BV** — not 700 AV. The party is living in a rewritten timeline.
 - If the party ever restores the true calendar, it will destabilize the Commonwealth. The legitimacy of the Triase, the Klan Lei, and the entire One Voice Commonwealth rests on the lie that 1 AV was a holy year.
 - The Tower of Time's backwards clock is counting down to something. No one knows what. **The DM should decide.** It may be counting down to the Rapture. It may be counting down to Lei Firsa's return. It may be counting down to the moment the seal finally breaks.
-
-
+::/pf
 %% DM SECRETS %%
 
 ### The Calendar — The Lie

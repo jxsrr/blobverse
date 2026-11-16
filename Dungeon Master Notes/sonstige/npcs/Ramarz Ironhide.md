@@ -8,10 +8,7 @@ first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Brougha's father. Professional Jounce athlete. Pioneer of the *"Ironhide Reversal"* manoeuvre.
-> **Where:** The Azures, Southwest Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Ramarz Ironhide</div><div class="bv-world-sub">Brougha's Father, Former Jounce Professional Athlete, The Ironhide Reversal</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Ironhide Family / Everglade Academy (alumni)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - Half-Orc. A big body, broad shoulders, grey-green skin. Lower tusks jutting out like Brougha's — but older.

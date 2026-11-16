@@ -7,10 +7,7 @@ status: alive
 first_seen: Session 01
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Role:** Headmaster of The Free Bird Academy. Member of the Bellweather family.
-> **Where:** FBA Campus, Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Mr. Rababrie Bellweather</div><div class="bv-world-sub">Headmaster of The Free Bird Academy, The Smiling Bellweather</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Bellweather / The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - A middle-aged man with black hair always neatly kept.

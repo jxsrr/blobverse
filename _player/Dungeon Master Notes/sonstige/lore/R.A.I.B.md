@@ -2,6 +2,8 @@
 type: Sonstige Lore
 universe: Sonstige
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">R.A.I.B</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] R.A.I.B
 > Reality Anomaly of Impaired Belonging. Someone is erased from memory and records. Only a secret can restore them.
 

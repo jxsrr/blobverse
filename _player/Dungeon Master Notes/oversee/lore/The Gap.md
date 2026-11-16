@@ -2,6 +2,8 @@
 type: Oversee Lore
 universe: Oversee
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Gap</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Space Between
 > A dimension of failed creation. The barrier between Oversee and the Overseer.
 

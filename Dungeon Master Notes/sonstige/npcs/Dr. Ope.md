@@ -8,10 +8,7 @@ first_seen: Session 01
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Divination Ethics teacher at FBA. A seer who is mostly theory-based.
-> **Where:** FBA Campus, Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Dr. Ope</div><div class="bv-world-sub">Divination Ethics Professor, The Theoretical Seer</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - An old woman with white hair that is always messy.

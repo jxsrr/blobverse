@@ -2,6 +2,9 @@
 type: Oversee Reference
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Fate Cards</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Reference</div></div></div></div>
+
 > [!info] What Are Fate Cards?
 > Each PC received a **Fate Card** during the dream on the Will of Grin ship (Session 2). Each card grants a blessing and a curse. They are permanent.
 
@@ -29,8 +32,7 @@ universe: Oversee
 - **The Fool — "The Initial Lie":** Cannot benefit from Long Rest in cities over 100 people. Must sleep in wilderness.
 - **The World — "The Keeper's Key":** Can ask one meta-game question to the DM. DM must answer truthfully.
 - **Who has this card?** Unknown.
-
-
+::/pf
 %% DM SECRETS %%
 - The Fool & The World card belongs to **[[Mira Nouveau|Mira]]**. She has never told the party.
 - The Fate Cards are tied to the **Tarot of the Architect** — the original set of cards used in the ritual that created Oversee.

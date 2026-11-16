@@ -3,6 +3,9 @@ type: handout
 given_in: Session 01
 universe: Sonstige
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">SONSTIGE · IN-WORLD HANDOUT</div><div class="bv-world-title">FBA Student Handbook</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 ## Welcome to The Free Bird Academy
 *"Fly High. Stay Humble."*
 
@@ -104,3 +107,4 @@ universe: Sonstige
 
 ## Important Note
 Remember: you go home every day. FBA is not where you live. It is a school.
+::/pf

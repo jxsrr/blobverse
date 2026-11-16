@@ -2,6 +2,9 @@
 type: Oversee Lore
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Behemoths</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Last Giants
 > Ancient creatures from before the Rapture. Gentle. Massive. Dying.
 
@@ -24,7 +27,7 @@ universe: Oversee
 ## What the Party Knows
 - They have heard legends of the Behemoths.
 - They do not know the Tear exists.
-
+::/pf
 %% DM SECRETS %%
 - The Behemoth is not a monster. It is a **guardian of the old world**.
 - If the party heals the Behemoth (removes the poison from its veins), it will give them the Tear.

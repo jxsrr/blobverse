@@ -2,6 +2,8 @@
 type: Sonstige Lore
 universe: Sonstige
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Jounce</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] Jounce
 > The traditional team sport of magic in Sonstige. Centuries old. Its ball is a living creature — the **Jounceling**.
 

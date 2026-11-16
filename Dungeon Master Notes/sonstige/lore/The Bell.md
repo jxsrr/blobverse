@@ -3,6 +3,8 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Bell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] The Bell
 > A myth passed down through generations at FBA. A bell that rings before major exams, before the social season's dances, and above all before graduation.
 

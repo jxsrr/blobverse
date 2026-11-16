@@ -2,6 +2,8 @@
 type: Oversee Guide
 universe: Oversee
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">BLOBVERSE · WORLD LORE ARCHIVE</div><div class="bv-world-title">How to Use This Wiki</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Guide</div></div></div></div>
+
 > [!info] Welcome, Player
 > This is your campaign wiki. It is **safe**. Nothing here will spoil the plot. If you see it here, your character can know it.
 

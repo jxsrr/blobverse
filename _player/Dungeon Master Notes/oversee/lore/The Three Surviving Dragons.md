@@ -5,6 +5,8 @@ aliases:
   - Verdantus
   - Aurelia
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Three Surviving Dragons</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Last of the Ancient Dragons
 > Once there were thousands. Now there are three. They are hiding.
 

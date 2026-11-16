@@ -7,6 +7,8 @@ status: Deceased (200 AV or shortly after)
 first_seen: Not yet met
 universe: Oversee
 ---
+<div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Erard Gelnne</div><div class="bv-world-sub">Wakil Keadilan at the Time of the Initial Six</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">One Voice Commonwealth (original, corrupted)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Deceased (200 AV or shortly after)</div></div></div></div>
+
 ## Who They Were
 - The **Wakil Keadilan** of the One Voice Commonwealth at the time of the **Initial Six** (200 AV).
 - **Not the first Wakil Keadilan.** The Triase did not exist when Guanik founded the Commonwealth. Erard was appointed later — during the era when Lei Firsa's influence was already spreading through the institution.

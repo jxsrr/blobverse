@@ -3,6 +3,9 @@ type: handout
 given_in: Pre-Session Zero
 universe: Sonstige
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">SONSTIGE · IN-WORLD HANDOUT</div><div class="bv-world-title">Pre-Session Zero Guide</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!quote] Pre-Session Zero Guide — Welcome to Calamara
 
 ## WELCOME TO CALAMARA
@@ -80,3 +83,4 @@ You may develop your physical appearance, personality traits, alignment, ideals,
 ---
 
 *Gform to follow soon (if I don't forget).*
+::/pf

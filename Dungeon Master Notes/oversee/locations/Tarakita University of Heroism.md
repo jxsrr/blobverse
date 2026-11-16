@@ -57,6 +57,7 @@ There are **three Observatories** built by the Cycle Clan, each with a different
 ## What the Party Knows
 - They have not been here.
 - It is where HVS (Shin) went to school, 690 years ago.
+::/pf
 %% DM SECRETS %%
 - It is a **Season 3 emotional dungeon** for Shin.
 - They have heard of Danau Kuno from the Cycle Clan files — but they do not know it is now Universitas Tarakita.

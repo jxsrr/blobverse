@@ -3,6 +3,8 @@ type: handout
 given_in: Session 06
 universe: Oversee
 ---
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">The Shell Video Transcript</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!quote] A transcript of Guanik Wiseman's video, as recorded on the primitive space probe. Translated from Old Oversee.
 
 ## Minute 1:00

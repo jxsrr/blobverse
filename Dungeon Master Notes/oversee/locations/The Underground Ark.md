@@ -3,7 +3,10 @@ type: Oversee Location
 parent_location: Beneath Pegunungan Arbor
 universe: Oversee
 ---
- [!info] At a Glance
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Underground Ark</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Location</div></div></div></div>
+
+[!info] At a Glance
 > **Part of:** Beneath Pegunungan Arbor (Harka/Elis border)
 > **Notable People:** None (sealed)
 > **Status:** Sealed. Unknown.
@@ -20,8 +23,7 @@ universe: Oversee
 - Rivan mentioned it. He has not yet given them the map.
 - It is where the truth about the Valla is kept.
 - It may also contain a way to **free Simon** without killing him.
-
-
+::/pf
 %% DM SECRETS %%
 - The Ark is not just a vault. It is a **seed ship** — designed to preserve civilization if the Overseer ever consumed Oversee.
 - It contains **cryo-pods** with preserved Cycle Clan members from 1,000 years ago. They are still alive.

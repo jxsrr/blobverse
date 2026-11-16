@@ -2,6 +2,13 @@
 type: Sonstige Faction
 universe: Sonstige
 ---
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">SONSTIGE · FACTION DOSSIER</div><div class="bv-world-title">FBA Extracurricular</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Faction</div></div></div></div>
+
+---
+type: Sonstige Faction
+universe: Sonstige
+---
+::pf
 > [!info] The Six FBA Extracurriculars
 > Every student must join at least one. There is no upper limit. Extracurriculars are where students from different Wings mingle — and the main site of bonding.
 

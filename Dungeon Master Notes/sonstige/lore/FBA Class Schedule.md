@@ -4,6 +4,8 @@ universe: Sonstige
 era: Modern
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">FBA Class Schedule</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Modern</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Lore</div></div></div></div>
+
 > [!info] FBA Class Schedule
 > FBA is a **commuter** school — students arrive in the morning, go home in the afternoon. This is the weekly schedule and a detailed account of the second day (their first time attending classes).
 

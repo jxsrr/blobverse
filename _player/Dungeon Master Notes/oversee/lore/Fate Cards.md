@@ -2,6 +2,8 @@
 type: Oversee Reference
 universe: Oversee
 ---
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Fate Cards</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Reference</div></div></div></div>
+
 > [!info] What Are Fate Cards?
 > Each PC received a **Fate Card** during the dream on the Will of Grin ship (Session 2). Each card grants a blessing and a curse. They are permanent.
 

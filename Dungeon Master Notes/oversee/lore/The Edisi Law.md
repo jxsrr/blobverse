@@ -3,6 +3,8 @@ type: Oversee Lore
 universe: Oversee
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Edisi Law</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] What Is It?
 > The legal code of the Commonwealth. But it is also more than that.
 

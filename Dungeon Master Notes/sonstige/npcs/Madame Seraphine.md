@@ -8,10 +8,7 @@ first_seen: Session 01
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Social Enchantment teacher at FBA. Expert in diplomacy, gossip, and social manipulation. Former Bellweather agent.
-> **Where:** FBA Campus, Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Madame Seraphine</div><div class="bv-world-sub">Social Enchantment Professor, The Polite Manipulator</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - A middle-aged woman with blonde hair always perfectly arranged.

@@ -8,10 +8,7 @@ first_seen: Session 01 (family scene — Zenroy's departure)
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Role:** Head of the Grafsten family. Ruler of Grafstenmouth. Zenroy's employer.
-> **Where:** Grafstenmouth, Southeast Peninsula
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Lord Aldric Grafsten</div><div class="bv-world-sub">Head of the Grafsten Family, Ruler of Grafstenmouth, Zenroy's Employer</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Grafsten Family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - Human. Middle-aged. Grey hair always neatly combed. A short, well-trimmed beard.

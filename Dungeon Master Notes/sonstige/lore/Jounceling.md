@@ -3,6 +3,8 @@ type: Sonstige Creature
 universe: Sonstige
 ---
 ::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Jounceling</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige Creature</div></div></div></div>
+
 > [!info] Jounceling
 > A small magical creature used as a living ball in the sport of Jounce.
 

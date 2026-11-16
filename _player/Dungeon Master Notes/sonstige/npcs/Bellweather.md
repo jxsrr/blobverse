@@ -7,9 +7,7 @@ status: alive (or something else)
 first_seen: Session 02 (rumoured)
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Role:** The founding family/entity behind FBA and the Battery. The ones who took their name from **The Bell**. The Bride of Bellweather is a living filter.
-> **Status:** Alive — or something else.
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Bellweather</div><div class="bv-world-sub">The Family Behind the School, The Entity Behind the Battery, The Keepers of The Bell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Bellweather</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive (or something else)</div></div></div></div>
 
 ## What the Party Knows
 - Bellweather is the family/entity behind FBA.

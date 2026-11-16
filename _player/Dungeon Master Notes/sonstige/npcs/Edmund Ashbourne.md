@@ -7,10 +7,7 @@ status: alive
 first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Role:** Vivienne's father. Researcher of magical artefacts. Head of the primary Ashbourne lineage.
-> **Where:** Ashbourne Manor, Outskirts of Calamara
-> **Status:** Alive
+<div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Edmund Ashbourne</div><div class="bv-world-sub">Vivienne's Father, Artifact Researcher, Head of the Ashbourne Lineage</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Ashbourne Family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance
 - Elf. Middle-aged. Dark brown hair with streaks of white at the temples.

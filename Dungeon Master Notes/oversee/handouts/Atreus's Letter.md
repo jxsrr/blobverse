@@ -3,6 +3,9 @@ type: handout
 given_in: Session 05
 universe: Oversee
 ---
+::pf
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">Atreus's Letter</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!quote] A letter written on worn leather, found among [[Hildag Grin|Hildag]]'s possessions. The handwriting is shaky, as if written in haste.
 
 For whoever inherits this Smile.
@@ -26,3 +29,4 @@ All keys reside in Emelanica.
 Laugh for me. I will perform my last show.
 
 — A.G.
+::/pf

@@ -2,6 +2,9 @@
 type: Oversee Lore
 universe: Oversee
 ---
+::pf
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Grin Curse</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
+
 > [!info] The Eternal Smile
 > A curse. A blessing. A stigma. The mark of the Grin bloodline.
 
@@ -28,8 +31,7 @@ universe: Oversee
 - Because the Grin cannot use magic, they are invisible to the Overseer.
 - They are the only race that can survive the Rapture without hiding.
 - The smile is a **mask** — it hides their true emotions from the world, and from the Overseer.
-
-
+::/pf
 %% DM SECRETS %%
 - The Grin curse can be broken. But doing so would make them visible to the Overseer.
 - The **Will of Grin** knows this. They are divided: some want to break the curse, some want to keep it.

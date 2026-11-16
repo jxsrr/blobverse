@@ -3,6 +3,8 @@ type: handout
 given_in: Not yet given (Session 3 material)
 universe: Oversee
 ---
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">The Vigenère Cipher</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!info] The cipher was found in Graen, Rioquan East. Nenek Laksmi provided the key.
 
 ## The Cipher Text

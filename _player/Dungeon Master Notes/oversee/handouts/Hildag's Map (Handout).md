@@ -3,6 +3,8 @@ type: handout
 given_in: Session 05
 universe: Oversee
 ---
+<div class="bv-relic"><div class="bv-world-kicker">OVERSEE · IN-WORLD HANDOUT</div><div class="bv-world-title">Hildag's Map (Handout)</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">handout</div></div></div></div>
+
 > [!info] A hand-drawn map on old parchment. Four continents are visible. Some areas are blank.
 
 ## What Is Marked
