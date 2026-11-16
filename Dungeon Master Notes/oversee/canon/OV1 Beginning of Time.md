@@ -169,7 +169,10 @@ It is not a natural phenomenon. It is not a punishment. It is not even, strictly
 And it will happen again.
 
 It always does.
+
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV0%20Before%20Oversee"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV0 Before Oversee</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a></div>
+
 ::/pf
 
 %% DM SECRETS %%

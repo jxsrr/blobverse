@@ -324,4 +324,5 @@ Under certain conditions — when the mortal world brushes too close to the real
 They search for places that have resonance with their memories — places they once visited, people they once loved, or even just locations with enough emotional energy to attract them.
 
 There, they **take form** — not fully real, not fully illusion. Something in between.
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV4 The First God</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV6%20Power%20Surge"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV6 Power Surge</span></a></div>

@@ -305,7 +305,10 @@ These truths will come in **Season 3**.
 ## Sessions Chain
 - **Previous Era:** [[Age of Knowledge]]
 - **Next Era:** [[The First God]]
+
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV4 The First God</span></a></div>
+
 ::/pf
 
 

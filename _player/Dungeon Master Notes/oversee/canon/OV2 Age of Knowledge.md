@@ -333,4 +333,5 @@ But that is precisely where their survival lies. In a world constantly haunted b
 They are the true survivors — the ones who can endure in a world where the magical are wiped out.
 
 And in times of crisis, when other kingdoms begin to forget their fear and think again of attack, **the door of the Gap will open slightly** — enough to remind them that behind the eternal smile of the Grin family, there is a darkness ready to be called.
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV3%20Age%20of%20Nurturing"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV3 Age of Nurturing</span></a></div>

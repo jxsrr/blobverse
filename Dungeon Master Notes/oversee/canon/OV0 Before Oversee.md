@@ -106,7 +106,11 @@ And the mortals of Oversee — the Inbu, the Lei, the Grin, the farmers, the wiz
 They are the **reason** the shield holds.
 
 They are the **reason** the Overseer has not yet consumed everything.
+
+<a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a></div>
+
 <div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a></div>
+
 ::/pf
 
 %% DM SECRETS %%

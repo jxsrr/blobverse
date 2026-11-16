@@ -28,4 +28,7 @@ era: Primordial
 - Campaign year: **2026**.
 - Three important dates: **2001, 2016, 2026**.
 - FBA has a myth about **The Bell** — a bell that rings before major exams, before the social season's dances, and above all before graduation.
+
+<a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">SO1 Negara Anderes</span></a></div>
+
 <div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">SO1 Negara Anderes</span></a></div>

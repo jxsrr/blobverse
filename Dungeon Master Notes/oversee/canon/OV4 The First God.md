@@ -316,7 +316,10 @@ Syl grew up in that ostracism. He learned that he was different, that people loo
 **Vythrax** — from a distance at the peak of the Spire of Whispering Ice — felt that her child had finally been born. She felt the resonance of **Safayer** in Syl's blood, and her heart broke. Her attempt to protect had only hurt her child. But she was too weak, too poisoned by the blue stone, to come down and fetch him. She could only watch from afar, enduring the pain that continued to flow in her veins, hoping that one day her child would be strong enough to overcome the curse he had inherited.
 
 And Syl — who knew nothing about all of this — continued to live in ostracism, carrying in his blood the poison of a forbidden love between an ambitious noble and a silver dragon — a love that should never have happened, but had created a child who would one day be one of the key figures in the journey of **[[oversee/pcs/README|The Five Sticks]]**.
+
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV3%20Age%20of%20Nurturing"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV3 Age of Nurturing</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV5%20Initial%20Six%20Era"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV5 Initial Six Era</span></a></div>
+
 ::/pf
 
 %% DM SECRETS %%

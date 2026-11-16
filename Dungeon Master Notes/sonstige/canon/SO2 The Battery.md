@@ -49,7 +49,10 @@ The Battery harvests energy through **two means**:
 - Alumni are sent away and never seen again.
 - There is a Black Cloak Figure.
 - There is a Bell that rings before exams, dances, and graduation.
+
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/sonstige/canon/SO1%20Negara%20Anderes"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">SO1 Negara Anderes</span></a><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/sonstige/canon/SO3%20The%20Three%20Dates"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">SO3 The Three Dates</span></a></div>
+
 ::/pf
 
 %% DM SECRETS %%

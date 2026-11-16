@@ -870,7 +870,11 @@ In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground**
 But the fire of his struggle **continued to burn** — in **[[Husgus]]**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 
 Because **Gordon had taught**: sometimes, all that is needed is **one voice loud enough** to disturb the sleep of the powerful.
+
+</div>
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV5%20Initial%20Six%20Era"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV5 Initial Six Era</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><div></div></div>
+
 ::/pf
 
 %% DM SECRETS %%

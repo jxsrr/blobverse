@@ -33,7 +33,11 @@ years: 2001, 2016, 2026
 ## What the Party Knows
 - Three important dates: 2001, 2016, 2026.
 - Something happened on each of them.
+
+</div>
+
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/sonstige/canon/SO2%20The%20Battery"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">SO2 The Battery</span></a><a class="bv-ep-nav-center" href="/sonstige/canon">All Canon Eras</a><div></div></div>
+
 ::/pf
 
 %% DM SECRETS %%
