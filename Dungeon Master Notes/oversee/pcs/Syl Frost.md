@@ -5,10 +5,36 @@ player: Rayhan
 universe: Oversee
 ---
 ::pf
-> [!info] The Party
-> **Class:** Sorcerer (self-taught) / Cleric (multiclass)
-> **Role:** Crowd control, healer
-> **Known as:** The Ice Anomaly
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Oversee PC</span>
+      <span class="bv-badge bv-badge-neutral">The Five Sticks</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Syl Frost</div>
+  <div class="bv-dossier-epithet">The Ice Anomaly</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Sorcerer / Cleric</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Crowd control, healer</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Lineage</div>
+      <div class="bv-stat-val">Dragonborn · Klan Frostscale</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Rayhan</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 Dragonborn of Klan Frostscale. Metallic scales with natural frost patterns. Eyes like ice. Small horns at his temples. Silver-white hair. Pale as ice. He carries himself like someone who has spent his whole life being told he does not belong — because he has.

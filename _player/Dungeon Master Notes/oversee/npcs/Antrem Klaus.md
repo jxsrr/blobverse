@@ -7,10 +7,35 @@ status: alive
 first_seen: Session 05
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Vya's father. [[oversee/npcs/Accarus Grin|Accarus]]'s twin. Son of [[oversee/npcs/Hildag Grin|Hildag]].
-> **Where:** Maw Desert (with Will of Grin)
-> **Status:** Alive
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Key NPC</span>
+      <span class="bv-badge bv-badge-neutral">Will of Grin</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Antrem Klaus</div>
+  <div class="bv-dossier-epithet">Vya's Father, The Simple Twin, The Twin Who Was Lost</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Affiliation</div>
+      <div class="bv-stat-val">Will of Grin (reluctant)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Whereabouts</div>
+      <div class="bv-stat-val">Maw Desert (with Will of Grin)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin / Base</div>
+      <div class="bv-stat-val">Chenalia (formerly) / Maw Desert</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">First Seen</div>
+      <div class="bv-stat-val">Session 05</div>
+    </div>
+  </div>
+</div>
 
 ## What the Party Knows
 - Twin brother of **[[oversee/npcs/Accarus Grin|Accarus]]**. Both are descendants of **Lei Firage** (fire) through their father.

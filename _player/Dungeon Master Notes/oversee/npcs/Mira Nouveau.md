@@ -7,10 +7,35 @@ status: alive
 first_seen: Session 02
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Leader of Keeper of Secret. Daughter of Atlan Nouveau and Reins.
-> **Where:** Kota Juto (Observatorium)
-> **Status:** Alive
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Key NPC</span>
+      <span class="bv-badge bv-badge-neutral">Keeper of Secret</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Mira Nouveau</div>
+  <div class="bv-dossier-epithet">Founder of Keeper of Secret, Daughter of Atlan and Reins</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Affiliation</div>
+      <div class="bv-stat-val">Keeper of Secret</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Whereabouts</div>
+      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin / Base</div>
+      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">First Seen</div>
+      <div class="bv-stat-val">Session 02</div>
+    </div>
+  </div>
+</div>
 
 ## What the Party Knows
 - Half-elf. Daughter of **Atlan Nouveau** and **Reins**.

@@ -7,10 +7,35 @@ status: alive
 first_seen: Session 01
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Role:** Registration clerk at The Yawning Guild
-> **Where:** Yawning Town
-> **Status:** Alive
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Key NPC</span>
+      <span class="bv-badge bv-badge-neutral">The Yawning Guild</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Grilnax</div>
+  <div class="bv-dossier-epithet">Goblin Guild Clerk</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Affiliation</div>
+      <div class="bv-stat-val">The Yawning Guild</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Whereabouts</div>
+      <div class="bv-stat-val">Yawning Town</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin / Base</div>
+      <div class="bv-stat-val">Yawning Town</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">First Seen</div>
+      <div class="bv-stat-val">Session 01</div>
+    </div>
+  </div>
+</div>
 
 ## What the Party Knows
 - Tired, sarcastic goblin with thin beard and dull eyes.

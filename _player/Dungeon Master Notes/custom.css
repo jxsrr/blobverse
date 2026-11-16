@@ -473,3 +473,146 @@ a.wikilink:hover, a[href*="/oversee/"]:hover, a[href*="/sonstige/"]:hover, a[hre
     background: linear-gradient(135deg, color-mix(in srgb, var(--color-d-accent) 14%, var(--color-d-bg)) 0%, var(--color-d-bg-secondary) 100%);
   }
 }
+
+/* === Character Dossier Header & Badges === */
+.bv-dossier {
+  position: relative;
+  padding: 1.5rem 1.65rem;
+  margin: 0.75rem 0 2rem;
+  border-radius: 10px;
+  border: 1px solid var(--color-l-border);
+  background: linear-gradient(135deg, color-mix(in srgb, var(--color-l-accent) 7%, var(--color-l-bg)) 0%, var(--color-l-bg-secondary) 100%);
+  overflow: hidden;
+}
+.bv-dossier::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  width: 5px;
+  background: var(--color-l-accent);
+}
+.bv-dossier-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.55rem;
+}
+.bv-badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.bv-badge {
+  display: inline-block;
+  font-family: var(--font-family-monospace);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--color-l-accent) 12%, transparent);
+  color: var(--color-l-accent);
+  border: 1px solid color-mix(in srgb, var(--color-l-accent) 25%, transparent);
+}
+.bv-badge-neutral {
+  background: var(--color-l-bg);
+  color: var(--color-l-text-secondary);
+  border-color: var(--color-l-border);
+}
+.bv-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.38rem;
+  font-family: var(--font-family-monospace);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-l-border);
+  background: var(--color-l-bg);
+}
+.bv-status::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.bv-status-alive { color: #2e6f40; border-color: color-mix(in srgb, #2e6f40 35%, transparent); }
+.bv-status-deceased { color: #8c2d2d; border-color: color-mix(in srgb, #8c2d2d 35%, transparent); }
+.bv-status-captive { color: #9a6700; border-color: color-mix(in srgb, #9a6700 35%, transparent); }
+.bv-status-unknown { color: var(--color-l-text-secondary); }
+.bv-dossier-name {
+  font-family: var(--font-family-heading);
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin: 0 0 0.2rem;
+}
+.bv-dossier-epithet {
+  font-family: var(--font-family-heading);
+  font-style: italic;
+  font-size: 1.08rem;
+  color: var(--color-l-text-secondary);
+  margin: 0 0 1.1rem;
+}
+.bv-dossier-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(165px, 1fr));
+  gap: 0.65rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--color-l-border);
+}
+.bv-stat-cell {
+  padding: 0.55rem 0.7rem;
+  border-radius: 6px;
+  background: var(--color-l-bg);
+  border: 1px solid var(--color-l-border);
+}
+.bv-stat-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-l-text-secondary);
+  margin-bottom: 0.15rem;
+}
+.bv-stat-val {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--color-l-text);
+  line-height: 1.35;
+}
+.bv-stat-val a {
+  background: none !important;
+  padding: 0 !important;
+}
+@media (prefers-color-scheme: dark) {
+  .bv-dossier {
+    border-color: var(--color-d-border);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--color-d-accent) 11%, var(--color-d-bg)) 0%, var(--color-d-bg-secondary) 100%);
+  }
+  .bv-dossier::before { background: var(--color-d-accent); }
+  .bv-badge {
+    color: var(--color-d-accent);
+    background: color-mix(in srgb, var(--color-d-accent) 16%, transparent);
+    border-color: color-mix(in srgb, var(--color-d-accent) 30%, transparent);
+  }
+  .bv-badge-neutral, .bv-status, .bv-stat-cell {
+    background: var(--color-d-bg);
+    border-color: var(--color-d-border);
+  }
+  .bv-badge-neutral, .bv-status-unknown, .bv-dossier-epithet, .bv-stat-label {
+    color: var(--color-d-text-secondary);
+  }
+  .bv-status-alive { color: #6bc484; border-color: color-mix(in srgb, #6bc484 35%, transparent); }
+  .bv-status-deceased { color: #e07a7a; border-color: color-mix(in srgb, #e07a7a 35%, transparent); }
+  .bv-status-captive { color: #e3b341; border-color: color-mix(in srgb, #e3b341 35%, transparent); }
+  .bv-dossier-grid { border-top-color: var(--color-d-border); }
+  .bv-stat-val { color: var(--color-d-text); }
+}

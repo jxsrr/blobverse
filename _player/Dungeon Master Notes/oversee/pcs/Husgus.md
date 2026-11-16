@@ -4,10 +4,35 @@ class: Ranger
 player: Farrel Arkananta
 universe: Oversee
 ---
-> [!info] The Party
-> **Class:** Ranger
-> **Role:** Scout, tracker, cook
-> **Known as:** The Golden-Cracked
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Oversee PC</span>
+      <span class="bv-badge bv-badge-neutral">The Five Sticks</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Husgus</div>
+  <div class="bv-dossier-epithet">The Golden-Cracked</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Ranger</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Scout, tracker, cook</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Halfling</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Farrel Arkananta</div>
+    </div>
+  </div>
+</div>
 
 ## Appearance
 Halfling. Small frame, deceptively strong. Faint golden cracks appear on his skin when stressed — no one knows why. They glow faintly in the dark. They do not hurt. They do not heal. They are simply there.

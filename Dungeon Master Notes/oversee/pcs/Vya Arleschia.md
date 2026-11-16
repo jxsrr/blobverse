@@ -5,10 +5,36 @@ player: Allyda
 universe: Oversee
 ---
 ::pf
-> [!info] The Party
-> **Class:** Ranger
-> **Role:** Ranged damage, fire awakening
-> **Known as:** The Fire Heir
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Oversee PC</span>
+      <span class="bv-badge bv-badge-neutral">The Five Sticks</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Vya Arleschia</div>
+  <div class="bv-dossier-epithet">The Fire Heir</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Ranger</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Ranged damage, fire awakening</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin</div>
+      <div class="bv-stat-val">Elf of Elis</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Allyda</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 Elf from Elis. Slender, tall. Pink hair adorned with white flowers. Shell-like armor that shines. Strikingly beautiful — people remember her.

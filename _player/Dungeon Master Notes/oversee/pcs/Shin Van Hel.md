@@ -6,10 +6,35 @@ universe: Oversee
 aliases:
   - HVS
 ---
-> [!info] The Party
-> **Class:** Warlock (curse-bound, not pact) / Paladin (multiclass)
-> **Role:** Melee striker, soul-blade wielder
-> **Known as:** HVS
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Oversee PC</span>
+      <span class="bv-badge bv-badge-neutral">The Five Sticks</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Shin Van Hel</div>
+  <div class="bv-dossier-epithet">HVS · The Shell</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Warlock / Paladin</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Melee striker, soul-blade wielder</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Half-Elf (700+ years)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Fahrezz</div>
+    </div>
+  </div>
+</div>
 
 ## Appearance
 Half-Elf, chronologically over 700 years old. Looks young. Fedora or Bloodborne-style hat, Sakamoto-style glasses, gloves always covering his hands. Modern, sharp dresser. The eternal smile of a Half-Elf — not a curse, just a trait. He cannot stop smiling. He has learned to live with it.

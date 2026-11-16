@@ -4,10 +4,35 @@ class: Wizard
 player: Dimas
 universe: Sonstige
 ---
-> [!info] The Party
-> **Class:** Wizard
-> **Role:** Investigator, utility caster, the outsider
-> **Known as:** Zenroy Dala (registered age 20)
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Sonstige PC</span>
+      <span class="bv-badge bv-badge-neutral">Outsider</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Zenroy Dala</div>
+  <div class="bv-dossier-epithet">Registered Age 20 · Investigator</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Wizard</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Investigator, utility caster</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Human</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Dimas</div>
+    </div>
+  </div>
+</div>
 
 ## Appearance
 - Human. Dark brown skin, though not too dark — a shade rarely found around Calamara.

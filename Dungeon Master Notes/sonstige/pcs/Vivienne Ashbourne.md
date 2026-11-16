@@ -5,10 +5,36 @@ player: Gladys
 universe: Sonstige
 ---
 ::pf
-> [!info] The Party
-> **Class:** Wizard
-> **Role:** Scholar, investigator, keeper of the family secret
-> **Known as:** Vivienne Ashbourne (age 15)
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Sonstige PC</span>
+      <span class="bv-badge bv-badge-neutral">Scholar</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Vivienne Ashbourne</div>
+  <div class="bv-dossier-epithet">Age 15 · Keeper of the Family Secret</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Wizard</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Scholar, investigator</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Elf</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Gladys</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 - Elf. Long **dark chestnut brown** hair, slightly wavy. Usually worn loose or tied simply with a ribbon.

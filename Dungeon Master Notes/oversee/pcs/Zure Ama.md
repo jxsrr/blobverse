@@ -5,10 +5,36 @@ player: Raihan Pratama Irawan
 universe: Oversee
 ---
 ::pf
-> [!info] The Party
-> **Class:** Fighter
-> **Role:** Frontline tank, relentless protector
-> **Known as:** "Bai E" (White Calamity)
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Oversee PC</span>
+      <span class="bv-badge bv-badge-neutral">The Five Sticks</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Zure Ama</div>
+  <div class="bv-dossier-epithet">"Bai E" · The White Calamity</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Fighter</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Frontline tank, relentless protector</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin</div>
+      <div class="bv-stat-val">Aede (Otherworlder)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Raihan Pratama Irawan</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 Man from another world (Aede). White hair, sharp blue eyes. White-and-blue robes with sun-motif arm guards. People mistake him for a destined hero — a title he never asked for. His left arm is not his own — it is a prosthetic fused with an Imp, still soft and jelly-like, still waking up. He keeps it covered when he can. He does not like people to see it.

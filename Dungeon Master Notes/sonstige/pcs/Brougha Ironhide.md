@@ -5,10 +5,36 @@ player: Laura
 universe: Sonstige
 ---
 ::pf
-> [!info] The Party
-> **Class:** Barbarian
-> **Role:** Jounce athlete, frontline bruiser
-> **Known as:** Brougha Ironhide (17)
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Sonstige PC</span>
+      <span class="bv-badge bv-badge-neutral">Jounce Athlete</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Brougha Ironhide</div>
+  <div class="bv-dossier-epithet">Age 17 · Frontline Bruiser</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Barbarian</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Jounce athlete, frontline bruiser</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Half-Orc</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Laura</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 - Half-Orc. Grey-green skin. A tall, large body, broad shoulders, muscles built from Jounce training since childhood.

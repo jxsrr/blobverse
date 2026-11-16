@@ -5,10 +5,36 @@ player: Ghania
 universe: Sonstige
 ---
 ::pf
-> [!info] The Party
-> **Class:** Druid
-> **Role:** Alchemist, poisoner, the antisocial mushroom girl
-> **Known as:** Mya Cortenya
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Sonstige PC</span>
+      <span class="bv-badge bv-badge-neutral">Alchemist</span>
+    </div>
+    <span class="bv-status bv-status-alive">Alive</span>
+  </div>
+  <div class="bv-dossier-name">Mya Cortenya</div>
+  <div class="bv-dossier-epithet">The Antisocial Mushroom Girl</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Class</div>
+      <div class="bv-stat-val">Druid</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Party Role</div>
+      <div class="bv-stat-val">Alchemist, poisoner</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Ancestry</div>
+      <div class="bv-stat-val">Wood Elf</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Player</div>
+      <div class="bv-stat-val">Ghania</div>
+    </div>
+  </div>
+</div>
+
 
 ## Appearance
 - Wood Elf. Hair like a **veiled mushroom** (bridal veil stinkhorn) — white, lacy, trailing.

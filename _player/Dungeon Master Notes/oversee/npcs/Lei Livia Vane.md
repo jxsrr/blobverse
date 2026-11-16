@@ -9,10 +9,35 @@ universe: Oversee
 aliases:
   - Livia Vane
 ---
-> [!info] At a Glance
-> **Role:** Wakil Keadilan, leader of Garda Mawar
-> **Where:** With the party (hostage)
-> **Status:** Hostage
+<div class="bv-dossier">
+  <div class="bv-dossier-top">
+    <div class="bv-badge-row">
+      <span class="bv-badge">Key NPC</span>
+      <span class="bv-badge bv-badge-neutral">The Commonwealth</span>
+    </div>
+    <span class="bv-status bv-status-captive">Hostage</span>
+  </div>
+  <div class="bv-dossier-name">Lei Livia Vane</div>
+  <div class="bv-dossier-epithet">Wakil Keadilan (Justice), Garda Mawar</div>
+  <div class="bv-dossier-grid">
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Affiliation</div>
+      <div class="bv-stat-val">The Commonwealth</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Whereabouts</div>
+      <div class="bv-stat-val">With the party (hostage)</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">Origin / Base</div>
+      <div class="bv-stat-val">Padre City</div>
+    </div>
+    <div class="bv-stat-cell">
+      <div class="bv-stat-label">First Seen</div>
+      <div class="bv-stat-val">Session 04</div>
+    </div>
+  </div>
+</div>
 
 ## What the Party Knows
 - Cold, precise, wind-powered warrior.
