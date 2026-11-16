@@ -6,9 +6,8 @@ aliases:
   - Kota Juto
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Rioquan (South)
-> **Notable People:** Mira, Elara, Pops, Babi
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto Port City</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan (South)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Mira, Elara, Pops, Babi</div></div></div></div>
+
 
 ## What Matters Here
 - Vertical port city built on cliffs and coral pillars.

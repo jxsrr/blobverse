@@ -4,10 +4,8 @@ parent_location: Rioquan Timur
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Rioquan Timur
-> **Notable People:** Rivan, Moro (shadowless bartender), Nenek Laksmi
-> **Status:** Two districts of the same city
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Zundabun Borough</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan Timur</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Rivan, Moro (shadowless bartender), Nenek Laksmi</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Two districts of the same city</div></div></div></div>
+
 
 ## What Matters Here
 

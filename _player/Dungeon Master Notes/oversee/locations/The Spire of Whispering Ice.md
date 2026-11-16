@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: Frosthaven Peak
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Frosthaven Peak
-> **Notable People:** [[oversee/npcs/Vythrax]]
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Spire of Whispering Ice</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Frosthaven Peak</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[oversee/npcs/Vythrax]]</div></div></div></div>
 
 ## What Matters Here
 - A colossal ice stalagmite. Taller than the clouds.

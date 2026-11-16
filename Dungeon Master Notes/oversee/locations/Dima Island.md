@@ -6,9 +6,8 @@ aliases:
   - Pulau Dima
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Tropical island between Harka and Pirizia
-> **Notable People:** [[Guanik Smith|Guanik]] (deceased), Janja (deceased), Dontol, Huan, Nila
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Dima Island</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Tropical island between Harka and Pirizia</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[Guanik Smith|Guanik]] (deceased), Janja (deceased), Dontol, Huan, Nila</div></div></div></div>
+
 
 ## What Matters Here
 - Beautiful tropical island. White sand. Coconut trees.

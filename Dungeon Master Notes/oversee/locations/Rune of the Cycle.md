@@ -5,9 +5,9 @@ universe: Oversee
 aliases:
   - The Rune of the Cycle
 ---
-> [!info] At a Glance
-> **Part of:** Near Maw Desert
-> **Notable People:** None
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Rune of the Cycle</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Near Maw Desert</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">None</div></div></div></div>
+
 
 ## What Matters Here
 - A stone circle in the desert. Worn, ancient, half-buried in sand.
@@ -19,8 +19,7 @@ aliases:
 
 ## Current State
 - Undisturbed. Waiting.
-
-
+::/pf
 %% DM SECRETS %%
 - The Rune is a Cycle Clan outpost. It is warded against scrying.
 - Beneath the stones: a hidden vault with the **fourth Gemheart's location** (Topaju, inside Darvin).

@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: Above Arbor Mountains
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Above Arbor Mountains (Harka/Elis border)
-> **Notable People:** Varek (last lucid resident)
-> **Status:** Isolated. Fog-locked.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Cloud Prison</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Above Arbor Mountains (Harka/Elis border)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Varek (last lucid resident)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Isolated. Fog-locked.</div></div></div></div>
 
 ## What Matters Here
 - A colony built on the peaks above the cloud layer.

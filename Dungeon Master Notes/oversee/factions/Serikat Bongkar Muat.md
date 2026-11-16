@@ -5,10 +5,8 @@ attitude_to_party: neutral (friendly if earned)
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Leader:** Pak Basir
-> **Attitude Toward Us:** Neutral (friendly if earned)
-> **Base:** Javan Town Docks
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Serikat Bongkar Muat</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Pak Basir</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Neutral (friendly if earned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Javan Town Docks</div></div></div></div>
+
 
 ## What We Know
 - The dockworker union of Javan Town.

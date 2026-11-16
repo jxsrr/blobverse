@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: West Harka (coastal peninsula)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka
-> **Status:** Destroyed — sunk into the sea (Session 01)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Greyland Castle</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Destroyed — sunk into the sea (Session 01)</div></div></div></div>
 
 ## What Mattered Here
 - Ruined castle. Crumbling stone. Six-pointed star banner.

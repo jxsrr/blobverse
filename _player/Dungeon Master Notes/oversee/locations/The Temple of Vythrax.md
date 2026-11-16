@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: Frostheart Village (Frosthaven Peak)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Frostheart Village
-> **Notable People:** Elder Jarl, the priests of [[oversee/npcs/Vythrax]]
-> **Status:** Active. Holy. Changed.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Temple of Vythrax</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Elder Jarl, the priests of [[oversee/npcs/Vythrax]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Holy. Changed.</div></div></div></div>
 
 ## What Matters Here
 - The tallest and most intricate ice structure in Frostheart.

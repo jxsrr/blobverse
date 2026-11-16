@@ -5,10 +5,7 @@ universe: Oversee
 aliases:
   - Universitas Tarakita
 ---
-> [!info] At a Glance
-> **Part of:** Rioquan Timur Barat
-> **Notable People:** Professor Rubi, Rivan, Kael (student), the Living Failures
-> **Status:** Active. Guarded.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Tarakita University of Heroism</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan Timur Barat</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Professor Rubi, Rivan, Kael (student), the Living Failures</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
 
 ## What Matters Here
 - A **university** in Rioquan Timur Barat. Dedicated to arcane arts and history.

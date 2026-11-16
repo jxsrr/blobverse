@@ -3,10 +3,7 @@ type: Sonstige Location
 parent_location: Southeast Peninsula
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Part of:** Southeast Peninsula
-> **Notable People:** The Grafsten family, Zenroy Dala
-> **Status:** Small port town. Developing. Under imperial scrutiny.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Grafstenmouth</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Southeast Peninsula</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Grafsten family, Zenroy Dala</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Small port town. Developing. Under imperial scrutiny.</div></div></div></div>
 
 ## What Matters Here
 - A small port town at the tip of the **Southeast Peninsula**.

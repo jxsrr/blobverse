@@ -5,9 +5,9 @@ universe: Oversee
 aliases:
   - Ngarai Ratapan
 ---
-> [!info] At a Glance
-> **Part of:** Rioquan East
-> **Status:** Unexplored
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Canyon of Lament</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan East</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Unexplored</div></div></div></div>
+
 
 ## What Matters Here
 - A canyon so deep no one has ever reached the bottom and returned.
@@ -18,8 +18,7 @@ aliases:
 
 ## Current State
 - Unmapped. Unclaimed. Extremely dangerous.
-
-
+::/pf
 %% DM SECRETS %%
 - The canyon is not bottomless. It leads to a **Cycle Clan ruin** and a cult that worships the tears.
 - Zenahhi is held by a **Teary Knight** — a spirit bound to the blade.

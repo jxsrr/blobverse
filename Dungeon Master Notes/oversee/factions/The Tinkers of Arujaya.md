@@ -5,10 +5,8 @@ attitude_to_party: neutral
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Leader:** Echo Gzirmo (figurehead), Dr. Vektor (de facto)
-> **Attitude Toward Us:** Neutral
-> **Base:** Arujaya (underground city)
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Tinkers of Arujaya</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Echo Gzirmo (figurehead), Dr. Vektor (de facto)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Neutral</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Arujaya (underground city)</div></div></div></div>
+
 
 ## What We Know
 - A community of engineers, mechanics, and scientists.

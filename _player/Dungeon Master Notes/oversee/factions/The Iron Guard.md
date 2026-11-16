@@ -4,10 +4,7 @@ leader: Iron Gort
 attitude_to_party: hostile
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Leader:** [[oversee/npcs/Lei Iron Gort|Gort]] (Wakil Pertahanan)
-> **Attitude Toward Us:** Hostile
-> **Base:** Ironhold
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Iron Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">[[oversee/npcs/Lei Iron Gort|Gort]] (Wakil Pertahanan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ironhold</div></div></div></div>
 
 ## What We Know
 - The military arm of the Commonwealth. Officially called the **Garda Besi**.

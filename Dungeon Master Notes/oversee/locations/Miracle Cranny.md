@@ -3,10 +3,9 @@ type: Oversee Location
 parent_location: Between Pegunungan Arbor and the eastern lowlands
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Between Harka and the eastern lowlands
-> **Notable People:** Jenderal Bisu, Mak Sari
-> **Status:** Active. Quiet. Holy.
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Miracle Cranny</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Between Harka and the eastern lowlands</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Jenderal Bisu, Mak Sari</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Quiet. Holy.</div></div></div></div>
+
 
 ## What Matters Here
 - A narrow gap between two granite cliffs. Hundreds of swords and spears are embedded in the walls.
@@ -32,8 +31,7 @@ universe: Oversee
   5. **Wonder** — gain 3d10 temporary HP, see a vision of another Gemheart's location.
   6. **Grand Edition** — ask the DM one question about the Gap or the Overseer. The DM must answer truthfully.
 - The Well is guarded by the **Well Guardian** (CR 6, golden water elemental). It only attacks if the party takes more water than they need.
-
-
+::/pf
 %% DM SECRETS %%
 - Jenderal Bisu is the last person alive who knew **Olaf Guirela** personally. He will recognize Husgus as Olaf's spiritual successor.
 - The Well of Wonders is a direct leak from **Topaju** (with Lei Alejandro). Drinking from it creates a temporary connection to the Gemheart.

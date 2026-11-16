@@ -4,10 +4,8 @@ parent_location: Outskirts of Calamara
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Outskirts of Calamara
-> **Notable People:** The Ashbourne family
-> **Status:** Old manor. Quiet. Full of secrets.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Ashbourne Manor</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Outskirts of Calamara</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Ashbourne family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Old manor. Quiet. Full of secrets.</div></div></div></div>
+
 
 ## What Matters Here
 - An **old Gothic Revival manor** set within an oak forest.

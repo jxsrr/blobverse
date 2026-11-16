@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: Elis (deep jungle)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Elis, deep jungle
-> **Status:** Dead (for 10,000 years)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The First Tree</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Elis, deep jungle</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Dead (for 10,000 years)</div></div></div></div>
 
 ## What Matters Here
 - A **colossal dead tree**. Scaly bark. No leaves. Trunk wider than a castle.

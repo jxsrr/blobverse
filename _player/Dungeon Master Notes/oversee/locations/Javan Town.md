@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: West Harka (coastal)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka (coastal)
-> **Notable People:** Pak Basir, Father Tulus, Sasimo, Junior, Dora
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Javan Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (coastal)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Pak Basir, Father Tulus, Sasimo, Junior, Dora</div></div></div></div>
 
 ## What Matters Here
 - Working port town. Coal dust, forklifts, labor unions.

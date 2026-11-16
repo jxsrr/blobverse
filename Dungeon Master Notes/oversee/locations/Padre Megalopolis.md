@@ -6,9 +6,8 @@ aliases:
   - Padre City
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** West Harka (capital)
-> **Notable People:** Hanzel Lei Krow (Governor), Valerius, Livia, [[Lei Iron Gort|Gort]]
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Padre Megalopolis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (capital)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Hanzel Lei Krow (Governor), Valerius, Livia, [[Lei Iron Gort|Gort]]</div></div></div></div>
+
 
 ## What Matters Here
 - Built on a mesa. White granite walls 15 meters high.

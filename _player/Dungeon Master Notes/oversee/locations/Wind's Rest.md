@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: South Harka (coastal)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** South Harka
-> **Notable People:** Gunnar Guirela (deceased), Olaf Guirela (from here)
-> **Status:** Small fishing village. Quiet.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Wind's Rest</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">South Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Gunnar Guirela (deceased), Olaf Guirela (from here)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Small fishing village. Quiet.</div></div></div></div>
 
 ## What Matters Here
 - A small fishing village on the southern coast of Harka.

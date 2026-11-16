@@ -5,9 +5,7 @@ universe: Oversee
 aliases:
   - Chenalia
 ---
-> [!info] At a Glance
-> **Part of:** Elis North
-> **Notable People:** Vreina (missing), Klaus (missing), Vya (from here)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Chenalia Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Elis North</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Vreina (missing), Klaus (missing), Vya (from here)</div></div></div></div>
 
 ## What Matters Here
 - Vya's home village. Once a harmonious settlement of music, dance, and nature's blessing.

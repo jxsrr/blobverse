@@ -5,10 +5,7 @@ universe: Oversee
 aliases:
   - Gunung Rayu
 ---
-> [!info] At a Glance
-> **Part of:** West Harka
-> **Notable People:** None (sealed)
-> **Status:** Sealed. Guarded. The site of a secret excavation.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Mount Rayu</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">None (sealed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Sealed. Guarded. The site of a secret excavation.</div></div></div></div>
 
 ## What Matters Here
 - A mountain in the Gruffgud region. Fog-covered. Rocky. Unremarkable.

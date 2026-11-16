@@ -6,9 +6,8 @@ aliases:
   - Frostheart Village
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Pirizia North
-> **Notable People:** Elder Jarl, Yrsa, Oldrunn, Syl's mother
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Frosthaven Peak</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Pirizia North</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Elder Jarl, Yrsa, Oldrunn, Syl's mother</div></div></div></div>
+
 
 ## What Matters Here
 - Highest mountain in Pirizia. Perpetual blizzard. Absolute zero temperatures.

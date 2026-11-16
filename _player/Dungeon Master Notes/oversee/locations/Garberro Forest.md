@@ -5,9 +5,7 @@ universe: Oversee
 aliases:
   - Hutan Garberro
 ---
-> [!info] At a Glance
-> **Part of:** Pirizia
-> **Status:** Unexplored
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Garberro Forest</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Pirizia</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Unexplored</div></div></div></div>
 
 ## What Matters Here
 - A twisted forest. Trees grow crooked. Roots reach like hands.

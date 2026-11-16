@@ -6,10 +6,8 @@ aliases:
   - First Observatory
 ---
 ::pf
-> [!info] At a Glance
-> **Type:** Ancient Optical/Stellar Observatory (First Observatory)
-> **Founder:** [[oversee/npcs/Guanik Wiseman|Guanik Wiseman]] (~1040 BV)
-> **Status:** Superseded by [[oversee/locations/Tarakita University of Heroism|Universitas Tarakita]]
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Observatorium Danau Kuno</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Ancient Optical/Stellar Observatory (First Observatory)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Founder</div><div class="bv-stat-val">[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]] (~1040 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Superseded by [[oversee/locations/Tarakita University of Heroism|Universitas Tarakita]]</div></div></div></div>
+
 
 ## What Matters Here
 - Built by **[[oversee/npcs/Guanik Wiseman|Guanik Wiseman]]** around **1040 BV** on the shores of **Danau Kuno** — the crater lake formed by a fragment of the Shell.

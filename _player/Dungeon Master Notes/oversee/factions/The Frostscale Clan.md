@@ -4,10 +4,7 @@ leader: Elder Jarl (until Syl's naming), Syl Frost (heir-apparent)
 attitude_to_party: allied (through Syl)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Leader:** Elder Jarl (Council of Elders), Syl Frost (heir-apparent)
-> **Attitude Toward Us:** Allied (through Syl)
-> **Base:** Frostheart Village, Frosthaven Peak
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Frostscale Clan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Elder Jarl (Council of Elders), Syl Frost (heir-apparent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Allied (through Syl)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village, Frosthaven Peak</div></div></div></div>
 
 ## What We Know
 - Dragonborn clan of ice. Live at the top of Frosthaven Peak.

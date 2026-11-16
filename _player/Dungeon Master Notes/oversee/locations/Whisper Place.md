@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: West Harka (remote)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka (remote, near the mountains)
-> **Notable People:** Erah (hermit)
-> **Status:** Small, quiet, forgotten
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Whisper Place</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (remote, near the mountains)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Erah (hermit)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Small, quiet, forgotten</div></div></div></div>
 
 ## What Matters Here
 - A small village in the western mountains. Not on most maps.

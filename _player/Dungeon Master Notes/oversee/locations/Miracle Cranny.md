@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: Between Pegunungan Arbor and the eastern lowlands
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Between Harka and the eastern lowlands
-> **Notable People:** Jenderal Bisu, Mak Sari
-> **Status:** Active. Quiet. Holy.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Miracle Cranny</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Between Harka and the eastern lowlands</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Jenderal Bisu, Mak Sari</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Quiet. Holy.</div></div></div></div>
 
 ## What Matters Here
 - A narrow gap between two granite cliffs. Hundreds of swords and spears are embedded in the walls.

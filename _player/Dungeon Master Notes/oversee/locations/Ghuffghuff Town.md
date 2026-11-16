@@ -5,9 +5,7 @@ universe: Oversee
 aliases:
   - Ghuffghuff
 ---
-> [!info] At a Glance
-> **Part of:** West Harka
-> **Notable People:** Memeng, Cindy, Herman, Faska (deceased)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Ghuffghuff Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Memeng, Cindy, Herman, Faska (deceased)</div></div></div></div>
 
 ## What Matters Here
 - Village of hunters and cooks. **Fried rice** is not just food — it is identity.

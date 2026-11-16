@@ -4,10 +4,7 @@ leader: Hildag Grin (The Weaver), Accarus Grin & Geneva Grin (The Smiling Hand)
 attitude_to_party: allied (fragile)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Leader:** [[oversee/npcs/Hildag Grin]] (The Weaver), [[oversee/npcs/Accarus Grin]] & [[oversee/npcs/Geneva Grin]] (The Smiling Hand)
-> **Attitude Toward Us:** Allied (fragile)
-> **Base:** Maw Desert, Pirizia
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Will of Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">[[oversee/npcs/Hildag Grin]] (The Weaver), [[oversee/npcs/Accarus Grin]] & [[oversee/npcs/Geneva Grin]] (The Smiling Hand)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Allied (fragile)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Maw Desert, Pirizia</div></div></div></div>
 
 ## What We Know
 - Organization of Grin-blooded people (eternal smile curse).

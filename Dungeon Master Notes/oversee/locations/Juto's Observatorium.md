@@ -6,10 +6,8 @@ aliases:
   - The Observatorium
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Juto Port City
-> **Notable People:** [[Mira Nouveau|Mira]], Keeper of Secret agents
-> **Status:** Active. Guarded.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Juto's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Juto Port City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[Mira Nouveau|Mira]], Keeper of Secret agents</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active. Guarded.</div></div></div></div>
+
 
 ## What Matters Here
 - A white stone tower in the center of **Juto Port City**. The "Center of Knowledge."

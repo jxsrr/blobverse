@@ -3,10 +3,9 @@ type: Oversee Location
 parent_location: West Harka (remote)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka (remote borderland)
-> **Notable People:** Mak Sari, Milo, Greta (infected)
-> **Status:** Quarantined. Locked from inside.
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Jestnut Valley</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (remote borderland)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Mak Sari, Milo, Greta (infected)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Quarantined. Locked from inside.</div></div></div></div>
+
 
 ## What Matters Here
 - A remote trading post on the border of the wasteland. Once the largest **Jestnut** (magic peanut) depot in the north.
@@ -28,6 +27,7 @@ universe: Oversee
 
 ## What the Party Knows
 - They have not been here.
+::/pf
 %% DM SECRETS %%
 - This is a **Season 3 optional dungeon**. It is tied to Valerius's experiments with HVS.
 

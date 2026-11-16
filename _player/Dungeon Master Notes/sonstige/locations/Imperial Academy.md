@@ -3,9 +3,7 @@ type: Sonstige Location
 parent_location: Imperial Capitol
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Part of:** Imperial Capitol
-> **Status:** Elite school. Rival of FBA.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Imperial Academy</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Imperial Capitol</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Elite school. Rival of FBA.</div></div></div></div>
 
 ## What Matters Here
 - The most prestigious academy in the **Imperial Capitol**.

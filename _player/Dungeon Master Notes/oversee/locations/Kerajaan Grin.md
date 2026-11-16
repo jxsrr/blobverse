@@ -5,10 +5,7 @@ universe: Oversee
 aliases:
   - Grin Kingdom
 ---
-> [!info] At a Glance
-> **Type:** Fallen Kingdom
-> **Notable People:** [[oversee/npcs/Atreus Grin|Atreus Grin]], [[oversee/npcs/Grin Qain|Grin Qain]]
-> **Status:** Collapsed (decades after The Great Disappearance)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Kerajaan Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Fallen Kingdom</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[oversee/npcs/Atreus Grin|Atreus Grin]], [[oversee/npcs/Grin Qain|Grin Qain]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Collapsed (decades after The Great Disappearance)</div></div></div></div>
 
 ## What Matters Here
 - The ancestral homeland of the **Grin bloodline** — a people marked by the **[[oversee/lore/The Grin Curse|eternal smile]]**.

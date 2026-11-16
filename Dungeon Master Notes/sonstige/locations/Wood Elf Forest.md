@@ -4,10 +4,8 @@ parent_location: Unknown (remote forest)
 universe: Sonstige
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** A magical forest. Home of the Wood Elves.
-> **Notable People:** The Cortenya family
-> **Status:** Remote. Magical. Hidden.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Wood Elf Forest</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">A magical forest. Home of the Wood Elves.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Cortenya family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Remote. Magical. Hidden.</div></div></div></div>
+
 
 ## What Matters Here
 - A **magical forest** — home to a Wood Elf community.

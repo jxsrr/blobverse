@@ -3,9 +3,9 @@ type: Oversee Location
 parent_location: Pirizia West
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Pirizia West
-> **Notable People:** [[Lei Iron Gort|Gort]] (commander)
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Ironhold Borough</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Pirizia West</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[Lei Iron Gort|Gort]] (commander)</div></div></div></div>
+
 
 ## What Matters Here
 - Industrial city. No ornament. No warmth.
@@ -19,8 +19,7 @@ universe: Oversee
 ## Current State
 - Fortified. Guarded. Hostile to all outsiders.
 - [[Lei Iron Gort|Gort]] is not here often — he is on campaign.
-
-
+::/pf
 %% DM SECRETS %%
 - Ironhold is where the Commonwealth produces its anti-magic weapons.
 - The city is powered by a **captured Echo** — not Gzirmo, but another fragment. It is being tortured for power.

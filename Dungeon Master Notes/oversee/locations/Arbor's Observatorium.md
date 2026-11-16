@@ -4,10 +4,8 @@ parent_location: Pegunungan Arbor (Harka/Elis border) — foot of the mountain
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Lake at the foot of Pegunungan Arbor
-> **Notable People:** None (abandoned)
-> **Status:** Ruined. Partly submerged. Haunted by whispers.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Arbor's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Lake at the foot of Pegunungan Arbor</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">None (abandoned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Ruined. Partly submerged. Haunted by whispers.</div></div></div></div>
+
 
 ## What Matters Here
 - A **lake of ancient water** at the foot of **Pegunungan Arbor**. Dark blue. Never moves. No wind touches it.

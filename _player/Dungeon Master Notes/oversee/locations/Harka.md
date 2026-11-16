@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: Oversee (Continent)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** Major Continent
-> **Key Settlements:** [[oversee/locations/Padre Megalopolis|Padre City]], [[oversee/locations/Yawning Town|Yawning Town]], [[oversee/locations/Javan Town|Javan Town]]
-> **Status:** Active (Commonwealth heartland)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Major Continent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Key Settlements</div><div class="bv-stat-val">[[oversee/locations/Padre Megalopolis|Padre City]], [[oversee/locations/Yawning Town|Yawning Town]], [[oversee/locations/Javan Town|Javan Town]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Active (Commonwealth heartland)</div></div></div></div>
 
 ## What Matters Here
 - One of the major continents of **Oversee**, home to sprawling urban centers such as **[[oversee/locations/Padre Megalopolis|Padre City]]**, **[[oversee/locations/Yawning Town|Yawning Town]]**, and **[[oversee/locations/Javan Town|Javan Town]]**.

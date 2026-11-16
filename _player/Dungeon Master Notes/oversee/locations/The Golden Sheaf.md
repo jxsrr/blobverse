@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: Nesia Town
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Type:** Small Countryside Inn
-> **Where:** [[oversee/locations/Nesia Town|Nesia Town]]
-> **Notable People:** [[oversee/npcs/Joni|Joni]], [[oversee/npcs/Siti|Siti]], [[oversee/pcs/Zure Ama|Zure Ama]]
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Golden Sheaf</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Small Countryside Inn</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Where</div><div class="bv-stat-val">[[oversee/locations/Nesia Town|Nesia Town]]</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">[[oversee/npcs/Joni|Joni]], [[oversee/npcs/Siti|Siti]], [[oversee/pcs/Zure Ama|Zure Ama]]</div></div></div></div>
 
 ## What Matters Here
 - A modest, welcoming inn in **[[oversee/locations/Nesia Town|Nesia Town]]** run by **[[oversee/npcs/Joni|Joni]]** and **[[oversee/npcs/Siti|Siti]]**.

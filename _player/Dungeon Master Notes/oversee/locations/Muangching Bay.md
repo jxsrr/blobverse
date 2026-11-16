@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: North Harka (coastal)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** North Harka
-> **Notable People:** Ibu Sari (lemonade seller)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Muangching Bay</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">North Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Ibu Sari (lemonade seller)</div></div></div></div>
 
 ## What Matters Here
 - Fishing town. Wooden houses. Palm trees. Smell of salt and fish.

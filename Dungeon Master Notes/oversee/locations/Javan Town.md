@@ -3,9 +3,9 @@ type: Oversee Location
 parent_location: West Harka (coastal)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka (coastal)
-> **Notable People:** Pak Basir, Father Tulus, Sasimo, Junior, Dora
+::pf
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Javan Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (coastal)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Pak Basir, Father Tulus, Sasimo, Junior, Dora</div></div></div></div>
+
 
 ## What Matters Here
 - Working port town. Coal dust, forklifts, labor unions.
@@ -20,8 +20,7 @@ universe: Oversee
 - The party arrived here on their way to Padre City ([[Session 04 — Territorial|Session 04]]).
 - They learned about the Triase from Commonwealth soldiers.
 - They met Pak Andreas here.
-
-
+::/pf
 %% DM SECRETS %%
 - Javan Town is a major smuggling hub for Will of Grin. Sasimo is a Grin agent.
 - Father Tulus is not corrupt — he is just broken. He knows who killed the port workers but can't prove it.

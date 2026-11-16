@@ -3,9 +3,7 @@ type: Sonstige Location
 parent_location: Southwest Calamara
 universe: Sonstige
 ---
-> [!info] At a Glance
-> **Part of:** Southwest Calamara
-> **Status:** Rival school. Famous for its Jounce program.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Everglade Academy</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Southwest Calamara</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Rival school. Famous for its Jounce program.</div></div></div></div>
 
 ## What Matters Here
 - The academy with the **most celebrated Jounce varsity team** in Calamara.

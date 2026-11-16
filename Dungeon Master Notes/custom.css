@@ -648,3 +648,25 @@ a.wikilink:hover, a[href*="/oversee/"]:hover, a[href*="/sonstige/"]:hover, a[hre
   .bv-relic::before { background: #e3b341; }
   .bv-relic-kicker { color: #e3b341; }
 }
+
+/* === World Showcase Cards (Factions, Locations, Canon) === */
+.bv-world {
+  position: relative; padding: 1.4rem 1.6rem; margin: 0.75rem 0 1.75rem;
+  border-radius: 10px; border: 1px solid var(--color-l-border);
+  background: linear-gradient(135deg, color-mix(in srgb, var(--bv-card-accent, var(--color-l-accent)) 8%, var(--color-l-bg)) 0%, var(--color-l-bg-secondary) 100%);
+  overflow: hidden;
+}
+.bv-world::before { content: ""; position: absolute; top: 0; left: 0; bottom: 0; width: 5px; background: var(--bv-card-accent, var(--color-l-accent)); }
+.bv-world-faction { --bv-card-accent: #7c3aed; }
+.bv-world-location { --bv-card-accent: #0f766e; }
+.bv-world-canon { --bv-card-accent: #b45309; }
+.bv-world-kicker { font-family: var(--font-family-monospace); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--bv-card-accent, var(--color-l-accent)); margin-bottom: 0.3rem; }
+.bv-world-title { font-family: var(--font-family-heading); font-size: 1.95rem; font-weight: 700; line-height: 1.15; margin: 0 0 0.35rem; }
+.bv-world-sub { font-style: italic; font-size: 0.96rem; color: var(--color-l-text-secondary); margin: 0 0 0.85rem; }
+@media (prefers-color-scheme: dark) {
+  .bv-world { border-color: var(--color-d-border); background: linear-gradient(135deg, color-mix(in srgb, var(--bv-card-accent, var(--color-d-accent)) 12%, var(--color-d-bg)) 0%, var(--color-d-bg-secondary) 100%); }
+  .bv-world-faction { --bv-card-accent: #c4b5fd; }
+  .bv-world-location { --bv-card-accent: #5eead4; }
+  .bv-world-canon { --bv-card-accent: #fbbf24; }
+  .bv-world-sub { color: var(--color-d-text-secondary); }
+}

@@ -4,10 +4,8 @@ parent_location: Deep beneath the Elis Ocean
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Deep beneath the Elis Ocean
-> **Notable People:** The Kuo Lau King, Babibubebo (lost prince)
-> **Status:** Hidden. Isolationist. In danger.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Kuo Lau Kingdom</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Deep beneath the Elis Ocean</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Kuo Lau King, Babibubebo (lost prince)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Hidden. Isolationist. In danger.</div></div></div></div>
+
 
 ## What Matters Here
 - An underwater kingdom of coral, pearl, and bioluminescence, deep beneath the Elis Ocean.

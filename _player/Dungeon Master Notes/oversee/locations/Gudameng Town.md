@@ -3,10 +3,7 @@ type: Oversee Location
 parent_location: West Harka
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** West Harka
-> **Notable People:** Cindy (guardian of the Legendary Noodle Temple)
-> **Status:** Rebuilt, peaceful
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Gudameng Town</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Cindy (guardian of the Legendary Noodle Temple)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Rebuilt, peaceful</div></div></div></div>
 
 ## What Matters Here
 - **Rival village** to Ghuffghuff. The Gruffgud War was fought over fried rice vs. fried noodles.

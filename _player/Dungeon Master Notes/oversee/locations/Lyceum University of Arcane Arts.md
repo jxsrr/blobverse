@@ -3,9 +3,7 @@ type: Oversee Location
 parent_location: Padre City (Middle Ring)
 universe: Oversee
 ---
-> [!info] At a Glance
-> **Part of:** Padre City (Middle Ring)
-> **Notable People:** Professor Alistair Donta (deceased), Professor Howdy (deceased)
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Lyceum University of Arcane Arts</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Padre City (Middle Ring)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Professor Alistair Donta (deceased), Professor Howdy (deceased)</div></div></div></div>
 
 ## What Matters Here
 - The most prestigious magical university in Oversee.

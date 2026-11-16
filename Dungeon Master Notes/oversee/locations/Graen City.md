@@ -4,10 +4,8 @@ parent_location: Rioquan Timur (coastal)
 universe: Oversee
 ---
 ::pf
-> [!info] At a Glance
-> **Part of:** Rioquan Timur (coastal)
-> **Notable People:** Kuur (mute beggar), Nenek Laksmi (blind code-breaker, hidden)
-> **Status:** Small coastal town. Carnival atmosphere.
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Graen City</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan Timur (coastal)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Kuur (mute beggar), Nenek Laksmi (blind code-breaker, hidden)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Small coastal town. Carnival atmosphere.</div></div></div></div>
+
 
 ## What Matters Here
 - A coastal town in Rioquan Timur. Warm. Tropical. Colorful.
