@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Sejarah di FBA. Sejarawan karismatik dari keluarga lama Calamara.
+> **Role:** History teacher at FBA. A charismatic historian from an old Calamara family.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria paruh baya dengan rambut cokelat yang selalu rapi.
-- Jas wol dengan potongan klasik. Dasi kupu-kupu. Sepatu kulit yang mengkilap.
-- Selalu membawa buku catatan kulit yang tebal — jurnal pribadinya.
-- Senyum yang hangat. Mata yang hangat. Terlalu hangat.
+- A middle-aged man with brown hair always neatly kept.
+- A woollen suit with a classic cut. A bow tie. Polished leather shoes.
+- Always carrying a thick leather notebook — his private journal.
+- A warm smile. Warm eyes. Too warm.
 
 ## Personality
-- Karismatik. Menawan. Hafal semua skandal kota sampai detail.
-- Mengajar dengan cerita. Membuat sejarah hidup.
-- Tahu lebih banyak daripada yang ia katakan.
-- Tidak pernah berbohong. Tapi tidak pernah mengatakan seluruh kebenaran.
+- Charismatic. Charming. Knows every scandal in the city down to the detail.
+- Teaches with stories. Makes history come alive.
+- Knows more than he says.
+- Never lies. But never tells the whole truth.
 
 ## What the Party Knows
-- Guru Sejarah. Salah satu pengajar paling populer di FBA.
-- Hafal semua skandal Calamara — dari yang ringan sampai yang berat.
-- Mengajar dengan cerita. Membuat sejarah terasa hidup.
-- Mungkin tahu tentang baterai, tapi tidak bisa membuktikannya.
+- The History teacher. One of the most popular instructors at FBA.
+- Knows every Calamara scandal — from the minor to the major.
+- Teaches with stories. Makes history feel alive.
+- May know about the Battery, but cannot prove it.
 
 ## What He Offers
-- **Informasi tentang sejarah Calamara.** Jika party ingin tahu tentang keluarga-keluarga lama, tentang skandal-skandal, tentang Bellweather — ia adalah sumber terbaik.
-- **Petunjuk tentang FBA.** Jika party bertanya dengan tepat, ia mungkin akan berbicara. Tapi ia akan berbicara dalam teka-teki.
+- **Information about Calamara's history.** If the party wants to know about the old families, about the scandals, about Bellweather — he is the best source.
+- **Clues about FBA.** If the party asks the right questions, he may speak. But he will speak in riddles.

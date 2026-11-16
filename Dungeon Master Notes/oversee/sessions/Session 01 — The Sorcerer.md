@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 1
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.
 ## Part 1: Forming the Company and the Road to Greyland
 

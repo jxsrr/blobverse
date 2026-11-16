@@ -2,8 +2,9 @@
 type: Oversee Session
 session_number: 2
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.
 
 ## Part 1: The Dream of Fate
@@ -80,7 +81,7 @@ They had no money, no lodging, and no plan.
 
 They needed a place to sleep.
 
-Their first stop was the **[[oversee/locations/Juto's Observatorium]]** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
+Their first stop was the **[Juto's Observatorium](/oversee/locations/Juto%27s%20Observatorium)** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
 
 But the Observatorium was closed for the evening.
 
@@ -108,7 +109,7 @@ But Pops remembered. He remembered a name — **[[oversee/npcs/Atlan Nouveau]]**
 
 They did not understand the significance yet.
 
-That night, they found **[[Nenek Elara|Karang Tidur]]** — a former private residence of a Juto mayor, now a free guesthouse for adventurers. It was old, and small, and smelled of salt and coral.
+That night, they found **[[oversee/npcs/Elara|Karang Tidur]]** — a former private residence of a Juto mayor, now a free guesthouse for adventurers. It was old, and small, and smelled of salt and coral.
 
 They slept.
 
@@ -122,7 +123,7 @@ At dawn, a scream.
 
 The party's emerald and ruby — the gem from Greyland and the gem from Pulau Dima — were gone.
 
-**[[oversee/items/Atlan's Compass]]** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
+**[Atlan's Compass](/oversee/items/Atlan%27s%20Compass)** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
 
 They followed it.
 
@@ -136,7 +137,7 @@ Not the gems. Just food.
 
 He was not the thief. He was simply hungry.
 
-The party realized the compass was pointing at the same location — but at a different layer. Directly **above** the Sea Temple, carved into the same cliff, was the **[[The Observatorium|Observatorium]]**.
+The party realized the compass was pointing at the same location — but at a different layer. Directly **above** the Sea Temple, carved into the same cliff, was the **[Observatorium](/oversee/locations/Juto%27s%20Observatorium)**.
 
 ## Part 7: The Hidden Base
 
@@ -183,7 +184,7 @@ They wrote them.
 
 The door opened.
 
-Behind it stood a woman — half-elf, sharp-eyed, carrying a sword that glowed faintly with ancient magic. Beside her, **[[Nenek Elara|Elara]]**, holding the green gem and the red gem in her hands.
+Behind it stood a woman — half-elf, sharp-eyed, carrying a sword that glowed faintly with ancient magic. Beside her, **[[oversee/npcs/Elara|Elara]]**, holding the green gem and the red gem in her hands.
 
 The woman spoke.
 
@@ -201,7 +202,7 @@ She also told them something else: **[[oversee/items/Safayer]]** — the second 
 
 To face a dragon, they would need **[[oversee/items/Gustaero — The Swan Bow]]** — the legendary bow once carried by **[[oversee/npcs/Olaf Guirela]]**, then passed to **[[oversee/npcs/Gordon]]**, then to **[[oversee/pcs/Husgus]]**.
 
-And that bow, she believed, was in **[[Ghuffghuff]]** — the village of fried rice, deep in Harka.
+And that bow, she believed, was in **[[oversee/locations/Ghuffghuff Town]]** — the village of fried rice, deep in Harka.
 
 She assigned **[[oversee/npcs/Agus]]** to travel with them.
 
@@ -211,7 +212,7 @@ And they did not know — not yet — that Agus was already working for someone 
 
 ## Loot & Rewards
 - Membership in the **[[oversee/factions/Keeper of Secret]]**
-- **[[oversee/items/Atlan's Compass]]** — a compass that points to lost things
+- **[Atlan's Compass](/oversee/items/Atlan%27s%20Compass)** — a compass that points to lost things
 - The location of **[[oversee/items/Gustaero — The Swan Bow]]**
 
 ## NPCs Encountered
@@ -223,7 +224,7 @@ And they did not know — not yet — that Agus was already working for someone 
 
 ## Locations Visited
 - **[[oversee/locations/Juto Port City]]** — the vertical city
-- **[[oversee/locations/Juto's Observatorium]]** — Center of Knowledge
+- **[Juto's Observatorium](/oversee/locations/Juto%27s%20Observatorium)** — Center of Knowledge
 - **Kuil Lautan** — the Sea Temple
 - **Karang Tidur** — the inn that became their home base
 

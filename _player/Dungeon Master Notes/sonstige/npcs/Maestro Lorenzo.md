@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Literature di FBA. Mengajar dengan merapikan kumis dan gerakan tangan berlebihan.
+> **Role:** Literature teacher at FBA. Teaches with a well-kept moustache and excessive hand gestures.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria paruh baya dengan kumis tebal yang selalu ia rapikan.
-- Jas beludru. Kemeja dengan ruffles. Sepatu bot kulit.
-- Selalu membawa buku. Selalu membacakan sesuatu. Selalu dramatis.
-- Gerakan tangan berlebihan. Ekspresi wajah berlebihan. Suara yang selalu naik turun.
+- A middle-aged man with a thick moustache he is always trimming.
+- A velvet jacket. A shirt with ruffles. Leather boots.
+- Always carrying a book. Always reciting something. Always dramatic.
+- Excessive hand gestures. Excessive facial expressions. A voice that always rises and falls.
 
 ## Personality
-- Dramatis. Theatrical. Mencintai cerita.
-- Mengajar siswa untuk bercerita — dan untuk mendengarkan cerita.
-- Percaya bahwa **cerita adalah cara terbaik untuk memahami dunia**. "Sejarah adalah cerita. Sihir adalah cerita. Bahkan pertempuran adalah cerita. Semua adalah cerita."
-- Tidak pernah berbicara tentang masa lalunya. Tidak pernah.
+- Dramatic. Theatrical. A storyteller.
+- Teaches students to tell stories — and to listen to them.
+- Believes that **story is the best way to understand the world**. "History is a story. Poetry is a story. Even a battle is a story. Everything is a story."
+- Never talks about his past. Never.
 
 ## What the Party Knows
-- Guru Literature. Salah satu pengajar paling dramatis di FBA.
-- Mengajar dengan cerita. Membuat sastra terasa hidup.
-- Tahu banyak cerita tentang Calamara. Tahu banyak cerita tentang FBA.
+- Literature teacher. One of the most dramatic instructors at FBA.
+- Teaches with stories. Makes literature feel alive.
+- Knows many stories about Calamara. Knows many stories about FBA.
 
 ## What He Offers
-- **Keterampilan bercerita.** Jika party ingin belajar cara bercerita, cara menulis, cara membuat orang lain mendengarkan — ia adalah guru terbaik.
-- **Informasi tentang cerita.** Ia tahu semua cerita di Calamara. Ia tahu semua legenda. Ia tahu semua mitos.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **cerita**.
+- **Storytelling skill.** If the party wants to learn to tell stories, to write, to make others listen — he is the best teacher.
+- **Information about stories.** He knows every story in Calamara. He knows every legend. He knows every myth.
+- **Clues about The Bell.** If the party asks about The Bell, he may speak. But he will speak in **story**.

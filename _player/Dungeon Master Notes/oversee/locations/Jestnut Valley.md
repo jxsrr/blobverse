@@ -28,7 +28,3 @@ universe: Oversee
 
 ## What the Party Knows
 - They have not been here.
-- This is a **Season 3 optional dungeon**. It is tied to Valerius's experiments with HVS.
-
-## Current State
-- Quarantined. Still infected. The Commonwealth has sealed it off.

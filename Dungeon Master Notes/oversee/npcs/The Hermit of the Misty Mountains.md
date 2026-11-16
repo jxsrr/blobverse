@@ -7,7 +7,10 @@ status: Alive
 first_seen: Not yet met
 universe: Oversee
 ---
-
+::pf
+> [!info] At a Glance
+> *This character has not yet appeared in the session recaps.*
+::/pf
 %% DM SECRETS %%
 
 ## Who He Is

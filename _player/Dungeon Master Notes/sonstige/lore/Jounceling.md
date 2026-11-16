@@ -3,23 +3,23 @@ type: Sonstige Creature
 universe: Sonstige
 ---
 > [!info] Jounceling
-> Makhluk magis kecil yang dijadikan bola hidup dalam olahraga Jounce.
+> A small magical creature used as a living ball in the sport of Jounce.
 
 ## Appearance
-- Tubuh bulat. Diameter 25–35 cm. Berat 1–3 kg.
-- Anggota tubuh kecil. Mata menonjol.
-- Bergerak dengan menggelinding, memantul, mengapung, atau terbang jarak pendek.
-- Warna bervariasi — beberapa berwarna cerah, beberapa berkilau.
+- Round body. 25–35 cm in diameter. 1–3 kg in weight.
+- Small limbs. Protruding eyes.
+- Moves by rolling, bouncing, floating, or short-distance flight.
+- Colour varies — some brightly coloured, some shimmering.
 
 ## Temperament
-- **Playful** — sering lepas, berubah arah.
-- **Timid** — hindari keramaian dan kontak fisik.
-- **Competitive** — bergerak ke ruang terbuka, mengikuti pemain cepat.
-- **Stubborn** — menolak dioper, kadang menolak bergerak.
-- **Curious** — terdistraksi oleh gerakan atau objek aneh.
+- **Playful** — frequently breaks loose, changes direction.
+- **Timid** — avoids crowds and physical contact.
+- **Competitive** — moves to open space, chases fast players.
+- **Stubborn** — refuses to be passed, sometimes refuses to move.
+- **Curious** — distracted by motion or strange objects.
 
-## Aturan
-- Setiap pertandingan menggunakan satu Jounceling resmi.
-- Jounceling diperiksa sebelum dan sesudah pertandingan.
-- Pemain dilarang melukai atau menakut-nakuti Jounceling.
-- Manipulasi magis terhadap Jounceling dilarang.
+## Rules
+- Each match uses one official Jounceling.
+- Jouncelings are inspected before and after each match.
+- Players are forbidden from harming or frightening a Jounceling.
+- Magical manipulation of a Jounceling is forbidden.

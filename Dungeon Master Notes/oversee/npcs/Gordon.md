@@ -30,7 +30,6 @@ universe: Oversee
 ## Current State
 - Dead. Buried in Hutan Domido.
 ::/pf
-
 %% DM SECRETS %%
 
 ### Who Gordon Is
@@ -170,7 +169,6 @@ universe: Oversee
 
 ## Current State
 - Dead. Buried in Hutan Domido.
-::/pf
 
 %% DM SECRETS %%
 - Gordon was **over 500 years old** when he died. He was kept alive by the Gustaero bow (a side effect no one understood).

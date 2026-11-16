@@ -2,8 +2,9 @@
 type: Oversee Session
 session_number: 4
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > A festival, three leaders, one dead professor, and a choice between two factions.
 ## Part 1: Seven Days
 

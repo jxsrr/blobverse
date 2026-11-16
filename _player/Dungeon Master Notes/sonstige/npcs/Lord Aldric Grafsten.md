@@ -8,24 +8,24 @@ first_seen: Session 01 (family scene — Zenroy's departure)
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Kepala keluarga Grafsten. Penguasa Grafstenmouth. Majikan Zenroy.
+> **Role:** Head of the Grafsten family. Ruler of Grafstenmouth. Zenroy's employer.
 > **Where:** Grafstenmouth, Southeast Peninsula
 > **Status:** Alive
 
 ## Appearance
-- Manusia. Paruh baya. Rambut abu-abu yang selalu rapi. Janggut pendek yang dipangkas rapi.
-- Pakaian mahal tapi tidak berlebihan — khas bangsawan pelabuhan.
-- Selalu membawa cincin keluarga Grafsten di jari manisnya.
-- Tatapan tajam. Senyum yang selalu ada — tapi tidak pernah sampai ke mata.
+- Human. Middle-aged. Grey hair always neatly combed. A short, well-trimmed beard.
+- Expensive but restrained clothes — the cut of a port noble.
+- Always wearing the Grafsten family ring on his right hand.
+- A sharp gaze. A smile always present — but never reaching his eyes.
 
 ## Personality
-- Ambisius. Strategis. Tidak pernah menunjukkan emosi yang sebenarnya.
-- Sangat peduli pada **reputasi keluarga Grafsten** — terutama setelah perselisihan dengan keluarga kekaisaran.
-- Melihat Zenroy sebagai **investasi** — bukan sebagai anak.
-- Tidak kejam — hanya **praktis**.
+- Ambitious. Strategic. Never reveals his true feelings.
+- Deeply invested in the **Grafsten family's reputation** — especially since the dispute with the imperial family.
+- Sees Zenroy as an **investment** — not as a child.
+- Not cruel — merely **practical**.
 
 ## What the Party Knows
-- Kepala keluarga Grafsten. Penguasa Grafstenmouth.
-- Majikan Zenroy.
-- Sedang menghadapi perselisihan dengan keluarga kekaisaran.
-- Mengirim Zenroy ke FBA untuk membangun koneksi dan memulihkan reputasi Grafsten.
+- Head of the Grafsten family. Ruler of Grafstenmouth.
+- Zenroy's employer.
+- Currently facing a dispute with the imperial family.
+- Sent Zenroy to FBA to build connections and restore the Grafsten reputation.

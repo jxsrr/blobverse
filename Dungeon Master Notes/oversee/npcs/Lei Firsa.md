@@ -7,6 +7,7 @@ status: Ambiguous (may be alive, may be dead, may be something else)
 first_seen: Not yet met (mentioned in lore)
 universe: Oversee
 ---
+::pf
 > [!info] At a Glance
 > **Role:** The true founder of Klan Lei. The woman who forced Simon into the Valla role.
 > **Where:** Unknown
@@ -30,7 +31,6 @@ universe: Oversee
 - What she wants.
 - Whether she is still human.
 ::/pf
-
 %% DM SECRETS %%
 
 ### The Ambiguity — A DM Choice

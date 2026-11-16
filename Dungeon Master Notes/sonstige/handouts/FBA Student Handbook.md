@@ -3,103 +3,104 @@ type: handout
 given_in: Session 01
 universe: Sonstige
 ---
-## Selamat Datang di The Free Bird Academy
-*"Terbang Tinggi. Tetap Rendah Hati."*
+## Welcome to The Free Bird Academy
+*"Fly High. Stay Humble."*
 
-## Jadwal Harian
+## Daily Schedule
 
-| Waktu           | Kegiatan                                                          |
-| :-------------- | :---------------------------------------------------------------- |
-| **07:00**       | Gerbang dibuka. Siswa boleh datang lebih awal.                    |
-| **07:30**       | Sarapan di Dining Hall (opsional — siswa boleh sarapan di rumah). |
-| **07:50**       | School Bell berbunyi. Siswa masuk homeroom per Wing.              |
-| **08:00–09:30** | Periode 1                                                         |
-| **09:30–09:45** | Break                                                             |
-| **09:45–11:15** | Periode 2                                                         |
-| **11:15–12:30** | Makan siang di Dining Hall                                        |
-| **12:30–14:00** | Periode 3                                                         |
-| **14:00–14:15** | Break                                                             |
-| **14:15–15:45** | Periode 4                                                         |
-| **16:00–17:30** | **Wing Meeting** & Ekstrakurikuler                                |
-| **17:30**       | Gerbang ditutup. Siswa pulang.                                    |
-| **18:00**       | Kegiatan sekolah selesai (staf only).                             |
+| Time | Activity |
+| :--- | :--- |
+| **07:00** | Gates open. Students may arrive early. |
+| **07:30** | Breakfast in the Dining Hall (optional — students may eat at home). |
+| **07:50** | The school bell rings. Students enter their Wing homeroom. |
+| **08:00–09:30** | Period 1 |
+| **09:30–09:45** | Break |
+| **09:45–11:15** | Period 2 |
+| **11:15–12:30** | Lunch in the Dining Hall |
+| **12:30–14:00** | Period 3 |
+| **14:00–14:15** | Break |
+| **14:15–15:45** | Period 4 |
+| **16:00–17:30** | **Wing Meeting** & Extracurricular |
+| **17:30** | Gates close. Students go home. |
+| **18:00** | School activity ends (staff only). |
 
-**Catatan:** FBA adalah sekolah **pulang-pergi**. Siswa wajib pulang ke rumah masing-masing setiap hari. Tidak ada asrama.
+**Note:** FBA is a **commuter** school. Students must return home each day. There are no dormitories.
 
-## Kelas
+## Classes
 
-**Senin:**
-- Periode 1 (08:00–09:30) — **Practical Sciences** (Dr. Fenwick)
-- Periode 2 (09:45–11:15) — **Civics & Magical Law** (Prof. Quill)
-- Periode 3 (12:30–14:00) — **History** (Mr. Elias)
-- Periode 4 (14:15–15:45) — **Literature** (Maestro Lorenzo)
+**Monday:**
+- Period 1 (08:00–09:30) — **Practical Sciences** (Dr. Fenwick)
+- Period 2 (09:45–11:15) — **Civics & Magical Law** (Prof. Quill)
+- Period 3 (12:30–14:00) — **History** (Mr. Elias)
+- Period 4 (14:15–15:45) — **Literature** (Maestro Lorenzo)
 
-**Selasa:**
-- Periode 1 (08:00–09:30) — **Algebra** (Prof. Imelda)
-- Periode 2 (09:45–11:15) — **Divination Ethics** (Dr. Ope)
-- Periode 3 (12:30–14:00) — **Literature** (Maestro Lorenzo)
-- Periode 4 (14:15–15:45) — **Physical Education** (Coach Garrick)
+**Tuesday:**
+- Period 1 (08:00–09:30) — **Algebra** (Prof. Imelda)
+- Period 2 (09:45–11:15) — **Divination Ethics** (Dr. Ope)
+- Period 3 (12:30–14:00) — **Literature** (Maestro Lorenzo)
+- Period 4 (14:15–15:45) — **Physical Education** (Coach Garrick)
 
-**Rabu:**
-- Periode 1 (08:00–09:30) — **History** (Mr. Elias)
-- Periode 2 (09:45–11:15) — **Literature** (Maestro Lorenzo)
-- Periode 3 (12:30–14:00) — **Physical Education** (Coach Garrick)
-- Periode 4 (14:15–15:45) — **Civics & Magical Law** (Prof. Quill)
+**Wednesday:**
+- Period 1 (08:00–09:30) — **History** (Mr. Elias)
+- Period 2 (09:45–11:15) — **Literature** (Maestro Lorenzo)
+- Period 3 (12:30–14:00) — **Physical Education** (Coach Garrick)
+- Period 4 (14:15–15:45) — **Civics & Magical Law** (Prof. Quill)
 
-**Kamis:**
-- Periode 1 (08:00–09:30) — **Practical Sciences** (Dr. Fenwick)
-- Periode 2 (09:45–11:15) — **Algebra** (Prof. Imelda)
-- Periode 3 (12:30–14:00) — **History** (Mr. Elias)
-- Periode 4 (14:15–15:45) — **Social Enchantment** (Madame Seraphine)
+**Thursday:**
+- Period 1 (08:00–09:30) — **Practical Sciences** (Dr. Fenwick)
+- Period 2 (09:45–11:15) — **Algebra** (Prof. Imelda)
+- Period 3 (12:30–14:00) — **History** (Mr. Elias)
+- Period 4 (14:15–15:45) — **Social Enchantment** (Madame Seraphine)
 
-**Jumat:**
-- Periode 1 (08:00–09:30) — **Social Enchantment** (Madame Seraphine)
-- Periode 2 (09:45–11:15) — **Divination Ethics** (Dr. Ope)
-- Periode 3 (12:30–14:00) — **Practical Sciences** (Dr. Fenwick)
-- Periode 4 (14:15–15:45) — **Civics & Magical Law** (Prof. Quill)
+**Friday:**
+- Period 1 (08:00–09:30) — **Social Enchantment** (Madame Seraphine)
+- Period 2 (09:45–11:15) — **Divination Ethics** (Dr. Ope)
+- Period 3 (12:30–14:00) — **Practical Sciences** (Dr. Fenwick)
+- Period 4 (14:15–15:45) — **Civics & Magical Law** (Prof. Quill)
 
 **Notes:**
-- **Senin pertama tahun ajaran** adalah **hari orientasi dan upacara pembukaan.** Tidak ada kelas reguler. Kegiatan diisi dengan upacara, perkenalan guru, pembagian Wing, dan tur kampus.
-- **Senin berikutnya** — kelas reguler seperti biasa.
-- **Selasa–Jumat** — kelas reguler. Setiap mata pelajaran muncul **2× per minggu**.
-- **16:00–17:30** — **Wing Meeting** setiap Senin. Ekstrakurikuler di hari lain sesuai jadwal klub.
+- **The first Monday of the school year** is **orientation and opening ceremony day.** There are no regular classes. The day is filled with the ceremony, teacher introductions, Wing assignments, and a campus tour.
+- **The following Monday** — regular classes as usual.
+- **Tuesday–Friday** — regular classes. Each subject appears **twice per week**.
+- **16:00–17:30** — **Wing Meeting** every Monday. Extracurriculars on other days per club schedule.
 
-## Tata Tertib
-1. Siswa wajib menghadiri semua kelas yang terjadwal.
-2. Siswa dilarang membawa hewan peliharaan tanpa izin.
-3. Siswa dilarang menggunakan sihir di luar kelas tanpa pengawasan.
-4. Siswa wajib menjaga nama baik sekolah.
-5. Siswa wajib pulang sebelum gerbang ditutup (17:30).
+## Rules of Conduct
+1. Students must attend all scheduled classes.
+2. Students are forbidden from bringing pets without permission.
+3. Students are forbidden from using magic outside class without supervision.
+4. Students must uphold the good name of the school.
+5. Students must return home before the gates close (17:30).
 
-## Wing System
+## The Wing System
 
-| Wing             | Vocational Track | Class Options            | Karakter Studi                 |
-| :--------------- | :--------------- | :----------------------- | :----------------------------- |
-| **Kestrel Wing** | Arcane Studies   | Wizard, Sorcerer         | Akademisi, peneliti, presisi   |
-| **Heron Wing**   | Divine Studies   | Cleric, Paladin          | Moral, tradisi, pelayanan      |
-| **Magpie Wing**  | Performance      | Bard, Rogue              | Ekspresif, sosial, networking  |
-| **Hawk Wing**    | Martial Arts     | Fighter, Barbarian, Monk | Disiplin fisik, kompetisi      |
-| **Sparrow Wing** | Wildcraft        | Ranger, Druid            | Alam, survival, komunitas      |
-| **Rook Wing**    | Contract Magic   | Warlock                  | Eksklusif, tertutup, misterius |
+| Wing | Vocational Track | Class Options | Study Character |
+| :--- | :--- | :--- | :--- |
+| **Kestrel Wing** | Arcane Studies | Wizard, Sorcerer | Academic, researcher, precise |
+| **Heron Wing** | Divine Studies | Cleric, Paladin | Moral, traditional, service |
+| **Magpie Wing** | Performance | Bard, Rogue | Expressive, social, networked |
+| **Hawk Wing** | Martial Arts | Fighter, Barbarian, Monk | Physical discipline, competition |
+| **Sparrow Wing** | Wildcraft | Ranger, Druid | Nature, survival, community |
+| **Rook Wing** | Contract Magic | Warlock | Exclusive, closed, mysterious |
 
-**Catatan:** Wing adalah **fakultas** — bukan asrama. Siswa **memilih** Wing mereka. Tidak ada sorting.
+**Note:** A Wing is a **faculty** — not a dormitory. Students **choose** their Wing. There is no sorting.
 
-## Ekstrakurikuler
-- **The Daily Flight** — koran sekolah
-- **Student Council** — pemerintahan siswa
-- **Moreover Debate Club** — klub debat
-- **Victorious Drama Club** — klub teater
-- **Some Cooking Club** — klub memasak
-- **The Bateleur Eagle** — tim varsity Jounce FBA
+## Extracurriculars
+- **The Daily Flight** — the school newspaper
+- **Student Council** — student government
+- **Moreover Debate Club** — the debate club
+- **Victorious Drama Club** — the theatre club
+- **Some Cooking Club** — the cooking club
+- **The Bateleur Eagle** — FBA's Jounce varsity team
 
-## Jadwal Klub (16:00–17:30)
+## Club Schedule (16:00–17:30)
 
-| Hari       | Klub                                                       |
-| :--------- | :--------------------------------------------------------- |
-| **Senin**  | Wing Meeting (wajib)                                       |
-| **Selasa** | Jounce Practice                                            |
-| **Rabu**   | The Daily Flight, Victorious Drama Club, Some Cooking Club |
-| **Kamis**  | Jounce Practice                                            |
-| **Jumat**  | Moreover Debate Club, Student Council                      |
-## Catatan Penting
-Ingat: kau pulang ke rumah setiap hari. FBA bukan tempat tinggalmu. Ini adalah sekolah.
+| Day | Club |
+| :--- | :--- |
+| **Monday** | Wing Meeting (mandatory) |
+| **Tuesday** | Jounce Practice |
+| **Wednesday** | The Daily Flight, Victorious Drama Club, Some Cooking Club |
+| **Thursday** | Jounce Practice |
+| **Friday** | Moreover Debate Club, Student Council |
+
+## Important Note
+Remember: you go home every day. FBA is not where you live. It is a school.

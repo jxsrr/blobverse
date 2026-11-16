@@ -8,48 +8,48 @@ universe: Sonstige
 ::pf
 > [!info] At a Glance
 > **Full Name:** The Free Bird Academy (FBA)
-> **Motto:** *"Terbang Tinggi. Tetap Rendah Hati."*
+> **Motto:** *"Fly High. Stay Humble."*
 > **Leader:** Mr. Rababrie Bellweather (Headmaster), Bellweather (hidden true power)
 > **Attitude Toward Us:** Neutral
 > **Base:** Calamara, Negara Anderes
 
-## Tiga Pilar FBA
+## The Three Pillars of FBA
 
-FBA bukan sekolah sihir. FBA adalah **akademi** — dengan tiga pilar yang setara:
+FBA is not a school of magic. FBA is an **academy** — with three equal pillars:
 
-| Pilar | Fokus | Wing Terkait |
+| Pillar | Focus | Related Wing |
 | :--- | :--- | :--- |
-| **Akademik** | Ilmu pengetahuan, teori, penelitian, sejarah | Kestrel Wing, Rook Wing |
-| **Atletik** | Jounce, duel, disiplin fisik, kompetisi | Hawk Wing, Sparrow Wing |
-| **Seni & Sosial** | Sastra, performance, diplomasi, komunitas | Magpie Wing, Heron Wing |
+| **Academic** | Knowledge, theory, research, history | Kestrel Wing, Rook Wing |
+| **Athletic** | Jounce, duelling, physical discipline, competition | Hawk Wing, Sparrow Wing |
+| **Arts & Social** | Literature, performance, diplomacy, community | Magpie Wing, Heron Wing |
 
-Sihir hanyalah **salah satu alat** yang dipelajari siswa — bukan satu-satunya. FBA percaya bahwa penyihir yang hebat adalah **manusia yang utuh** — bukan hanya penyihir.
+Magic is only **one tool** students learn — not the only one. FBA believes a great wizard is a **whole person** — not merely a wizard.
 
-## Visi
+## Vision
 
-> *"Menjadi akademi terdepan di Sonstige — tempat di mana pengetahuan, keterampilan, dan karakter bertemu; tempat di mana setiap siswa belajar untuk terbang dengan caranya sendiri."*
+> *"To become the leading academy in Sonstige — the place where knowledge, skill, and character meet; the place where every student learns to fly in their own way."*
 
-**Penjelasan:** FBA tidak ingin mencetak satu cetakan lulusan. FBA ingin mencetak **individu** — yang tahu cara menggunakan kemampuan mereka, yang tahu batas mereka, dan yang tahu **kapan harus berhenti**.
+**Explanation:** FBA does not want to stamp out one mould of graduate. FBA wants to produce **individuals** — who know how to use their abilities, who know their limits, and who know **when to stop**.
 
-## Misi
+## Mission
 
-1. **Menyediakan pendidikan yang seimbang** — akademik, atletik, dan seni. Tidak ada pilar yang lebih penting dari yang lain.
-2. **Membentuk karakter melalui disiplin dan tanggung jawab** — siswa belajar bahwa kemampuan bukan hanya kekuatan, tapi juga beban.
-3. **Menjaga tradisi dan stabilitas** — FBA adalah penjaga pengetahuan lama, penjaga stabilitas Calamara, penjaga **The Bell**.
-4. **Mempersiapkan siswa untuk hidup di dunia nyata** — bukan hanya dunia akademik. Dunia yang penuh persaingan, politik, dan bahaya.
+1. **Provide a balanced education** — academic, athletic, and artistic. No pillar is more important than another.
+2. **Build character through discipline and responsibility** — students learn that ability is not only power, but also a burden.
+3. **Preserve tradition and stability** — FBA is the keeper of old knowledge, the keeper of Calamara's stability, the keeper of **The Bell**.
+4. **Prepare students for life in the real world** — not only the academic world. A world full of rivalry, politics, and danger.
 
-**Yang tidak ditulis di misi resmi:** FBA juga bertugas **menjaga Void tetap stabil** — dengan cara apa pun.
+**What is not written in the official mission:** FBA is also tasked with **keeping the Void stable** — by any means.
 
-## Nilai-Nilai Inti
+## Core Values
 
-| Nilai | Makna |
+| Value | Meaning |
 | :--- | :--- |
-| **Precision** | Tanpa presisi, semuanya hanyalah drama. |
-| **Responsibility** | Kemampuan datang dengan kewajiban. |
-| **Tradition** | Yang lama ada karena alasan. |
-| **Discipline** | Tanpa disiplin, bakat hanyalah potensi. |
-| **Balance** | Akademik, atletik, dan seni — tidak ada yang lebih penting. |
-| **Loyalty** | Kepada sekolah, kepada Calamara, kepada Bellweather. |
+| **Precision** | Without precision, everything is just drama. |
+| **Responsibility** | Ability comes with obligation. |
+| **Tradition** | The old exists for a reason. |
+| **Discipline** | Without discipline, talent is only potential. |
+| **Balance** | Academics, athletics, and arts — none is more important. |
+| **Loyalty** | To the school, to Calamara, to Bellweather. |
 
-**Nilai ketujuh — yang tidak ditulis:** **Sacrifice**. Ada hal-hal yang harus dikorbankan untuk kebaikan yang lebih besar. FBA tidak mengajarkan ini secara langsung. Tapi siswa yang "terpilih" akan memahaminya — cepat atau lambat.
+**The seventh value — unwritten:** **Sacrifice.** Some things must be given up for the greater good. FBA does not teach this directly. But the "chosen" students will come to understand it — sooner or later.
 ::/pf

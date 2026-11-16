@@ -10,7 +10,7 @@ aliases:
   - Dontol
 ---
 > [!info] At a Glance
-> **Role:** Eldest son of [[oversee/npcs/Guanik Smith|Guanik]] and [[oversee/npcs/Janja]]. Brother of [[Huan]] and [[Nila]].
+> **Role:** Eldest son of [[oversee/npcs/Guanik Smith|Guanik]] and [[oversee/npcs/Janja]]. Brother of [[oversee/npcs/Guanik Huan]] and [[oversee/npcs/Guanik Nila]].
 > **Where:** Unknown
 > **Status:** Alive — whereabouts unknown
 

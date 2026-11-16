@@ -2,8 +2,9 @@
 type: Oversee Session
 session_number: 6
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.
 
 ## Part 1: Muangching, Milk, and a Madman
@@ -90,7 +91,7 @@ Ama did not speak for hours. When he did, his voice was very quiet.
 
 They landed on the coast of **Elis** — hidden cove, black sand, salt in the air.
 
-It was **[[Chenalia]]**.
+It was **[[oversee/locations/Chenalia Town]]**.
 
 The village where **[[oversee/pcs/Vya Arleschia|Vya]]** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
 
@@ -168,7 +169,7 @@ They descended.
 
 ## Part 7: Arujaya
 
-**[[Arujaya]]** was not a city. It was a **contradiction**.
+**[[oversee/locations/Arujaya Metropolis]]** was not a city. It was a **contradiction**.
 
 It was scrap metal and neon and steam and LCD screens. It was people — short, dirty, defensive people — who stared at the party like they were aliens. It was markets and workshops and something that looked, impossibly, like **a data network**.
 
@@ -190,7 +191,7 @@ While Ama recovered, the others explored.
 
 They found the **reactor** — a towering structure at the heart of Arujaya, pulsing with energy. It was guarded by something that was not quite a person.
 
-**[[Echo Gzirmo Kopling|Echo Gzirmo]]**.
+**[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]**.
 
 A cyborg. A dragonborn chassis made of scrap and wire. Orange-gold scales replaced by rusted plating. Eyes glowing with residual energy.
 
@@ -230,7 +231,7 @@ It was not a creature. It was a **shell**. A shed skin. Something enormous had o
 
 The video ended.
 
-**[[Echo Gzirmo Kopling|Echo Gzirmo]]** did not say anything for a long moment.
+**[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** did not say anything for a long moment.
 
 Then he said:
 
@@ -248,7 +249,7 @@ Seven days passed.
 
 **[[oversee/pcs/Zure Ama|Ama]]** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
 
-**[[oversee/npcs/Dr. Vektor]]** took the party aside. He told them about his daughter, **[[Dr. Kristine|Kristine]]**, who had died in a mining accident. He told them about the **[[oversee/locations/The First Tree|First Tree]]**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
+**[[oversee/npcs/Dr. Vektor]]** took the party aside. He told them about his daughter, **[[oversee/npcs/Kristine|Kristine]]**, who had died in a mining accident. He told them about the **[[oversee/locations/The First Tree|First Tree]]**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
 
 He did not ask them for help. He did not have to.
 
@@ -256,7 +257,7 @@ The party understood.
 
 They gathered their things. They prepared to leave Arujaya.
 
-But **[[Echo Gzirmo Kopling|Echo Gzirmo]]** stopped them at the gate.
+But **[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** stopped them at the gate.
 
 > *"Do not trust the surface. The Commonwealth knows you are here. They will be waiting."*
 
@@ -283,16 +284,16 @@ And they climbed, for the first time, out of the earth.
 - **[[oversee/npcs/Lei Valerius Thorne]]** — the Chancellor, revealed as Darvin's twin
 - **[[oversee/npcs/Lei Livia Vane]]** — the Justice Deputy, amputated Ama's arm
 - **[[oversee/npcs/Dr. Vektor]]** — the cybernetic surgeon, saved Ama's life
-- **[[Echo Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, showed the Shell video
+- **[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, showed the Shell video
 
 ## Locations Visited
 - **[[oversee/locations/Muangching Bay]]** — the fishing town with no milk
 - **[[oversee/locations/Nesia Town]]** — the rhino dairy town
 - **The Golden Sheaf** — the inn that betrayed Ama
-- **[[Chenalia]]** — Vya's burned village, now under reconstruction
+- **[[oversee/locations/Chenalia Town]]** — Vya's burned village, now under reconstruction
 - **[[oversee/locations/The First Tree]]** — the 10,000-year-old dead root
-- **[[Arujaya]]** — the underground cyberpunk city
+- **[[oversee/locations/Arujaya Metropolis]]** — the underground cyberpunk city
 
 ## Sessions Chain
-- **Previous:** [[Session 05 — The Shell (Full Recap)|Session 05]]
-- **Next:** [[Session 07 — The Depths (Full Recap)|Session 07]]
+- **Previous:** Session 05
+- **Next:** Session 07

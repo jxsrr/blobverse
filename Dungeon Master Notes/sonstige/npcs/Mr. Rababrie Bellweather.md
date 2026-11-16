@@ -9,124 +9,124 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Kepala sekolah The Free Bird Academy. Anggota keluarga Bellweather.
+> **Role:** Headmaster of The Free Bird Academy. Member of the Bellweather family.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria paruh baya dengan rambut hitam yang selalu rapi.
-- Jas wol dengan potongan klasik. Kemeja putih. Dasi kupu-kupu.
-- Senyum yang selalu ada. Mata yang selalu hangat.
-- Selalu terlihat seperti sedang menyambut tamu. Bahkan di kantornya sendiri.
+- A middle-aged man with black hair always neatly kept.
+- A woollen suit with a classic cut. A white shirt. A bow tie.
+- A smile that is always present. Eyes that are always warm.
+- Always looks like he is welcoming a guest. Even in his own office.
 
 ## Personality
-- Ramah. Menawan. Karismatik.
-- Selalu tersenyum. Selalu tenang. Selalu **baik**.
-- Tidak pernah meninggikan suara. Tidak pernah marah. Tidak pernah **kehilangan kendali**.
-- Percaya bahwa **FBA adalah tempat terbaik di dunia**. Dan ia akan melakukan **apa pun** untuk menjaganya.
+- Friendly. Charming. Charismatic.
+- Always smiling. Always calm. Always **kind**.
+- Never raises his voice. Never angry. Never **loses control**.
+- Believes that **FBA is the finest place in the world**. And he will do **anything** to protect it.
 
 ## What the Party Knows
-- Kepala sekolah FBA. Anggota keluarga Bellweather.
-- Ramah. Menawan. Karismatik. **Terlalu** ramah.
-- Selalu tersenyum. Selalu tenang. Selalu **baik**.
-- Mungkin tahu tentang baterai. Mungkin **menjalankannya**.
+- Headmaster of FBA. Member of the Bellweather family.
+- Friendly. Charming. Charismatic. **Too** friendly.
+- Always smiling. Always calm. Always **kind**.
+- May know about the Battery. May be **running it**.
 
 ## What He Offers
-- **Sambutan hangat.** Ia akan menyambut party dengan tangan terbuka. Ia akan menawarkan bantuan. Ia akan menawarkan **segala sesuatu**.
-- **Informasi tentang FBA.** Ia tahu segalanya tentang sekolah ini. Ia tahu segalanya tentang siswa. Ia tahu segalanya tentang **alumni**.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia akan tersenyum. Ia akan berbicara. Tapi ia akan berbicara tentang **mitos**.
+- **A warm welcome.** He will welcome the party with open arms. He will offer help. He will offer **everything**.
+- **Information about FBA.** He knows everything about this school. He knows everything about the students. He knows everything about the **alumni**.
+- **Clues about The Bell.** If the party asks about The Bell, he will smile. He will speak. But he will speak about the **myth**.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Mr. Rababrie Bellweather Is
-- **Rababrie Bellweather** adalah kepala sekolah FBA. Ia adalah anggota keluarga Bellweather — keluarga yang telah mengendalikan Calamara selama generasi. Keluarga yang telah mengendalikan **The Bell**. Keluarga yang telah mengendalikan **baterai**.
-- Ia **baik**. Itu bukan akting. Ia benar-benar peduli pada siswa-siswanya. Ia benar-benar peduli pada FBA. Ia benar-benar percaya bahwa ia melakukan **hal yang benar**.
-- Ia **tahu tentang baterai**. Ia tahu tentang Continuity Work. Ia tahu tentang Bellweather. Ia tahu **segalanya**. Dan ia percaya bahwa itu **perlu**.
-- Ia percaya bahwa dunia ini kejam. Ia percaya bahwa Void akan menelan Sonstige. Ia percaya bahwa **satu-satunya cara** untuk menyelamatkan dunia adalah dengan **mengorbankan beberapa orang**. Dan ia bersedia melakukan pengorbanan itu.
-- Ia **tidak jahat**. Ia hanya **salah**. Dan itu membuatnya lebih berbahaya daripada villain mana pun.
+- **Rababrie Bellweather** is the headmaster of FBA. He is a member of the Bellweather family — the family that has controlled Calamara for generations. The family that has controlled **The Bell**. The family that has controlled the **Battery**.
+- He is **good**. It is not an act. He genuinely cares about his students. He genuinely cares about FBA. He genuinely believes he is doing **the right thing**.
+- He **knows about the Battery**. He knows about Continuity Work. He knows about Bellweather. He knows **everything**. And he believes it is **necessary**.
+- He believes this world is cruel. He believes the Void will swallow Sonstige. He believes the **only way** to save the world is to **sacrifice a few people**. And he is willing to make that sacrifice.
+- He is **not evil**. He is only **wrong**. And that makes him more dangerous than any villain.
 
-### Rababrie and the Bell
-- Ia telah mendengar The Bell sepanjang hidupnya. Ia **membunyikannya**.
-- **The Bell adalah alarm baterai.** Setiap dentangnya adalah hitungan mundur menuju panen berikutnya. Setiap dentangnya adalah **perintah** dari Bellweather untuk **mengumpulkan**.
-- **Ujian besar** — baterai membutuhkan energi dari stres dan kompetisi. The Bell berbunyi. Siswa belajar lebih keras. Baterai makan.
-- **Dansa musim sosial** — baterai membutuhkan energi dari drama sosial dan emosi remaja. The Bell berbunyi. Siswa jatuh cinta, bertengkar, berbaikan. Baterai makan.
-- **Kelulusan** — baterai membutuhkan **alumni**. The Bell berbunyi. Siswa "dikirim". Baterai makan.
-- **Rababrie membunyikan The Bell.** Ia adalah yang memastikan bahwa setiap panen berjalan tepat waktu. Ia adalah yang memastikan bahwa tidak ada yang **curiga**.
+### Rababrie and The Bell
+- He has heard The Bell his whole life. He **rings it**.
+- **The Bell is the Battery's alarm.** Every toll is a countdown to the next harvest. Every toll is an **order** from Bellweather to **gather**.
+- **Major exams** — the Battery needs energy from stress and competition. The Bell rings. Students study harder. The Battery feeds.
+- **The social season's dances** — the Battery needs energy from social drama and adolescent emotion. The Bell rings. Students fall in love, quarrel, make up. The Battery feeds.
+- **Graduation** — the Battery needs **alumni**. The Bell rings. Students are "sent away". The Battery feeds.
+- **Rababrie rings The Bell.** He is the one who ensures each harvest runs on schedule. He is the one who ensures no one **suspects**.
 
 ### Rababrie and the Bride of Bellweather
-- **Lilia Etheridge II** adalah Bride berikutnya. Rababrie **tahu** ini. Ia telah **merencanakannya**.
-- Rababrie **tahu** bahwa Lilia adalah mantan kekasih Brougha Ironhide — siswa baru yang masuk FBA tahun ini. Ia **tidak peduli**. Ia hanya peduli bahwa Lilia adalah **kandidat yang tepat**.
-- Ia tidak membenci Lilia. Ia tidak ingin menyakitinya. Ia hanya percaya bahwa **ini adalah kehormatan**. Bahwa menjadi Bride adalah **pengorbanan yang mulia**. Bahwa Lilia akan **menyelamatkan dunia**.
-- Ia akan **menangis** saat ritual. Ia akan **berduka**. Tapi ia akan **melakukannya**. Karena ia percaya bahwa itu **perlu**.
-- **Jika party mencoba menyelamatkan Lilia**, Rababrie tidak akan mencoba membunuh mereka. Ia akan mencoba **meyakinkan** mereka. Ia akan berbicara tentang **dunia**. Ia akan berbicara tentang **masa depan**. Ia akan berbicara tentang **pengorbanan**.
-- Jika Brougha mencoba menyelamatkan Lilia, Rababrie akan **mengingatkannya** bahwa Lilia **telah memilih** ini. Bahwa Lilia **tahu** apa yang akan terjadi. Bahwa Lilia **ingin** menjadi Bride. (Apakah itu benar? Rababrie **percaya** itu benar. Tapi apakah Lilia benar-benar tahu? Apakah Lilia benar-benar memilih? **DM harus memutuskan.**)
-- Dan jika mereka tetap mencoba, ia akan **menyerah**. Ia akan membiarkan mereka pergi. Tapi ia akan berkata: *"Kamu tidak tahu apa yang kamu lakukan. Kamu tidak tahu apa yang akan terjadi. Kamu tidak tahu **apa yang akan datang**."*
+- **Lilia Etheridge II** is the next Bride. Rababrie **knows this**. He has **planned it**.
+- Rababrie **knows** that Lilia is Brougha Ironhide's ex-girlfriend — the new student who enrolled at FBA this year. He **does not care**. He only cares that Lilia is the **right candidate**.
+- He does not hate Lilia. He does not want to hurt her. He only believes that **this is an honour**. That becoming the Bride is a **noble sacrifice**. That Lilia will **save the world**.
+- He will **cry** during the ritual. He will **mourn**. But he will **do it**. Because he believes it is **necessary**.
+- **If the party tries to save Lilia**, Rababrie will not try to kill them. He will try to **convince** them. He will speak about **the world**. He will speak about **the future**. He will speak about **sacrifice**.
+- If Brougha tries to save Lilia, Rababrie will **remind him** that Lilia **has chosen** this. That Lilia **knows** what will happen. That Lilia **wants** to be the Bride. (Is that true? Rababrie **believes** it is true. But does Lilia truly know? Does Lilia truly choose? **The DM must decide.**)
+- And if they still try, he will **step back**. He will let them go. But he will say: *"You do not know what you are doing. You do not know what will happen. You do not know **what is coming**."*
 
 ### Rababrie and the Professors
-- Ia mengenal semua gurunya. Ia **menghormati** mereka. Ia **peduli** pada mereka.
-- Ia tahu bahwa **Prof. Imelda** curiga. Ia tahu bahwa **Mr. Elias** tahu. Ia tahu bahwa **Madame Seraphine** pernah menjadi agennya. Ia tahu bahwa **Dr. Ope** telah melihat. Ia tahu bahwa **Maestro Lorenzo** menciptakan mitosnya. Ia tahu bahwa **Dr. Fenwick** mendengar getarannya. Ia tahu bahwa **Prof. Quill** tahu hukumnya. Ia tahu bahwa **Coach Garrick** menyaksikan kehilangan.
-- Ia tidak membenci mereka. Ia tidak takut pada mereka. Ia hanya **berharap** mereka tidak ikut campur. Karena ia tidak ingin menyakiti mereka. Tapi ia akan **melakukannya** jika perlu.
+- He knows all his teachers. He **respects** them. He **cares** about them.
+- He knows **Prof. Imelda** is suspicious. He knows **Mr. Elias** knows. He knows **Madame Seraphine** was once his agent. He knows **Dr. Ope** has seen. He knows **Maestro Lorenzo** created his myth. He knows **Dr. Fenwick** hears the vibration. He knows **Prof. Quill** knows the law. He knows **Coach Garrick** witnessed the loss.
+- He does not hate them. He is not afraid of them. He only **hopes** they do not interfere. Because he does not want to hurt them. But he **will** if necessary.
 
 ### Rababrie's Role in Season 3
-- Jika party ingin belajar tentang FBA, Rababrie akan mengajari mereka. Ia akan mengajari mereka tentang sekolah. Ia akan mengajari mereka tentang siswa. Ia akan mengajari mereka tentang **kehormatan**.
-- Jika party ingin melawan Bellweather, Rababrie akan menjadi **musuh utama**. Ia tidak akan bertarung dengan pedang. Ia akan bertarung dengan **kata-kata**. Ia akan bertarung dengan **kebijaksanaan**. Ia akan bertarung dengan **kebenaran** — kebenaran yang salah, tapi tetap kebenaran.
-- **Jika Rababrie dies**, FBA akan kehilangan kepalanya. Dan Bellweather akan kehilangan **putra kesayangannya**.
+- If the party wants to learn about FBA, Rababrie will teach them. He will teach them about the school. He will teach them about the students. He will teach them about **honour**.
+- If the party wants to fight Bellweather, Rababrie will be the **main enemy**. He will not fight with a sword. He will fight with **words**. He will fight with **wisdom**. He will fight with **truth** — a wrong truth, but truth nonetheless.
+- **If Rababrie dies**, FBA will lose its head. And Bellweather will lose its **beloved son**.
 
 ### Rababrie's Secret
-- Ia pernah menjadi **Bride**. Bukan sebagai pengantin wanita — tapi sebagai **pengantin pria**. Ia pernah menjadi **filter hidup**. Ia pernah menjadi **seal**. Ia pernah menjadi **Valla lokal**.
-- Ia **selamat**. Ia **kembali**. Ia tidak tahu bagaimana. Ia tidak tahu mengapa. Tapi ia kembali — dan ia **berubah**. Ia menjadi bagian dari Bellweather. Ia menjadi bagian dari **baterai**.
-- Ia menyimpan **bekas luka** di dadanya — bekas luka yang tidak pernah ia tunjukkan kepada siapa pun. Bekas luka itu adalah **simbol** dari apa yang ia lakukan. Bekas luka itu adalah **pengingat** dari apa yang ia korbankan.
-- Ia tidak ingin ada yang mengalami apa yang ia alami. Tapi ia juga tahu bahwa **seseorang harus melakukannya**. Dan ia memilih Lilia. Karena Lilia **kuat**. Karena Lilia **baik**. Karena Lilia **mampu**.
-- Ia salah. Tapi ia tidak tahu itu.
+- He was once the **Bride**. Not as a bride — but as a **groom**. He was once a **living filter**. He was once a **seal**. He was once a **local Valla**.
+- He **survived**. He **came back**. He does not know how. He does not know why. But he came back — and he **changed**. He became part of Bellweather. He became part of the **Battery**.
+- He carries a **scar** on his chest — a scar he has never shown anyone. That scar is the **symbol** of what he did. That scar is the **reminder** of what he gave up.
+- He does not want anyone to go through what he went through. But he also knows that **someone must**. And he has chosen Lilia. Because Lilia is **strong**. Because Lilia is **good**. Because Lilia **can**.
+- He is wrong. But he does not know it.
 
 ### What the Party Does NOT Know
-- Rababrie adalah kepala sekolah FBA. Ia adalah anggota Bellweather.
-- Rababrie tahu tentang baterai. Ia **menjalankannya**.
-- Rababrie pernah menjadi Bride. Ia selamat. Ia kembali. Ia berubah.
-- Rababrie memiliki bekas luka di dadanya — simbol pengorbanannya.
-- Rababrie akan menangis saat ritual Lilia. Tapi ia akan melakukannya.
-- Rababrie akan mencoba meyakinkan party — bukan membunuh mereka — jika mereka mencoba menyelamatkan Lilia.
-- Rababrie adalah **musuh utama** Season 3. Tapi ia bukan villain. Ia hanya **salah**.
+- Rababrie is the headmaster of FBA. He is a member of Bellweather.
+- Rababrie knows about the Battery. He **runs it**.
+- Rababrie was once the Bride. He survived. He came back. He changed.
+- Rababrie carries a scar on his chest — the symbol of his sacrifice.
+- Rababrie will cry during Lilia's ritual. But he will do it.
+- Rababrie will try to convince the party — not kill them — if they try to save Lilia.
+- Rababrie is the **main enemy** of Season 3. But he is not a villain. He is only **wrong**.
 
 ### Season 3 Reveal Schedule
-- **Session 1** — Party bertemu Rababrie. Ia menyambut mereka dengan hangat. Ia menawarkan bantuan.
-- **Session 2–3** — Party belajar tentang FBA. Mereka belajar tentang The Bell. Mereka belajar tentang Bride.
-- **Session 4–5** — Party menemukan bukti tentang baterai. Mereka menemukan bekas luka Rababrie.
-- **Session 6–7** — Party mengetahui bahwa Rababrie pernah menjadi Bride. Mereka mengetahui bahwa ia menjalankan baterai.
-- **Session 8–10** — Party menghadapi Rababrie. Ia mencoba meyakinkan mereka. Ia berbicara tentang pengorbanan. Ia berbicara tentang dunia. Ia berbicara tentang **masa depan**.
-- **Endgame** — Party harus memutuskan apa yang harus dilakukan dengan Rababrie. Membunuhnya. Menyelamatkannya. Membiarkannya. **Pilihan ada di tangan mereka.**
+- **Session 1** — The party meets Rababrie. He welcomes them warmly. He offers help.
+- **Session 2–3** — The party learns about FBA. They learn about The Bell. They learn about the Bride.
+- **Session 4–5** — The party finds evidence of the Battery. They find Rababrie's scar.
+- **Session 6–7** — The party learns that Rababrie was once the Bride. They learn that he runs the Battery.
+- **Session 8–10** — The party confronts Rababrie. He tries to convince them. He speaks about sacrifice. He speaks about the world. He speaks about **the future**.
+- **Endgame** — The party must decide what to do with Rababrie. Kill him. Save him. Leave him. **The choice is theirs.**
 
 ### Rababrie's Fate
-- Jika party membunuh Rababrie, Bellweather akan hancur. Tapi baterai akan tetap ada. Dan seseorang harus **menggantikannya**.
-- Jika party menyelamatkan Rababrie, ia akan **berubah**. Ia akan **menyesal**. Ia akan **membantu**. Tapi ia tidak akan pernah **meminta maaf**. Karena ia percaya bahwa ia **benar**.
-- Jika party membiarkan Rababrie, ia akan terus menjalankan baterai. Ia akan terus membunyikan The Bell. Ia akan terus **mengorbankan** siswa. Dan ia akan terus **tersenyum**.
-- **Pilihan ada di tangan party.** DM harus menyajikan semua opsi dengan jelas dan membiarkan party memutuskan.
+- If the party kills Rababrie, Bellweather will be destroyed. But the Battery will remain. And someone must **replace him**.
+- If the party saves Rababrie, he will **change**. He will **regret**. He will **help**. But he will never **apologise**. Because he believes he was **right**.
+- If the party leaves Rababrie, he will continue running the Battery. He will continue ringing The Bell. He will continue **sacrificing** students. And he will continue **smiling**.
+- **The choice is in the party's hands.** The DM must present all options clearly and let the party decide.
 
 ### Corrections Applied
-- **CLARIFIED:** Rababrie adalah **kepala sekolah** FBA. Ia adalah anggota **Bellweather**.
-- **CLARIFIED:** Rababrie **menjalankan** baterai. Ia **membunyikan** The Bell.
-- **CLARIFIED:** Rababrie pernah menjadi **Bride**. Ia selamat. Ia kembali. Ia berubah.
-- **CLARIFIED:** Rababrie memiliki **bekas luka** di dadanya — simbol pengorbanannya.
-- **CLARIFIED:** Rababrie akan **menangis** saat ritual Lilia. Tapi ia akan **melakukannya**.
-- **CLARIFIED:** Rababrie akan mencoba **meyakinkan** party — bukan membunuh mereka — jika mereka mencoba menyelamatkan Lilia.
-- **CLARIFIED:** Rababrie adalah **musuh utama** Season 3. Tapi ia **bukan villain**. Ia hanya **salah**.
-- **REMOVED:** Any suggestion that Rababrie is a "secret villain." Ia bukan villain. Ia adalah pria yang percaya bahwa ia melakukan hal yang benar.
-- **REMOVED:** Any suggestion that Rababrie ingin menyakiti Lilia. Ia tidak ingin. Ia hanya percaya bahwa pengorbanan itu perlu.
+- **CLARIFIED:** Rababrie is the **headmaster** of FBA. He is a member of **Bellweather**.
+- **CLARIFIED:** Rababrie **runs** the Battery. He **rings** The Bell.
+- **CLARIFIED:** Rababrie was once the **Bride**. He survived. He came back. He changed.
+- **CLARIFIED:** Rababrie has a **scar** on his chest — the symbol of his sacrifice.
+- **CLARIFIED:** Rababrie will **cry** during Lilia's ritual. But he will **do it**.
+- **CLARIFIED:** Rababrie will try to **convince** the party — not kill them — if they try to save Lilia.
+- **CLARIFIED:** Rababrie is the **main enemy** of Season 3. But he is **not a villain**. He is only **wrong**.
+- **REMOVED:** Any suggestion that Rababrie is a "secret villain." He is not a villain. He is a man who believes he is doing the right thing.
+- **REMOVED:** Any suggestion that Rababrie wants to hurt Lilia. He does not want to. He only believes the sacrifice is necessary.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah yang ia pimpin
-- `SO2 The School Battery.md` — baterai yang ia jalankan
-- `The Bell.md` — mitos yang ia bunyikan
-- `Bellweather.md` — keluarga yang ia layani
-- `Lilia Etheridge II.md` — Bride berikutnya
-- `Brougha Ironhide.md` — mantan kekasih Lilia
-- `The Bride of Bellweather.md` — ritual yang ia jalankan
-- `Prof. Imelda.md` — guru yang curiga
-- `Mr. Elias.md` — teman masa kecilnya
-- `Madame Seraphine.md` — mantan agennya
-- `Dr. Ope.md` — peramal yang tahu
-- `Maestro Lorenzo.md` — pencipta mitosnya
-- `Dr. Fenwick.md` — ilmuwan yang mendengar
-- `Prof. Quill.md` — pengacara yang tahu hukumnya
-- `Coach Garrick.md` — atlet yang kehilangan timnya
+- `The Free Bird Academy.md` — the school he leads
+- `SO2 The School Battery.md` — the Battery he runs
+- `The Bell.md` — the myth he rings
+- `Bellweather.md` — the family he serves
+- `Lilia Etheridge II.md` — the next Bride
+- `Brougha Ironhide.md` — Lilia's ex-boyfriend
+- `The Bride of Bellweather.md` — the ritual he performs
+- `Prof. Imelda.md` — the teacher who is suspicious
+- `Mr. Elias.md` — his childhood friend
+- `Madame Seraphine.md` — his former agent
+- `Dr. Ope.md` — the seer who knows
+- `Maestro Lorenzo.md` — the creator of his myth
+- `Dr. Fenwick.md` — the scientist who hears
+- `Prof. Quill.md` — the lawyer who knows the law
+- `Coach Garrick.md` — the athlete who lost his team

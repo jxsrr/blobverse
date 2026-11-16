@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Social Enchantment di FBA. Ahli diplomasi, gosip, dan manipulasi sosial. Mantan agen Bellweather.
+> **Role:** Social Enchantment teacher at FBA. Expert in diplomacy, gossip, and social manipulation. Former Bellweather agent.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Wanita paruh baya dengan rambut pirang yang selalu tertata sempurna.
-- Gaun sutra dengan warna-warna lembut. Perhiasan yang elegan tapi tidak berlebihan.
-- Sarung tangan putih. Kipas lipat. Senyum yang selalu ada.
-- Selalu terlihat seperti sedang menghadiri pesta. Bahkan di kelas.
+- A middle-aged woman with blonde hair always perfectly arranged.
+- Silk gowns in soft colours. Jewellery that is elegant but not excessive.
+- White gloves. A folding fan. A smile that is always present.
+- Always looks like she is attending a party. Even in class.
 
 ## Personality
-- Tidak pernah bilang "jangan memanipulasi orang."
-- Sangat tegas soal **siapa yang boleh memanipulasi siapa** dan **kapan caranya dianggap sopan**.
-- Mengajar diplomasi, gosip, dan cara membuat orang lain mendengarkan.
-- Percaya bahwa **kekuatan sejati adalah kekuatan sosial**. "Sihir bisa membunuh. Tapi kata-kata bisa menghancurkan. Dan kata-kata tidak meninggalkan bukti."
+- Never says "don't manipulate people."
+- Is very firm about **who is allowed to manipulate whom** and **when the method is considered polite**.
+- Teaches diplomacy, gossip, and how to make others listen.
+- Believes that **true power is social power**. "Magic can kill. But words can destroy. And words leave no evidence."
 
 ## What the Party Knows
-- Guru Social Enchantment. Salah satu pengajar paling menawan di FBA.
-- Mengajar manipulasi sosial — tapi dengan etika.
-- Tahu semua gosip di Calamara. Tahu semua skandal.
+- The Social Enchantment teacher. One of the most charming instructors at FBA.
+- Teaches social manipulation — but with ethics.
+- Knows every piece of gossip in Calamara. Knows every scandal.
 
 ## What She Offers
-- **Keterampilan sosial.** Jika party ingin belajar cara berbicara, cara berbohong, cara meyakinkan — ia adalah guru terbaik.
-- **Informasi tentang gosip.** Ia tahu semua gosip di Calamara. Ia tahu siapa yang sedang bertengkar, siapa yang sedang jatuh cinta, siapa yang sedang berhutang.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **etika**.
+- **Social skills.** If the party wants to learn how to talk, how to lie, how to persuade — she is the best teacher.
+- **Information from gossip.** She knows every piece of gossip in Calamara. She knows who is fighting, who is falling in love, who is in debt.
+- **Clues about The Bell.** If the party asks about The Bell, she may speak. But she will speak about **ethics**.

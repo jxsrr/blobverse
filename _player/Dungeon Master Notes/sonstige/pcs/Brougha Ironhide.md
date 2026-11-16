@@ -10,80 +10,80 @@ universe: Sonstige
 > **Known as:** Brougha Ironhide (17)
 
 ## Appearance
-- Half-Orc. Kulit hijau keabu-abuan. Tubuh tinggi besar, bahu kekar, otot terbentuk dari latihan Jounce sejak kecil.
-- Rambut cokelat gelap, panjang dan sedikit berantakan — biasanya diikat agar tidak mengganggu aktivitas.
-- Wajah dengan garis rahang tegas. Kumis lele yang kerap lupa dipangkas. Dua taring bawah mencuat dari bibir.
-- Keseharian: jaket tim Jounce FBA. Belakangan mulai tertarik pada pakaian berkerah tinggi yang refined.
-- Di luar lapangan: **kacamata berbingkai tipis tanpa lensa**.
-- Saat libur: menindik telinga.
+- Half-Orc. Grey-green skin. A tall, large body, broad shoulders, muscles built from Jounce training since childhood.
+- Dark brown hair, long and a little unkempt — usually tied back so it does not get in the way of activity.
+- A face with a strong jawline. A catfish moustache he often forgets to trim. Two lower tusks jutting from his lip.
+- Everyday wear: an FBA Jounce team jacket. Lately he has begun to be drawn to refined high-collared clothing.
+- Off the field: **thin-rimmed glasses without lenses**.
+- On holidays: pierced ears.
 - Visual reference: [Google Drive](https://drive.google.com/open?id=1I07IKRQSNdJvNbbVKfQceG0CZr_HkomH)
 
 ## Family — Ironhide
-- Keluarga **half-orc kelas menengah atas**. Cukup dikenal di dunia olahraga Jounce. Tidak memiliki hubungan dengan bangsawan maupun dinasti penyihir.
-- Tinggal di **The Azures**, Southwest Calamara, sekitar satu jam dari FBA.
-- **Ayah — Ramarz Ironhide:** atlet Jounce profesional, sedang mengambil jeda dari kontrak dan mempertimbangkan karier sebagai pelatih. Pelopor manuver *"Ironhide Reversal."*
-- **Ibu — Shazara Ironhide:** akuntan. Baru saja melahirkan putra kedua mereka, **Gargathun "Atun" Ironhide**.
-- Rumah: dua lantai, sama seperti rumah lain di The Azures. Berantakan dengan popok, kencringan bayi, peralatan Jounce, dan buku-buku antologi puisi Maestro Lorenzo (yang belum sempat dibaca Brougha).
-- Suasana: harmonis namun agak chaos. Percakapan sering terputus oleh tangisan Atun. Keluarga menikmati keseharian bersama.
+- An **upper-middle-class half-orc family**. Well known enough in the Jounce world. No ties to nobility or wizard dynasties.
+- Lives in **The Azures**, Southwest Calamara, about an hour from FBA.
+- **Father — Ramarz Ironhide:** professional Jounce athlete, currently on a break from his contract and considering a coaching career. Pioneer of the *"Ironhide Reversal"* manoeuvre.
+- **Mother — Shazara Ironhide:** accountant. Has just given birth to their second son, **Gargathun "Atun" Ironhide**.
+- Home: two storeys, like every other house in The Azures. Messy with nappies, baby rattles, Jounce gear, and copies of Maestro Lorenzo's poetry anthologies (which Brougha has not yet had time to read).
+- Atmosphere: harmonious but a little chaotic. Conversations are often interrupted by Atun's crying. The family enjoys their daily life together.
 
 ## Family Demands
-- Keluarga ingin Brougha memiliki gaya hidup yang nyaman — salah satunya dengan menjadikannya atlet profesional.
-- Ramarz dan Shazara berharap kemahiran Jounce Brougha terus diasah di FBA.
-- **Tidak melarang** Brougha mendalami sastra atau bercita-cita menjadi penyair. Tapi mereka **khawatir** keputusan meninggalkan Jounce terlalu terburu-buru dan belum dipikirkan matang.
+- The family wants Brougha to have a comfortable life — partly by making him a professional athlete.
+- Ramarz and Shazara hope Brougha's Jounce skill will keep being sharpened at FBA.
+- They **do not forbid** Brougha from studying literature or aspiring to be a poet. But they are **worried** that the decision to leave Jounce is too hasty and not yet well thought through.
 
 ## Why FBA
-- **Pilihan sendiri.** Keluarga sebenarnya lebih memilih **Everglade Academy** — lebih dekat rumah, program Varsity Jounce lebih terkenal, dan Ramarz punya banyak kenalan di sana.
-- Brougha **bersikeras** daftar ke FBA.
-- **Keputusan ini TIDAK ADA hubungannya dengan Lilia Etheridge II. TIDAK ADA SAMA SEKALI.**
+- **His own choice.** The family would actually have preferred **Everglade Academy** — closer to home, a more famous Varsity Jounce programme, and Ramarz has many acquaintances there.
+- Brougha **insisted** on enrolling at FBA.
+- **This decision has NOTHING to do with Lilia Etheridge II. ABSOLUTELY NOTHING.**
 
 ## Path at FBA
-- Tetap bertekad melanjutkan karier di bidang **Jounce**.
-- Namun selama setahun terakhir, mengalami perkembangan pribadi luar biasa. Percaya bahwa kekuatan fisik saja tidak cukup untuk menjadikan seseorang pria sejati — pria juga harus memiliki kepekaan batin, wawasan intelektual, dan apresiasi mendalam terhadap seni serta sastra.
-- Bukan lagi pemuda yang hanya memikirkan Jounce, Jounce, Jounce, dan tidak peka terhadap perasaan orang-orang yang ia sayangi.
+- Still determined to continue a career in **Jounce**.
+- But over the past year he has undergone extraordinary personal growth. He believes physical strength alone is not enough to make someone a real man — a man must also have inner sensitivity, intellectual insight, and a deep appreciation of art and literature.
+- No longer the young man who thought only about Jounce, Jounce, Jounce, and was insensitive to the feelings of those he loved.
 
 ## What He Heard About FBA
-- **Maestro Lorenzo** — sastrawan ternama, penulis antologi *Lumen Arash* — mengajar di FBA.
-- *Lumen Arash* adalah salah satu karya kesukaan Lilia Etheridge II.
-- Brougha sendiri sudah membaca buku itu berkali-kali dan masih belum sepenuhnya memahami maksudnya. Ia hanya butuh bimbingan langsung dari pengarangnya.
+- **Maestro Lorenzo** — the celebrated poet, author of the anthology *Lumen Arash* — teaches at FBA.
+- *Lumen Arash* is one of Lilia Etheridge II's favourite works.
+- Brougha himself has read that book several times and still does not fully understand what it means. He just needs direct guidance from its author.
 
 ## Personality
-- **Three words others use:** Gede, jamet, gamon (+ jago banget jir). Brougha hanya setuju dengan yang pertama.
-- **Three words he prefers:** Puitis, sensitif, misterius. (Belum banyak yang setuju selain orang tuanya.)
-- Mudah terbawa suasana — terutama saat bertanding Jounce, atau gagal memahami karya sastra.
-- Tidak menyukai orang yang meremehkan kecerdasannya hanya karena penampilan fisik dan kegemaran olahraga.
+- **Three words others use:** Big, cringe, can't-move-on (+ absolutely cracked). Brougha agrees only with the first.
+- **Three words he prefers:** Poetic, sensitive, mysterious. (Not many agree except his parents.)
+- Easily swept up in the moment — especially during Jounce matches, or when failing to understand a work of literature.
+- Dislikes people who underestimate his intelligence just because of his physical appearance and love of sport.
 
 ## What He Wants
-- **Selama di FBA:** mengembangkan kemampuan Jounce **dan** memperdalam sastra dan seni. Menjadi sosok yang tidak hanya dikagumi karena kekuatan fisik dan prestasi atletik, tapi juga kecerdasan, kepekaan, dan kedalaman pemikiran.
-- **Setelah lulus:** atlet Jounce profesional **dan** pria berbudaya yang mampu menghasilkan karya sastra bermutu.
-- Pengakuan dari orang-orang tertentu (baca: Lilia) akan sangat menyenangkan — **tapi BUKAN tujuan utama.**
+- **While at FBA:** develop his Jounce skill **and** deepen his grasp of literature and the arts. Become someone admired not only for physical strength and athletic achievement, but also for intelligence, sensitivity, and depth of thought.
+- **After graduation:** a professional Jounce athlete **and** a cultured man capable of producing quality literary work.
+- Recognition from certain people (read: Lilia) would be very pleasant — **but it is NOT the main goal.**
 
 ## What He Values
-- **Keluarga** — terutama kedua orang tua dan adiknya, Atun.
-- **Persahabatan, kesetiaan, sportivitas, kerja sama** — semua yang dipelajari dari Jounce.
+- **Family** — especially both parents and his little brother, Atun.
+- **Friendship, loyalty, sportsmanship, teamwork** — all that Jounce teaches.
 
 ## What Makes Him Lose Control
-- Mudah terbawa suasana — terutama saat bertanding Jounce.
-- Gagal memahami karya sastra.
-- Diremehkan kecerdasannya karena penampilan fisik.
+- Easily swept up in the moment — especially during Jounce matches.
+- Failing to understand a work of literature.
+- Being underestimated intellectually because of his physical appearance.
 
 ## Background
-- Lahir dan besar di kompleks permukiman **The Azures**, Southwest Calamara.
-- Tidak jauh dari tempat tinggalnya terdapat **Everglade Academy** — akademi dengan tim varsity Jounce paling tersohor di Calamara dan jajaran pelatih yang sebagian besar telah mengenal ayahnya secara pribadi.
+- Born and raised in the **The Azures** residential complex, Southwest Calamara.
+- Not far from where he lives stands **Everglade Academy** — the academy with the most famous varsity Jounce team in Calamara and a coaching staff most of whom know his father personally.
 
 ## Work Experience
-- **Belum pernah bekerja.**
-- Sejak kecil membantu ayahnya dalam kegiatan Jounce: menyiapkan perlengkapan latihan, membantu sesi latihan liga junior, sesekali mendampingi kegiatan olahraga.
-- Selama libur panjang mulai membeli buku-buku yang pernah dilihat di rak buku Lilia. Saat ini di **halaman 41** dari *Lumen Arash*. **23 buku lain** sudah dibuka segelnya tapi belum sempat dibaca.
+- **Has never worked.**
+- Has helped his father in Jounce activities since childhood: preparing training gear, helping with junior league sessions, sometimes accompanying him to sporting events.
+- During the long break he began buying books he had seen on Lilia's bookshelf. He is currently on **page 41** of *Lumen Arash*. **23 other books** have been unwrapped but he has not yet had time to read them.
 
 ## Secret (Player-Facing)
-- **"Sama sekali tidak ada."**
-- Brougha memilih FBA karena reputasi akademiknya, fasilitas Jounce, dan kesempatan mengembangkan diri menjadi pria yang lebih matang dan berwawasan luas. Itu saja.
-- Memang benar **Lilia Etheridge II** — mantan kekasihnya — juga bersekolah di FBA. Namun fakta itu sama sekali tidak memengaruhi keputusannya.
-- Brougha tidak pernah membayangkan Lilia melihatnya berjalan melintasi halaman sambil membawa *Lumen Arash*, lalu menyadari kesalahannya telah meninggalkan pria yang kini tampan, cerdas, dan peka terhadap keindahan dunia.
-- Brougha juga tidak pernah membayangkan Lilia memanggil namanya di tengah hujan, memohon kesempatan kedua, sementara Brougha hanya tersenyum pilu dan mengucapkan sajak yang begitu indah hingga Lilia menangis lirih.
+- **"Absolutely nothing."**
+- Brougha chose FBA for its academic reputation, its Jounce facilities, and the chance to develop into a more mature and broad-minded man. That is all.
+- It is true that **Lilia Etheridge II** — his ex-girlfriend — also attends FBA. But that fact has absolutely no influence on his decision.
+- Brougha has never imagined Lilia seeing him walk across the school grounds carrying *Lumen Arash*, and then realising her mistake in leaving a man who is now handsome, intelligent, and sensitive to the beauty of the world.
+- Brougha has also never imagined Lilia calling his name in the rain, begging for a second chance, while Brougha only smiles sadly and recites a poem so beautiful that Lilia weeps quietly.
 
 ## RAIB Question
-> *"Pernahkah Anda mengingat sesuatu yang tidak pernah terjadi dan merasa ingatan itu lebih nyata daripada ingatan Anda sendiri?"*
+> *"Have you ever remembered something that never happened and felt that memory was more real than your own?"*
 > **Yes.**
 
 ## Current Goal

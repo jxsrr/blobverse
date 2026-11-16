@@ -6,28 +6,28 @@ universe: Sonstige
 ::pf
 > [!info] At a Glance
 > **Part of:** Southwest Calamara
-> **Status:** Rival school. Famous for Jounce program.
+> **Status:** Rival school. Famous for its Jounce program.
 
 ## What Matters Here
-- Akademi dengan **tim varsity Jounce paling tersohor** di Calamara.
-- Jajaran pelatih yang sebagian besar **telah mengenal Ramarz Ironhide secara pribadi**.
-- Lebih dekat ke The Azures daripada FBA.
-- Brougha **seharusnya** masuk sini — menurut keluarganya.
-- Tapi Brougha **bersikeras** masuk FBA.
+- The academy with the **most celebrated Jounce varsity team** in Calamara.
+- A coaching staff, most of whom **know Ramarz Ironhide personally**.
+- Closer to The Azures than FBA.
+- Brougha was **supposed** to enrol here — according to her family.
+- But Brougha **insisted** on FBA.
 
 ## What the Party Knows
-- Sekolah rival FBA. Lebih fokus pada olahraga — terutama Jounce.
-- Dekat dengan rumah Brougha.
-- Keluarga Brougha sebenarnya lebih memilih Brougha masuk sini.
+- FBA's rival school. More focused on sport — especially Jounce.
+- Close to Brougha's home.
+- Brougha's family actually preferred that she enrol here.
 ::/pf
 
 %% DM SECRETS %%
-- Everglade Academy adalah **sekolah olahraga** — bukan sekolah akademik. Fokusnya pada Jounce, atletik, dan kompetisi.
-- **Tidak ada hubungannya dengan Bellweather.** Everglade adalah sekolah normal.
-- **DM Note:** Everglade adalah "jalan yang tidak diambil" Brougha. Ini adalah pembanding — untuk menunjukkan bahwa Brougha **memilih** FBA, bukan karena terpaksa.
+- Everglade Academy is a **sports school** — not an academic one. Its focus is Jounce, athletics, and competition.
+- **It has nothing to do with Bellweather.** Everglade is a normal school.
+- **DM Note:** Everglade is "the road not taken" for Brougha. It is a contrast — to show that Brougha **chose** FBA, not because she had to.
 
 ## Connections
-- `Brougha Ironhide.md` — calon siswa yang memilih FBA
-- `Ramarz Ironhide.md` — alumni / kenalan
-- `The Azures.md` — kompleks terdekat
-- `Jounce.md` — olahraga utama
+- `Brougha Ironhide.md` — the would-be student who chose FBA
+- `Ramarz Ironhide.md` — alumnus / acquaintance
+- `The Azures.md` — the nearest settlement
+- `Jounce.md` — the main sport

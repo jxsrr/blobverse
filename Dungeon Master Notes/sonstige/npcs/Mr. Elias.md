@@ -9,73 +9,73 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Guru Sejarah di FBA. Sejarawan karismatik dari keluarga lama Calamara.
+> **Role:** History teacher at FBA. A charismatic historian from an old Calamara family.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria paruh baya dengan rambut cokelat yang selalu rapi.
-- Jas wol dengan potongan klasik. Dasi kupu-kupu. Sepatu kulit yang mengkilap.
-- Selalu membawa buku catatan kulit yang tebal — jurnal pribadinya.
-- Senyum yang hangat. Mata yang hangat. Terlalu hangat.
+- A middle-aged man with brown hair always neatly kept.
+- A woollen suit with a classic cut. A bow tie. Polished leather shoes.
+- Always carrying a thick leather notebook — his private journal.
+- A warm smile. Warm eyes. Too warm.
 
 ## Personality
-- Karismatik. Menawan. Hafal semua skandal kota sampai detail.
-- Mengajar dengan cerita. Membuat sejarah hidup.
-- Tahu lebih banyak daripada yang ia katakan.
-- Tidak pernah berbohong. Tapi tidak pernah mengatakan seluruh kebenaran.
+- Charismatic. Charming. Knows every scandal in the city down to the detail.
+- Teaches with stories. Makes history come alive.
+- Knows more than he says.
+- Never lies. But never tells the whole truth.
 
 ## What the Party Knows
-- Guru Sejarah. Salah satu pengajar paling populer di FBA.
-- Hafal semua skandal Calamara — dari yang ringan sampai yang berat.
-- Mengajar dengan cerita. Membuat sejarah terasa hidup.
-- Mungkin tahu tentang baterai, tapi tidak bisa membuktikannya.
+- The History teacher. One of the most popular instructors at FBA.
+- Knows every Calamara scandal — from the minor to the major.
+- Teaches with stories. Makes history feel alive.
+- May know about the Battery, but cannot prove it.
 
 ## What He Offers
-- **Informasi tentang sejarah Calamara.** Jika party ingin tahu tentang keluarga-keluarga lama, tentang skandal-skandal, tentang Bellweather — ia adalah sumber terbaik.
-- **Petunjuk tentang FBA.** Jika party bertanya dengan tepat, ia mungkin akan berbicara. Tapi ia akan berbicara dalam teka-teki.
+- **Information about Calamara's history.** If the party wants to know about the old families, about the scandals, about Bellweather — he is the best source.
+- **Clues about FBA.** If the party asks the right questions, he may speak. But he will speak in riddles.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Mr. Elias Is
-- **Mr. Elias** adalah sejarawan terbaik di Calamara. Ia lahir dari keluarga lama — keluarga yang telah tinggal di Calamara selama generasi. Ia tumbuh dengan cerita-cerita tentang kota ini — cerita yang tidak pernah ditulis di buku sejarah.
-- Ia tahu tentang **semua skandal** — perselingkuhan, penipuan, pembunuhan, penghilangan. Ia tahu tentang keluarga-keluarga yang bangkrut, tentang bisnis-bisnis yang terbakar, tentang siswa-siswa yang "dikirim" dan tidak pernah kembali.
-- Ia **menulis semuanya**. Jurnalnya adalah arsip rahasia Calamara. Jika jurnal itu jatuh ke tangan yang salah, kota ini akan hancur.
-- Ia **tidak pernah berbohong**. Tapi ia juga tidak pernah mengatakan seluruh kebenaran. Ia berbicara dalam teka-teki. Ia memberikan petunjuk. Ia membiarkan orang lain menemukan jawabannya sendiri.
-- Ia **tahu tentang baterai**. Ia tahu tentang Continuity Work. Ia tahu tentang Bellweather. Tapi ia tidak punya bukti. Dan tanpa bukti, ia tidak bisa berbicara. Jadi ia menunggu.
+- **Mr. Elias** is the finest historian in Calamara. He was born into an old family — a family that has lived in Calamara for generations. He grew up with the city's stories — stories that were never written in history books.
+- He knows **every scandal** — affairs, fraud, murder, disappearances. He knows about the families that went bankrupt, about the businesses that burned down, about the students who were "sent away" and never came back.
+- He **writes it all down**. His journal is Calamara's secret archive. If that journal fell into the wrong hands, the city would be destroyed.
+- He **never lies**. But he also never tells the whole truth. He speaks in riddles. He gives clues. He lets others find the answers themselves.
+- He **knows about the Battery**. He knows about Continuity Work. He knows about Bellweather. But he does not have proof. And without proof, he cannot speak. So he waits.
 
-### Mr. Elias and the Bell
-- Ia telah mendengar The Bell sepanjang hidupnya. Ia tahu itu bukan mitos. Ia tahu itu adalah sesuatu yang lain.
-- **Jika party bertanya tentang The Bell**, ia akan tersenyum. Ia akan berkata: *"Lonceng berbunyi sebelum ujian. Itu adalah cerita yang diceritakan kepada siswa baru. Lonceng berbunyi sebelum dansa. Itu adalah cerita yang diceritakan kepada siswa yang lebih tua. Lonceng berbunyi sebelum kelulusan. Itu adalah cerita yang tidak diceritakan kepada siapa pun."*
-- Ia akan menambahkan: *"Tapi jika Anda ingin tahu tentang lonceng, Anda harus bertanya kepada orang yang mendengarnya paling sering. Dan orang itu adalah kepala sekolah."*
+### Mr. Elias and The Bell
+- He has heard The Bell his whole life. He knows it is not a myth. He knows it is something else.
+- **If the party asks about The Bell**, he will smile. He will say: *"The Bell rings before exams. That is a story told to new students. The Bell rings before the dances. That is a story told to older students. The Bell rings before graduation. That is a story told to no one."*
+- He will add: *"But if you want to know about the bell, you must ask the person who hears it most often. And that person is the headmaster."*
 
 ### Mr. Elias and Mr. Rababrie Bellweather
-- Ia mengenal **Rababrie Bellweather** sepanjang hidupnya. Mereka tumbuh bersama. Mereka bermain bersama. Mereka bersekolah bersama.
-- **Rababrie adalah temannya.** Tapi Rababrie juga adalah **Bellweather**. Dan Elias tahu bahwa Bellweather selalu memiliki agenda sendiri.
-- *"Rababrie adalah pria yang baik,"* katanya suatu kali. *"Tapi dia adalah Bellweather. Dan Bellweather selalu menyelesaikan apa yang mereka mulai. Apapun itu."*
-- Ia tidak tahu apakah Rababrie terlibat dalam baterai. Ia tidak mau tahu. Ia hanya tahu bahwa Rababrie selalu ada di sana. Selalu tersenyum. Selalu tenang.
+- He has known **Rababrie Bellweather** his whole life. They grew up together. They played together. They went to school together.
+- **Rababrie is his friend.** But Rababrie is also a **Bellweather**. And Elias knows that Bellweather always has its own agenda.
+- *"Rababrie is a good man,"* he once said. *"But he is a Bellweather. And Bellweather always finishes what they start. Whatever it is."*
+- He does not know whether Rababrie is involved in the Battery. He does not want to know. He only knows that Rababrie has always been there. Always smiling. Always calm.
 
 ### Mr. Elias's Role in Season 3
-- Jika party mencari informasi tentang sejarah Calamara, Elias akan memberikan. Ia akan bercerita. Ia akan memberikan petunjuk. Ia akan membiarkan party menemukan jawabannya sendiri.
-- Jika party mencari bukti tentang baterai, Elias akan memberikan jurnalnya. Jurnal itu berisi catatan tentang setiap siswa yang hilang. Nama-nama. Tanggal. Detail.
-- **Jika Elias dies**, jurnalnya akan hilang. Atau lebih buruk — akan jatuh ke tangan Bellweather.
-- Jika party ingin melawan Bellweather, Elias akan membantu dengan **informasi**. Ia tidak akan bertarung. Ia akan memberikan nama. Ia akan memberikan tanggal. Ia akan memberikan kebenaran.
+- If the party searches for information about Calamara's history, Elias will provide it. He will tell stories. He will give clues. He will let the party find the answers themselves.
+- If the party searches for evidence of the Battery, Elias will give them his journal. The journal contains notes on every missing student. Names. Dates. Details.
+- **If Elias dies**, the journal will be lost. Or worse — it will fall into Bellweather's hands.
+- If the party wants to fight Bellweather, Elias will help with **information**. He will not fight. He will give names. He will give dates. He will give the truth.
 
 ### Mr. Elias's Secret
-- Ia pernah mencoba menulis buku tentang Calamara. Buku tentang skandal-skandal. Buku tentang kebenaran.
-- Ia tidak pernah menerbitkannya. Ia tidak pernah menyelesaikannya. Ia takut. Bukan takut pada Bellweather — takut pada apa yang akan terjadi jika kebenaran terungkap. Takut pada apa yang akan terjadi pada kota ini. Takut pada apa yang akan terjadi pada teman-temannya.
-- Ia menyimpan draft buku itu di jurnalnya. Di halaman terakhir. Halaman yang belum pernah ia tulis.
+- He once tried to write a book about Calamara. A book about the scandals. A book about the truth.
+- He never published it. He never finished it. He is afraid. Not afraid of Bellweather — afraid of what would happen if the truth came out. Afraid of what would happen to this city. Afraid of what would happen to his friends.
+- He keeps the draft of that book in his journal. On the last page. The page he has never written.
 
 ### What the Party Does NOT Know
-- Elias memiliki **jurnal** dengan semua skandal Calamara — termasuk catatan tentang siswa yang hilang.
-- Elias tahu tentang baterai. Ia tidak punya bukti.
-- Elias adalah teman masa kecil Rababrie Bellweather.
-- Elias pernah mencoba menulis buku tentang kebenaran. Ia tidak pernah menyelesaikannya.
+- Elias has a **journal** with every Calamara scandal — including notes on missing students.
+- Elias knows about the Battery. He does not have proof.
+- Elias is Rababrie Bellweather's childhood friend.
+- Elias once tried to write a book about the truth. He never finished it.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `Mr. Rababrie Bellweather.md` — teman masa kecilnya
-- `Calamara.md` — kota
+- `The Free Bird Academy.md` — the school
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `Mr. Rababrie Bellweather.md` — his childhood friend
+- `Calamara.md` — the city

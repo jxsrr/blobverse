@@ -22,7 +22,7 @@ Man from another world (Aede). White hair, sharp blue eyes. White-and-blue robes
 - Shares snacks to bring small smiles. It is the only thing he knows how to do when words fail.
 
 ## Recent Developments
-- Left arm was amputated by **[[Livia Vane|Livia]]**'s wind attack in Chenalia (Session 06).
+- Left arm was amputated by **[[oversee/npcs/Lei Livia Vane|Livia]]**'s wind attack in Chenalia (Session 06).
 - Underwent cybernetic surgery in **Arujaya** — his Imp **Renal** was fused into the new arm (Session 06).
 - The arm is still soft/jelly-like and not yet fully "awake." It is slowly solidifying.
 - Gained "limitless" strength by consuming residual Ambitio-Ether — at a cost to his HP and stamina (Session 07).

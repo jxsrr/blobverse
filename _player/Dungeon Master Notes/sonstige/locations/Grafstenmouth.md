@@ -5,18 +5,18 @@ universe: Sonstige
 ---
 > [!info] At a Glance
 > **Part of:** Southeast Peninsula
-> **Notable People:** Keluarga Grafsten, Zenroy Dala
+> **Notable People:** The Grafsten family, Zenroy Dala
 > **Status:** Small port town. Developing. Under imperial scrutiny.
 
 ## What Matters Here
-- Kota pelabuhan kecil di ujung **Southeast Peninsula**.
-- **Belum berkembang** — infrastruktur terbatas, ekonomi bergantung pada perdagangan laut.
-- Dikuasai oleh **Keluarga Grafsten**.
-- Saat ini **berselisih dengan keluarga kekaisaran** — sedang berupaya memulihkan reputasi.
-- **Rumah besar keluarga Grafsten** — luas, tapi Zenroy hanya mendapat satu kamar kosong.
-- **Gerbang kota** — dijaga oleh penjaga yang curiga pada orang asing.
+- A small port town at the tip of the **Southeast Peninsula**.
+- **Underdeveloped** — limited infrastructure, its economy dependent on maritime trade.
+- Controlled by the **Grafsten family**.
+- Currently **in dispute with the imperial family** — struggling to restore its reputation.
+- The **Grafsten family's great house** — sprawling, but Zenroy was given only one empty room.
+- The **town gate** — watched by guards suspicious of strangers.
 
 ## What the Party Knows
-- Kota asal Zenroy. Kota pelabuhan di Southeast Peninsula.
-- Dikuasai keluarga Grafsten.
-- Sedang dalam masalah dengan keluarga kekaisaran.
+- Zenroy's home town. A port town on the Southeast Peninsula.
+- Controlled by the Grafsten family.
+- Currently in trouble with the imperial family.

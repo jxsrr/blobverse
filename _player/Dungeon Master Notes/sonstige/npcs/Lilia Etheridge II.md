@@ -9,23 +9,23 @@ universe: Sonstige
 ---
 > [!info] At a Glance
 > **Full Name:** Lilia Etheridge II
-> **Nickname:** "Lilie" (hanya teman dekat — Brougha dulu memanggilnya ini)
-> **Role:** Jounce prodigy. Kapten FBA's The Bateleur Eagle. Bellweather Candidate. Mantan kekasih Brougha.
+> **Nickname:** "Lilie" (close friends only — Brougha used to call her this)
+> **Role:** Jounce prodigy. Captain of FBA's The Bateleur Eagle. Bellweather Candidate. Brougha's ex-girlfriend.
 > **Where:** Calamara / FBA
-> **Status:** Alive — dijadwalkan menjadi Bride of Bellweather
+> **Status:** Alive — scheduled to become the Bride of Bellweather
 
 ## Appearance
 - Visual reference: [Picrew #708151](https://picrew.me/ja/image_maker/708151#goog_rewarded)
-- (Detail lain TBD oleh DM)
+- (Other details TBD by DM)
 
 ## What the Party Knows
-- **Lilia Etheridge II** — dipanggil "Lilie" oleh teman-teman dekatnya.
-- Prodigy Jounce. Kapten **FBA's The Bateleur Eagle**.
-- Orang pertama yang "naik" — dipromosikan lebih dulu.
-- Ditempatkan di jalur **Bellweather Candidate**.
-- **Mantan kekasih Brougha Ironhide.** Mereka putus sebelum FBA.
-- Menyukai **Lumen Arash** karya Maestro Lorenzo. Brougha membaca buku itu karena Lilia.
-- Line: *"Aku memang masih bisa mencintai, tapi tidak ada satu orang yg benar-benar spesial untukku."*
+- **Lilia Etheridge II** — called "Lilie" by her close friends.
+- Jounce prodigy. Captain of **FBA's The Bateleur Eagle**.
+- The first to "go up" — promoted first.
+- Placed on the **Bellweather Candidate** track.
+- **Brougha Ironhide's ex-girlfriend.** They broke up before FBA.
+- She loves **Lumen Arash** by Maestro Lorenzo. Brougha reads that book because of Lilia.
+- Her line: *"I can still love, but there's no one person who's really special to me."*
 
 ## Current Goal
-Menjadi Bride of Bellweather — atau melarikan diri darinya. (Ia belum tahu apa itu Bride. Ia hanya tahu itu adalah kehormatan.)
+Become the Bride of Bellweather — or escape it. (She does not yet know what the Bride is. She only knows it is an honour.)

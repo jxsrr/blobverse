@@ -11,7 +11,7 @@ years: 180 – 200 AV
 
 **~180 AV — Wind's Rest, East Harka**
 
-On the eastern coast of Harka, in a small fishing village called **[[oversee/locations/Wind's Rest]]**, there lived an old man named **[[oversee/npcs/Gunnar Guirela]]**.
+On the eastern coast of Harka, in a small fishing village called **[Wind's Rest](/oversee/locations/Wind%27s%20Rest)**, there lived an old man named **[[oversee/npcs/Gunnar Guirela]]**.
 
 He was a simple fisherman. Every day he went to sea, pulled his nets, and sold his catch at the market. He had no treasure, no magic, no ambition. He had only an old boat and a sagging hut by the shore.
 
@@ -21,7 +21,7 @@ A **bow**.
 
 A longbow with pale wood, almost transparent. Its curve was perfect. Its string was invisible — like air compressed into a line. The bow was neither wet nor dry, and it was **warm to the touch**.
 
-Gunnar did not know that this bow was **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — one of the six legendary weapons once collected by **[[oversee/npcs/Simon Greenbottle]]**. He did not know that the bow had been thrown into the sea by **[[oversee/npcs/Lei Firsa]]**, the mother of **[[Klan Lei]]**, to erase every trace of Simon from the world.
+Gunnar did not know that this bow was **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — one of the six legendary weapons once collected by **[[oversee/npcs/Simon Greenbottle]]**. He did not know that the bow had been thrown into the sea by **[[oversee/npcs/Lei Firsa]]**, the mother of **[[oversee/lore/Lei Bloodline]]**, to erase every trace of Simon from the world.
 
 He only knew the bow was special. And he had to keep it safe.
 
@@ -43,7 +43,7 @@ They were led by **[[oversee/npcs/Lei Alejandro]]** — a direct descendant of *
 
 At the height of his power, Alejandro made a journey to a remote region and, by accident, entered the territory of the **Goblin Kingdom**.
 
-There, underground, in a place never touched by sunlight, he met **Queen [[Ratu Ghaniba]]** — a wise and strong leader, utterly unlike the disgusting image long attached to her race. The long conversation in the goblin throne room became something Alejandro had never planned.
+There, underground, in a place never touched by sunlight, he met **Queen [[oversee/npcs/Queen Ghaniba]]** — a wise and strong leader, utterly unlike the disgusting image long attached to her race. The long conversation in the goblin throne room became something Alejandro had never planned.
 
 **He fell in love.**
 
@@ -63,7 +63,7 @@ His brown hair, always parted down the middle, his wary eyes, and his habit of c
 
 Since childhood, Atlan had spent more time at the docks than at home. He learned to read from old maps discarded by sailors, learned to write by copying the logbooks of ships at anchor, learned mathematics from counting tides and currents.
 
-As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**.
+As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **[Observatorium](/oversee/locations/Juto%27s%20Observatorium)** of **[[oversee/locations/Juto Port City]]**.
 
 The Observatorium became his second home. A white stone tower on the edge of a cliff, with a basement that extended down to the shoreline, where he installed tide gauges, water thermometers, and current traps of his own design. At the top of the tower, he installed a great telescope — used not only to observe the stars, but to study the relationship between the moon's phases and the waves.
 
@@ -95,7 +95,7 @@ Atlan built a swing beneath the Observatorium, taught Mira the names of stars an
 
 Contrary to common misunderstanding, the Grin Kingdom was not inhabited by a single race with a particular skin color. Humans, elves, dwarves, halflings, and many other races lived side by side — united not by blood or lineage, but by the same curse: **the eternal smile carved into their faces from birth**.
 
-The smile did not choose race. It did not choose skin color. It did not choose status. It was the inheritance of the tragic pact between **[[Gavaevodata]]** — the elf princess who dared to love a demon — and **[[oversee/npcs/Zargoth]]** — the demon of the Gap who dared to love her back.
+The smile did not choose race. It did not choose skin color. It did not choose status. It was the inheritance of the tragic pact between **[[oversee/npcs/Gavaevodata Grin]]** — the elf princess who dared to love a demon — and **[[oversee/npcs/Zargoth]]** — the demon of the Gap who dared to love her back.
 
 Atreus himself was a small-bodied elf with pale gray skin — a common color among Grin elves of the barren lands, but not all Grin had it. There were Grin with the brown skin of desert-human lineage, Grin with the pale white skin of mountain dwarves, even Grin with the greenish tint of half-orcs who had joined their kingdom. But one thing united them all: **a wide smile that never faded, no matter what they felt.**
 
@@ -119,7 +119,7 @@ As a **bard**, Sam was a collector of stories. He had wandered farther than anyo
 
 He knew every story had two sides, and that the truth was often hidden between the notes that were never played.
 
-His meeting with **[[oversee/pcs/README|The Five Sticks]]** — centuries after his death — would happen in **[[Ghuffghuff]]**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
+His meeting with **[[oversee/pcs/README|The Five Sticks]]** — centuries after his death — would happen in **[[oversee/locations/Ghuffghuff Town]]**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
 
 And he was right. He would write that song. But it would not be a song of victory — it would be a **quiet requiem** creeping from behind the stars.
 
@@ -153,7 +153,7 @@ In the years before the **Great Disappearance** — when The Initial Six was sti
 
 Not for a great adventure. They wanted a moment of peace from the noise of the world.
 
-They arrived at **[[Hutan Domido|Domido Forest]]** — a quiet region in the interior of **Harka**, far from the great cities and political intrigue. On the edge of the forest, near the border of two villages — **[[Ghuffghuff]]** to the north and **[[oversee/locations/Gudameng Town|Gudameng]]** to the south — they found a **rundown hut**.
+They arrived at **[[oversee/locations/Domido Forest|Domido Forest]]** — a quiet region in the interior of **Harka**, far from the great cities and political intrigue. On the edge of the forest, near the border of two villages — **[[oversee/locations/Ghuffghuff Town]]** to the north and **[[oversee/locations/Gudameng Town|Gudameng]]** to the south — they found a **rundown hut**.
 
 Inside it, a **boy named [[oversee/npcs/Gordon]]** lived alone. He was about ten years old. His parents had died in a hunting accident years before.
 
@@ -189,7 +189,7 @@ He kept the bow carefully. And sometimes he sang the melody Sam had taught him �
 
 The ritual could not use the **[[oversee/lore/The Gemhearts|Gemhearts]]**.
 
-**[[oversee/items/Emelanica]]** had been given to the Goblin Kingdom, following the dying wish of **[[Ratu Ghaniba]]**. **[[oversee/items/Safayer]]** was hidden in the belly of **[[oversee/npcs/Vythrax]]** — the silver dragon poisoned by the stone. **[[oversee/items/Rubion]]** had been given to the first descendant of **Lei Firage** in Rioquan. **[[oversee/items/Topaju]]** — the yellow stone that anchored the world — had never been found since the last **Lei Roiga** held it.
+**[[oversee/items/Emelanica]]** had been given to the Goblin Kingdom, following the dying wish of **[[oversee/npcs/Queen Ghaniba]]**. **[[oversee/items/Safayer]]** was hidden in the belly of **[[oversee/npcs/Vythrax]]** — the silver dragon poisoned by the stone. **[[oversee/items/Rubion]]** had been given to the first descendant of **Lei Firage** in Rioquan. **[[oversee/items/Topaju]]** — the yellow stone that anchored the world — had never been found since the last **Lei Roiga** held it.
 
 Alejandro had only the remnants of knowledge from ancient **[[oversee/lore/The Cycle Clan|Cycle Clan]]** manuscripts and the pure wind magic flowing in his blood. But he was the strongest wizard of his generation, and he believed that was enough.
 
@@ -207,7 +207,7 @@ The **six heroes** gathered at the prepared altar.
 
 **[[oversee/npcs/Olaf Guirela]]** — the old half-orc with the bow on his back — stood with an alertness that never faded, though age had long since claimed him.
 
-They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **[[oversee/npcs/Simon Greenbottle|Simon]]**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **[[oversee/lore/The Overseer & The Architect|Overseer]]**. No one doubted the words of a descendant of **[[Klan Lei]]** — a respected hero, a man who had lost his wife and child in tragic circumstances.
+They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **[[oversee/npcs/Simon Greenbottle|Simon]]**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **[[oversee/lore/The Overseer & The Architect|Overseer]]**. No one doubted the words of a descendant of **[[oversee/lore/Lei Bloodline]]** — a respected hero, a man who had lost his wife and child in tragic circumstances.
 
 **The ritual began.**
 

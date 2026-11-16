@@ -4,23 +4,23 @@ universe: Sonstige
 era: Modern
 ---
 > [!info] Calamara
-> Kota kecil makmur di Negara Anderes. Magis adalah hal yang sepenuhnya biasa. Reputasinya sempurna. Sejarahnya tidak.
+> A small, prosperous city in Negara Anderes. Magic is entirely ordinary here. Its reputation is flawless. Its history is not.
 
-## Apa Itu Calamara
-- Kota kecil yang makmur. Rumah bagi keluarga terpandang, bisnis magis, kuil, atlet duel, akademisi, dan politisi.
-- Magis adalah hal yang sepenuhnya biasa.
-- Reputasinya sempurna.
-- Sejarahnya tidak.
+## What Calamara Is
+- A small, prosperous city. Home to respected families, magical businesses, temples, duelling athletes, academics, and politicians.
+- Magic is entirely ordinary.
+- Its reputation is flawless.
+- Its history is not.
 
-## Yang Ada di Calamara
-- **The Free Bird Academy (FBA)** — sekolah elit.
-- **Kuil-kuil** — tempat para Cleric dan Paladin berlatih.
-- **Bisnis magis** — toko-toko, bengkel, laboratorium.
-- **Arena duel** — tempat Coach Garrick melatih atlet.
-- **Pasar** — tempat para siswa membeli perlengkapan.
-- **Rumah-rumah keluarga lama** — keluarga berdarah biru yang telah tinggal di Calamara selama generasi.
+## What Is in Calamara
+- **The Free Bird Academy (FBA)** — an elite school.
+- **The temples** — where Clerics and Paladins train.
+- **Magical businesses** — shops, workshops, laboratories.
+- **Duelling arenas** — where Coach Garrick trains athletes.
+- **The markets** — where students buy their supplies.
+- **The houses of old families** — blue-blooded families who have lived in Calamara for generations.
 
 ## What the Party Knows
-- Calamara adalah kota tempat campaign berlangsung.
-- Magis adalah hal biasa.
-- Reputasinya sempurna.
+- Calamara is the city where the campaign takes place.
+- Magic is ordinary here.
+- Its reputation is flawless.

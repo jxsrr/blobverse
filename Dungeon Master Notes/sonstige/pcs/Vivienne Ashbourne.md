@@ -8,108 +8,108 @@ universe: Sonstige
 > [!info] The Party
 > **Class:** Wizard
 > **Role:** Scholar, investigator, keeper of the family secret
-> **Known as:** Vivienne Ashbourne (15 tahun)
+> **Known as:** Vivienne Ashbourne (age 15)
 
 ## Appearance
-- Elf. Rambut panjang **dark chestnut brown**, sedikit bergelombang. Biasanya dibiarkan tergerai atau diikat sederhana dengan pita.
-- Mata **grey-green**. Tatapan tenang dan memperhatikan sekelilingnya.
-- Postur ramping dengan pembawaan anggun.
-- Pakaian berpotongan klasik, warna-warna netral: hitam, ivory, burgundy, cokelat tua.
-- Ciri khas: **cincin perak warisan keluarga** di jari telunjuk.
+- Elf. Long **dark chestnut brown** hair, slightly wavy. Usually worn loose or tied simply with a ribbon.
+- **Grey-green** eyes. A calm gaze that takes in everything around her.
+- A slender build with an elegant bearing.
+- Classic-cut clothing, neutral colours: black, ivory, burgundy, dark brown.
+- Distinguishing feature: the **family's heirloom silver ring** on her index finger.
 - Visual reference: [Google Drive](https://drive.google.com/open?id=18-6dKsCDR9E8095UqRyfN1MY7IvLBGf4)
 
 ## Family — Ashbourne
-- Salah satu **keluarga penyihir berdarah lama** (old wizarding lineage). Dikenal selama beberapa generasi.
-- Nama mereka pernah terpahat dalam sejarah kalangan penyihir — khususnya **penelitian artefak kuno**, **sejarah sihir**, dan **pengembangan ilmu magis**.
-- **Kejayaan tidak lagi seperti dahulu.** Masih memiliki nama dan kehormatan, tapi tidak lagi mempunyai pengaruh politik maupun kekayaan sebesar keluarga aristokrat lain.
-- Bagi sebagian kalangan: keluarga terhormat yang kehilangan kejayaannya. Bagi yang lain: peninggalan masa lalu yang terlalu keras kepala untuk dilupakan.
-- **Konservatif.** Menjunjung tinggi pendidikan, tradisi, dan reputasi.
-- Ayah: dari garis keturunan utama Ashbourne. Peneliti artefak magis.
-- Ibu: dari keluarga penyihir terpandang. Tertarik pada ilmu pengobatan dan ramuan magis.
-- Tidak gemar tampil di publik. Lebih memilih mempertahankan pengaruh melalui pengetahuan, koneksi lama, dan warisan intelektual.
+- One of the **old wizarding bloodlines**. Known for several generations.
+- Their name was once inscribed in the history of the wizarding world — especially **research into ancient artefacts**, **the history of magic**, and **the development of magical science**.
+- **No longer as glorious as it once was.** Still holds name and honour, but no longer commands the political influence or wealth of other aristocratic families.
+- To some: an honourable family that has lost its glory. To others: a relic of the past too stubborn to be forgotten.
+- **Conservative.** Upholds education, tradition, and reputation.
+- Father: of the primary Ashbourne lineage. A researcher of magical artefacts.
+- Mother: from a respected wizarding family. Interested in the science of medicine and magical potions.
+- Not fond of public appearances. Prefers to preserve influence through knowledge, old connections, and intellectual legacy.
 
-## Rumah — Ashbourne Manor
-- Manor tua bergaya **Gothic Revival** di tengah kawasan hutan ek.
-- Batu abu-abu. Jendela tinggi. Atap curam. Ivy merambat di sebagian dinding.
-- Interior: furnitur antik, lukisan leluhur, rak buku menjulang hingga langit-langit, artefak magis.
-- **Perpustakaan pribadi** — ruangan paling berharga. Manuskrip kuno yang tidak semuanya bisa dibaca sembarang orang.
-- Terlihat megah dari luar, tapi sunyi dan sedikit muram. Tidak banyak perubahan selama beberapa dekade.
-- Lokasi: **pinggiran Calamara** (catatan: sumber menyebut "utara Inggris" di satu bagian dan "pinggiran Calamara" di bagian lain — DM harus memutuskan. Rekomendasi: **pinggiran Calamara**, karena lebih konsisten dengan setting).
-- Kawasan pedesaan tua, dikelilingi hutan ek, danau kecil, perbukitan berkabut. Jauh dari pemukiman umum. Tersembunyi melalui perlindungan sihir keluarga.
+## Home — Ashbourne Manor
+- An old **Gothic Revival** manor set within an oak forest.
+- Grey stone. Tall windows. Steep roofs. Ivy climbing across parts of the walls.
+- Interior: antique furniture, ancestral portraits, bookshelves rising to the ceiling, magical artefacts.
+- A **private library** — the manor's most treasured room. Ancient manuscripts that not just anyone is permitted to read.
+- Magnificent from the outside, but silent and a little gloomy. Little has changed in decades.
+- Location: **the outskirts of Calamara** (note: sources mention "northern England" in one place and "the outskirts of Calamara" in another — the DM must decide. Recommendation: **the outskirts of Calamara**, as it is more consistent with the setting).
+- An old rural area, surrounded by oak forest, a small lake, and misted hills. Far from general settlement. Hidden behind the family's magical wards.
 
 ## Home Situation
-- Tenang, teratur, penuh aturan tidak tertulis.
-- Setiap anggota keluarga punya tanggung jawab. Hampir tidak ada ruang untuk perilaku yang dianggap tidak pantas.
-- Hubungan antaranggota: **formal, menjaga jarak**. Kasih sayang lebih sering ditunjukkan melalui perhatian terhadap pendidikan dan masa depan daripada ungkapan emosional.
-- **Perpustakaan** adalah satu-satunya tempat yang terasa benar-benar bebas. Di sana Vivienne bisa membaca apa pun, mempelajari hal-hal yang dilarang, dan menjadi diri sendiri tanpa memikirkan ekspektasi keluarga.
-- **Masih tersimpan banyak rahasia** mengenai masa lalu keluarga Ashbourne yang belum pernah diceritakan secara utuh kepada generasi penerusnya.
+- Quiet, orderly, full of unspoken rules.
+- Every family member has a responsibility. There is almost no room for behaviour deemed improper.
+- Relations between members: **formal, at a distance**. Affection is more often shown through attention to education and the future than through emotional expression.
+- The **library** is the only place that feels truly free. There Vivienne can read anything, study things that are forbidden, and be herself without thinking about her family's expectations.
+- **Many secrets still remain** about the Ashbourne family's past that have never been fully told to the next generation.
 
 ## Family Demands
-- (Tidak disebutkan secara eksplisit — Vivienne tidak menyebutkan tuntutan spesifik. Implisit: menjaga reputasi Ashbourne, menempuh pendidikan yang layak, tidak mempermalukan nama keluarga.)
+- (Not stated explicitly — Vivienne mentions no specific demands. Implicit: uphold the Ashbourne reputation, pursue an appropriate education, do not disgrace the family name.)
 
 ## Why FBA
-- **Perpaduan** antara keinginan pribadi dan harapan keluarga.
-- Sejak kecil, FBA selalu disebut sebagai tempat yang layak bagi seorang Ashbourne. Bagi keluarga: simbol kehormatan dan tradisi yang diwariskan selama generasi.
-- Seiring bertambahnya usia, Vivienne mulai melihat FBA sebagai kesempatan untuk **membuktikan kemampuan diri sendiri**, terlepas dari nama keluarga.
+- A **combination** of personal wish and family expectation.
+- Since childhood, FBA has always been spoken of as a fitting place for an Ashbourne. For the family: a symbol of honour and tradition passed down through generations.
+- As she grew older, Vivienne began to see FBA as a chance to **prove her own ability**, apart from the family name.
 
 ## Path at FBA
-- **Ketertarikan besar** pada sejarah sihir, artefak kuno, dan berbagai bentuk pengetahuan magis yang belum sepenuhnya terungkap.
-- Ingin mempelajari sesuatu yang bahkan belum mampu dijelaskan oleh generasi sebelumnya.
-- FBA memungkinkan Vivienne bertemu penyihir dari berbagai latar belakang dan keluarga.
-- Ingin **memperluas wawasan, membangun koneksi sendiri, dan menemukan bidang keahlian** yang benar-benar ingin ditekuni.
-- Bagi keluarga: pencapaian di FBA akan menjadi kebanggaan.
-- Bagi Vivienne: kesempatan membangun sesuatu yang bisa disebut **pencapaian pribadi**.
+- A **deep interest** in magical history, ancient artefacts, and the many forms of magical knowledge not yet fully revealed.
+- She wants to study things even the previous generation could not explain.
+- FBA allows Vivienne to meet wizards from many backgrounds and families.
+- She wants to **broaden her horizons, build her own connections, and discover the field of expertise** she truly wants to pursue.
+- For her family: achievement at FBA will be a source of pride.
+- For Vivienne: a chance to build something that can be called **a personal achievement**.
 
 ## What She Heard About FBA
-- Institusi pendidikan sihir yang prestisius, tempat berkumpulnya penyihir berbakat dari berbagai latar belakang.
-- Kehidupan di dalamnya tidak selalu semudah yang terlihat.
-- Persaingan antarsiswa.
-- Tradisi yang telah berlangsung selama bertahun-tahun.
-- Berbagai kelompok sosial yang memiliki pengaruh tersendiri.
-- Nama keluarga terkadang dapat membuka pintu, tetapi tidak selalu cukup untuk mempertahankan posisi.
-- **FBA menyimpan lebih banyak rahasia daripada yang terlihat di permukaannya.**
+- A prestigious magical institution, where talented wizards from many backgrounds gather.
+- Life inside it is not always as easy as it looks.
+- Rivalry between students.
+- Traditions that have lasted for years.
+- Various social groups, each with their own influence.
+- A family name can sometimes open doors, but it is not always enough to hold a position.
+- **FBA holds more secrets than are visible on its surface.**
 
 ## Personality
 - **Three words others use:** Reserved, observant, composed.
-- Orang menganggapnya pendiam, sedikit sulit didekati, terlalu tenang. Vivienne tidak keberatan.
-- Lebih suka mengamati sebelum berbicara. Tidak perlu menjadi pusat perhatian.
-- Orang sering keliru mengartikan sikap diamnya sebagai ketidakpedulian. Vivienne hanya butuh waktu untuk merasa nyaman.
+- People see her as quiet, a little hard to approach, too calm. Vivienne does not mind.
+- She prefers to observe before speaking. She does not need to be the centre of attention.
+- People often mistake her silence for indifference. Vivienne simply needs time to feel comfortable.
 
 ## What She Wants
-- **Sesuatu yang benar-benar menjadi miliknya sendiri** — sesuatu yang tidak diwariskan, ditentukan, ataupun diharapkan oleh keluarga.
-- **Selama di FBA:** memperluas pengetahuan, menemukan teman yang bisa dipercaya, mempelajari sejarah dan rahasia dunia sihir yang belum diketahui.
-- **Setelah lulus:** menjadi peneliti atau akademisi di bidang sejarah dan artefak magis. Ingin dikenal **bukan karena nama Ashbourne**, melainkan karena sesuatu yang berhasil ditemukan dan diciptakan sendiri.
+- **Something that is truly her own** — something not inherited, decreed, or expected by her family.
+- **While at FBA:** broaden her knowledge, find friends she can trust, learn the history and secrets of the magical world that are not yet known.
+- **After graduation:** become a researcher or academic in the history of magic and magical artefacts. She wants to be known **not because of the Ashbourne name**, but because of something she herself has found and created.
 
 ## What She Values
-- **Kebenaran dan kepercayaan.** Hubungan yang dibangun atas dasar kejujuran jauh lebih berharga daripada hubungan yang dipertahankan karena status atau kepentingan.
-- Tetap menyayangi keluarga, meskipun tidak selalu sepakat dengan cara mereka memandang kehidupan.
-- Sangat menghargai orang-orang yang mampu menerima dirinya **tanpa menilai nama keluarga**.
+- **Truth and trust.** Relationships built on honesty are far more valuable than relationships maintained for status or interest.
+- She still loves her family, even when she does not always agree with the way they see life.
+- She deeply values people who can accept her **without judging her family name**.
 
 ## What Makes Her Lose Control
-- **Ketika seseorang meremehkan kemampuannya karena latar belakang keluarga atau usia.**
-- **Sulit menerima kebohongan** — terutama ketika seseorang sengaja menyembunyikan kebenaran demi memanipulasi orang lain.
-- **Rasa penasaran** adalah kelemahan terbesar. Bisa mengambil keputusan kurang bijaksana ketika berhadapan dengan sesuatu yang belum dipahami — terutama jika berkaitan dengan rahasia atau pengetahuan terlarang.
+- **When someone underestimates her ability because of her family background or age.**
+- **She finds lies difficult to accept** — especially when someone deliberately hides the truth to manipulate others.
+- **Curiosity** is her greatest weakness. She may make unwise decisions when faced with something she does not yet understand — especially if it concerns secrets or forbidden knowledge.
 
 ## Background
-- Tumbuh di **Ashbourne Manor** — pinggiran Calamara. Lingkungan cukup terpencil, jauh dari keramaian pusat kota.
-- Sebagian besar masa kecil dihabiskan di **perpustakaan keluarga**, taman manor, dan ruang-ruang yang menyimpan peninggalan leluhur.
-- Terbiasa dengan kehidupan teratur dan lingkungan sosial yang relatif terbatas.
-- Memasuki FBA menjadi pengalaman yang cukup berbeda — untuk pertama kalinya memiliki kesempatan mengenal orang dari berbagai latar belakang tanpa pengawasan keluarga.
+- Grew up at **Ashbourne Manor** — outskirts of Calamara. A fairly remote area, far from the bustle of the city centre.
+- Most of her childhood was spent in the **family library**, the manor gardens, and the rooms that hold ancestral relics.
+- Accustomed to an orderly life and a relatively limited social environment.
+- Entering FBA is a fairly new experience — for the first time she has a chance to meet people from many backgrounds without her family watching.
 
 ## Work Experience
-- **Belum pernah memiliki pekerjaan formal.**
-- Sejak kecil sering membantu mengurus **perpustakaan dan arsip keluarga**: mengelompokkan manuskrip, mencatat koleksi artefak, membantu merawat buku-buku tua yang diwariskan selama beberapa generasi.
-- Beberapa kali **diam-diam membaca dokumen** yang sebenarnya tidak diperuntukkan bagi dirinya. Tidak pernah menceritakan hal tersebut kepada keluarga — terutama setelah menemukan manuskrip dengan simbol-simbol yang tidak dapat dikenali.
+- **Has never held a formal job.**
+- Since childhood she has often helped manage the **family library and archives**: sorting manuscripts, cataloguing artefacts, helping care for the old books passed down through generations.
+- On several occasions she has **secretly read documents** that were not meant for her. She has never told her family — especially after finding a manuscript with symbols she could not recognise.
 
 ## Secret (Player-Facing)
-- Di antara peninggalan keluarga Ashbourne, Vivienne pernah menemukan **manuskrip tua** berisi catatan mengenai penelitian magis yang **tidak pernah dibicarakan** dalam sejarah keluarga.
-- Beberapa bagian manuskrip **sengaja dihapus**. Sisanya menggunakan **simbol dan bahasa** yang belum berhasil dipahami.
-- Vivienne menduga FBA memiliki **koleksi arsip dan literatur kuno** yang dapat membantu mengungkap isi manuskrip.
-- Karena itu, Vivienne tidak hanya datang untuk belajar — tetapi juga untuk **mencari jawaban atas sesuatu yang mungkin sengaja disembunyikan oleh keluarganya sendiri**.
-- Belum tahu apa yang sebenarnya terkandung di dalamnya. Tapi yakin ada alasan mengapa manuskrip itu disimpan begitu lama.
+- Among the Ashbourne family relics, Vivienne once found an **old manuscript** containing notes on magical research that was **never spoken of** in the family's history.
+- Several sections of the manuscript were **deliberately erased**. The rest uses **symbols and a language** that has not yet been deciphered.
+- Vivienne suspects FBA holds **archives and ancient literature** that could help reveal the manuscript's contents.
+- So Vivienne has not come only to learn — but also to **look for answers to something her own family may have deliberately hidden**.
+- She does not yet know what is actually contained in it. But she is sure there is a reason the manuscript has been kept for so long.
 
 ## RAIB Question
-> *"Pernahkah Anda mengingat sesuatu yang tidak pernah terjadi dan merasa ingatan itu lebih nyata daripada ingatan Anda sendiri?"*
+> *"Have you ever remembered something that never happened and felt that memory was more real than your own?"*
 > **Yes.**
 
 ## Current Goal
@@ -119,56 +119,56 @@ Find the truth about the Ashbourne manuscript. Prove herself beyond her family n
 %% DM SECRETS %%
 
 ### Who Vivienne Is
-- Putri keluarga penyihir tua yang kehilangan kejayaannya. Bukan bangsawan kaya. Bukan penyihir kuat. Hanya **Ashbourne** — nama yang dulu berarti sesuatu, tapi sekarang hanya gema.
-- **Terbiasa** dengan ekspektasi, aturan tidak tertulis, perpustakaan sunyi, manor muram.
-- Tapi ia **ingin lebih**. Ingin menemukan sesuatu yang **miliknya sendiri**. Ingin menjadi **Vivienne** — bukan **Ashbourne**.
-- **Lebih ambisius** dari yang ia akui. Ia tidak hanya ingin belajar. Ia ingin **menemukan**. Ia ingin **mengungkap**. Ia ingin **membuktikan** bahwa ia lebih dari nama keluarganya.
-- **Manuskrip itu adalah kuncinya.** Manuskrip itu adalah **tujuan** ia masuk FBA. Bukan hanya untuk belajar — untuk **menemukan jawaban**.
+- Daughter of an old wizarding family that has lost its glory. Not rich nobility. Not a powerful wizard. Only **Ashbourne** — a name that once meant something, but now is only an echo.
+- **Accustomed** to expectations, unspoken rules, silent libraries, gloomy manors.
+- But she **wants more**. She wants to find something that is **her own**. She wants to be **Vivienne** — not **Ashbourne**.
+- **More ambitious** than she admits. She does not just want to learn. She wants to **discover**. She wants to **uncover**. She wants to **prove** that she is more than her family name.
+- **The manuscript is her key.** The manuscript is the **reason** she entered FBA. Not just to learn — to **find answers**.
 
 ### The RAIB Question — Player Input
-- Player menjawab **"Yes"** — Vivienne pernah mengingat sesuatu yang tidak pernah terjadi, dan ingatan itu terasa lebih nyata daripada ingatannya sendiri.
-- **Isi ingatan itu BELUM ditentukan.** Ini adalah hook DM-player. Kemungkinan arah:
-  - Apakah Vivienne ingat **anggota keluarga yang tidak ada** — saudara yang seharusnya ada tapi tidak ada?
-  - Apakah Vivienne ingat **Ashbourne yang seharusnya** — keluarga yang masih berjaya, masih lengkap?
-  - Apakah Vivienne ingat **diri sendiri** dari kehidupan sebelumnya?
-  - Apakah Vivienne ingat **manuskrip yang belum dihapus** — versi lengkap dari manuskrip yang ia temukan?
-- **DM harus berdiskusi dengan Gladys** untuk menentukan isi ingatan itu.
+- The player answered **"Yes"** — Vivienne has remembered something that never happened, and that memory felt more real than her own memories.
+- **The contents of that memory are UNDECIDED.** This is a DM-player hook. Possible directions:
+  - Does Vivienne remember **a family member who does not exist** — a sibling who should be there but is not?
+  - Does Vivienne remember **the Ashbourne who should have been** — a family still in its glory, still whole?
+  - Does Vivienne remember **herself** from a previous life?
+  - Does Vivienne remember **the manuscript before it was erased** — the full version of the manuscript she found?
+- **The DM must discuss with Gladys** to decide the contents of that memory.
 
 ### Vivienne and the Manuscript
-- Manuskrip itu **bukan sekadar catatan**. Itu adalah **peta**. Peta menuju sesuatu yang **sengaja dihapus** dari sejarah keluarga.
-- **Simbol-simbol** di manuskrip itu mungkin mirip dengan simbol Void. Mungkin mirip dengan simbol FBA. Mungkin mirip dengan simbol Bellweather.
+- The manuscript is **not merely notes**. It is a **map**. A map to something **deliberately erased** from the family's history.
+- The **symbols** in the manuscript may resemble Void symbols. They may resemble FBA symbols. They may resemble Bellweather symbols.
 - **DM must decide:**
-  - Apakah manuskrip itu adalah **catatan tentang FBA**?
-  - Apakah itu adalah **catatan tentang baterai**?
-  - Apakah itu adalah **catatan tentang Bride of Bellweather**?
-  - Apakah itu adalah **catatan tentang RAIB** — dan cara memulihkannya?
-- **Bagian yang dihapus** mungkin adalah **bagian yang paling penting**. Mungkin **nama**. Mungkin **lokasi**. Mungkin **kebenaran**.
+  - Is the manuscript a **record of FBA**?
+  - Is it a **record of the Battery**?
+  - Is it a **record of the Bride of Bellweather**?
+  - Is it a **record of RAIB** — and of how to restore it?
+- **The erased sections** may be **the most important part**. Perhaps **names**. Perhaps **locations**. Perhaps **the truth**.
 
 ### Vivienne and the Ashbourne Secrets
-- Keluarga Ashbourne **menyembunyikan sesuatu**. Manuskrip itu adalah buktinya.
-- **Apa yang mereka sembunyikan?** Kemungkinan:
-  - Keterlibatan dalam **baterai FBA** — mungkin mereka adalah salah satu pendiri, atau salah satu korban.
-  - Keterlibatan dalam **RAIB** — mungkin mereka adalah beneficiary, atau victim, atau keduanya.
-  - Keterlibatan dalam **Bellweather** — mungkin mereka adalah bagian dari keluarga, atau sekutu, atau musuh.
-  - Keterlibatan dalam **Void** — mungkin mereka tahu tentang Overseer, tentang Rapture, tentang seal.
-- **DM should decide** before Vivienne finds the erased parts of the manuscript.
+- The Ashbourne family **is hiding something**. The manuscript is the proof.
+- **What are they hiding?** Possibilities:
+  - Involvement in the **FBA Battery** — perhaps they were one of its founders, or one of its victims.
+  - Involvement in **RAIB** — perhaps they are beneficiaries, or victims, or both.
+  - Involvement in **Bellweather** — perhaps they are part of the family, or allies, or enemies.
+  - Involvement in the **Void** — perhaps they know about the Overseer, about the Rapture, about the seal.
+- **The DM should decide** before Vivienne finds the erased parts of the manuscript.
 
 ### Vivienne's Role in the Campaign
-- **Sarjana** party. Membaca buku kuno, memecahkan teka-teki, menemukan kebenaran.
-- **Misteri** party. Punya manuskrip yang tidak bisa dibaca. Punya ingatan yang tidak seharusnya.
-- **Diplomat** party — dengan nama Ashbourne yang bisa membuka pintu.
+- The party's **scholar**. Reads ancient books, solves puzzles, finds the truth.
+- The party's **mystery**. Has a manuscript she cannot read. Has memories she should not have.
+- The party's **diplomat** — with an Ashbourne name that can open doors.
 
 ### Vivienne's Fate
-- Jika Vivienne menemukan **bagian yang dihapus** dari manuskrip, ia mungkin bisa membaca apa yang ia tulis. Ia mungkin bisa memahami simbol-simbol itu. Ia mungkin bisa menemukan **kebenaran** tentang keluarganya — dan tentang FBA.
-- Jika Vivienne menemukan **RAIB residue pada dirinya sendiri**, ia mungkin bisa memulihkan **kehidupan yang hilang**. Tapi ia harus **mengingat rahasia** tentang dirinya sendiri — rahasia yang bahkan ia tidak tahu.
-- Jika Vivienne menjadi RAIB, ia akan dihapus dari ingatan semua orang. Tapi party akan mengingatnya — karena mereka punya **rahasia tentangnya**. Rahasia itu mungkin adalah **manuskripnya** — atau **simbol-simbol yang ia salin**.
+- If Vivienne finds **the erased sections** of the manuscript, she may be able to read what she has written. She may be able to understand the symbols. She may be able to find the **truth** about her family — and about FBA.
+- If Vivienne finds **RAIB residue on herself**, she may be able to restore **the lost life**. But she must **remember a secret** about herself — a secret she does not even know.
+- If Vivienne becomes a RAIB, she will be erased from everyone's memory. But the party will remember her — because they hold a **secret about her**. That secret may be **her manuscript** — or **the symbols she copied**.
 
 ### Connections
-- `Ashbourne Family.md` — keluarganya (needs file)
-- `Ashbourne Manor.md` — rumahnya (needs file)
-- `The Manuscript.md` — manuskrip yang ia temukan (needs file)
-- `R.A.I.B.md` — fenomena
-- `The Bell.md` — mitos
-- `Mr. Elias.md` — guru History
-- `Prof. Quill.md` — guru Civics & Law
-- `The Free Bird Academy.md` — sekolah
+- `Ashbourne Family.md` — her family (needs file)
+- `Ashbourne Manor.md` — her home (needs file)
+- `The Manuscript.md` — the manuscript she found (needs file)
+- `R.A.I.B.md` — the phenomenon
+- `The Bell.md` — the myth
+- `Mr. Elias.md` — the History teacher
+- `Prof. Quill.md` — the Civics & Law teacher
+- `The Free Bird Academy.md` — the school

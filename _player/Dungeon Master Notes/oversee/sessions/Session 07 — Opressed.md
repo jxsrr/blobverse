@@ -2,8 +2,9 @@
 type: Oversee Session
 session_number: 7
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.
 
 ## Part 1: The Recovery Ward
@@ -24,7 +25,7 @@ While Ama recovered, the party explored.
 
 **[[oversee/npcs/Adam Findias]]** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
 
-> *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **[[Besik]]** is not… normal."*
+> *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **[[oversee/npcs/Besik Findias]]** is not… normal."*
 
 They went to the archive.
 
@@ -110,7 +111,7 @@ When Syl woke, she was back at the edge of the Depths.
 
 She did not remember what she had seen. But something had changed. There was a **presence** nearby — a silhouette that vanished when she tried to focus on it. A **wandering demon**, perhaps. Something that had pulled her out.
 
-Later, **[[Echo Gzirmo Kopling|Echo Gzirmo]]** would say: *"The demons of the Gap fear water. They will not follow you if you are wet. You were wet, weren't you?"*
+Later, **[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** would say: *"The demons of the Gap fear water. They will not follow you if you are wet. You were wet, weren't you?"*
 
 She had been.
 
@@ -221,19 +222,19 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 - The meaning of **HVS** — Human Vessel Shell
 
 ## NPCs Encountered
-- **[[Adam]]** — the local boy with a mechanical heart
-- **[[Besik]]** — the Mnemonic Archive keeper
+- **[[oversee/npcs/Adam Findias]]** — the local boy with a mechanical heart
+- **[[oversee/npcs/Besik Findias]]** — the Mnemonic Archive keeper
 - **[[oversee/npcs/Fidale]]** — the old woman at the edge of the Depths
-- **[[Echo Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, now fully cooperative
+- **[[oversee/npcs/Gzirmo Kopling|Echo Gzirmo]]** — the reactor guardian, now fully cooperative
 - **[[oversee/npcs/Dr. Vektor]]** — the surgeon, now fully open about his grief
 - **[[oversee/npcs/Lei Livia Vane]]** — captured, terrified of Valerius, a twin who should have died
 
 ## Locations Visited
-- **[[Arujaya]]** — now a memory behind them
+- **[[oversee/locations/Arujaya Metropolis]]** — now a memory behind them
 - **The Depths of Arujaya** — where Syl saw the Overseer
-- **[[The Rune of the Cycle]]** — the desert stone circle, safe from scrying
+- **[[oversee/locations/Rune of the Cycle]]** — the desert stone circle, safe from scrying
 - **The First Tree** — where the Shell fragment was hidden
 
 ## Sessions Chain
-- **Previous:** [[Session 06 — The Underground (Full Recap)|Session 06]]
-- **Next:** [[Session 08 — The Reckoning|Session 08]]
+- **Previous:** Session 06
+- **Next:** Session 08

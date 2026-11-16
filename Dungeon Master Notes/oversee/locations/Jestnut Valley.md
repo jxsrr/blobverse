@@ -28,13 +28,13 @@ universe: Oversee
 
 ## What the Party Knows
 - They have not been here.
+%% DM SECRETS %%
 - This is a **Season 3 optional dungeon**. It is tied to Valerius's experiments with HVS.
 
 ## Current State
 - Quarantined. Still infected. The Commonwealth has sealed it off.
 
 
-%% DM SECRETS %%
 - The Jestnut blight is not natural. It is a **Gap-touched fungus** that Valerius cultivated to test HVS's resistance to cosmic contamination.
 - If HVS can survive the blight, Valerius believes HVS can survive the Gap.
 - **Greta** is a former Cycle Clan member who defected. She is the only one who can make a vaccine.

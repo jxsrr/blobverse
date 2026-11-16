@@ -3,18 +3,18 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 > [!info] The Hidden Garden
-> Taman tersembunyi di sekolah. Tempat buah berbentuk kepala bayi tumbuh. Sumber RAIB.
+> A hidden garden at the school. Where fruit shaped like a baby's head grows. The source of RAIB.
 
-## Apa Itu
-- Taman tersembunyi di dalam area sekolah.
-- Tidak ada di peta. Tidak ada di brosur.
-- Hanya siswa tertentu yang tahu. Hanya staf tertentu yang tahu.
-- Buah berbentuk kepala bayi tumbuh di sini.
+## What It Is
+- A hidden garden within the school grounds.
+- Not on any map. Not in any brochure.
+- Only certain students know of it. Only certain staff know of it.
+- Fruit shaped like a baby's head grows here.
 
-## Buah Berbentuk Kepala Bayi
-- Buah ini adalah manifestasi dari **envy** — iri hati.
-- Jika **X** iri dengan **Y** dan memakan buah, reality rewrites: **Y menjadi RAIB**, dan **X menerima kehidupan, kepemilikan, hubungan, dan tempat Y**.
-- Semua orang lupa Y. X masuk ke kehidupannya.
+## The Baby-Headed Fruit
+- This fruit is the manifestation of **envy**.
+- If **X** is envious of **Y** and eats the fruit, reality rewrites: **Y becomes a RAIB**, and **X receives Y's life, possessions, relationships, and place**.
+- Everyone forgets Y. X steps into Y's life.
 
 ## What the Party Knows
-- Tidak ada yang tahu tentang taman ini — belum.
+- No one knows about this garden — not yet.

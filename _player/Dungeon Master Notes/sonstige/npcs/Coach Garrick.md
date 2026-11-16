@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Physical Education di FBA. Mantan atlet duel. Mantan kapten The Bateleur Eagle.
+> **Role:** Physical Education teacher at FBA. Former duel athlete. Former captain of The Bateleur Eagle.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria besar dengan otot yang jelas terlihat di bawah kemeja polo ketat.
-- Celana olahraga. Peluit di leher. Sepatu olahraga yang selalu bersih.
-- Rambut pendek. Rahang tegas. Luka bekas duel di lengan kiri.
-- Baju yang ketat — sesuai dengan peraturan FBA. "Seragam adalah disiplin."
+- A large man with muscles clearly visible under a tight polo shirt.
+- Sports trousers. A whistle at his neck. Sports shoes that are always clean.
+- Short hair. A strong jaw. A duel scar on his left arm.
+- Tight clothes — as required by FBA rules. "The uniform is discipline."
 
 ## Personality
-- Disiplin. Tegas. Tidak mentolerir kemalasan.
-- Percaya bahwa **fisik adalah fondasi dari segalanya**. "Sihir tanpa tubuh yang kuat hanyalah bencana yang menunggu untuk terjadi."
-- Tidak pernah berbicara tentang masa lalunya sebagai atlet duel. Tidak pernah.
-- Melatih dengan keras. Tapi adil. Ia tidak pernah meminta sesuatu yang tidak bisa dilakukan.
+- Disciplined. Firm. Intolerant of laziness.
+- Believes that **the physical is the foundation of everything**. "Magic without a strong body is only a disaster waiting to happen."
+- Never speaks about his past as a duel athlete. Never.
+- Trains hard. But fair. He never asks for something that cannot be done.
 
 ## What the Party Knows
-- Guru Physical Education. Mantan atlet duel.
-- Melatih atlet duel untuk FBA. Melatih Jounce? Mungkin.
-- Disiplin. Tegas. Tidak mentolerir kemalasan.
+- The Physical Education teacher. Former duel athlete.
+- Trains duel athletes for FBA. Trains Jounce? Perhaps.
+- Disciplined. Firm. Intolerant of laziness.
 
 ## What He Offers
-- **Latihan fisik.** Jika party ingin menjadi lebih kuat, lebih cepat, lebih tahan lama — ia adalah guru terbaik.
-- **Informasi tentang atlet duel.** Ia tahu semua atlet di Calamara. Ia tahu siapa yang kuat. Ia tahu siapa yang curang.
-- **Petunjuk tentang Jounce.** Jika party bertanya tentang Jounce, ia mungkin akan berbicara. Tapi ia akan berbicara tentang teknik, bukan tentang baterai.
+- **Physical training.** If the party wants to become stronger, faster, more enduring — he is the best teacher.
+- **Information about duel athletes.** He knows every athlete in Calamara. He knows who is strong. He knows who cheats.
+- **Clues about Jounce.** If the party asks about Jounce, he may speak. But he will speak about technique, not about the Battery.

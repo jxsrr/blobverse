@@ -74,7 +74,7 @@ In 1040 BV, the veil tore — and something fell through. Something **[[oversee/
 
 At the center of the hierarchy — suspended between the hunger above and the remnants below — lies **Oversee** itself.
 
-It is the world of mortals. It is the world of the **[[The Inbu|Inbu]]** and their descendants. It is the world where kingdoms rise and fall under the gaze of powers far greater than themselves.
+It is the world of mortals. It is the world of the **[[oversee/lore/Inbu|Inbu]]** and their descendants. It is the world where kingdoms rise and fall under the gaze of powers far greater than themselves.
 
 It is a world built on the ashes of civilizations that came before. A world where each civilization is destroyed in turn by forces it cannot understand, cannot fight, cannot stop.
 

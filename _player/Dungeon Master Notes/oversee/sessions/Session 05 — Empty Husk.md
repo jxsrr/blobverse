@@ -2,13 +2,14 @@
 type: Oversee Session
 session_number: 5
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.
 
 ## Part 1: The Body of a Bard
 
-They sailed on the same ship that had carried them from **[[Pulau Dima]]** to **[[Kota Juto]]** — but now it belonged to **[[oversee/factions/Will of Grin]]**.
+They sailed on the same ship that had carried them from **[[oversee/locations/Dima Island]]** to **[[oversee/locations/Juto Port City]]** — but now it belonged to **[[oversee/factions/Will of Grin]]**.
 
 **[[oversee/npcs/Accarus Grin|Accarus]]** was with them. So was the body of **[[oversee/npcs/Sam Hurls]]** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
 
@@ -27,10 +28,10 @@ The party had two of these. They needed the other two.
 Later, they asked about the legendary weapons — the six blades of Simon Greenbottle's legacy. Accarus answered:
 
 - **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — Accarus carried it
-- **[[oversee/items/Rayio — The Wind Blade|Rayio]]** — lost in **[[Hutan Garberro]]**
+- **[[oversee/items/Rayio — The Wind Blade|Rayio]]** — lost in **[[oversee/locations/Garberro Forest]]**
 - **[[oversee/items/Kkana — The Stone Greatsword|Kkana]]** — carried by **[[oversee/npcs/Mira Nouveau]]**
 - **[[oversee/items/Frostfang — The Ice Fang|Frostfang]]** — lost in **[[oversee/locations/Frosthaven Peak]]**
-- **[[oversee/items/Zenahhi — The Loyal Blade|Zenahhi]]** — lost in **[[Ngarai Ratapan]]**
+- **[[oversee/items/Zenahhi — The Loyal Blade|Zenahhi]]** — lost in **[[oversee/locations/Canyon of Lament]]**
 - **[[oversee/items/Terrde — The Patient Blade|Terrde]]** — lost in the ruins of the Rapture
 - **[[oversee/items/Swaith — The Soul-Thirsting Blade|Swaith]]** — in **[[oversee/pcs/Shin Van Hel|HVS]]**'s hand
 
@@ -139,7 +140,7 @@ He explained that he had not been kidnapped. He had not been held. He had been *
 
 He did not seem to understand what he had done. He did not seem to know the cost.
 
-Vya also learned that the man who had raised her — **[[Kopling]]** — shared a surname with **[[oversee/npcs/Gzirmo Kopling]]**, one of the Initial Six. Distant relatives. Or perhaps closer than anyone had realized.
+Vya also learned that the man who had raised her — **[[oversee/npcs/Yayat Kopling]]** — shared a surname with **[[oversee/npcs/Gzirmo Kopling]]**, one of the Initial Six. Distant relatives. Or perhaps closer than anyone had realized.
 
 Two mysteries remained:
 - **Who burned Chenalia?** Will of Grin was blamed. But Will of Grin had not been in Elis at the time. Someone else had done it.
@@ -149,7 +150,7 @@ Two mysteries remained:
 
 A new mission arrived.
 
-**Retrieve Safayer** from the belly of the silver dragon **[[oversee/npcs/Vythrax]]** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **[[oversee/locations/Frosthaven Peak]]**, in the village of **[[Frostheart Village|Frostheart]]** — **[[oversee/pcs/Syl Frost|Syl]]**'s birthplace.
+**Retrieve Safayer** from the belly of the silver dragon **[[oversee/npcs/Vythrax]]** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **[[oversee/locations/Frosthaven Peak]]**, in the village of **[[oversee/locations/Frosthaven Peak|Frostheart]]** — **[[oversee/pcs/Syl Frost|Syl]]**'s birthplace.
 
 Accarus equipped them with anti-freeze gear, potions, and heavy cloaks. **[[oversee/pcs/Husgus]]** asked for **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — the bow Accarus carried, the bow that had belonged to **[[oversee/npcs/Olaf Guirela]]**, then **[[oversee/npcs/Gordon]]**, then Husgus. Accarus said he would give it to him after the mission.
 
@@ -163,7 +164,7 @@ The climb began.
 
 Wild snow snakes ambushed them halfway up. One nearly killed **[[oversee/pcs/Shin Van Hel|HVS]]** with a bite to the throat. **[[oversee/pcs/Syl Frost|Syl]]** froze it before it could strike again.
 
-At the top: **[[Frostheart Village|Frostheart]]** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
+At the top: **[[oversee/locations/Frosthaven Peak|Frostheart]]** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
 
 Syl had arrived first. She stood at the edge of the village and remembered.
 
@@ -325,8 +326,8 @@ She had finished translating.
 ## Loot & Rewards
 - **[[oversee/items/Safayer]]** — the blue Gemheart, returned by Vythrax
 - **[[oversee/items/Gustaero — The Swan Bow|Gustaero]]** — given to Husgus
-- **[[oversee/items/Hildag's Map]]** — incomplete world map
-- **[[oversee/handouts/Atreus's Letter]]** — the final words of the Grin druid
+- **[Hildag's Map](/oversee/items/Hildag%27s%20Map)** — incomplete world map
+- **[Atreus's Letter](/oversee/handouts/Atreus%27s%20Letter)** — the final words of the Grin druid
 - The truth of the Initial Six — the ritual, the betrayal, the murder
 
 ## NPCs Encountered
@@ -342,10 +343,10 @@ She had finished translating.
 ## Locations Visited
 - **[[oversee/locations/Maw Desert]]** — the Will of Grin headquarters
 - **[[oversee/locations/Frosthaven Peak]]** — the mountain of the silver dragon
-- **[[Frostheart Village|Frostheart]]** — Syl's birthplace
+- **[[oversee/locations/Frosthaven Peak|Frostheart]]** — Syl's birthplace
 - **[[oversee/locations/The Temple of Vythrax]]** — the holy shrine
 - **The Ruin of Cycle** — the Cycle Clan ruin
 
 ## Sessions Chain
-- **Previous:** [[Session 04 — The Festival (Full Recap)|Session 04]]
-- **Next:** [[Session 06 — The Underground (Full Recap)|Session 06]]
+- **Previous:** Session 04
+- **Next:** Session 06

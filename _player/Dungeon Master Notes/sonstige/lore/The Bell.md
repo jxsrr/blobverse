@@ -3,22 +3,22 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 > [!info] The Bell
-> Mitos turun-temurun FBA. Suara lonceng yang berbunyi sebelum ujian besar, dansa musim sosial, dan terutama menjelang kelulusan.
+> A myth passed down through generations at FBA. A bell that rings before major exams, before the social season's dances, and above all before graduation.
 
-## Apa Itu The Bell
-- **The Bell** adalah mitos turun-temurun sekolah FBA.
-- Cerita tentang suara lonceng yang berbunyi sebelum ujian besar, dansa musim sosial, dan terutama menjelang kelulusan.
-- Tidak ada yang tahu dari mana suara itu datang.
-- Tidak ada yang tahu siapa yang membunyikannya.
-- Tidak ada yang tahu mengapa itu terjadi.
+## What The Bell Is
+- **The Bell** is a myth passed down through generations at FBA.
+- A story of a bell that rings before major exams, before the social season's dances, and above all before graduation.
+- No one knows where the sound comes from.
+- No one knows who rings it.
+- No one knows why it happens.
 
-## Yang Dikatakan Murid
-- "The Bell berbunyi sebelum ujian. Itu pertanda baik."
-- "The Bell berbunyi sebelum dansa. Itu pertanda bahwa musim sosial akan ramai."
-- "The Bell berbunyi sebelum kelulusan. Itu pertanda bahwa kita akan segera menjadi alumni."
-- Tidak ada yang bertanya **ke mana** alumni pergi.
+## What the Students Say
+- "The Bell rings before exams. That's a good sign."
+- "The Bell rings before the dance. That means the social season will be busy."
+- "The Bell rings before graduation. That means we're about to become alumni."
+- No one asks **where** the alumni go.
 
 ## What the Party Knows
-- The Bell adalah mitos.
-- The Bell berbunyi sebelum ujian, dansa, dan kelulusan.
-- Tidak ada yang tahu dari mana suara itu datang.
+- The Bell is a myth.
+- The Bell rings before exams, dances, and graduation.
+- No one knows where the sound comes from.

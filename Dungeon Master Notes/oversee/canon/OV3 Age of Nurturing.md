@@ -261,6 +261,7 @@ The party has learned:
 - The **Cycle Clan** performed a ritual — but they do not yet know the details.
 - **[[Husgus]]** and **[[Shin Van Hel|HVS]]** are connected to something called "Human Vessel Shell" — but they do not know what it means.
 
+%% DM SECRETS %%
 They do not yet know:
 - Whether Lei Firsa is alive or dead.
 - That Lei Firsa murdered **[[Grin Qain]]**.
@@ -304,7 +305,6 @@ These truths will come in **Season 3**.
 - **Next Era:** [[The First God]]
 ::/pf
 
-%% DM SECRETS %%
 
 ## The Truth Beyond the Player-Facing Text
 

@@ -79,6 +79,7 @@ universe: Oversee
 - **Session 5** — Maw Desert. Sam's memory. **Vythrax** healed. **Jarko** killed. **Safayer** recovered.
 - **Session 6** — Chenalia. Darvin revealed. Arujaya entered. Ama's arm fused.
 - **Session 7** — The Depths. Overseer seen. Livia captured. Escape.
+%% DM SECRETS %%
 - **Session 8** — Darvin killed by Valerius. Season 3 begins.
 
 ## The Future (Unknown)
@@ -86,7 +87,6 @@ universe: Oversee
 - **The Endgame** — The party must choose: sacrifice, bitter sacrifice, break the cycle (third path), or tyranny.
 ::/pf
 
-%% DM SECRETS %%
 
 ### Corrections Applied
 - **CLARIFIED:** The First Trees are **many** primordial trees — not a single dead root in Elis. The Inbu were born from their fruit. The dead root in Elis is **one of them**, 10,000 years old.

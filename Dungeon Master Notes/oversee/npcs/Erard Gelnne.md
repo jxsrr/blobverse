@@ -32,6 +32,7 @@ universe: Oversee
 ## Open Questions
 - Did Erard ever realize he was being used? (Yes — in his final years. He suspected Firsa's influence. He had no proof. He died before he could act.)
 - Did he leave a hidden record? (Yes — a letter or journal in the Bahtera Bawah Tanah. It contains his confession: *"I built the Rose Guard. I did not know what it would become."*)
+%% DM SECRETS %%
 - Do they have living descendants? (Possible Season 3 thread — a distant relative who serves in the current Rose Guard, unaware of their ancestor's role.)
 
 ## Naming Note

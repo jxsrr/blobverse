@@ -3,171 +3,171 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 ::pf
-> [!info] Sistem Wing FBA
-> FBA tidak memiliki houses. Siswa dikelompokkan ke dalam **Wings** — enam fakultas akademik. Setiap Wing mewakili satu **Vocational Track**. Siswa **memilih** Wing mereka saat mendaftar — seperti memilih jurusan di universitas.
+> [!info] The FBA Wing System
+> FBA does not have houses. Students are grouped into **Wings** — six academic faculties. Each Wing represents one **Vocational Track**. Students **choose** their Wing when they enrol — like choosing a major at a university.
 
-## Cara Kerja
+## How It Works
 
-- **Tidak ada sorting.** Siswa memilih Wing mereka — atau dibimbing oleh orang tua/wali. Tidak ada ujian penempatan. Tidak ada Sorting Hat.
-- **Wing menentukan kelas.** Setiap Wing punya kurikulum inti — plus mata pelajaran umum yang diambil semua siswa.
-- **Wing menentukan academic advisor.** Setiap siswa punya **Wing Advisor** — guru dari jurusan mereka.
-- **Wing menentukan homeroom.** Setiap pagi, siswa masuk homeroom per Wing.
-- **Wing bisa berubah.** Siswa yang ingin pindah jurusan bisa pindah Wing — meskipun jarang dan memerlukan persetujuan.
-- **Wing bukan identitas moral.** Tidak ada "Wing pemberani" atau "Wing jahat." Setiap Wing berisi campuran — orang baik, orang buruk, orang biasa. **Wing adalah jurusan, bukan rumah.**
+- **No sorting.** Students choose their Wing — or are guided by a parent or guardian. No placement tests. No Sorting Hat.
+- **The Wing determines classes.** Each Wing has a core curriculum — plus general subjects taken by all students.
+- **The Wing determines academic advisor.** Every student has a **Wing Advisor** — a teacher from their track.
+- **The Wing determines homeroom.** Every morning, students attend a homeroom by Wing.
+- **Wings can change.** A student who wishes to switch tracks may switch Wings — though it is rare and requires approval.
+- **The Wing is not a moral identity.** There is no "brave Wing" or "evil Wing." Every Wing contains a mix — good people, bad people, ordinary people. **The Wing is a major, not a house.**
 
-## Enam Wing
+## The Six Wings
 
-| Wing             | Vocational Track | Class Options            | Karakter Studi                 |
-| :--------------- | :--------------- | :----------------------- | :----------------------------- |
-| **Kestrel Wing** | Arcane Studies   | Wizard, Sorcerer         | Akademisi, peneliti, presisi   |
-| **Heron Wing**   | Divine Studies   | Cleric, Paladin          | Moral, tradisi, pelayanan      |
-| **Magpie Wing**  | Performance      | Bard, Rogue              | Ekspresif, sosial, networking  |
-| **Hawk Wing**    | Martial Arts     | Fighter, Barbarian, Monk | Disiplin fisik, kompetisi      |
-| **Sparrow Wing** | Wildcraft        | Ranger, Druid            | Alam, survival, komunitas      |
-| **Rook Wing**    | Contract Magic   | Warlock                  | Eksklusif, tertutup, misterius |
+| Wing | Vocational Track | Class Options | Study Character |
+| :--- | :--- | :--- | :--- |
+| **Kestrel Wing** | Arcane Studies | Wizard, Sorcerer | Academic, researcher, precise |
+| **Heron Wing** | Divine Studies | Cleric, Paladin | Moral, traditional, service |
+| **Magpie Wing** | Performance | Bard, Rogue | Expressive, social, networked |
+| **Hawk Wing** | Martial Arts | Fighter, Barbarian, Monk | Physical discipline, competition |
+| **Sparrow Wing** | Wildcraft | Ranger, Druid | Nature, survival, community |
+| **Rook Wing** | Contract Magic | Warlock | Exclusive, closed, mysterious |
 
-## Mengapa Nama Burung?
+## Why Bird Names?
 
-- **"Free Bird Academy"** — nama sekolah. Setiap Wing mewakili **jenis burung** yang mencerminkan **bidang studi**-nya.
-- **Kestrel** — burung kecil yang presisi, sabar, dan mematikan. Mencerminkan **Arcane Studies** — sihir yang presisi dan terkontrol.
-- **Heron** — burung yang diam, sabar, dan setia. Mencerminkan **Divine Studies** — kesabaran dan pelayanan.
-- **Magpie** — burung yang cerewet, cerdas, dan suka mencuri. Mencerminkan **Performance** — ekspresi dan kelicikan.
-- **Hawk** — burung yang agresif dan dominan. Mencerminkan **Martial Arts** — kekuatan dan kompetisi.
-- **Sparrow** — burung yang hidup berkelompok dan dekat dengan alam. Mencerminkan **Wildcraft** — komunitas dan alam.
-- **Rook** — burung yang misterius, strategis, dan gelap. Mencerminkan **Contract Magic** — misteri dan perjanjian.
+- **"Free Bird Academy"** — the school's name. Each Wing represents a **type of bird** that reflects its **field of study**.
+- **Kestrel** — a small bird that is precise, patient, and deadly. Reflects **Arcane Studies** — precise and controlled magic.
+- **Heron** — a bird that is still, patient, and faithful. Reflects **Divine Studies** — patience and service.
+- **Magpie** — a bird that is chatty, clever, and prone to stealing. Reflects **Performance** — expression and cunning.
+- **Hawk** — an aggressive and dominant bird. Reflects **Martial Arts** — strength and competition.
+- **Sparrow** — a bird that lives in flocks and close to nature. Reflects **Wildcraft** — community and nature.
+- **Rook** — a mysterious, strategic, and shadowy bird. Reflects **Contract Magic** — mystery and pacts.
 
-## Fungsi Wing di FBA
+## What the Wing Does at FBA
 
-- **Homeroom.** Setiap pagi, 07:50–08:00, siswa masuk homeroom per Wing. Dipimpin oleh **Wing Advisor**.
-- **Kelas inti.** Setiap Wing punya kurikulum inti — mata pelajaran yang wajib untuk jurusan tersebut.
-- **Academic Advisor.** Setiap siswa punya Wing Advisor — guru yang membimbing mereka secara akademik.
-- **Jounce Cup.** Kejuaraan Jounce **antar-Wing** — enam tim bertanding dalam bracket. Bukan antar-kelas, bukan antar-angkatan.
-- **The Bateleur Eagle.** Tim varsity FBA — **all-star** dari enam Wing. Bukan tim Wing mana pun.
+- **Homeroom.** Every morning, 07:50–08:00, students attend homeroom by Wing. Led by the **Wing Advisor**.
+- **Core classes.** Each Wing has a core curriculum — the subjects required for that track.
+- **Academic Advisor.** Every student has a Wing Advisor — a teacher who guides them academically.
+- **Jounce Cup.** The **inter-Wing** Jounce championship — six teams compete in a bracket. Not inter-class, not inter-year.
+- **The Bateleur Eagle.** FBA's varsity team — an **all-star** selection from all six Wings. Not a team of any one Wing.
 
-## Yang BUKAN Fungsi Wing
+## What the Wing Is NOT
 
-- **Wing bukan tempat tinggal.** FBA adalah sekolah pulang-pergi. Tidak ada asrama. Tidak ada common room.
-- **Wing bukan identitas moral.** Tidak ada "Wing pemberani" atau "Wing jahat."
-- **Wing bukan sistem poin.** Tidak ada poin Wing. Tidak ada piala untuk Wing terbaik.
-- **Wing bukan segalanya.** Siswa menghabiskan waktu di klub, di Jounce, di kelas umum — dengan siswa dari Wing lain.
+- **The Wing is not a residence.** FBA is a commuter school. No dorms. No common rooms.
+- **The Wing is not a moral identity.** There is no "brave Wing" or "evil Wing."
+- **The Wing is not a points system.** No Wing points. No trophy for the best Wing.
+- **The Wing is not everything.** Students spend time in clubs, in Jounce, in general classes — alongside students from other Wings.
 
-## Strata Sosial — Lebih Penting dari Wing
+## Social Strata — More Important Than Wing
 
-Wing hanyalah jurusan. Yang **sebenarnya** menentukan status sosial di FBA adalah:
+The Wing is only a major. What **actually** determines social status at FBA is:
 
-| Strata | Contoh | Karakter |
+| Stratum | Examples | Character |
 | :--- | :--- | :--- |
-| **Legacy Families** | Ashbourne, Cortenya | Old money. Nama besar. Ekspektasi tinggi. |
-| **New Money** | Ironhide | Kaya dari prestasi — bukan warisan. |
-| **Sponsored Students** | Zenroy (Grafsten) | Dibiayai. Punya misi. Tidak sepenuhnya bebas. |
-| **Scholarship Kids** | — | Berjuang. Tidak punya koneksi. |
-| **Staff Families** | — | Anak guru/staf. Status ambigu. |
+| **Legacy Families** | Ashbourne, Cortenya | Old money. Big names. High expectations. |
+| **New Money** | Ironhide | Wealth from achievement — not inheritance. |
+| **Sponsored Students** | Zenroy (Grafsten) | Funded. On a mission. Not entirely free. |
+| **Scholarship Kids** | — | Struggling. No connections. |
+| **Staff Families** | — | Children of teachers/staff. Ambiguous status. |
 
-**Klik sosial terbentuk dari** kelas, uang, dan reputasi — **bukan** dari Wing.
+**Social cliques form from** class, money, and reputation — **not** from Wing.
 
-## Homeroom vs Kelas
+## Homeroom vs Classes
 
-| Aspek | Homeroom | Kelas |
+| Aspect | Homeroom | Classes |
 | :--- | :--- | :--- |
-| **Berdasarkan** | Wing | Wing + mata pelajaran umum |
-| **Siapa yang hadir** | Semua siswa dari Wing yang sama | Campuran — tergantung mata pelajaran |
-| **Dipimpin oleh** | Wing Advisor | Guru mata pelajaran |
-| **Tujuan** | Administrasi, pengumuman, kehadiran | Pembelajaran |
+| **Based on** | Wing | Wing + general subjects |
+| **Who attends** | All students from the same Wing | Mixed — depends on the subject |
+| **Led by** | Wing Advisor | Subject teacher |
+| **Purpose** | Administration, announcements, attendance | Learning |
 
-**Catatan:** Beberapa mata pelajaran umum — seperti History, Literature, Civics — diambil oleh **semua siswa dari semua Wing**. Di sini, siswa dari Wing berbeda bertemu. Jounce Court, Dining Hall, Library — juga tempat siswa dari Wing berbeda bertemu.
+**Note:** Some general subjects — such as History, Literature, Civics — are taken by **all students from all Wings**. Here, students from different Wings meet. The Jounce Court, the Dining Hall, and the Library are also places where students from different Wings meet.
 
-## Jounce Cup
+## The Jounce Cup
 
-- **Kejuaraan antar-Wing.**
-- Setiap Wing mengirimkan tim Jounce.
-- Final: Enam tim bertanding dalam bracket — pemenang mendapat **Jounce Cup**.
-- **The Bateleur Eagle** — tim varsity FBA — adalah **all-star** dari enam Wing. Bukan tim Wing. Tim yang mewakili sekolah di kompetisi antar-sekolah.
+- **The inter-Wing championship.**
+- Each Wing sends a Jounce team.
+- Final: six teams compete in a bracket — the winner takes the **Jounce Cup**.
+- **The Bateleur Eagle** — FBA's varsity team — is an **all-star** selection from all six Wings. Not a Wing team. A team representing the school in inter-school competition.
 ::/pf
 
 %% DM SECRETS %%
 
-## Wing = Vocational Faculty (Bukan Houses)
+## Wing = Vocational Faculty (Not Houses)
 
-- **Ini bukan Hogwarts.** Siswa **memilih** Wing mereka — bukan ditempatkan oleh topi ajaib. Ini adalah pilihan jurusan — seperti memilih fakultas di universitas.
-- **Tidak ada sistem poin.** Tidak ada piala untuk "Wing terbaik." Jounce Cup adalah kejuaraan olahraga — bukan kompetisi moral.
-- **Tidak ada common room.** FBA adalah sekolah pulang-pergi. Siswa tidak tinggal di Wing. Mereka pulang ke rumah masing-masing.
-- **Wing tidak menentukan siapa temanmu.** Teman ditentukan oleh klub, Jounce, kelas umum — bukan Wing. Wing hanya homeroom dan kelas inti.
-- **Tidak ada "Wing jahat."** Rook Wing (Contract Magic) mungkin eksklusif dan misterius — tapi tidak jahat. Hawk Wing (Martial Arts) mungkin agresif — tapi tidak jahat. Setiap Wing berisi campuran.
+- **This is not Hogwarts.** Students **choose** their Wing — they are not placed by a magic hat. This is a choice of major — like choosing a faculty at a university.
+- **No points system.** No trophy for "the best Wing." The Jounce Cup is a sports championship — not a moral competition.
+- **No common rooms.** FBA is a commuter school. Students do not live in their Wing. They go home.
+- **The Wing does not determine who your friends are.** Friendships are formed by clubs, Jounce, general classes — not by Wing. The Wing is only homeroom and core classes.
+- **There is no "evil Wing."** Rook Wing (Contract Magic) may be exclusive and mysterious — but it is not evil. Hawk Wing (Martial Arts) may be aggressive — but it is not evil. Every Wing contains a mix.
 
-## Yang Membedakan dari Hogwarts
+## What Makes It Different from Hogwarts
 
-| Aspek | Hogwarts | FBA Wings |
+| Aspect | Hogwarts | FBA Wings |
 | :--- | :--- | :--- |
-| **Penempatan** | Sorting Hat | **Pilihan siswa** |
-| **Dasar** | Kepribadian | **Bidang studi** |
-| **Identitas** | "Aku Gryffindor" | "Aku ambil Arcane Arts" |
-| **Poin** | Ya | **Tidak** |
-| **Asrama** | Ya | **Tidak — pulang-pergi** |
-| **Rivalitas** | Moral/identitas | **Akademik/kompetisi** |
-| **Bisa pindah?** | Tidak | **Ya (jarang)** |
+| **Placement** | Sorting Hat | **Student choice** |
+| **Basis** | Personality | **Field of study** |
+| **Identity** | "I'm a Gryffindor" | "I'm taking Arcane Arts" |
+| **Points** | Yes | **No** |
+| **Dorms** | Yes | **No — commuter** |
+| **Rivalry** | Moral/identity | **Academic/competitive** |
+| **Can change?** | No | **Yes (rare)** |
 
-## Wing dan Strata Sosial
+## Wings and Social Strata
 
-- **Wing tidak menghapus perbedaan sosial.** Siswa dari Kestrel Wing bisa kaya atau miskin. Siswa dari Rook Wing bisa legacy atau scholarship.
-- **Strata sosial lebih penting** dari Wing. Legacy family di Rook Wing masih lebih dihormati daripada scholarship kid di Kestrel Wing.
-- **Konflik utama di FBA** bukan "Wing vs Wing" — tapi "legacy vs new money," "sponsored vs scholarship," "yang punya koneksi vs yang tidak."
+- **Wings do not erase social differences.** A Kestrel Wing student may be rich or poor. A Rook Wing student may be legacy or scholarship.
+- **Social stratum matters more** than Wing. A legacy family in Rook Wing is still more respected than a scholarship kid in Kestrel Wing.
+- **The main conflict at FBA** is not "Wing vs Wing" — but "legacy vs new money," "sponsored vs scholarship," "the connected vs the unconnected."
 
-## Wing Advisor
+## The Wing Advisor
 
-- Setiap Wing punya **Wing Advisor** — guru yang membimbing siswa secara akademik.
-- **Kestrel Wing:** Prof. Imelda (atau Dr. Ope)
-- **Heron Wing:** Madame Seraphine (atau Prof. Quill)
+- Each Wing has a **Wing Advisor** — a teacher who guides students academically.
+- **Kestrel Wing:** Prof. Imelda (or Dr. Ope)
+- **Heron Wing:** Madame Seraphine (or Prof. Quill)
 - **Magpie Wing:** Maestro Lorenzo
 - **Hawk Wing:** Coach Garrick
-- **Sparrow Wing:** Dr. Fenwick (atau guru Practical Sciences)
-- **Rook Wing:** (TBD — mungkin guru misterius yang jarang terlihat)
+- **Sparrow Wing:** Dr. Fenwick (or a Practical Sciences teacher)
+- **Rook Wing:** (TBD — perhaps a mysterious teacher rarely seen)
 
-**DM Decision:** Siapa Wing Advisor untuk setiap Wing? Ini bisa menjadi NPC penting — atau tidak. Rekomendasi: gunakan guru yang sudah ada.
+**DM Decision:** Who is the Wing Advisor for each Wing? This could become an important NPC — or not. Recommendation: use existing teachers.
 
 ## PC Assignment
 
-| PC | Wing | Vocational | Alasan |
+| PC | Wing | Vocational | Reasoning |
 | :--- | :--- | :--- | :--- |
-| **Brougha Ironhide** | **Hawk Wing** | Martial Arts | Barbarian — cocok dengan disiplin fisik |
-| **Mya Cortenya** | **Sparrow Wing** | Wildcraft | Druid — cocok dengan alam |
-| **Vivienne Ashbourne** | **Kestrel Wing** | Arcane Studies | Wizard — cocok dengan akademisi |
-| **Zenroy Dala** | **Kestrel Wing** | Arcane Studies | Wizard — cocok dengan akademisi |
+| **Brougha Ironhide** | **Hawk Wing** | Martial Arts | Barbarian — matches physical discipline |
+| **Mya Cortenya** | **Sparrow Wing** | Wildcraft | Druid — matches nature |
+| **Vivienne Ashbourne** | **Kestrel Wing** | Arcane Studies | Wizard — matches academics |
+| **Zenroy Dala** | **Kestrel Wing** | Arcane Studies | Wizard — matches academics |
 
-**Catatan:** Vivienne dan Zenroy sama-sama di Kestrel Wing. Mereka bertemu di homeroom dan kelas inti. Ini memberi mereka **koneksi otomatis** — mereka sudah kenal sebelum party terbentuk. Brougha dan Mya berada di Wing berbeda — mereka bertemu di kelas umum, Jounce, atau klub.
+**Note:** Vivienne and Zenroy are both in Kestrel Wing. They meet in homeroom and core classes. This gives them an **automatic connection** — they already know each other before the party forms. Brougha and Mya are in different Wings — they meet in general classes, Jounce, or clubs.
 
-**DM Decision:** Apakah ini yang diinginkan? Atau apakah setiap PC harus di Wing berbeda untuk diversitas? **Rekomendasi:** Biarkan Vivienne dan Zenroy di Wing yang sama — ini menciptakan dinamika "dua orang yang sudah kenal" dalam party baru.
+**DM Decision:** Is this what is desired? Or should each PC be in a different Wing for diversity? **Recommendation:** Leave Vivienne and Zenroy in the same Wing — it creates a "two people who already know each other" dynamic in a new party.
 
-## Homeroom — Satu-satunya Tempat Semua Siswa Satu Wing Bertemu
+## Homeroom — The Only Place All Students of One Wing Meet
 
-- Setiap pagi, 07:50–08:00, siswa masuk homeroom per Wing.
-- **Ini adalah satu-satunya tempat** di mana semua siswa dari satu Wing berkumpul — dari berbagai angkatan, berbagai strata sosial.
-- Wing Advisor memberikan pengumuman, mengecek kehadiran, dan kadang berbicara tentang hal-hal penting.
-- **Momen potensial:** Di homeroom, siswa dari Wing yang sama bisa bertemu — termasuk senior yang mungkin menjadi mentor, atau rival.
+- Every morning, 07:50–08:00, students attend homeroom by Wing.
+- **This is the only place** where all students of one Wing gather — across years and social strata.
+- The Wing Advisor gives announcements, checks attendance, and sometimes speaks about important matters.
+- **Potential moment:** In homeroom, students from the same Wing can meet — including a senior who might become a mentor, or a rival.
 
-## Kelas Umum — Tempat Wing Bercampur
+## General Classes — Where Wings Mix
 
-- **History, Literature, Civics, Algebra, Divination Ethics** — diambil oleh semua siswa, dari semua Wing.
-- Di sini, siswa dari Wing berbeda bertemu. Ini adalah tempat party benar-benar terbentuk — bukan di homeroom.
-- **Momen potensial:** Di kelas umum, Brougha (Hawk) bertemu Mya (Sparrow) dan Vivienne (Kestrel). Mereka mungkin duduk berdekatan. Mereka mungkin berbicara.
+- **History, Literature, Civics, Algebra, Divination Ethics** — taken by all students, from every Wing.
+- Here, students from different Wings meet. This is where the party truly forms — not in homeroom.
+- **Potential moment:** In general classes, Brougha (Hawk) meets Mya (Sparrow) and Vivienne (Kestrel). They may sit close together. They may talk.
 
-## Jounce Cup — Kompetisi Akademik, Bukan Moral
+## The Jounce Cup — An Academic Competition, Not a Moral One
 
-- Jounce Cup adalah kejuaraan olahraga antar-Wing.
-- **Tapi ini bukan kompetisi moral.** Tidak ada "Wing baik vs Wing jahat." Ini seperti pertandingan sepak bola antar-fakultas.
-- **The Bateleur Eagle** adalah all-star dari semua Wing — bukan tim Wing mana pun.
+- The Jounce Cup is the inter-Wing sports championship.
+- **But this is not a moral competition.** There is no "good Wing vs evil Wing." It is like a football match between faculties.
+- **The Bateleur Eagle** is an all-star selection from every Wing — not a team of any one Wing.
 
-## Hubungan dengan Lore Lain
+## Relation to Other Lore
 
-- **The Hidden Garden** — tidak terhubung ke Wing mana pun.
-- **RAIB** — tidak terhubung ke Wing mana pun. RAIB terjadi pada individu — bukan pada Wing.
-- **Bride of Bellweather** — Lilia adalah kapten The Bateleur Eagle. Ia dari Wing mana? **DM Decision:** Mungkin Kestrel (jika ia akademisi) atau Hawk (jika ia atlet). Rekomendasi: **Hawk Wing** — karena ia kapten Jounce. Tapi ini bisa menjadi twist jika ia dari Wing lain.
+- **The Hidden Garden** — not connected to any Wing.
+- **RAIB** — not connected to any Wing. RAIB occurs to individuals — not to Wings.
+- **The Bride of Bellweather** — Lilia is the captain of The Bateleur Eagle. Which Wing is she from? **DM Decision:** Perhaps Kestrel (if she is academic) or Hawk (if she is an athlete). Recommendation: **Hawk Wing** — because she captains Jounce. But this could be a twist if she is from another Wing.
 
 ## Connections
-- `The Free Bird Academy.md` — sekolah
-- `FBA Extracurricular.md` — ekstrakurikuler
-- `Jounce.md` — olahraga
+- `The Free Bird Academy.md` — the school
+- `FBA Extracurricular.md` — extracurriculars
+- `Jounce.md` — the sport
 - `Brougha Ironhide.md` — PC, Hawk Wing
 - `Mya Cortenya.md` — PC, Sparrow Wing
 - `Vivienne Ashbourne.md` — PC, Kestrel Wing
 - `Zenroy Dala.md` — PC, Kestrel Wing
-- `Lilia Etheridge II.md` — kapten Bateleur Eagle, Wing TBD
+- `Lilia Etheridge II.md` — Bateleur Eagle captain, Wing TBD

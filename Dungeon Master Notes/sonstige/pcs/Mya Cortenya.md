@@ -11,84 +11,84 @@ universe: Sonstige
 > **Known as:** Mya Cortenya
 
 ## Appearance
-- Wood Elf. Rambut seperti **veiled mushroom** (bridal veil stinkhorn) — putih, berenda, menjuntai.
+- Wood Elf. Hair like a **veiled mushroom** (bridal veil stinkhorn) — white, lacy, trailing.
 - Visual reference: [Google Drive](https://drive.google.com/open?id=1nP81fXYUiAo4UxekB-psWpN1IYDTRdDf)
-- (Detail lain TBD oleh player)
+- (Other details TBD by player)
 
 ## Family — Cortenya
-- Keluarga besar yang **dihormati** di antara masyarakat Wood Elf.
-- **Ahli jamur** di hutan. Memiliki bisnis luxury yang menjual kain sutra diwarnai menggunakan pigmen dari jamur ke spesies-spesies lain — termasuk manusia.
-- **Elite dan kaya** (rich rich).
-- Rumah: fancy shmancy house in a big tree. Hutan ajaib. Tempat tinggal Wood Elf.
-- Mya adalah **anak perempuan kedua**. Kakaknya adalah **"golden child"** — dianggap sempurna dan ideal, cocok sebagai pewaris utama yang bertanggung jawab meneruskan nama besar keluarga.
+- A large family **respected** among the Wood Elf community.
+- **Mushroom experts** of the forest. They run a luxury business selling silk dyed with pigments from mushrooms to other species — including humans.
+- **Elite and wealthy** (rich rich).
+- Home: a fancy-shmancy house in a big tree. A magical forest. Home of the Wood Elves.
+- Mya is the **second daughter**. Her older sister is the **"golden child"** — considered perfect and ideal, fit to be the primary heir responsible for carrying on the family's great name.
 
 ## Family Demands
-- Mya memiliki **kebebasan** dari tuntutan orang tua soal jalur dan prestasi.
-- Tapi ia **selalu dibandingkan** dengan kakaknya dan **dituntut untuk menjadi seperti dia**.
-- Itu **bertentangan** dengan apa yang Mya inginkan.
+- Mya has **freedom** from her parents' demands regarding track and achievement.
+- But she is **constantly compared** to her sister and **expected to be like her**.
+- That **conflicts** with what Mya wants.
 
 ## Home Situation
 - **"It SUCKS."**
-- Walaupun Mya lebih suka menyendiri, ia selalu dianggap sebagai anak yang **berantakan, aneh, dan ansos** — berbanding terbalik dengan kakaknya yang ideal dan "sempurna".
-- Mya merasa dirinya seperti **"rahasia keluarga yang memalukan"**.
-- Perasaan selalu dikesampingkan dan dibandingkan dengan kakaknya telah memicu sifat **sinis dan ansos** dalam dirinya.
-- **Kakaknya baik** ke Mya. Tidak mengerti dirinya tapi tetap suportif. Namun ia tidak bisa melindungi Mya dari keluarga mereka.
+- Even though Mya prefers to be alone, she is always seen as the **messy, strange, antisocial** child — the exact opposite of her ideal, "perfect" sister.
+- Mya feels like **"the family's embarrassing secret."**
+- The constant sense of being set aside and compared to her sister has fuelled the **cynical, antisocial** streak in her.
+- **Her sister is kind** to Mya. She does not understand her but is still supportive. But she cannot protect Mya from their family.
 
 ## Why FBA
-- **Gabungan** dari keinginan keluarga dan keinginan Mya sendiri.
-- **Pelarian dari rumah 100%.** FBA merupakan tempat pelarian Mya dari keadaan rumah yang menyesakkan.
+- A **combination** of the family's wish and Mya's own wish.
+- **100% an escape from home.** FBA is Mya's escape from a stifling home situation.
 
 ## Path at FBA
-- Jalur **alkimia/kimia, toksikologi, dan farmakologi** (kemungkinan Practical Sciences).
-- Ingin mempelajari **sihir druid** (kemungkinan Divination Ethics).
+- Track of **alchemy/chemistry, toxicology, and pharmacology** (likely Practical Sciences).
+- Wants to study **druidic magic** (likely Divination Ethics).
 - **She sucks ass at physical education.**
 
 ## What She Heard About FBA
-- Sekolah elit. Sekolah kakaknya.
-- **Does not gaf about its myths.** Thinks it's just rumors.
+- An elite school. Her sister's school.
+- **Does not gaf about its myths.** Thinks they are just rumours.
 
 ## Personality
-- **Three words others use:** Ansos (antisosial), Aneh (eccentric), Bayangan kakaknya.
-- **Introvert parah.** Lebih suka menyendiri di alam dengan jamur-jamurnya.
-- Sinis. Ansos. Terbentuk dari perasaan selalu dikesampingkan dan dibandingkan dengan kakaknya.
-- Mudah kehilangan kendali: **social interaction and confrontation** (avoidant type). Keluar dari zona nyaman.
+- **Three words others use:** Antisocial, Strange, Her sister's shadow.
+- **Severely introverted.** Prefers to be alone in nature with her mushrooms.
+- Cynical. Antisocial. Shaped by the constant sense of being set aside and compared to her sister.
+- Loses control easily: **social interaction and confrontation** (avoidant type). Stepping out of her comfort zone.
 
 ## What She Wants
-- **Kebebasan** dari bayangan keluarga dan kakaknya.
-- Kegiatannya di FBA — sebagai bandar narkoba — merupakan bentuk **pemberontakan** terhadap keluarganya.
-- **Setelah lulus:** tinggal di tengah hutan ("live as one with nature"). Memiliki kebebasan untuk mempelajari dan bereksperimen dengan jamur.
-- **Selama di FBA:** melanjutkan kegiatan sebagai bandar narkoba.
+- **Freedom** from the shadow of her family and her sister.
+- Her activities at FBA — as a drug dealer — are a form of **rebellion** against her family.
+- **After graduation:** live in the middle of the forest ("live as one with nature"). Have the freedom to study and experiment with mushrooms.
+- **While at FBA:** continue her activities as a drug dealer.
 
 ## What She Values
-- **Kejujuran dan siklus alam** — terutama proses dekomposisi oleh jamur.
-- Sebagai druid, Mya adalah **pencinta alam pro maks**. Ia suka jamur dan alam karena alam itu **jujur** — berbeda dengan orang lain yang bisa bermuka dua dan nge-judge dia.
-- **Toksin, efek, dan kegunaan praktis dari jamur.** She LOVES studying and experimenting with them — bagaimana mereka tumbuh, peran mereka di alam, serta toksin/efek apa yang mereka hasilkan. Karena itu ia bisa membuat obat/potions.
+- **Honesty and the cycles of nature** — especially the process of decomposition by mushrooms.
+- As a druid, Mya is a **pro-max nature lover**. She loves mushrooms and nature because nature is **honest** — unlike people, who can be two-faced and judge her.
+- **Toxins, effects, and practical uses of mushrooms.** She LOVES studying and experimenting with them — how they grow, their role in nature, and what toxins/effects they produce. That is why she can make medicines/potions.
 
 ## What Makes Her Lose Control
 - **Social interaction and confrontation** (avoidant type).
-- Keluar dari zona nyaman.
+- Stepping out of her comfort zone.
 
 ## Background
-- **Hutan ajaib.** Tempat tinggal para Wood Elf.
-- (Detail lebih spesifik TBD oleh player)
+- **A magical forest.** Home of the Wood Elves.
+- (More specific details TBD by player)
 
 ## Work Experience
-- **Bandar narkoba.** "Itu gamau dibicarakan ya. Its a shady school secret."
-- **Job sebagai bandar narkoba berlangsung sejak SMP** dan akan diteruskan di FBA.
+- **Drug dealer.** "Not going to talk about that. It's a shady school secret."
+- **Her job as a drug dealer began in middle school** and will continue at FBA.
 
 ## Secret (Player-Facing)
-- **Mya adalah bandar narkoba FBA.** FBA's resident drug dealer. The ultimate "middle finger" to her family.
-- Mya punya keahlian meracik ramuan (potions) dan obat-obatan dari jamur.
-- Di FBA, Mya meracik:
-  - **Stimulan** untuk meningkatkan performa di ujian.
-  - **Sedatif** untuk siswa cemas.
-  - **Obat terlarang dari jamur halusinogen.**
-- **Tidak untuk uang.** Paling ia minta spesimen baru atau informasi.
-- Ini lebih ke **"act of rebellion"** terhadap keluarganya — karena di sini Mya menemukan tempat di mana keahliannya dihargai.
-- Mya juga **tidak setuju** dengan bisnis dan kegiatan keluarganya — mereka mengeksploitasi alam. Mya lebih tertarik mempelajari jamur, siklus alam, proses dekomposisi, dan bereksperimen dengan zat-zat dari alam.
+- **Mya is FBA's drug dealer.** FBA's resident drug dealer. The ultimate "middle finger" to her family.
+- Mya has skill in brewing potions and medicines from mushrooms.
+- At FBA, Mya brews:
+  - **Stimulants** to boost exam performance.
+  - **Sedatives** for anxious students.
+  - **Illegal drugs from hallucinogenic mushrooms.**
+- **Not for money.** At most, she asks for new specimens or information.
+- This is more of an **"act of rebellion"** against her family — because here Mya has found a place where her skills are valued.
+- Mya also **disagrees** with her family's business and activities — they exploit nature. Mya is more interested in studying mushrooms, natural cycles, decomposition, and experimenting with substances from nature.
 
 ## RAIB Question
-> *"Pernahkah Anda mengingat sesuatu yang tidak pernah terjadi dan merasa ingatan itu lebih nyata daripada ingatan Anda sendiri?"*
+> *"Have you ever remembered something that never happened and felt that memory was more real than your own?"*
 > **Yes.**
 
 ## Current Goal
@@ -98,56 +98,56 @@ Rebel against family. Continue drug dealing at FBA. Study mushrooms. (And maybe 
 %% DM SECRETS %%
 
 ### Who Mya Is
-- Anak kedua keluarga **Cortenya** — keluarga Wood Elf yang dihormati dan kaya. Ahli jamur. Pemilik bisnis sutra luxury.
-- Mya **tidak cocok** dengan keluarganya. Ia tidak suka bisnis. Ia tidak suka eksploitasi alam. Ia tidak suka menjadi "anak yang berantakan, aneh, dan ansos" yang selalu dibandingkan dengan kakaknya.
-- **Mencintai jamur** — bukan karena keluarganya menjualnya, tapi karena jamur itu **jujur**. Jamur tidak menghakimi. Jamur tidak membandingkan. Jamur hanya tumbuh — dan membusuk — dan tumbuh lagi.
-- Menjadi **bandar narkoba** sebagai bentuk **pemberontakan**. Bukan untuk uang. Untuk **kebebasan**. Untuk **kontrol**. Untuk **middle finger** pada keluarganya yang mengendalikan segalanya.
-- **Lebih pintar dari yang ia akui.** Ahli dalam toksikologi dan farmakologi. Bisa meracik racun, obat, dan halusinogen dari jamur. Bisa membunuh seseorang tanpa meninggalkan jejak. Belum pernah melakukannya. Tapi bisa.
+- The second child of the **Cortenya** family — a respected and wealthy Wood Elf family. Mushroom experts. Owners of a luxury silk business.
+- Mya **does not fit** with her family. She does not like the business. She does not like the exploitation of nature. She does not like being the "messy, strange, antisocial child" who is constantly compared to her sister.
+- **Loves mushrooms** — not because her family sells them, but because mushrooms are **honest**. Mushrooms do not judge. Mushrooms do not compare. Mushrooms only grow — and rot — and grow again.
+- Became a **drug dealer** as a form of **rebellion**. Not for money. For **freedom**. For **control**. For the **middle finger** to her family, who control everything.
+- **Smarter than she admits.** An expert in toxicology and pharmacology. Can brew poisons, medicines, and hallucinogens from mushrooms. Can kill a person without leaving a trace. Has never done it. But could.
 
 ### The RAIB Question — Player Input
-- Player menjawab **"Yes"** — Mya pernah mengingat sesuatu yang tidak pernah terjadi, dan ingatan itu terasa lebih nyata daripada ingatannya sendiri.
-- **Isi ingatan itu BELUM ditentukan.** Ini adalah hook DM-player. Kemungkinan arah:
-  - Apakah Mya ingat **kakaknya yang berbeda** — kakak yang jahat, kakak yang membencinya, kakak yang mencoba menyakitinya?
-  - Apakah Mya ingat **kehidupan yang seharusnya** — kehidupan di mana ia adalah golden child, bukan kakaknya?
-  - Apakah Mya ingat **keluarga yang berbeda** — keluarga yang tidak mengeksploitasi alam, keluarga yang menerimanya?
-- **DM harus berdiskusi dengan Ghania** untuk menentukan isi ingatan itu.
+- The player answered **"Yes"** — Mya has remembered something that never happened, and that memory felt more real than her own memories.
+- **The contents of that memory are UNDECIDED.** This is a DM-player hook. Possible directions:
+  - Does Mya remember **a different sister** — a cruel sister, a sister who hated her, a sister who tried to hurt her?
+  - Does Mya remember **the life she should have had** — a life in which she was the golden child, not her sister?
+  - Does Mya remember **a different family** — a family that did not exploit nature, a family that accepted her?
+- **The DM must discuss with Ghania** to decide the contents of that memory.
 
 ### Mya and Her Sister
-- Kakaknya adalah **golden child** — sempurna, ideal, pewaris utama. Kakaknya **baik** ke Mya — tidak mengerti tapi suportif. Tapi tidak bisa melindungi Mya dari keluarga.
-- **Kakaknya adalah kunci emosional Mya.** Segala sesuatu yang Mya lakukan — pemberontakan, bandar narkoba, isolasi — adalah respons terhadap bayangan kakaknya.
-- **DM must create `Kakak Mya.md`.** Kemungkinan peran:
-  - **Option A:** Kakak adalah korban RAIB — Mya ingat versi kakak yang sudah dihapus.
-  - **Option B:** Kakak adalah beneficiary RAIB — ia mengambil kehidupan orang lain.
-  - **Option C:** Kakak adalah orang biasa — Mya hanya belum move on.
-  - **Recommended:** Option A atau B — agar RAIB "Yes" dari Mya punya payoff.
+- Her sister is the **golden child** — perfect, ideal, primary heir. Her sister is **kind** to Mya — does not understand her but is supportive. But cannot protect Mya from the family.
+- **Her sister is Mya's emotional key.** Everything Mya does — rebellion, drug dealing, isolation — is a response to her sister's shadow.
+- **DM must create `Mya's Sister.md`.** Possible roles:
+  - **Option A:** The sister is a RAIB victim — Mya remembers a version of the sister that has been erased.
+  - **Option B:** The sister is a RAIB beneficiary — she has taken someone else's life.
+  - **Option C:** The sister is an ordinary person — Mya simply has not moved on.
+  - **Recommended:** Option A or B — so that Mya's "Yes" on the RAIB question has payoff.
 
 ### Mya and Her Family Business
-- Keluarga Cortenya **mengeksploitasi alam** untuk bisnis mereka — menjual kain sutra diwarnai pigmen jamur ke berbagai spesies, termasuk manusia.
-- Mya **tidak setuju** dengan ini. Ia lebih tertarik mempelajari jamur, siklus alam, dekomposisi, dan bereksperimen dengan zat-zat dari alam.
-- **Ini adalah konflik internal keluarga Cortenya.** Mya adalah **oposisi** — dan ia mungkin akan menghadapi keluarganya di Season 3.
+- The Cortenya family **exploits nature** for their business — selling silk dyed with mushroom pigments to various species, including humans.
+- Mya **disagrees** with this. She is more interested in studying mushrooms, natural cycles, decomposition, and experimenting with substances from nature.
+- **This is an internal conflict in the Cortenya family.** Mya is the **opposition** — and she may confront her family in Season 3.
 
 ### Mya and the Drug Trade
-- Mya adalah **bandar narkoba FBA**. Ini adalah **rahasia campaign yang serius**.
+- Mya is FBA's **drug dealer**. This is a **serious campaign secret**.
 - **DM must decide:**
-  - Apakah ada **guru** yang tahu? (Dr. Fenwick mungkin tahu — ia ahli kimia.)
-  - Apakah ada **siswa** yang tahu? (Mungkin ada pelanggan setia.)
-  - Apakah **Bellweather** tahu? (Jika iya, Mya mungkin berada dalam bahaya.)
-  - Apakah ini akan menjadi **plot point** di Season 1? (Rekomendasi: ya — ini adalah konflik yang menarik.)
+  - Is there a **teacher** who knows? (Dr. Fenwick may know — he is a chemist.)
+  - Is there a **student** who knows? (Perhaps a loyal customer.)
+  - Does **Bellweather** know? (If so, Mya may be in danger.)
+  - Will this be a **plot point** in Season 1? (Recommendation: yes — this is an interesting conflict.)
 
 ### Mya's Role in the Campaign
-- **Racun** party. Meracik potion, racun, obat-obatan. Menyelamatkan teman dengan ramuan, membunuh musuh dengan racun.
-- **Hati** party — dalam cara yang aneh. Mengingatkan bahwa alam itu jujur. Mengingatkan bahwa ada keindahan dalam pembusukan.
-- **Wildcard** — sulit diprediksi. Bisa menyendiri selama berjam-jam. Bisa muncul dengan solusi yang tidak terduga.
+- The party's **poison**. Brews potions, poisons, medicines. Saves friends with potions, kills enemies with poisons.
+- The party's **heart** — in an odd way. Reminds that nature is honest. Reminds that there is beauty in decay.
+- **Wildcard** — hard to predict. May be alone for hours. May appear with an unexpected solution.
 
 ### Mya's Fate
-- Jika Mya menemukan **RAIB residue pada kakaknya**, ia akan menghadapi pilihan: **selamatkan** kakaknya, atau **biarkan** ia menjadi monster.
-- Jika Mya menjadi RAIB, ia akan dihapus dari ingatan semua orang. Tapi party akan mengingatnya — karena mereka punya **rahasia tentangnya**. Rahasia itu mungkin adalah **jurnal jamurnya** — atau **lokasi laboratorium rahasianya**.
+- If Mya finds **RAIB residue on her sister**, she will face a choice: **save** her sister, or **let** her become a monster.
+- If Mya becomes a RAIB, she will be erased from everyone's memory. But the party will remember her — because they hold a **secret about her**. That secret may be **her mushroom journal** — or **the location of her secret laboratory**.
 
 ### Connections
-- `Kakak Mya.md` — kakaknya (needs file)
-- `Cortenya Family.md` — keluarganya (needs file)
-- `Wood Elf Forest.md` — hutan tempat tinggalnya (needs file)
-- `R.A.I.B.md` — fenomena
-- `Dr. Fenwick.md` — guru Practical Sciences (mungkin tahu tentang keahliannya)
-- `The Free Bird Academy.md` — sekolah
-- `The Bell.md` — mitos yang ia anggap rumor
+- `Mya's Sister.md` — her sister (needs file)
+- `Cortenya Family.md` — her family (needs file)
+- `Wood Elf Forest.md` — the forest she lives in (needs file)
+- `R.A.I.B.md` — the phenomenon
+- `Dr. Fenwick.md` — the Practical Sciences teacher (may know about her skills)
+- `The Free Bird Academy.md` — the school
+- `The Bell.md` — the myth she thinks is a rumour

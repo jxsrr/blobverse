@@ -8,25 +8,25 @@ first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Ayah Brougha. Atlet Jounce profesional. Pelopor manuver *"Ironhide Reversal."*
+> **Role:** Brougha's father. Professional Jounce athlete. Pioneer of the *"Ironhide Reversal"* manoeuvre.
 > **Where:** The Azures, Southwest Calamara
 > **Status:** Alive
 
 ## Appearance
-- Half-Orc. Tubuh besar, bahu lebar, kulit hijau keabu-abuan. Taring bawah mencuat seperti Brougha — tapi lebih tua.
-- Rambut cokelat gelap dengan garis-garis putih. Kumis lele yang selalu rapi.
-- Bekas luka di lengan kiri — kenang-kenangan dari pertandingan Jounce lama.
-- Biasanya memakai jaket tim Everglade Academy lama atau kaus olahraga.
+- Half-Orc. A big body, broad shoulders, grey-green skin. Lower tusks jutting out like Brougha's — but older.
+- Dark brown hair streaked with white. A catfish moustache always neatly kept.
+- A scar on his left arm — a souvenir from an old Jounce match.
+- Usually wears an old Everglade Academy team jacket or a sports shirt.
 
 ## Personality
-- Hangat. Santai. Tidak sekeras penampilannya.
-- Percaya bahwa **olahraga adalah cara untuk membentuk karakter** — bukan hanya tubuh.
-- Tidak pernah memaksa Brougha untuk menjadi atlet. Ia hanya ingin Brougha **bahagia**.
-- Sedang mempertimbangkan pensiun dari Jounce profesional dan menjadi pelatih.
+- Warm. Relaxed. Not as hard as he looks.
+- Believes that **sport is how you build character** — not just a body.
+- Has never forced Brougha to become an athlete. He only wants Brougha to be **happy**.
+- Considering retiring from professional Jounce to become a coach.
 
 ## What the Party Knows
-- Ayah Brougha. Atlet Jounce profesional.
-- Sedang mengambil jeda dari kontrak.
-- Sedang mempertimbangkan karier sebagai pelatih.
-- Pelopor manuver *"Ironhide Reversal."*
-- Sangat mendukung Brougha — tapi sedikit khawatir dengan keputusan Brougha meninggalkan Jounce demi sastra.
+- Brougha's father. Professional Jounce athlete.
+- Currently taking a break from his contract.
+- Considering a career as a coach.
+- Pioneer of the *"Ironhide Reversal"* manoeuvre.
+- Very supportive of Brougha — but slightly worried about her decision to give up Jounce for literature.

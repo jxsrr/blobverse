@@ -9,38 +9,38 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Kakak Mya. Golden child. Pewaris utama keluarga Cortenya.
+> **Role:** Mya's older sister. The golden child. Primary heir of the Cortenya family.
 > **Where:** Wood Elf Forest (Hutan Ajaib)
 > **Status:** Alive
 
 ## Appearance
-- Wood Elf. Tinggi, anggun, sempurna dalam segala hal.
-- Rambut panjang keperakan yang selalu tertata sempurna. Mata hijau jernih.
-- Biasanya memakai pakaian yang mencerminkan status keluarga — sutra, perhiasan, warna-warna mewah.
-- Kontras total dengan Mya — yang berantakan, aneh, dan selalu sendiri.
+- Wood Elf. Tall, graceful, perfect in every way.
+- Long silvery hair always perfectly arranged. Clear green eyes.
+- Usually wears clothes that reflect the family's status — silk, jewellery, luxurious colours.
+- A complete contrast to Mya — messy, strange, and always alone.
 
 ## Personality
-- Sempurna di mata orang tua. Ideal. Bertanggung jawab.
-- **Baik** ke Mya — tidak mengerti adiknya, tapi tetap suportif.
-- Tidak bisa melindungi Mya dari keluarga. Ia juga korban ekspektasi — hanya dengan cara yang berbeda.
-- Tidak pernah mengeluh. Tidak pernah protes. Selalu tersenyum.
+- Perfect in her parents' eyes. Ideal. Responsible.
+- **Kind** to Mya — does not understand her sister, but is supportive.
+- Cannot protect Mya from the family. She too is a victim of expectations — only in a different way.
+- Never complains. Never objects. Always smiling.
 
 ## What the Party Knows
-- Kakak Mya. Golden child keluarga Cortenya.
-- Sempurna. Ideal. Pewaris utama.
-- Baik ke Mya — tapi tidak bisa melindunginya.
+- Mya's older sister. The golden child of the Cortenya family.
+- Perfect. Ideal. Primary heir.
+- Kind to Mya — but cannot protect her.
 ::/pf
 
 %% DM SECRETS %%
-- Calathea adalah **golden child** keluarga Cortenya. Ia sempurna — atau setidaknya, ia **tampil** sempurna.
-- Di balik senyumnya, ia juga **lelah**. Ia juga **tertekan**. Ia juga **tidak pernah diminta** apakah ia ingin menjadi pewaris.
-- Ia **mencintai Mya**. Ia tidak mengerti Mya — tapi ia mencintainya. Ia tidak bisa melindungi Mya dari orang tua mereka — karena ia juga tidak bisa melindungi dirinya sendiri.
-- **DM must decide:** Apakah Calathea adalah **RAIB victim**? Apakah Mya mengingat versi Calathea yang sudah dihapus? Rekomendasi: **Option A** — Calathea adalah RAIB victim, dan Mya adalah satu-satunya yang mengingatnya.
-- **Jika Calathea adalah RAIB victim**, maka Calathea yang sekarang adalah **beneficiary** — seseorang yang mengambil kehidupan Calathea. Mya tidak tahu. Ia hanya tahu bahwa kakaknya "terasa berbeda" — tapi ia tidak bisa menjelaskan mengapa.
-- **DM Note:** Calathea adalah kunci arc Mya. Jangan buka rahasianya di Session 1–2. Biarkan Mya berinteraksi dengan kakaknya — dan biarkan pemain merasa bahwa ada sesuatu yang **tidak beres**.
+- Calathea is the Cortenya family's **golden child**. She is perfect — or at least, she **appears** perfect.
+- Behind her smile, she is also **tired**. She is also **under pressure**. She was also **never asked** whether she wanted to become the heir.
+- She **loves Mya**. She does not understand Mya — but she loves her. She cannot protect Mya from their parents — because she cannot protect herself either.
+- **DM must decide:** Is Calathea a **RAIB victim**? Is Mya remembering a version of Calathea that has been erased? Recommendation: **Option A** — Calathea is a RAIB victim, and Mya is the only one who remembers her.
+- **If Calathea is a RAIB victim**, then the Calathea who exists now is a **beneficiary** — someone who has taken Calathea's life. Mya does not know. She only knows that her sister "feels different" — but she cannot explain why.
+- **DM Note:** Calathea is the key to Mya's arc. Do not reveal her secret in Sessions 1–2. Let Mya interact with her sister — and let the player feel that something is **off**.
 
 ## Connections
-- `Mya Cortenya.md` — adiknya
-- `Cortenya Family.md` — keluarganya
-- `Wood Elf Forest.md` — tempat tinggalnya
-- `R.A.I.B.md` — fenomena
+- `Mya Cortenya.md` — her younger sister
+- `Cortenya Family.md` — her family
+- `Wood Elf Forest.md` — where she lives
+- `R.A.I.B.md` — the phenomenon

@@ -9,35 +9,35 @@ universe: Sonstige
 > **Notable People:** Lilie, the Professors, the Black Cloak Figure
 
 ## What Matters Here
-- **The Free Bird Academy (FBA)** — sekolah elit di Calamara.
-- **Academic Buildings** — 8 kelas, 8 pengajar.
-- **The Jounce Court** — tempat pertandingan Jounce.
-- **The Roost** — tujuan Bateleur.
-- **The Bell Tower** — menara tempat The Bell berbunyi. Tidak ada yang tahu dari mana suara itu datang.
-- **The Hidden Garden** — taman tersembunyi tempat buah berbentuk kepala bayi tumbuh.
-- **The Basement Levels** — baterai inti. Dibangun di atas Void-Well kuno.
-- **The Dorms** — asrama siswa.
-- **The Social Hall** — tempat dansa musim sosial.
+- **The Free Bird Academy (FBA)** — an elite school in Calamara.
+- **Academic Buildings** — 8 classrooms, 8 instructors.
+- **The Jounce Court** — where Jounce matches are played.
+- **The Roost** — the Bateleur's destination.
+- **The Bell Tower** — the tower from which The Bell rings. No one knows where the sound comes from.
+- **The Hidden Garden** — a hidden garden where fruit shaped like a baby's head grows.
+- **The Basement Levels** — the core of the Battery. Built upon an ancient Void-Well.
+- **The Dorms** — student residences.
+- **The Social Hall** — where the social season's dances are held.
 
 ## What Happened Here
-- Baterai diaktifkan 2001.
-- RAIB massal 2016.
-- Lilie "naik" 2026.
+- The Battery activated in 2001.
+- Mass RAIB in 2016.
+- Lilie "ascended" in 2026.
 ::/pf
 
 %% DM SECRETS %%
-- Sekolah adalah **baterai**. Setiap ruang, setiap ekstrakurikuler, setiap pertandingan adalah bagian dari mesin.
-- **The Hidden Garden** adalah inti dari baterai. Ini adalah tempat envy dipanen.
-- **The Void-Well** di bawah sekolah adalah celah menuju Void. Baterai menggunakan celah ini untuk menebalkan Void.
-- **The Bell Tower** adalah tempat lonceng berbunyi. Tapi tidak ada lonceng di dalamnya. Hanya resonansi Void.
-- Jika party masuk ke basement, mereka akan menemukan baterai — dan kebenaran.
-- **The Bell** berbunyi sebelum ujian, dansa, dan kelulusan. Setiap dentangnya adalah hitungan mundur.
+- The school is a **battery**. Every room, every extracurricular, every match is part of the machine.
+- **The Hidden Garden** is the core of the Battery. This is where envy is harvested.
+- **The Void-Well** beneath the school is a rift into the Void. The Battery uses this rift to thicken the Void.
+- **The Bell Tower** is where the bell rings. But there is no bell inside it. Only a resonance of the Void.
+- If the party goes into the basement, they will find the Battery — and the truth.
+- **The Bell** rings before exams, dances, and graduation. Every toll is a countdown.
 
 ## Connections
-- `The Free Bird Academy.md` — sekolah
-- `Calamara.md` — kota
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `The Hidden Garden.md` — taman
-- `Jounce.md` — olahraga
-- `R.A.I.B.md` — efek samping
+- `The Free Bird Academy.md` — the school
+- `Calamara.md` — the city
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `The Hidden Garden.md` — the garden
+- `Jounce.md` — the sport
+- `R.A.I.B.md` — the side effect

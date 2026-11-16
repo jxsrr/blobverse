@@ -9,22 +9,22 @@ universe: Sonstige
 > **Status:** Elite school. Rival of FBA.
 
 ## What Matters Here
-- Akademi paling terpandang di **Imperial Capitol**.
-- Menyaingi **FBA** sebagai sekolah elit.
-- Biasanya keluarga Grafsten mengirim anak-anak dan pegawai mereka ke sini.
-- Karena perselisihan dengan keluarga kekaisaran, keluarga Grafsten **tidak** mengirim Zenroy ke sini — mereka memilih FBA.
+- The most prestigious academy in the **Imperial Capitol**.
+- Rivals **FBA** as an elite school.
+- The Grafsten family usually sends its children and its retainers here.
+- Because of the dispute with the imperial family, the Grafstens did **not** send Zenroy here — they chose FBA instead.
 
 ## What the Party Knows
-- Sekolah rival FBA. Di Imperial Capitol.
-- Biasanya tujuan keluarga Grafsten.
-- Zenroy **seharusnya** masuk sini — tapi tidak jadi.
+- FBA's rival school. In the Imperial Capitol.
+- Usually where the Grafsten family ends up.
+- Zenroy was **supposed** to enrol here — but didn't.
 ::/pf
 
 %% DM SECRETS %%
-- Imperial Academy adalah **sekolah kekaisaran** — lebih tua, lebih prestisius, lebih politik daripada FBA.
-- **DM Note:** Imperial Academy adalah "jalan yang tidak diambil" Zenroy. Ini adalah pembanding — untuk menunjukkan bahwa Zenroy **seharusnya** berada di tempat yang lebih aman, tapi takdir membawanya ke FBA.
+- Imperial Academy is an **imperial school** — older, more prestigious, more political than FBA.
+- **DM Note:** Imperial Academy is "the road not taken" for Zenroy. It is a contrast — to show that Zenroy was **supposed** to be in a safer place, but fate carried him to FBA.
 
 ## Connections
-- `Zenroy Dala.md` — calon siswa yang memilih FBA
-- `Grafstenmouth.md` — kota asal Zenroy
-- `Lord Aldric Grafsten.md` — yang memutuskan tidak mengirim Zenroy ke sini
+- `Zenroy Dala.md` — the would-be student who chose FBA
+- `Grafstenmouth.md` — Zenroy's home city
+- `Lord Aldric Grafsten.md` — the one who decided not to send Zenroy here

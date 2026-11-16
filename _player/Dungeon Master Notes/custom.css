@@ -1,0 +1,111 @@
+/* =========================================================================
+   Blobverse — Flowershow theme overrides
+   Overrides via cascade layers, no !important needed.
+   ========================================================================= */
+
+:root {
+  --font-family-heading: "Cormorant Garamond", "EB Garamond", Georgia, serif;
+  --font-family-body: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --font-family-monospace: "SF Mono", Menlo, Consolas, monospace;
+
+  --font-size-base: 17px;
+  --line-height-base: 1.65;
+
+  --color-l-bg: #faf8f4;
+  --color-l-bg-secondary: #f0ece5;
+  --color-l-text: #1f1c17;
+  --color-l-text-secondary: #5a5249;
+  --color-l-border: #e2dcd0;
+  --color-l-accent: #4a3f5c;
+  --color-l-accent-hover: #5c4f70;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--color-l-text);
+}
+h1 { font-size: 2.25rem; line-height: 1.2; margin-top: 2rem; margin-bottom: 1rem; }
+h2 { font-size: 1.6rem; line-height: 1.25; margin-top: 2.2rem; margin-bottom: 0.75rem;
+     border-bottom: 1px solid var(--color-l-border); padding-bottom: 0.35rem; }
+h3 { font-size: 1.25rem; line-height: 1.3; margin-top: 1.8rem; margin-bottom: 0.5rem; }
+
+p, li { color: var(--color-l-text); }
+
+a {
+  color: var(--color-l-accent);
+  text-decoration-color: var(--color-l-border);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 120ms ease, color 120ms ease;
+}
+a:hover { color: var(--color-l-accent-hover); text-decoration-color: var(--color-l-accent); }
+
+table { border-collapse: collapse; font-size: 0.95em; margin: 1.25rem 0; width: 100%; }
+table th {
+  font-family: var(--font-family-heading);
+  font-weight: 600; font-size: 0.9em; letter-spacing: 0.02em; text-transform: uppercase;
+  background: var(--color-l-bg-secondary);
+  border-bottom: 2px solid var(--color-l-border);
+  padding: 0.6rem 0.75rem; text-align: left;
+}
+table td { border-bottom: 1px solid var(--color-l-border); padding: 0.55rem 0.75rem; vertical-align: top; }
+
+.callout[data-callout="info"], .callout[data-callout="note"] {
+  background: color-mix(in srgb, var(--color-l-accent) 4%, var(--color-l-bg));
+  border-left-color: var(--color-l-accent);
+}
+.callout[data-callout="warning"] {
+  background: color-mix(in srgb, #b8860b 6%, var(--color-l-bg));
+  border-left-color: #b8860b;
+}
+.callout[data-callout="quote"] {
+  font-family: var(--font-family-heading);
+  font-size: 1.05em; font-style: italic;
+  background: var(--color-l-bg-secondary);
+  border-left-color: var(--color-l-text-secondary);
+}
+.callout-title {
+  font-family: var(--font-family-heading);
+  font-weight: 600; letter-spacing: 0.01em;
+}
+
+a.wikilink, a[href*="/oversee/"], a[href*="/sonstige/"], a[href*="/aede/"] {
+  background: color-mix(in srgb, var(--color-l-accent) 6%, transparent);
+  padding: 0.05em 0.25em; border-radius: 3px; text-decoration: none;
+}
+a.wikilink:hover, a[href*="/oversee/"]:hover, a[href*="/sonstige/"]:hover, a[href*="/aede/"]:hover {
+  background: color-mix(in srgb, var(--color-l-accent) 12%, transparent);
+}
+
+.card, .list-item {
+  border-radius: 6px; padding: 0.85rem 1rem;
+  border: 1px solid var(--color-l-border);
+  transition: border-color 120ms ease, background 120ms ease;
+}
+.card:hover, .list-item:hover {
+  border-color: var(--color-l-accent);
+  background: color-mix(in srgb, var(--color-l-accent) 3%, var(--color-l-bg));
+}
+
+.breadcrumbs {
+  font-size: 0.85em; color: var(--color-l-text-secondary);
+  letter-spacing: 0.02em; text-transform: uppercase;
+}
+.sidebar a { color: var(--color-l-text-secondary); font-size: 0.92em; }
+.sidebar a[aria-current="page"] { color: var(--color-l-accent); font-weight: 600; }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-d-bg: #15171c;
+    --color-d-bg-secondary: #1c1f26;
+    --color-d-text: #e6e2d9;
+    --color-d-text-secondary: #a3a09a;
+    --color-d-border: #2b2f38;
+    --color-d-accent: #b8a4d4;
+    --color-d-accent-hover: #d0bfe6;
+  }
+  h2 { border-bottom-color: var(--color-d-border); }
+  table th { background: var(--color-d-bg-secondary); border-bottom-color: var(--color-d-border); }
+  table td { border-bottom-color: var(--color-d-border); }
+}

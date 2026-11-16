@@ -9,73 +9,73 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Guru Practical Sciences di FBA. Antusiasme yang tidak wajar terhadap kegagalan.
+> **Role:** Practical Sciences teacher at FBA. An unnatural enthusiasm for failure.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria kurus dengan kacamata tebal yang selalu berembun.
-- Jas lab putih yang selalu kotor. Noda-noda bahan kimia. Lubang-lubang kecil bekas ledakan.
-- Rambut acak-acakan. Senyum yang selalu ada.
-- Selalu membawa sesuatu — tabung reaksi, kabel, atau benda aneh yang belum selesai.
+- A small man with thick glasses that are always askew.
+- A white lab coat that is always dirty. Chemical stains. Small burn holes.
+- Messy hair. A smile that is always present.
+- Always carrying something — a reagent bottle, a cable, or a strange unfinished object.
 
 ## Personality
-- Antusias. Tidak wajar. Terhadap kegagalan.
-- "Ledakan kecil itu data." "Kegagalan adalah langkah pertama menuju penemuan."
-- Mengajar siswa untuk bereksperimen — dan untuk gagal dengan aman.
-- Tidak pernah takut pada kegagalan. Tidak pernah takut pada ledakan. Tidak pernah takut pada **apa pun**.
+- Enthusiastic. Unnatural. About failure.
+- "A small explosion is data." "Failure is the first step toward discovery."
+- Teaches students to experiment — and to fail safely.
+- Never afraid of failure. Never afraid of explosions. Never afraid of **anything**.
 
 ## What the Party Knows
-- Guru Practical Sciences. Salah satu pengajar paling antusias di FBA.
-- Suka meledakkan things. Suka gagal. Suka belajar dari kegagalan.
-- Mungkin telah menemukan sesuatu yang tidak seharusnya ia temukan.
+- Practical Sciences teacher. One of the most enthusiastic instructors at FBA.
+- Loves to blow things up. Loves to fail. Loves to learn from failure.
+- May have discovered something he should not have discovered.
 
 ## What He Offers
-- **Pengetahuan tentang sains praktis.** Jika party ingin belajar tentang bahan peledak, tentang gadget, tentang eksperimen — ia adalah guru terbaik.
-- **Alat-alat.** Jika party membutuhkan sesuatu yang aneh — sesuatu yang meledak, sesuatu yang berfungsi, sesuatu yang tidak berfungsi — ia bisa membuatnya.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **frekuensi**.
+- **Knowledge of practical sciences.** If the party wants to learn about explosives, about gadgets, about experiments — he is the best teacher.
+- **Gadgets.** If the party needs something strange — something that explodes, something that functions, something that does not function — he can make it.
+- **Clues about The Bell.** If the party asks about The Bell, he may speak. But he will speak in **frequency**.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Dr. Fenwick Is
-- **Dr. Fenwick** adalah ilmuwan paling antusias di Calamara. Ia tidak peduli pada teori. Ia peduli pada **praktik**. Ia peduli pada **ledakan**. Ia peduli pada **kegagalan**.
-- Ia telah mengajar di FBA selama lebih dari lima belas tahun. Ia telah meledakkan banyak laboratorium. Ia telah menghancurkan banyak peralatan. Ia telah membuat banyak penemuan. Ia telah membuat banyak **kesalahan**.
-- Ia **tahu tentang baterai**. Ia tahu tentang Continuity Work. Ia tahu tentang Bellweather. Ia tahu karena ia **mendengar** — bukan dari orang, tapi dari **mesin**. Ia mendengar resonansi Void di basement FBA. Ia mendengar frekuensi yang tidak seharusnya ada. Ia mendengar **The Bell** — bukan sebagai suara, tapi sebagai **getaran**.
-- Ia **tertarik**. Bukan karena ia peduli pada dunia, tapi karena ia ingin **tahu**. Ia ingin tahu bagaimana baterai bekerja. Ia ingin tahu bagaimana The Bell berbunyi. Ia ingin tahu **apa yang terjadi** jika baterai gagal.
-- Ia akan membantu party — bukan karena ia peduli pada mereka, tapi karena ia ingin **melihat apa yang terjadi**.
+- **Dr. Fenwick** is the most enthusiastic scientist in Calamara. He does not care about theory. He cares about **practice**. He cares about **explosions**. He cares about **failure**.
+- He has taught at FBA for over fifteen years. He has blown up many laboratories. He has destroyed much equipment. He has made many discoveries. He has made many **mistakes**.
+- He **knows about the Battery**. He knows about Continuity Work. He knows about Bellweather. He knows because he **hears** — not from people, but from **machines**. He hears the Void resonance in the FBA basement. He hears a frequency that should not exist. He hears **The Bell** — not as sound, but as **vibration**.
+- He is **thrilled**. Not because he cares about the world, but because he wants to **know**. He wants to know how the Battery works. He wants to know how The Bell rings. He wants to know **what happens** if the Battery fails.
+- He will help the party — not because he cares about them, but because he wants to **see what happens**.
 
-### Dr. Fenwick and the Bell
-- Ia telah mendengar The Bell sepanjang hidupnya. Ia tidak mendengarnya dengan telinga. Ia mendengarnya dengan **alat**. Ia mendengarnya dengan **getaran**.
-- **Jika party bertanya tentang The Bell**, ia akan berhenti. Ia akan melihat party dengan mata yang berbinar. Ia akan berkata: *"Lonceng berbunyi sebelum ujian. Itu adalah frekuensi rendah. Lonceng berbunyi sebelum dansa. Itu adalah frekuensi sedang. Lonceng berbunyi sebelum kelulusan. Itu adalah frekuensi tinggi. Dan frekuensi tinggi... frekuensi tinggi adalah yang paling berbahaya."*
-- Ia akan menambahkan: *"Tapi yang paling menarik bukan tentang lonceng. Yang paling menarik adalah tentang **apa yang terjadi setelahnya**. Karena setelah lonceng terakhir, ada **sesuatu** yang terjadi. Sesuatu yang tidak bisa saya jelaskan. Sesuatu yang tidak bisa saya ukur. Sesuatu yang... **menarik**."*
+### Dr. Fenwick and The Bell
+- He has heard The Bell his whole life. He does not hear it with his ears. He hears it with **tools**. He hears it with **vibration**.
+- **If the party asks about The Bell**, he will stop. He will look at the party with bright eyes. He will say: *"The Bell rings before exams. That is a low frequency. The Bell rings before the dance. That is a medium frequency. The Bell rings before graduation. That is a high frequency. And a high frequency... a high frequency is the most dangerous."*
+- He will add: *"But the most interesting thing is not about the bell. The most interesting thing is about **what happens afterward**. Because after the bell rings, there is **something** that happens. Something that I cannot explain. Something that I cannot measure. Something that... **interests** me."*
 
 ### Dr. Fenwick and Mr. Rababrie Bellweather
-- Ia mengenal **Rababrie Bellweather** sebagai kepala sekolah. Ia juga mengenalnya sebagai **Bellweather**. Ia tahu tentang keluarga itu. Ia tahu tentang kekuasaan mereka. Ia tahu tentang **apa yang mereka lakukan**.
-- *"Rababrie adalah pria yang baik,"* katanya suatu kali. *"Tapi dia adalah Bellweather. Dan Bellweather selalu menyelesaikan apa yang mereka mulai. Bahkan jika itu berarti menghancurkan dunia."*
-- Ia tidak membenci Rababrie. Ia tidak takut padanya. Ia hanya **ingin tahu**. Ia ingin tahu bagaimana mesin itu bekerja. Ia ingin tahu apa yang terjadi jika mesin itu dimatikan.
+- He knows **Rababrie Bellweather** as headmaster. He also knows him as **Bellweather**. He knows about that family. He knows about their power. He knows about **what they do**.
+- *"Rababrie is a good man,"* he once said. *"But he is a Bellweather. And Bellweather always finishes what they start. Even if it means destroying the world."*
+- He does not hate Rababrie. He is not afraid of him. He only **wants to know**. He wants to know how the machine works. He wants to know what happens if the machine is turned off.
 
 ### Dr. Fenwick's Role in Season 3
-- Jika party ingin belajar sains praktis, Fenwick akan mengajari mereka. Ia akan mengajari mereka tentang bahan peledak. Ia akan mengajari mereka tentang gadget. Ia akan mengajari mereka tentang **kegagalan**.
-- Jika party ingin melawan Bellweather, Fenwick akan membantu dengan **teknologi**. Ia akan membuat alat. Ia akan membuat senjata. Ia akan membuat **sesuatu** yang bisa menghancurkan baterai.
-- **Jika Fenwick dies**, FBA akan kehilangan ilmuwannya. Dan dunia akan kehilangan salah satu dari sedikit orang yang bisa **menghentikan** baterai.
+- If the party wants to learn practical sciences, Fenwick will teach them. He will teach them about explosives. He will teach them about gadgets. He will teach them about **failure**.
+- If the party wants to fight Bellweather, Fenwick will help with **technology**. He will build a device. He will build a weapon. He will build **something** that can stop the Battery.
+- **If Fenwick dies**, FBA will lose its scientist. And the world will lose one of the few people who can **stop** the Battery.
 
 ### Dr. Fenwick's Secret
-- Ia telah membuat **prototipe** — sebuah alat yang bisa **mengganggu** frekuensi Void. Sebuah alat yang bisa **membungkam** The Bell. Sebuah alat yang bisa **menghentikan** baterai.
-- Ia tidak pernah mengujinya. Ia tidak pernah berani. Ia tidak tahu apa yang akan terjadi jika ia menekan tombolnya. Apakah baterai akan berhenti? Apakah Void akan terbuka? Apakah dunia akan berakhir?
-- Ia menyimpan prototipe itu di laboratoriumnya. Di bawah meja. Di dalam kotak logam. Ia menyebutnya **"The Silencer."**
-- Jika party menemukannya, ia akan memberikan. Tapi ia akan memperingatkan: *"Saya tidak tahu apa yang akan terjadi. Saya tidak tahu apakah ini akan menyelamatkan dunia atau menghancurkannya. Tapi saya tahu satu hal: ini adalah **satu-satunya cara** untuk menghentikan The Bell."*
+- He has built a **prototype** — a device that can **amplify** the Void frequency. A device that can **deafen** The Bell. A device that can **stop** the Battery.
+- He has never tested it. He has never dared. He does not know what will happen if he presses its button. Will the Battery stop? Will the Void open? Will the world end?
+- He keeps the prototype in his laboratory. Under the desk. In a metal box. He calls it **"The Silencer."**
+- If the party finds it, he will give it. But he will warn them: *"I do not know what will happen. I do not know whether this will save the world or destroy it. But I know one thing: this is the **only way** to stop The Bell."*
 
 ### What the Party Does NOT Know
-- Fenwick tahu tentang baterai. Ia mendengarnya melalui getaran.
-- Fenwick telah membuat prototipe — The Silencer — yang bisa menghentikan baterai.
-- Fenwick tidak pernah mengujinya. Ia tidak tahu apa yang akan terjadi.
-- Fenwick akan membantu party — karena ia ingin melihat apa yang terjadi.
+- Fenwick knows about the Battery. He hears it through vibration.
+- Fenwick has built a prototype — The Silencer — that can stop the Battery.
+- Fenwick has never tested it. He does not know what will happen.
+- Fenwick will help the party — because he wants to see what happens.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `Bellweather.md` — keluarga yang ia kenal
-- `Mr. Rababrie Bellweather.md` — kepala sekolah
-- `The Silencer.md` — prototipe (TBD)
+- `The Free Bird Academy.md` — the school
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `Bellweather.md` — the family he knows
+- `Mr. Rababrie Bellweather.md` — the headmaster
+- `The Silencer.md` — the prototype (TBD)

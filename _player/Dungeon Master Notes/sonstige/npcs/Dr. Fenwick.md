@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Practical Sciences di FBA. Antusiasme yang tidak wajar terhadap kegagalan.
+> **Role:** Practical Sciences teacher at FBA. An unnatural enthusiasm for failure.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria kurus dengan kacamata tebal yang selalu berembun.
-- Jas lab putih yang selalu kotor. Noda-noda bahan kimia. Lubang-lubang kecil bekas ledakan.
-- Rambut acak-acakan. Senyum yang selalu ada.
-- Selalu membawa sesuatu — tabung reaksi, kabel, atau benda aneh yang belum selesai.
+- A small man with thick glasses that are always askew.
+- A white lab coat that is always dirty. Chemical stains. Small burn holes.
+- Messy hair. A smile that is always present.
+- Always carrying something — a reagent bottle, a cable, or a strange unfinished object.
 
 ## Personality
-- Antusias. Tidak wajar. Terhadap kegagalan.
-- "Ledakan kecil itu data." "Kegagalan adalah langkah pertama menuju penemuan."
-- Mengajar siswa untuk bereksperimen — dan untuk gagal dengan aman.
-- Tidak pernah takut pada kegagalan. Tidak pernah takut pada ledakan. Tidak pernah takut pada **apa pun**.
+- Enthusiastic. Unnatural. About failure.
+- "A small explosion is data." "Failure is the first step toward discovery."
+- Teaches students to experiment — and to fail safely.
+- Never afraid of failure. Never afraid of explosions. Never afraid of **anything**.
 
 ## What the Party Knows
-- Guru Practical Sciences. Salah satu pengajar paling antusias di FBA.
-- Suka meledakkan things. Suka gagal. Suka belajar dari kegagalan.
-- Mungkin telah menemukan sesuatu yang tidak seharusnya ia temukan.
+- Practical Sciences teacher. One of the most enthusiastic instructors at FBA.
+- Loves to blow things up. Loves to fail. Loves to learn from failure.
+- May have discovered something he should not have discovered.
 
 ## What He Offers
-- **Pengetahuan tentang sains praktis.** Jika party ingin belajar tentang bahan peledak, tentang gadget, tentang eksperimen — ia adalah guru terbaik.
-- **Alat-alat.** Jika party membutuhkan sesuatu yang aneh — sesuatu yang meledak, sesuatu yang berfungsi, sesuatu yang tidak berfungsi — ia bisa membuatnya.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **frekuensi**.
+- **Knowledge of practical sciences.** If the party wants to learn about explosives, about gadgets, about experiments — he is the best teacher.
+- **Gadgets.** If the party needs something strange — something that explodes, something that functions, something that does not function — he can make it.
+- **Clues about The Bell.** If the party asks about The Bell, he may speak. But he will speak in **frequency**.

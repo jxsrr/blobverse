@@ -58,16 +58,3 @@ There are **three Observatories** built by the Cycle Clan, each with a different
 ## What the Party Knows
 - They have not been here.
 - It is where HVS (Shin) went to school, 690 years ago.
-- It is a **Season 3 emotional dungeon** for Shin.
-- They have heard of Danau Kuno from the Cycle Clan files — but they do not know it is now Universitas Tarakita.
-
-## What the Party Does NOT Know
-- **Danau Kuno is Universitas Tarakita.** The university was built on top of the ancient observatory.
-- **The Shell fell here.** The lake is the impact crater.
-- **The three Observatories formed a triangulation network.** The sigils are still there.
-- **Wiseman's journal** is in the submerged cave beneath the university.
-- **The cracked Gemheart fragment** is in the same cave. It can be fused with Emelanica to double its power.
-- **The Architect's echo** is in the same cave. It will answer one question truthfully.
-
-## Current State
-- Active. The Commonwealth has a presence here.

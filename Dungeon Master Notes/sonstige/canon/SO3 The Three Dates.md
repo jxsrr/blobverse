@@ -5,49 +5,49 @@ era: Modern
 years: 2001, 2016, 2026
 ---
 ::pf
-> [!info] Tiga Tanggal
-> Tiga tanggal yang mengubah Sonstige. Tiga titik balik. Tiga luka.
+> [!info] The Three Dates
+> Three dates that changed Sonstige. Three turning points. Three wounds.
 
 ## 2001 — The First Delivery
-- Baterai sekolah pertama kali diaktifkan.
-- Satu angkatan siswa hilang.
-- **RAIB pertama** terjadi.
-- **The Black Cloak Figure** pertama kali tercatat.
-- **Zenroy** — seorang Lei dari Oversee — tiba di Sonstige melalui celah Void.
+- The school's battery is activated for the first time.
+- One entire cohort of students disappears.
+- The **first RAIB** occurs.
+- **The Black Cloak Figure** is recorded for the first time.
+- **Zenroy** — a Lei from Oversee — arrives in Sonstige through a Void rift.
 
 ## 2016 — The Bateleur Incident
-- Saat final **Jounce** antar-sekolah, **RAIB massal** menghapus **The Bateleur Eagle** — tim varsity Jounce FBA tahun itu — di tengah pertandingan.
-- **Coach Garrick** (saat itu siswa, kapten tim) adalah satu-satunya yang ingat.
-- Penyanyi **Oliver Deen** mati dalam kecelakaan jet pribadi tak lama setelah membahas UAP dan "elang yang terbang mundur."
-- Pemerintah menyebutnya kecelakaan.
+- At the inter-school **Jounce** final, a **mass RAIB** erases **The Bateleur Eagle** — that year's FBA Jounce varsity team — in the middle of the match.
+- **Coach Garrick** (then a student, the team captain) is the only one who remembers.
+- The singer **Oliver Deen** dies in a private jet crash shortly after discussing UFOs and "the eagle that flies backwards."
+- The government calls it an accident.
 
 ## 2026 — The Third Thickening
-- Tahun PCs.
-- Baterai kembali lapar.
-- **Lilia Etheridge II** naik lebih dulu — "goes up" — dan ditempatkan di jalur **Bellweather Candidate**.
-- RAIB mulai lagi. Black Cloak kembali.
-- **Lilia Etheridge II** menjadi kapten **The Bateleur Eagle** — tim varsity Jounce FBA tahun ini.
+- The year of the PCs.
+- The Battery is hungry again.
+- **Lilia Etheridge II** ascends first — "goes up" — and is placed on the **Bellweather Candidate** track.
+- RAIB begins again. The Black Cloak returns.
+- **Lilia Etheridge II** becomes captain of **The Bateleur Eagle** — this year's FBA Jounce varsity team.
 
 ## What the Party Knows
-- Tiga tanggal penting: 2001, 2016, 2026.
-- Ada sesuatu yang terjadi di setiap tanggal.
+- Three important dates: 2001, 2016, 2026.
+- Something happened on each of them.
 ::/pf
 
 %% DM SECRETS %%
-- **2001** adalah tahun pertama baterai diaktifkan. Angkatan pertama adalah korban pertama. RAIB pertama adalah efek samping pertama.
-- **Zenroy** tiba di Sonstige melalui celah Void yang sama yang dibuat oleh baterai. Ia adalah Lei dari Oversee — ia tahu tentang Overseer, tentang Rapture, tentang Valla.
-- **2016** adalah tahun ketika baterai gagal untuk pertama kalinya. RAIB massal terjadi saat final Jounce antar-sekolah. Tim **The Bateleur Eagle** — tim varsity Jounce FBA saat itu — dihapus dari ingatan semua orang. Oliver Deen mencoba memperingatkan dunia. Ia dibungkam.
-- **The Bateleur Eagle 2016:** Coach Garrick adalah kaptennya. Ia menyaksikan seluruh timnya hilang dalam satu momen. Ia satu-satunya yang ingat — karena ia adalah **saksi**. Ia tidak tahu apa yang terjadi. Ia hanya tahu timnya hilang. Ia tidak pernah bisa menjelaskannya. Ia menyimpan foto tim di dompetnya sampai sekarang.
-- **2026** adalah tahun ketika baterai akan gagal lagi — dan kali ini, kegagalannya akan lebih besar.
-- **Lilia Etheridge II** adalah Bride berikutnya. Jika ritual selesai, ia akan menjadi tambalan terakhir. Baterai akan stabil. Tapi Lilia akan hilang.
-- **Lilia adalah kapten The Bateleur Eagle 2026.** Ia tidak tahu tentang tim 2016. Ia tidak tahu bahwa nama yang ia pakai adalah nama tim yang dihapus. Ia hanya tahu itu nama yang bagus.
+- **2001** is the year the Battery is first activated. The first cohort are its first victims. The first RAIB is its first side effect.
+- **Zenroy** arrives in Sonstige through the same Void rift the Battery created. He is a Lei from Oversee — he knows about the Overseer, about the Rapture, about the Valla.
+- **2016** is the year the Battery fails for the first time. A mass RAIB occurs during the inter-school Jounce final. The **Bateleur Eagle** team — FBA's Jounce varsity squad at the time — is erased from everyone's memory. Oliver Deen tried to warn the world. He was silenced.
+- **The Bateleur Eagle 2016:** Coach Garrick was its captain. He watched his entire team disappear in a single moment. He is the only one who remembers — because he was a **witness**. He does not know what happened. He only knows his team is gone. He has never been able to explain it. He still keeps the team photo in his wallet.
+- **2026** is the year the Battery will fail again — and this time, its failure will be larger.
+- **Lilia Etheridge II** is the next Bride. If the ritual is completed, she will be the final patch. The Battery will stabilise. But Lilia will be gone.
+- **Lilia is the captain of The Bateleur Eagle 2026.** She does not know about the 2016 team. She does not know that the name she carries is the name of an erased team. She only knows it is a good name.
 
 ## Connections
-- `SO2 The Battery.md` — program yang menyebabkan ketiganya
-- `R.A.I.B.md` — efek samping 2001 dan 2016
-- `Oliver Deen.md` — penyanyi yang dibungkam
-- `Zenroy.md` — Lei dari Oversee yang tiba 2001
-- `The Black Cloak Figure.md` — agen pengiriman
-- `Lilia Etheridge II.md` — Bride berikutnya, kapten Bateleur Eagle 2026
-- `Coach Garrick.md` — kapten Bateleur Eagle 2016, satu-satunya yang ingat
-- `Jounce.md` — olahraga yang menjadi ajang 2016
+- `SO2 The Battery.md` — the program that caused all three
+- `R.A.I.B.md` — the side effect of 2001 and 2016
+- `Oliver Deen.md` — the singer who was silenced
+- `Zenroy.md` — the Lei from Oversee who arrived in 2001
+- `The Black Cloak Figure.md` — the delivery agent
+- `Lilia Etheridge II.md` — the next Bride, captain of The Bateleur Eagle 2026
+- `Coach Garrick.md` — captain of The Bateleur Eagle 2016, the only one who remembers
+- `Jounce.md` — the sport that hosted the 2016 incident

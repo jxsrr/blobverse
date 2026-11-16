@@ -2,14 +2,15 @@
 type: Oversee Session
 session_number: 1
 universe: Oversee
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.
 ## Part 1: Forming the Company and the Road to Greyland
 
 The story begins in the memory of a young girl named **Vya**, called V by those who love her — a child watching from the hillside as a ship arrived carrying soldiers whose faces were carved into permanent smiles.
 
-Years later, grown and raised by her adoptive father **[[Kopling]]**, V set out to find her own path. She arrived at a village called **[[oversee/locations/Yawning Town]]** — the starting point for new adventurers — and registered for her **SIP** (Adventurer's Permit) at the Guild.
+Years later, grown and raised by her adoptive father **[[oversee/npcs/Yayat Kopling]]**, V set out to find her own path. She arrived at a village called **[[oversee/locations/Yawning Town]]** — the starting point for new adventurers — and registered for her **SIP** (Adventurer's Permit) at the Guild.
 
 There she met **[[oversee/npcs/Grilnax]]**, the tired goblin clerk, and four other would-be adventurers: **[[oversee/pcs/Husgus]]**, **[[oversee/pcs/Zure Ama]]**, **[[oversee/pcs/Shin Van Hel|HVS]]**, and **[[oversee/pcs/Syl Frost]]**. Grilnax grouped them into a single party and registered them under the name **The Five Sticks**.
 
@@ -65,7 +66,7 @@ And then the party mentioned **Lei Alejandro**.
 
 Everything changed.
 
-Grolnok knew Alejandro. He knew him well. His daughter — **[[Ratu Ghaniba]]** — had married Alejandro. She had died in childbirth, and the child had been stillborn. The gem was not treasure. It was **inheritance**. It was meant for goblin heirs. It was meant for the children of a daughter who never lived long enough to see them.
+Grolnok knew Alejandro. He knew him well. His daughter — **[[oversee/npcs/Queen Ghaniba]]** — had married Alejandro. She had died in childbirth, and the child had been stillborn. The gem was not treasure. It was **inheritance**. It was meant for goblin heirs. It was meant for the children of a daughter who never lived long enough to see them.
 
 The revelation that Alejandro — the revered ancestor, the honored name — had loved a goblin queen shattered everything the party thought they knew about the world's history.
 
@@ -77,7 +78,7 @@ The party won. They took the gem. And because they did not know what the gem tru
 
 The party woke on a small fishing boat, coughing seawater, surrounded by the smell of fish.
 
-An old dwarf fisherman named **[[oversee/npcs/Guanik Smith|Guanik]]** had pulled them from the wreckage. He brought them to his home on **[[Pulau Dima]]** — a tropical island with white sand and coconut trees — where he lived with his wife **[[oversee/npcs/Janja]]** and their three children: **[[Dontol]]** (the eldest), **[[Huan]]** and **[[Nila]]**.
+An old dwarf fisherman named **[[oversee/npcs/Guanik Smith|Guanik]]** had pulled them from the wreckage. He brought them to his home on **[[oversee/locations/Dima Island]]** — a tropical island with white sand and coconut trees — where he lived with his wife **[[oversee/npcs/Janja]]** and their three children: **[[oversee/npcs/Guanik Dontol]]** (the eldest), **[[oversee/npcs/Guanik Huan]]** and **[[oversee/npcs/Guanik Nila]]**.
 
 At first, it was peace. Recovery. A warm home. Guanik told them stories about the sea. His wife made tea. The children showed the party their shell collection.
 

@@ -4,15 +4,15 @@ role: The Family Behind the School, The Entity Behind the Battery, The Keepers o
 faction: Bellweather
 home: Calamara
 status: alive (or something else)
-first_seen: Session 02 (rumored)
+first_seen: Session 02 (rumoured)
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Keluarga/entitas pendiri di balik FBA dan baterai. Pengambil nama dari **The Bell**. Bride of Bellweather adalah filter hidup.
-> **Status:** Alive — atau sesuatu yang lain.
+> **Role:** The founding family/entity behind FBA and the Battery. The ones who took their name from **The Bell**. The Bride of Bellweather is a living filter.
+> **Status:** Alive — or something else.
 
 ## What the Party Knows
-- Bellweather adalah keluarga/entitas di balik FBA.
-- Ada tradisi **Bride of Bellweather**.
-- Lilie akan menjadi Bride berikutnya.
-- Nama mereka diambil dari **The Bell** — mitos turun-temurun sekolah.
+- Bellweather is the family/entity behind FBA.
+- There is a **Bride of Bellweather** tradition.
+- Lilie is to become the next Bride.
+- Their name is taken from **The Bell** — the school's inherited myth.

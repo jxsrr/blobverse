@@ -9,26 +9,26 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Adik Brougha. Bayi. Baru lahir.
+> **Role:** Brougha's little brother. A baby. Newborn.
 > **Where:** The Azures, Southwest Calamara
 > **Status:** Alive
 
 ## Appearance
-- Half-Orc bayi. Kulit hijau keabu-abuan. Mata besar. Taring kecil yang belum tumbuh.
-- Biasanya terbungkus selimut. Kadang-kadang memakai topi rajutan yang dibuat Shazara.
+- A Half-Orc baby. Grey-green skin. Big eyes. Tiny tusks that have not yet grown in.
+- Usually wrapped in a blanket. Sometimes wears a knitted hat made by Shazara.
 
 ## Personality
-- Bayi. Menangis. Tidur. Makan. Menangis lagi.
-- Tidak tahu apa-apa tentang dunia. Tapi ia adalah **pusat perhatian** keluarga Ironhide saat ini.
+- A baby. Cries. Sleeps. Eats. Cries again.
+- Knows nothing of the world. But right now he is the **centre of the Ironhide family's world**.
 ::/pf
 
 %% DM SECRETS %%
-- Gargathun "Atun" Ironhide adalah **adik Brougha**. Ia baru lahir.
-- Ia adalah **sumber kebahagiaan** keluarga — dan **sumber chaos**.
-- **DM Note:** Atun mungkin tidak relevan untuk plot utama. Tapi ia adalah pengingat bahwa Brougha punya keluarga yang mencintainya — dan sesuatu untuk dilindungi.
+- Gargathun "Atun" Ironhide is **Brougha's little brother**. He is newborn.
+- He is the family's **source of joy** — and its **source of chaos**.
+- **DM Note:** Atun may not be relevant to the main plot. But he is a reminder that Brougha has a family that loves him — and something worth protecting.
 
 ## Connections
-- `Brougha Ironhide.md` — kakaknya
-- `Ramarz Ironhide.md` — ayahnya
-- `Shazara Ironhide.md` — ibunya
-- `The Azures.md` — tempat tinggalnya
+- `Brougha Ironhide.md` — his older sister
+- `Ramarz Ironhide.md` — his father
+- `Shazara Ironhide.md` — his mother
+- `The Azures.md` — his home

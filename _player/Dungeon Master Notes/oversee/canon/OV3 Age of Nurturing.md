@@ -73,7 +73,7 @@ Wiseman asked: *"Then why not create a body that can hold it? A vessel, built fr
 
 There was a long silence. And then — for the first time in his life — Wiseman sensed something like **surprise** from the entity on the other side.
 
-The voice told him this was a new idea. It had never been tried. But it was possible. If a body could be built from the blueprint of the greatest biological creation — **[[The Inbu|the Inbu]]** — it might hold the Architect's consciousness without shattering.
+The voice told him this was a new idea. It had never been tried. But it was possible. If a body could be built from the blueprint of the greatest biological creation — **[[oversee/lore/Inbu|the Inbu]]** — it might hold the Architect's consciousness without shattering.
 
 Wiseman spent decades studying the ancient records of the Inbu. He learned how their cells stored energy, how their tissue channeled **[[oversee/lore/Ambitio-Ether]]**, how their organs functioned for thousands of years without decay. He wrote it all down — a series of manuscripts that became known as the **Berkas Penelitian Cycle Clan**: the Cycle Clan Research File.
 
@@ -93,7 +93,7 @@ Wiseman agreed. He built both shells. He waited.
 
 **~01 BV**
 
-Simon was in his forties when he arrived at **[[Universitas Tarakita|Danau Kuno]]** — the ancient lake where the First Observatory stood.
+Simon was in his forties when he arrived at **[[oversee/locations/Tarakita University of Heroism|Danau Kuno]]** — the ancient lake where the First Observatory stood.
 
 He had been guided there by dreams. Not his own dreams — the dreams of the Architect, who had chosen him. The Cycle Clan received him. They explained to him the truth of the world: the Overseer, the Gap, the Gemhearts, the ritual.
 
@@ -185,7 +185,7 @@ The world was told a different story.
 
 The world was told that **Lei the Great** — a male wizard, a great hero, a man of wisdom and sacrifice — had become the Valla to protect the world from cosmic hunger. The story was written into every history book. The statues were raised in every city.
 
-**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **[[Klan Lei]]** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
+**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **[[oversee/lore/Lei Bloodline]]** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
 
 And **[[oversee/npcs/Simon Greenbottle]]** — the Halfling shepherd who gave everything — was forgotten.
 
@@ -259,45 +259,3 @@ The party has learned:
 - The **six legendary blades** were collected by Simon, scattered by someone, and are now scattered again.
 - The **Cycle Clan** performed a ritual — but they do not yet know the details.
 - **[[oversee/pcs/Husgus]]** and **[[oversee/pcs/Shin Van Hel|HVS]]** are connected to something called "Human Vessel Shell" — but they do not know what it means.
-
-They do not yet know:
-- Whether Lei Firsa is alive or dead.
-- That Lei Firsa murdered **[[oversee/npcs/Grin Qain]]**.
-- That Lei Firsa manipulated and coerced Simon.
-- That **[[oversee/pcs/Husgus]]** is HVS-01.
-- That **[[oversee/pcs/Shin Van Hel|HVS]]** is HVS-02.
-- That the Architect's consciousness is still trapped in the void.
-- That Zargoth's fragment is inside HVS.
-
-These truths will come in **Season 3**.
-
-## Loot & Rewards (Historical)
-- **Six legendary blades** — the legacy of Simon Greenbottle
-- **Gustaero** — the Swan Bow, the neck of the swan
-- **The truth about the Valla** — that the "god" is a prisoner
-- **The Cycle Clan Research File** — the fragments of Wiseman's notes
-
-## NPCs in This Era
-- **[[oversee/npcs/Lei Firsa]]** — the true founder of Klan Lei. The woman who made Simon the Valla.
-- **[[oversee/npcs/Simon Greenbottle]]** — the Halfling shepherd who became the Valla.
-- **[[oversee/npcs/Grin Qain]]** — the sacrificed Grin. Simon's best friend.
-- **[[oversee/npcs/Ksatrian]]** — the dying knight who gave Simon Zenahhi and Terrde.
-- **[[oversee/npcs/Guanik Wiseman]]** — the founder of the Cycle Clan. Created HVS-01 and HVS-02.
-- **[[oversee/npcs/Zargoth]]** — the demon father of the Grin, whose fragment ended up in HVS-02.
-- **Edna Gustaero** — the old woman who gave Simon the Gustaero bow.
-- **Lyra Frostweaver** — the elf who gave Simon Frostfang.
-- **Grakkar** — the last stone giant who gave Simon Kkana.
-
-## Locations Visited
-- **Greenvale** — Simon's home village, burned
-- **Misty Forest** — where Simon received Zenahhi
-- **Wind's Rest** — where Simon received Gustaero
-- **Dur-Khazim** — where Simon received Swaith
-- **[[Universitas Tarakita|Danau Kuno]]** — the ancient lake where the First Observatory stood
-- **The hidden laboratory** — where HVS-01 and HVS-02 were created
-- **[[Hutan Domido]]** — where Husgus was found
-- **The Elis valley** — where HVS-02 was buried
-
-## Sessions Chain
-- **Previous Era:** [[Age of Knowledge]]
-- **Next Era:** [[The First God]]

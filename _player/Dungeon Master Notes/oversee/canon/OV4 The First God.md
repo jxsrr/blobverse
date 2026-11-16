@@ -13,7 +13,7 @@ aliases:
 
 The year **1 AV** — *After Valla* — began in silence.
 
-**[[oversee/npcs/Lei Firsa]]** stood at the altar of **[[Universitas Tarakita|Danau Kuno]]**. **[[oversee/npcs/Simon Greenbottle]]** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
+**[[oversee/npcs/Lei Firsa]]** stood at the altar of **[[oversee/locations/Tarakita University of Heroism|Danau Kuno]]**. **[[oversee/npcs/Simon Greenbottle]]** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
 
 He was the **[[oversee/lore/The Valla|Valla]]** now. His soul stretched across the world, holding back the hunger of the **[[oversee/lore/The Overseer & The Architect|Overseer]]**. He would hold that burden for as long as he could. And when he finally broke, someone else would take his place.
 
@@ -43,7 +43,7 @@ The first weapon she took from the altar was **[[oversee/items/Gustaero — The 
 
 The longbow was pale, almost transparent — its invisible string hummed softly as she held it, as if in protest.
 
-She remembered the story Simon had told her. He had received it from an old woman in **[[oversee/locations/Wind's Rest]]** — **Edna Gustaero** — who had trusted him because he was "a good person." Too many people knew about that meeting. Too many witnesses were still alive.
+She remembered the story Simon had told her. He had received it from an old woman in **[Wind's Rest](/oversee/locations/Wind%27s%20Rest)** — **Edna Gustaero** — who had trusted him because he was "a good person." Too many people knew about that meeting. Too many witnesses were still alive.
 
 She traveled alone to the southern coast of **Harka** — to the highest cliff above Wind's Rest. She stood at the edge of the chasm, the sea wind whipping her face, the waves breaking on the rocks a hundred meters below.
 
@@ -57,7 +57,7 @@ The bow fell, spun, and disappeared into white foam. Lei Firsa smiled.
 
 ### Rayio — The Garberro Forest, Pirizia
 
-**[[oversee/items/Rayio — The Wind Blade|Rayio]]** was a light sword with a blue-silver blade that made almost no sound when swung. Lei Firsa carried it across the sea to **Pirizia**, to the **[[Hutan Garberro|Garberro Forest]]** — a forbidden forest said to be haunted by restless spirits and creatures from the Gap that slipped through occasionally.
+**[[oversee/items/Rayio — The Wind Blade|Rayio]]** was a light sword with a blue-silver blade that made almost no sound when swung. Lei Firsa carried it across the sea to **Pirizia**, to the **[[oversee/locations/Garberro Forest|Garberro Forest]]** — a forbidden forest said to be haunted by restless spirits and creatures from the Gap that slipped through occasionally.
 
 The trees here grew crooked. Their roots reached like wrinkled hands grasping at the soil. Thick fog covered every corner. Strange sounds echoed in the distance.
 
@@ -93,7 +93,7 @@ Lei Firsa stood at the cliff edge, looking down at the white chasm below. With a
 
 **[[oversee/items/Zenahhi — The Loyal Blade|Zenahhi]]** was the simplest of the six — a classic longsword with a shining blade, a dark blue hilt, and perfect balance. But its simplicity was what made it dangerous. The sword was too **good**. Too **noble**. Lei Firsa hated it.
 
-She carried Zenahhi to **Rioquan**, to the **[[Ngarai Ratapan|Canyon of Lament]]** — the deepest canyon on the continent, its bottom said to have never been touched by sunlight. Legend said that thousands of years ago, the gods wept here, and their tears carved the canyon. No one had ever descended to the bottom and returned alive.
+She carried Zenahhi to **Rioquan**, to the **[[oversee/locations/Canyon of Lament|Canyon of Lament]]** — the deepest canyon on the continent, its bottom said to have never been touched by sunlight. Legend said that thousands of years ago, the gods wept here, and their tears carved the canyon. No one had ever descended to the bottom and returned alive.
 
 Lei Firsa stood at the canyon's edge, the wind howling from the depths. She threw Zenahhi into the darkness.
 
@@ -113,7 +113,7 @@ Lei Firsa entered the deepest underground chamber, among shelves of moldy books 
 
 ## The Rewritten History
 
-With the six blades and the Swan Bow scattered, Lei Firsa returned to **[[Universitas Tarakita|Danau Kuno]]**.
+With the six blades and the Swan Bow scattered, Lei Firsa returned to **[[oversee/locations/Tarakita University of Heroism|Danau Kuno]]**.
 
 Simon's body still sat on the altar — not moving, not breathing. Lei Firsa looked at him one last time. Not with love. With satisfaction.
 
@@ -121,7 +121,7 @@ Simon's body still sat on the altar — not moving, not breathing. Lei Firsa loo
 
 She declared the year **1 After Valla**. The new calendar began. The old history was erased.
 
-According to the version of history written by scribes loyal to her, **Simon Greenbottle never existed**. Instead, the world knew of **"Lei the Great"** — a hero who ascended to godhood after his great mission. And **Lei Firsa** herself, through the distortion of history over time, was remembered as a **wise and powerful male wizard** — the founder of **[[Klan Lei]]**.
+According to the version of history written by scribes loyal to her, **Simon Greenbottle never existed**. Instead, the world knew of **"Lei the Great"** — a hero who ascended to godhood after his great mission. And **Lei Firsa** herself, through the distortion of history over time, was remembered as a **wise and powerful male wizard** — the founder of **[[oversee/lore/Lei Bloodline]]**.
 
 The weapons waited in their hiding places — in the sea, in the forbidden forest, on the mountain peak, at the bottom of the canyon, in the ruins, in the underground temple. They waited. They called. They would keep waiting until someone worthy found them.
 
@@ -133,7 +133,7 @@ Years passed. The world turned in its silent orbit. **[[oversee/npcs/Lei Firsa]]
 
 **[[oversee/npcs/Simon Greenbottle|Simon]]** still sat on the altar. His physical body had not changed. His consciousness stretched between the mortal world and the presence of the Overseer. Every five hundred years, the cycle would be prepared again — the maintenance ritual that had to be performed so the world remained safe from cosmic hunger. But Lei Firsa had made sure that the cycle would never move away from Simon as long as she lived.
 
-From Lei Firsa's womb came the descendants who would become known as **[[Klan Lei]]**.
+From Lei Firsa's womb came the descendants who would become known as **[[oversee/lore/Lei Bloodline]]**.
 
 She gave birth to **four children**. Each grew up in an environment filled with knowledge of the Gemhearts, of the ritual, and of their father who sat eternal on the altar. Each inherited something no one else in Oversee possessed: **pure elemental power**, flowing in their blood like a second pulse.
 
@@ -231,8 +231,8 @@ Across the sea, in the wild and untouched continent of **[[oversee/locations/Eli
 Of the thousands of **Elder Dragons** that had once ruled the skies in the era before consciousness, only **three** remained in all Oversee. They were the last survivors of the hunts of the **[[oversee/lore/The Rapture|Rapture]]** — creatures who had chosen to withdraw from the world rather than become victims of civilization's endless ambition. They hid in places impossible for ordinary mortals to reach, waiting in long silence.
 
 - **[[oversee/npcs/Vythrax]]** — the Silver Dragon, called **"The Silver Wind"** by the **[[oversee/factions/The Frostscale Clan|Klan Frostscale]]**. She made her lair in the **[[oversee/locations/The Spire of Whispering Ice|Spire of Whispering Ice]]**, a peak so high the air was too thin to breathe. From that height, she watched over her domain — including **[[oversee/locations/Frosthaven Peak]]**, where Klan Frostscale built their settlement without fully realizing their deity was still alive, watching from a distance.
-- **[[Verdantus]]** — the Green Dragon, guardian of the last primordial forest, buried beneath the canopy of the "Endless Canopy" in the Eastern Wilds. He was the guardian of flora's balance, ensuring the last ancient trees that filtered **Ambitio-Ether** were never cut down by greedy hands.
-- **[[Aurelia]]** — the Blue Dragon, who had not surfaced in thousands of years. She swam at the bottom of the **Magic Lake** in the heart of Elis, managing the flow of mana in the water, ensuring the water sources of Elis remained pure and uncontaminated.
+- **[[oversee/lore/The Three Surviving Dragons]]** — the Green Dragon, guardian of the last primordial forest, buried beneath the canopy of the "Endless Canopy" in the Eastern Wilds. He was the guardian of flora's balance, ensuring the last ancient trees that filtered **Ambitio-Ether** were never cut down by greedy hands.
+- **[[oversee/lore/The Three Surviving Dragons]]** — the Blue Dragon, who had not surfaced in thousands of years. She swam at the bottom of the **Magic Lake** in the heart of Elis, managing the flow of mana in the water, ensuring the water sources of Elis remained pure and uncontaminated.
 
 Meanwhile, the **[[oversee/lore/The Behemoths|Behemoths]]** — giant mammals who had once walked across the world in thousands — now numbered only about a dozen. They roamed a hidden grassland surrounded by mountains in the heart of Elis — a plateau called by ancient explorers *"The Forgotten Garden."* Their deep footprints stabilized the soil, preventing erosion. They had no high consciousness, no magic calling the hunger from the sky. There was only an ancient rhythm: eat, sleep, breed, and unknowingly keep the lungs of the world breathing.
 

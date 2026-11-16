@@ -2,30 +2,30 @@
 type: Sonstige NPC
 role: Vivienne's Mother, Potion Maker, From a Respected Wizard Family
 faction: Ashbourne Family (by marriage) / Her birth family (potions/medicine)
-home: Ashbourne Manor, Pinggiran Calamara
+home: Ashbourne Manor, Outskirts of Calamara
 status: alive
 first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Ibu Vivienne. Pembuat ramuan. Dari keluarga penyihir terpandang.
-> **Where:** Ashbourne Manor, Pinggiran Calamara
+> **Role:** Vivienne's mother. Potion maker. From a respected wizard family.
+> **Where:** Ashbourne Manor, Outskirts of Calamara
 > **Status:** Alive
 
 ## Appearance
-- Elf. Paruh baya. Rambut pirang gelap yang selalu diikat ke belakang. Mata hijau lembut.
-- Pakaian sederhana — celemek di atas gaun. Tangan yang selalu bersih — tapi berbau ramuan.
-- Selalu membawa botol kecil atau mortar. Selalu sibuk dengan sesuatu.
-- Senyum yang hangat. Tatapan yang penuh perhatian.
+- Elf. Middle-aged. Dark blonde hair always tied back. Soft green eyes.
+- Simple clothes — an apron over a gown. Hands that are always clean — but smell of potions.
+- Always carrying a small bottle or a mortar. Always busy with something.
+- A warm smile. An attentive gaze.
 
 ## Personality
-- Hangat. Perhatian. Praktis.
-- Lebih **terbuka** daripada Edmund — tapi juga lebih **khawatir**.
-- Tidak segan menunjukkan kasih sayang — tapi dengan cara yang halus.
-- Tahu lebih banyak tentang **ramuan dan racun** daripada yang ia akui.
+- Warm. Attentive. Practical.
+- More **open** than Edmund — but also more **anxious**.
+- Unafraid to show affection — but in a subtle way.
+- Knows more about **potions and poisons** than she admits.
 
 ## What the Party Knows
-- Ibu Vivienne. Pembuat ramuan.
-- Dari keluarga penyihir terpandang.
-- Memberi Vivienne cincin perak warisan keluarga.
-- Tinggal di Ashbourne Manor.
+- Vivienne's mother. Potion maker.
+- From a respected wizard family.
+- Gave Vivienne a silver ring, an heirloom of the family.
+- Lives at Ashbourne Manor.

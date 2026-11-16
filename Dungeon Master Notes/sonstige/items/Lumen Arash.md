@@ -6,60 +6,60 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Type:** Buku antologi puisi
+> **Type:** A poetry anthology
 > **Author:** Maestro Lorenzo
-> **Holder:** Brougha Ironhide (halaman 41)
+> **Holder:** Brougha Ironhide (page 41)
 > **Rarity:** Unique
 
 ## What It Is
-- Antologi puisi karya **Maestro Lorenzo** — sastrawan ternama, guru Literature FBA.
-- Salah satu karya kesukaan **Lilia Etheridge II**.
-- Brougha membaca buku ini berkali-kali dan masih belum sepenuhnya memahami maksudnya.
-- Brougha membeli buku ini karena Lilia. Ia belum selesai membacanya — baru **halaman 41**.
+- A poetry anthology by **Maestro Lorenzo** — a celebrated poet and the Literature teacher at FBA.
+- One of **Lilia Etheridge II**'s favourite works.
+- Brougha has read this book several times and still does not fully understand what it means.
+- Brougha bought this book because of Lilia. She has not finished it — she is only on **page 41**.
 
 ## Why It Matters
-- Lilia menyukai buku ini. Brougha membaca buku ini karena Lilia.
-- Brougha berharap bisa **memahami** apa yang Lilia suka — dan mungkin **memahami** Lilia.
+- Lilia loves this book. Brougha reads this book because of Lilia.
+- Brougha hopes to **understand** what Lilia loves — and perhaps to **understand** Lilia.
 ::/pf
 
 %% DM SECRETS %%
 
 ### The Book — What It Really Is
-- **Lumen Arash** bukan sekadar antologi puisi. Ini adalah **pesan tersembunyi** dari Maestro Lorenzo — peringatan tentang **The Bell**, tentang **baterai**, dan tentang **Bride of Bellweather**.
-- Lorenzo menulis buku ini sebagai **peringatan** — bukan sebagai puisi. Setiap puisi adalah **metafora**. Setiap metafora adalah **petunjuk**.
-- **Lilia tahu ini.** Ia menyukai buku ini bukan karena puisinya indah — tapi karena ia **mengerti** apa yang Lorenzo coba katakan. Ia mungkin telah **membaca** pesan itu. Ia mungkin telah **mencoba** memberi tahu seseorang. Tapi tidak ada yang mendengarkan.
-- **Brougha tidak tahu ini.** Ia membaca buku ini karena Lilia. Ia belum sampai ke bagian yang **penting**. Ia belum menemukan **pesan** yang Lilia tinggalkan.
+- **Lumen Arash** is not merely a poetry anthology. It is a **hidden message** from Maestro Lorenzo — a warning about **The Bell**, about the **Battery**, and about the **Bride of Bellweather**.
+- Lorenzo wrote this book as a **warning** — not as poetry. Every poem is a **metaphor**. Every metaphor is a **clue**.
+- **Lilia knows this.** She loves this book not because its poems are beautiful — but because she **understands** what Lorenzo is trying to say. She may have **read** the message. She may have **tried** to tell someone. But no one listened.
+- **Brougha does not know this.** She reads this book because of Lilia. She has not reached the **important** part. She has not found the **message** Lilia left behind.
 
 ### The Marginalia — Lilia's Notes
-- Lilia **menulis catatan pinggir** di buku ini. Bukan di semua halaman — hanya di halaman-halaman yang **penting**.
-- **Halaman 41** — tempat Brougha berhenti — memiliki **catatan pinggir** dari Lilia. Catatan itu berbunyi: *"Halaman ini mengingatkanku padamu."*
-- **Halaman-halaman lain** memiliki catatan yang lebih **gelap**. Catatan tentang **The Bell**. Catatan tentang **Bride**. Catatan tentang **ketakutan**.
-- **Jika Brougha membaca lebih jauh**, ia akan menemukan catatan-catatan itu. Ia akan menemukan **kebenaran** tentang Lilia. Ia akan menemukan bahwa Lilia **tahu** apa yang akan terjadi. Ia akan menemukan bahwa Lilia **tidak ingin** pergi.
+- Lilia **wrote marginal notes** in this book. Not on every page — only on the **important** pages.
+- **Page 41** — where Brougha stopped — has a **marginal note** from Lilia. The note reads: *"This page reminds me of you."*
+- **Other pages** have **darker** notes. Notes about **The Bell**. Notes about the **Bride**. Notes about **fear**.
+- **If Brougha reads further**, she will find those notes. She will find the **truth** about Lilia. She will find that Lilia **knew** what was going to happen. She will find that Lilia **did not want** to go.
 
 ### The 23 Books — Lilia's Trail
-- Brougha membeli **23 buku lain** dari rak buku Lilia. Ia belum membacanya. Ia belum membuka segelnya.
-- **Setiap buku** memiliki catatan pinggir dari Lilia. Setiap catatan adalah **petunjuk**. Setiap petunjuk adalah **bagian** dari kebenaran.
-- **Jika Brougha membuka buku-buku itu**, ia akan menemukan **peta** menuju The Bell. Ia akan menemukan **peta** menuju Bride. Ia akan menemukan **peta** menuju Lilia.
-- **DM must decide:** Apakah Lilia meninggalkan catatan ini **sebelum** ia terpilih? Atau **sesudah**? Apakah ia mencoba **memberi tahu** Brougha? Atau apakah ia hanya **menulis** untuk dirinya sendiri?
+- Brougha bought **23 other books** from Lilia's bookshelf. She has not read them. She has not broken their seals.
+- **Each book** has marginal notes from Lilia. Each note is a **clue**. Each clue is a **piece** of the truth.
+- **If Brougha opens those books**, she will find a **map** to The Bell. She will find a **map** to the Bride. She will find a **map** to Lilia.
+- **DM must decide:** Did Lilia leave these notes **before** she was chosen? Or **after**? Was she trying to **tell** Brougha? Or was she only **writing** for herself?
 
 ### What the Party Does NOT Know
-- Lumen Arash adalah **pesan tersembunyi** dari Maestro Lorenzo.
-- Lilia menulis **catatan pinggir** di buku ini.
-- Halaman 41 memiliki catatan: *"Halaman ini mengingatkanku padamu."*
-- Brougha belum membaca bagian yang **penting**.
-- 23 buku lain juga memiliki catatan Lilia.
+- Lumen Arash is a **hidden message** from Maestro Lorenzo.
+- Lilia wrote **marginal notes** in this book.
+- Page 41 has a note: *"This page reminds me of you."*
+- Brougha has not read the **important** part.
+- The other 23 books also have notes from Lilia.
 
 ### Season 3 Reveal Schedule
-- **Session 1** — Brougha membawa Lumen Arash. Ia belum membacanya lebih jauh dari halaman 41.
-- **Session 2–3** — Party mungkin **membaca** buku ini. Mereka mungkin menemukan catatan Lilia.
-- **Session 4–5** — Party mengetahui bahwa Lumen Arash adalah **pesan tersembunyi** dari Maestro Lorenzo.
-- **Session 6–7** — Party menemukan **23 buku lain** dengan catatan Lilia. Mereka menemukan **peta** menuju The Bell.
-- **Endgame** — Party harus memutuskan: **selamatkan** Lilia, **biarkan** ia menjadi Bride, atau **pulihkan** RAIB-nya.
+- **Session 1** — Brougha carries Lumen Arash. She has not read past page 41.
+- **Session 2–3** — The party may **read** this book. They may find Lilia's notes.
+- **Session 4–5** — The party learns that Lumen Arash is a **hidden message** from Maestro Lorenzo.
+- **Session 6–7** — The party finds the **23 other books** with Lilia's notes. They find the **map** to The Bell.
+- **Endgame** — The party must decide: **save** Lilia, **let** her become the Bride, or **restore** her RAIB.
 
 ### Connections
-- `Maestro Lorenzo.md` — penulis buku ini
-- `Lilia Etheridge II.md` — yang menyukai buku ini dan meninggalkan catatan
-- `Brougha Ironhide.md` — yang membeli buku ini karena Lilia
-- `The Bell.md` — yang dijelaskan dalam buku ini
-- `The Bride of Bellweather.md` — yang dijelaskan dalam buku ini
-- `The 23 Books.md` — buku-buku lain dengan catatan Lilia (needs file)
+- `Maestro Lorenzo.md` — the author of this book
+- `Lilia Etheridge II.md` — the one who loved this book and left the notes
+- `Brougha Ironhide.md` — the one who bought this book because of Lilia
+- `The Bell.md` — what this book explains
+- `The Bride of Bellweather.md` — what this book explains
+- `The 23 Books.md` — the other books with Lilia's notes (needs file)

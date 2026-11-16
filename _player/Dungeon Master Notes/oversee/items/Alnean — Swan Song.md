@@ -42,4 +42,3 @@ aliases:
 ## What the Party Knows
 - They have never heard of Alnean.
 - They know there are three ancient relics, but they have only seen one — Gustaero.
-- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Kota Juto. They do not yet know he is connected to the Kuo Lau Kingdom, or to Alnean.

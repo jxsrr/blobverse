@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 5
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.
 
 ## Part 1: The Body of a Bard

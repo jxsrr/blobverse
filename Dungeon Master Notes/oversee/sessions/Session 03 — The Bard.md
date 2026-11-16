@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 3
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > A village sang. A priest vanished. A deaf man knew the truth. A bard's echo waited at the end.
 
 ## Part 1: The Road to Ghuffghuff

@@ -4,42 +4,42 @@ universe: Sonstige
 ---
 ::pf
 > [!info] R.A.I.B
-> Rekahan Anomali Ingatan Buram. Seseorang dihapus dari ingatan dan catatan. Hanya rahasia yang bisa memulihkan mereka.
+> Reality Anomaly of Impaired Belonging. Someone is erased from memory and records. Only a secret can restore them.
 
-## Apa Itu RAIB
-- **RAIB** adalah crack realitas di mana seseorang **dihapus dari ingatan dan catatan**.
-- Foto berubah. Meja dialihkan. Bahkan orang tua mengingat punya satu anak lebih sedikit.
-- Hanya seseorang yang **mengingat rahasia tentang mereka yang tidak diketahui orang lain** yang bisa memulihkan mereka.
+## What RAIB Is
+- **RAIB** is a crack in reality in which a person is **erased from memory and records**.
+- Photographs change. Desks are reassigned. Even parents remember having one fewer child.
+- Only someone who **remembers a secret about them that no one else knows** can restore them.
 
-## Penyebab
-- RAIB muncul karena mereka memakan **buah berbentuk kepala bayi** yang berada di suatu taman.
-- Yang berubah adalah **Y**, karena **X iri dengan Y** — semua yang dimiliki Y jadi punya X.
+## Causes
+- RAIB occurs because they eat a **fruit shaped like a baby's head** that grows in a certain garden.
+- What changes is **Y**, because **X is envious of Y** — everything Y has becomes X's.
 
-## Prosedur Restorasi
-1. Party menemukan objek yang "salah": meja, loker, foto, name tag.
-2. Mereka mengidentifikasi orang yang dihapus (Y) dan beneficiary (X).
-3. Seseorang harus menyatakan **rahasia tentang Y yang X tidak tahu**.
-4. Realitas retak. Y kembali. X kehilangan kehidupan yang dicuri. Roll backlash (DM choice: 2d6 psychic damage, atau RAIB echo baru).
+## Restoration Procedure
+1. The party discovers an object that is "wrong": a desk, a locker, a photograph, a name tag.
+2. They identify the erased person (Y) and the beneficiary (X).
+3. Someone must state a **secret about Y that X does not know**.
+4. Reality cracks. Y returns. X loses the stolen life. Roll for backlash (DM choice: 2d6 psychic damage, or a new RAIB echo).
 
-## Contoh
-- Jika Lilie menjadi RAIB, rahasia yang bisa memulihkannya: *"She planned to lose the final on purpose so she would not be chosen as Bride."*
+## Example
+- If Lilie becomes a RAIB, the secret that could restore her: *"She planned to lose the final on purpose so she would not be chosen as Bride."*
 
 ## What the Party Knows
-- RAIB menghapus orang dari ingatan.
-- Hanya rahasia yang bisa memulihkan mereka.
+- RAIB erases people from memory.
+- Only a secret can restore them.
 ::/pf
 
 %% DM SECRETS %%
-- RAIB bukan kecelakaan. RAIB adalah **harga** dari baterai.
-- Setiap kali baterai memakan energi, ia meninggalkan lubang. Lubang itu adalah RAIB.
-- **The Hidden Garden** di sekolah adalah tempat buah berbentuk kepala bayi tumbuh. Buah itu adalah manifestasi dari envy — iri hati — yang dikumpulkan baterai.
-- **X** adalah orang yang iri. **Y** adalah orang yang diinginkan hidupnya.
-- X memakan buah. Y menjadi RAIB. X mendapatkan hidup Y.
-- **The Black Cloak Figure** muncul di setiap RAIB. Ia adalah agen yang mengisi lubang — memastikan tidak ada yang mengingat Y.
-- **Restorasi** hanya mungkin jika ada seseorang yang mengingat Y — dan mengingat rahasia yang tidak diketahui X. Rahasia itu adalah jangkar. Rahasia itu adalah bukti bahwa Y pernah ada.
+- RAIB is not an accident. RAIB is the **price** of the Battery.
+- Every time the Battery consumes energy, it leaves a hole. That hole is a RAIB.
+- **The Hidden Garden** at the school is where the fruit shaped like a baby's head grows. The fruit is the manifestation of envy — jealousy — that the Battery collects.
+- **X** is the envious person. **Y** is the person whose life is desired.
+- X eats the fruit. Y becomes a RAIB. X gains Y's life.
+- **The Black Cloak Figure** appears at every RAIB. They are the agent who fills the hole — ensuring no one remembers Y.
+- **Restoration** is only possible if someone remembers Y — and remembers a secret that X does not know. That secret is the anchor. That secret is the proof that Y ever existed.
 
 ## Connections
-- `SO2 The School Battery.md` — sumber RAIB
-- `The Hidden Garden.md` — tempat buah tumbuh
-- `The Black Cloak Figure.md` — agen yang muncul saat RAIB
-- `Bellweather.md` — entitas yang memanen envy
+- `SO2 The School Battery.md` — the source of RAIB
+- `The Hidden Garden.md` — where the fruit grows
+- `The Black Cloak Figure.md` — the agent who appears at every RAIB
+- `Bellweather.md` — the entity that harvests envy

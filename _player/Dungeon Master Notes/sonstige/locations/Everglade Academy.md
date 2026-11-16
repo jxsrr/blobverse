@@ -5,16 +5,16 @@ universe: Sonstige
 ---
 > [!info] At a Glance
 > **Part of:** Southwest Calamara
-> **Status:** Rival school. Famous for Jounce program.
+> **Status:** Rival school. Famous for its Jounce program.
 
 ## What Matters Here
-- Akademi dengan **tim varsity Jounce paling tersohor** di Calamara.
-- Jajaran pelatih yang sebagian besar **telah mengenal Ramarz Ironhide secara pribadi**.
-- Lebih dekat ke The Azures daripada FBA.
-- Brougha **seharusnya** masuk sini — menurut keluarganya.
-- Tapi Brougha **bersikeras** masuk FBA.
+- The academy with the **most celebrated Jounce varsity team** in Calamara.
+- A coaching staff, most of whom **know Ramarz Ironhide personally**.
+- Closer to The Azures than FBA.
+- Brougha was **supposed** to enrol here — according to her family.
+- But Brougha **insisted** on FBA.
 
 ## What the Party Knows
-- Sekolah rival FBA. Lebih fokus pada olahraga — terutama Jounce.
-- Dekat dengan rumah Brougha.
-- Keluarga Brougha sebenarnya lebih memilih Brougha masuk sini.
+- FBA's rival school. More focused on sport — especially Jounce.
+- Close to Brougha's home.
+- Brougha's family actually preferred that she enrol here.

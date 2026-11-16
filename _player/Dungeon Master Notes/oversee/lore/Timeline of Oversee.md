@@ -78,8 +78,3 @@ universe: Oversee
 - **Session 5** — Maw Desert. Sam's memory. **Vythrax** healed. **Jarko** killed. **Safayer** recovered.
 - **Session 6** — Chenalia. Darvin revealed. Arujaya entered. Ama's arm fused.
 - **Session 7** — The Depths. Overseer seen. Livia captured. Escape.
-- **Session 8** — Darvin killed by Valerius. Season 3 begins.
-
-## The Future (Unknown)
-- **~3 years from now** — The Rapture will happen again if the party does nothing.
-- **The Endgame** — The party must choose: sacrifice, bitter sacrifice, break the cycle (third path), or tyranny.

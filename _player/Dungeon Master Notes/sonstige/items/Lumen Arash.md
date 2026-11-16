@@ -5,17 +5,17 @@ current_holder: Brougha Ironhide
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Type:** Buku antologi puisi
+> **Type:** A poetry anthology
 > **Author:** Maestro Lorenzo
-> **Holder:** Brougha Ironhide (halaman 41)
+> **Holder:** Brougha Ironhide (page 41)
 > **Rarity:** Unique
 
 ## What It Is
-- Antologi puisi karya **Maestro Lorenzo** — sastrawan ternama, guru Literature FBA.
-- Salah satu karya kesukaan **Lilia Etheridge II**.
-- Brougha membaca buku ini berkali-kali dan masih belum sepenuhnya memahami maksudnya.
-- Brougha membeli buku ini karena Lilia. Ia belum selesai membacanya — baru **halaman 41**.
+- A poetry anthology by **Maestro Lorenzo** — a celebrated poet and the Literature teacher at FBA.
+- One of **Lilia Etheridge II**'s favourite works.
+- Brougha has read this book several times and still does not fully understand what it means.
+- Brougha bought this book because of Lilia. She has not finished it — she is only on **page 41**.
 
 ## Why It Matters
-- Lilia menyukai buku ini. Brougha membaca buku ini karena Lilia.
-- Brougha berharap bisa **memahami** apa yang Lilia suka — dan mungkin **memahami** Lilia.
+- Lilia loves this book. Brougha reads this book because of Lilia.
+- Brougha hopes to **understand** what Lilia loves — and perhaps to **understand** Lilia.

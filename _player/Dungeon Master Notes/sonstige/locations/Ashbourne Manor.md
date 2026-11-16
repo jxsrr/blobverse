@@ -1,22 +1,22 @@
 ---
 type: Sonstige Location
-parent_location: Pinggiran Calamara
+parent_location: Outskirts of Calamara
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Part of:** Pinggiran Calamara
-> **Notable People:** Keluarga Ashbourne
+> **Part of:** Outskirts of Calamara
+> **Notable People:** The Ashbourne family
 > **Status:** Old manor. Quiet. Full of secrets.
 
 ## What Matters Here
-- **Manor tua bergaya Gothic Revival** di tengah kawasan hutan ek.
-- Batu abu-abu. Jendela tinggi. Atap curam. Ivy merambat di sebagian dinding.
-- Interior: furnitur antik, lukisan leluhur, rak buku menjulang, artefak magis.
-- **Perpustakaan pribadi** — ruangan paling berharga. Manuskrip kuno yang tidak semuanya bisa dibaca sembarang orang.
-- Terlihat megah dari luar, tapi **sunyi dan sedikit muram**. Tidak banyak perubahan selama beberapa dekade.
-- Lokasi: **pinggiran Calamara**. Dikelilingi hutan ek, danau kecil, perbukitan berkabut. Jauh dari pemukiman umum. Tersembunyi melalui perlindungan sihir keluarga.
+- An **old Gothic Revival manor** set within an oak forest.
+- Grey stone. Tall windows. Steep roofs. Ivy climbing across parts of the walls.
+- Interior: antique furniture, ancestral portraits, towering bookshelves, magical artefacts.
+- A **private library** — the manor's most treasured room. Ancient manuscripts that not just anyone is permitted to read.
+- Magnificent from the outside, but **silent and a little gloomy**. Little has changed in decades.
+- Location: **the outskirts of Calamara**. Surrounded by oak forest, a small lake, and misted hills. Far from general settlement. Hidden behind the family's magical wards.
 
 ## What the Party Knows
-- Rumah Vivienne. Manor tua di pinggiran Calamara.
-- Penuh dengan buku dan artefak kuno.
-- Sunyi. Teratur. Penuh aturan tidak tertulis.
+- Vivienne's home. An old manor on the outskirts of Calamara.
+- Full of books and ancient artefacts.
+- Quiet. Orderly. Full of unspoken rules.

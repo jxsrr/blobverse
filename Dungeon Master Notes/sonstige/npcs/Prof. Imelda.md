@@ -9,69 +9,69 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Guru Algebra di FBA. Wizard tua bertulang rahang tegas.
+> **Role:** Algebra teacher at FBA. An old wizard with a strong jawline.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Wizard tua. Tulang rahang tegas — wajah yang tidak pernah tersenyum.
-- Jubah akademik abu-abu dengan garis-garis perak.
-- Membawa tongkat presisi — bukan tongkat sihir, tapi penggaris panjang dari logam.
-- Kacamata baca yang selalu berada di ujung hidungnya.
+- An old wizard. A strong jawline — a face that has never smiled.
+- A grey academic robe with silver stripes.
+- Carries a precision staff — not a magic staff, but a long metal ruler.
+- Reading glasses that always sit at the tip of her nose.
 
 ## Personality
-- Disiplin. Presisi. Tidak mentolerir kesalahan.
-- Percaya bahwa **"sihir tanpa presisi hanyalah drama dengan konsekuensi."**
-- Tidak pernah meninggikan suara. Tidak perlu.
-- Menghargai usaha, bukan hasil. "Kegagalan yang terukur lebih baik daripada keberhasilan yang tidak bisa dijelaskan."
+- Disciplined. Precise. Intolerant of mistakes.
+- Believes that **"magic without precision is only drama with consequences."**
+- Never raises her voice. She does not need to.
+- Values effort, not outcome. "A measured failure is better than an outcome you cannot explain."
 
 ## What the Party Knows
-- Guru Algebra. Salah satu pengajar paling ditakuti di FBA.
-- Mengajar dengan disiplin. Tidak ada siswa yang berani tidak mengerjakan PR-nya.
-- Mungkin satu-satunya guru yang curiga tentang FBA.
+- The Algebra teacher. One of the most feared instructors at FBA.
+- Teaches with discipline. No student dares to skip her homework.
+- Perhaps the only teacher who is suspicious of FBA.
 
 ## What She Offers
-- **Pengetahuan tentang presisi magis.** Jika party ingin belajar sihir yang lebih terkontrol, ia adalah guru terbaik.
-- **Petunjuk tentang anomali FBA.** Jika party bertanya dengan tepat, ia mungkin akan berbicara.
+- **Knowledge of magical precision.** If the party wishes to learn more controlled magic, she is the best teacher.
+- **Clues about FBA's anomalies.** If the party asks the right questions, she may speak.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Prof. Imelda Is
-- **Prof. Imelda** adalah salah satu wizard paling dihormati di Calamara. Ia telah mengajar di FBA selama lebih dari tiga puluh tahun. Ia telah melihat banyak siswa datang dan pergi — dan ia telah melihat banyak siswa **tidak** pergi.
-- Ia **curiga** tentang FBA. Ia tidak tahu tentang baterai, tapi ia tahu ada sesuatu yang salah. Ia telah melihat pola — siswa yang "dikirim" tidak pernah menulis surat, tidak pernah kembali, tidak pernah muncul di reuni. Ia telah mencoba bertanya. Ia telah ditolak dengan sopan.
-- Ia **tidak takut**. Ia hanya berhati-hati. Ia tahu bahwa jika ia terlalu banyak bertanya, ia akan menjadi "alumni" berikutnya.
-- Ia memiliki **jurnal pribadi** yang berisi catatan tentang setiap siswa yang hilang — nama, tahun, kelas, dan detail terakhir yang ia ingat. Jurnal ini adalah bukti. Jurnal ini adalah bom.
-- Jika party memberitahunya tentang baterai, ia tidak akan terkejut. Ia akan mengangguk. Ia akan berkata: *"Saya sudah lama curiga. Saya tidak pernah punya bukti."* Dan kemudian ia akan membantu — dengan cara yang presisi.
+- **Prof. Imelda** is one of the most respected wizards in Calamara. She has taught at FBA for over thirty years. She has seen many students come and go — and she has seen many students **not** go.
+- She **suspects** FBA. She does not know about the Battery, but she knows something is wrong. She has seen the pattern — students who are "sent away" never write letters, never come back, never appear at reunions. She has tried to ask. She has been politely rebuffed.
+- She is **not afraid**. She is only cautious. She knows that if she asks too much, she will become the next "alumnus".
+- She keeps a **private journal** of every missing student — name, year, class, and the last detail she remembers. This journal is evidence. This journal is a bomb.
+- If the party tells her about the Battery, she will not be surprised. She will nod. She will say: *"I have long suspected. I have never had proof."* And then she will help — in a precise way.
 
-### Prof. Imelda and the Bell
-- Ia telah mendengar The Bell selama tiga puluh tahun. Ia tidak pernah bertanya dari mana suara itu datang. Ia tahu itu bukan pertanyaan yang aman.
-- **Jika party bertanya tentang The Bell**, ia akan diam sejenak. Lalu ia akan berkata: *"Lonceng berbunyi sebelum ujian. Itu sudah biasa. Lonceng berbunyi sebelum dansa. Itu juga biasa. Lonceng berbunyi sebelum kelulusan. Itu... tidak biasa. Karena setelah lonceng terakhir, tidak ada yang kembali."*
+### Prof. Imelda and The Bell
+- She has heard The Bell for thirty years. She has never asked where the sound comes from. She knows it is not a safe question.
+- **If the party asks about The Bell**, she will fall silent for a moment. Then she will say: *"The Bell rings before exams. That is customary. The Bell rings before the dances. That is also customary. The Bell rings before graduation. That... is not customary. Because after the last toll, no one comes back."*
 
 ### Prof. Imelda and Mr. Rababrie Bellweather
-- Ia mengenal **Rababrie Bellweather** — kepala sekolah — selama bertahun-tahun. Ia menghormatinya. Ia tidak mempercayainya.
-- *"Rababrie adalah pria yang baik,"* katanya suatu kali. *"Itulah yang membuatnya berbahaya. Pria jahat mudah dikenali. Pria baik yang melakukan hal-hal jahat... mereka adalah yang paling sulit dihentikan."*
-- Ia tidak tahu bahwa Rababrie adalah bagian dari Bellweather. Ia hanya tahu bahwa Rababrie selalu ada di sana. Selalu tersenyum. Selalu tenang.
+- She has known **Rababrie Bellweather** — the headmaster — for years. She respects him. She does not trust him.
+- *"Rababrie is a good man,"* she once said. *"That is what makes him dangerous. Wicked men are easy to recognise. Good men who do wicked things... they are the hardest to stop."*
+- She does not know that Rababrie is part of Bellweather. She only knows that Rababrie has always been there. Always smiling. Always calm.
 
 ### Prof. Imelda's Role in Season 3
-- Jika party mencari bukti tentang baterai, Imelda akan memberikan jurnalnya. Jurnal itu berisi nama-nama. Nama-nama itu adalah bukti.
-- Jika party ingin melawan Bellweather, Imelda akan membantu dengan **presisi**. Ia tidak akan bertarung. Ia akan merencanakan. Ia akan menghitung. Ia akan memastikan bahwa setiap langkah sudah diperhitungkan.
-- **Jika Imelda dies**, jurnalnya akan hilang. Atau lebih buruk — akan jatuh ke tangan Bellweather.
+- If the party searches for evidence of the Battery, Imelda will give them her journal. The journal contains names. Those names are proof.
+- If the party wants to fight Bellweather, Imelda will help with **precision**. She will not fight. She will plan. She will calculate. She will ensure that every step has been accounted for.
+- **If Imelda dies**, the journal will be lost. Or worse — it will fall into Bellweather's hands.
 
 ### Prof. Imelda's Secret
-- Ia pernah mencoba melaporkan FBA ke pemerintah Anderes. Ia pergi ke kantor pusat. Ia menyerahkan bukti. Ia menunggu.
-- Ia tidak pernah menerima jawaban. Ia tidak pernah dihubungi lagi. Ia tidak pernah diusir, tidak pernah diancam, tidak pernah dihilangkan. Hanya **diabaikan**.
-- Ia menyimpulkan bahwa pemerintah Anderes **tahu**. Dan ia berhenti mencoba. Bukan karena ia menyerah — tapi karena ia menunggu. Menunggu seseorang yang bisa melakukan apa yang tidak bisa ia lakukan sendiri.
+- She once tried to report FBA to the Anderes government. She went to the central office. She submitted her evidence. She waited.
+- She never received a reply. She was never contacted again. She was never expelled, never threatened, never removed. Only **ignored**.
+- She concluded that the Anderes government **knows**. And she stopped trying. Not because she gave up — but because she is waiting. Waiting for someone who can do what she cannot do herself.
 
 ### What the Party Does NOT Know
-- Imelda memiliki **jurnal** dengan nama-nama semua siswa yang hilang.
-- Imelda pernah mencoba melaporkan FBA ke pemerintah. Ia diabaikan.
-- Imelda tidak takut pada Bellweather. Ia hanya hati-hati.
-- Imelda akan membantu jika party memberitahunya tentang baterai.
+- Imelda has a **journal** with the names of every missing student.
+- Imelda once tried to report FBA to the government. She was ignored.
+- Imelda is not afraid of Bellweather. She is only cautious.
+- Imelda will help if the party tells her about the Battery.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `Mr. Rababrie Bellweather.md` — kepala sekolah
-- `Prof. Quill.md` — sesama guru
+- `The Free Bird Academy.md` — the school
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `Mr. Rababrie Bellweather.md` — the headmaster
+- `Prof. Quill.md` — a fellow teacher

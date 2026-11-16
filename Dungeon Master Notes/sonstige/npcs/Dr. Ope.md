@@ -9,81 +9,81 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Guru Divination Ethics di FBA. Peramal yang kebanyakan berbasis teori.
+> **Role:** Divination Ethics teacher at FBA. A seer who is mostly theory-based.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Wanita tua dengan rambut putih yang selalu berantakan.
-- Kacamata tebal dengan lensa berwarna ungu.
-- Jubah akademik dengan motif bintang dan bulan.
-- Selalu membawa kartu tarot. Selalu mengocoknya. Bahkan saat mengajar.
+- An old woman with white hair that is always messy.
+- Thick glasses with purple-tinted lenses.
+- An academic robe patterned with stars and moons.
+- Always carrying tarot cards. Always shuffling them. Even while teaching.
 
 ## Personality
-- Teoretis. Filosofis. Tidak pernah memberikan jawaban langsung.
-- Percaya bahwa **ramalan bukan tentang melihat masa depan** — tapi tentang **memahami kemungkinan**.
-- Mengajar etika ramalan — kapan boleh melihat, kapan tidak, dan mengapa.
-- Tidak pernah menggunakan ramalan untuk dirinya sendiri. Tidak pernah.
+- Theoretical. Philosophical. Never gives a direct answer.
+- Believes that **divination is not about seeing the future** — but about **understanding possibilities**.
+- Teaches the ethics of divination — when it is permitted to look, when it is not, and why.
+- Never uses divination on herself. Never.
 
 ## What the Party Knows
-- Guru Divination Ethics. Peramal yang kebanyakan berbasis teori.
-- Mengajar etika ramalan.
-- Mungkin telah melihat sesuatu tentang The Bell.
+- The Divination Ethics teacher. A seer who is mostly theory-based.
+- Teaches the ethics of divination.
+- May have seen something about The Bell.
 
 ## What She Offers
-- **Pengetahuan tentang ramalan.** Jika party ingin belajar tentang tarot, tentang melihat masa depan, tentang membaca kemungkinan — ia adalah guru terbaik.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **kemungkinan**.
-- **Sebuah ramalan.** Jika party memintanya, ia akan memberikan satu ramalan. Satu. Tidak lebih.
+- **Knowledge of divination.** If the party wants to learn about tarot, about seeing the future, about reading possibilities — she is the best teacher.
+- **Clues about The Bell.** If the party asks about The Bell, she may speak. But she will speak about **possibilities**.
+- **A single reading.** If the party asks, she will give them one reading. One. No more.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Dr. Ope Is
-- **Dr. Ope** adalah peramal paling dihormati di Calamara. Ia tidak melihat masa depan. Ia **memahami kemungkinan**. Ia membaca pola. Ia membaca tanda. Ia membaca apa yang akan terjadi **jika**.
-- Ia telah mengajar di FBA selama lebih dari empat puluh tahun. Ia telah melihat banyak siswa datang dan pergi. Ia telah melihat banyak siswa **tidak** pergi.
-- Ia **tahu tentang baterai**. Ia tahu tentang Continuity Work. Ia tahu tentang Bellweather. Ia tahu karena ia **melihatnya** — bukan di masa depan, tapi di **kemungkinan**. Ia melihat apa yang akan terjadi jika FBA terus berjalan. Ia melihat apa yang akan terjadi jika tidak ada yang menghentikannya.
-- Ia **takut**. Bukan takut pada Bellweather — takut pada **apa yang ia lihat**. Ia melihat Rapture. Ia melihat Void menelan Sonstige. Ia melihat dunia berakhir. Dan ia tidak bisa menghentikannya.
+- **Dr. Ope** is the most respected seer in Calamara. She does not see the future. She **understands possibilities**. She reads patterns. She reads signs. She reads what will happen **if**.
+- She has taught at FBA for over forty years. She has seen many students come and go. She has seen many students **not** go.
+- She **knows about the Battery**. She knows about Continuity Work. She knows about Bellweather. She knows because she has **seen it** — not in the future, but in **possibility**. She has seen what will happen if FBA keeps going. She has seen what will happen if no one stops it.
+- She is **afraid**. Not afraid of Bellweather — afraid of **what she has seen**. She has seen the Rapture. She has seen the Void swallow Sonstige. She has seen the world end. And she cannot stop it.
 
-### Dr. Ope and the Bell
-- Ia telah mendengar The Bell sepanjang hidupnya. Ia tahu itu bukan mitos. Ia tahu itu adalah **alarm**.
-- **Jika party bertanya tentang The Bell**, ia akan berhenti mengocok kartunya. Ia akan melihat party dengan mata ungu. Ia akan berkata: *"Lonceng berbunyi sebelum ujian. Itu adalah pengingat bahwa kita harus siap. Lonceng berbunyi sebelum dansa. Itu adalah pengingat bahwa kita harus tampil. Lonceng berbunyi sebelum kelulusan. Itu adalah pengingat bahwa kita harus... pergi."*
-- Ia akan menambahkan: *"Tapi ada satu hal yang tidak pernah dikatakan oleh mitos. Lonceng tidak berbunyi untuk semua orang. Lonceng hanya berbunyi untuk mereka yang akan pergi."*
+### Dr. Ope and The Bell
+- She has heard The Bell her whole life. She knows it is not a myth. She knows it is an **alarm**.
+- **If the party asks about The Bell**, she will stop shuffling her cards. She will look at the party through purple eyes. She will say: *"The Bell rings before exams. That is a reminder that we must be ready. The Bell rings before the dance. That is a reminder that we must perform. The Bell rings before graduation. That is a reminder that we must... go."*
+- She will add: *"But there is one thing the myth never says. The Bell does not ring for everyone. The Bell rings only for those who are about to leave."*
 
 ### Dr. Ope and Mr. Rababrie Bellweather
-- Ia mengenal **Rababrie Bellweather** sebagai kepala sekolah. Ia juga mengenalnya sebagai **Bellweather**. Ia tahu tentang keluarga itu. Ia tahu tentang kekuasaan mereka. Ia tahu tentang **apa yang mereka lakukan**.
-- *"Rababrie adalah pria yang baik,"* katanya suatu kali. *"Tapi dia adalah Bellweather. Dan Bellweather selalu menyelesaikan apa yang mereka mulai. Bahkan jika itu berarti mengorbankan dunia."*
-- Ia tidak membenci Rababrie. Ia tidak takut padanya. Ia hanya **kasihan**. Karena ia tahu apa yang akan terjadi pada Rababrie. Ia tahu akhir cerita Rababrie. Dan akhir itu tidak bahagia.
+- She knows **Rababrie Bellweather** as the headmaster. She also knows him as **Bellweather**. She knows about that family. She knows about their power. She knows about **what they do**.
+- *"Rababrie is a good man,"* she once said. *"But he is a Bellweather. And Bellweather always finishes what they start. Even if it means sacrificing the world."*
+- She does not hate Rababrie. She is not afraid of him. She only **pities** him. Because she knows what will happen to Rababrie. She knows the end of his story. And that end is not happy.
 
 ### Dr. Ope and Lilia
-- Dr. Ope telah melihat **kemungkinan** tentang Lilia. Di beberapa kemungkinan, Lilia menjadi Bride. Di beberapa, Lilia diselamatkan. Di beberapa, Lilia menjadi RAIB.
-- Dr. Ope **tidak tahu** kemungkinan mana yang akan terjadi. Tapi ia tahu bahwa **semua** kemungkinan berakhir dengan **pengorbanan**.
-- **Jika Brougha bertanya tentang Lilia**, Dr. Ope akan diam sejenak. Lalu ia akan berkata: *"Kamu mencintainya. Itu sudah jelas. Tapi cinta tidak selalu cukup. Terkadang, cinta hanya membuat segalanya lebih sulit."*
-- Ia tidak akan mengatakan lebih dari itu. Tapi ia akan **memberikan** Brougha satu kartu tarot. Kartu itu adalah **The Lovers** — terbalik.
+- Dr. Ope has seen the **possibilities** about Lilia. In some possibilities, Lilia becomes the Bride. In some, Lilia is saved. In some, Lilia becomes a RAIB.
+- Dr. Ope **does not know** which possibility will come to pass. But she knows that **all** of them end in **sacrifice**.
+- **If Brougha asks about Lilia**, Dr. Ope will fall silent for a moment. Then she will say: *"You love her. That is clear. But love is not always enough. Sometimes, love only makes everything harder."*
+- She will not say more than that. But she will **give** Brougha a single tarot card. The card is **The Lovers** — reversed.
 
 ### Dr. Ope's Role in Season 3
-- Jika party ingin belajar tentang ramalan, Ope akan mengajari mereka. Ia akan mengajari mereka tentang tarot. Ia akan mengajari mereka tentang kemungkinan. Ia akan mengajari mereka tentang **bahaya** melihat terlalu jauh.
-- Jika party ingin melawan Bellweather, Ope akan membantu dengan **ramalan**. Ia akan memberi tahu mereka apa yang akan terjadi. Ia akan memberi tahu mereka apa yang harus dilakukan. Ia akan memberi tahu mereka **kemungkinan**.
-- **Jika Ope dies**, FBA akan kehilangan peramalnya. Dan dunia akan kehilangan salah satu dari sedikit orang yang tahu apa yang akan datang.
+- If the party wants to learn divination, Ope will teach them. She will teach them tarot. She will teach them possibility. She will teach them about the **danger** of looking too far.
+- If the party wants to fight Bellweather, Ope will help with **divination**. She will tell them what will happen. She will tell them what must be done. She will tell them the **possibilities**.
+- **If Ope dies**, FBA will lose its seer. And the world will lose one of the few people who knows what is coming.
 
 ### Dr. Ope's Secret
-- Ia telah melihat **Rapture**. Ia telah melihat Void menelan Sonstige. Ia telah melihat dunia berakhir.
-- Ia telah melihat **banyak kemungkinan**. Di beberapa, party menyelamatkan dunia. Di beberapa, party gagal. Di beberapa, party tidak pernah ada.
-- Ia tidak tahu kemungkinan mana yang akan terjadi. Ia hanya tahu bahwa **semua** kemungkinan berakhir dengan **pengorbanan**.
-- Ia menyimpan **satu kartu tarot** di sakunya. Kartu itu adalah **The Tower**. Kartu itu adalah **The Fool**. Kartu itu adalah **Death**. Ia tidak pernah memberitahu siapa pun kartu apa yang ia simpan. Ia hanya menyimpannya. Sebagai pengingat.
+- She has seen the **Rapture**. She has seen the Void swallow Sonstige. She has seen the world end.
+- She has seen **many possibilities**. In some, the party saves the world. In some, the party fails. In some, the party never existed.
+- She does not know which possibility will come to pass. She only knows that **all** of them end in **sacrifice**.
+- She keeps **a single tarot card** in her pocket. The card is **The Tower**. The card is **The Fool**. The card is **Death**. She has never told anyone which card she keeps. She only keeps it. As a reminder.
 
 ### What the Party Does NOT Know
-- Ope tahu tentang baterai. Ia telah melihatnya dalam kemungkinan.
-- Ope telah melihat Rapture. Ia telah melihat dunia berakhir.
-- Ope menyimpan satu kartu tarot di sakunya. Kartu itu adalah pengingat.
-- Ope akan membantu party — dengan ramalan. Tapi ia tidak akan bertarung.
-- Ope telah melihat kemungkinan tentang Lilia.
+- Ope knows about the Battery. She has seen it in possibility.
+- Ope has seen the Rapture. She has seen the world end.
+- Ope keeps a single tarot card in her pocket. The card is a reminder.
+- Ope will help the party — with divination. But she will not fight.
+- Ope has seen the possibilities about Lilia.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `Bellweather.md` — keluarga yang ia kenal
-- `Mr. Rababrie Bellweather.md` — kepala sekolah
-- `Lilia Etheridge II.md` — anak yang membuatnya berhenti
-- `Brougha Ironhide.md` — mantan kekasih Lilia
-- `Fate Cards.md` — kartu tarot
+- `The Free Bird Academy.md` — the school
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `Bellweather.md` — the family she knows
+- `Mr. Rababrie Bellweather.md` — the headmaster
+- `Lilia Etheridge II.md` — the child who made her stop
+- `Brougha Ironhide.md` — Lilia's former lover
+- `Fate Cards.md` — the tarot cards

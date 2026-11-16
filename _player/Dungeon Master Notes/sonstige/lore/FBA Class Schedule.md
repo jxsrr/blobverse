@@ -3,124 +3,124 @@ type: Sonstige Lore
 universe: Sonstige
 era: Modern
 ---
-> [!info] Jadwal Kelas FBA
-> FBA adalah sekolah **pulang-pergi** — siswa masuk kelas pagi, pulang sore. Ini adalah jadwal mingguan dan detail hari kedua (pertama kalinya masuk kelas).
+> [!info] FBA Class Schedule
+> FBA is a **commuter** school — students arrive in the morning, go home in the afternoon. This is the weekly schedule and a detailed account of the second day (their first time attending classes).
 
-## Sistem Akademik FBA
-- Setiap hari ada **4 periode kelas** (2 pagi, 2 sore).
-- Setiap periode berdurasi **90 menit**.
-- **8 mata pelajaran** dirotasi sepanjang minggu — setiap mata pelajaran muncul **2× per minggu**.
-- **Hari Senin** = orientasi dan upacara pembukaan. **Tidak ada kelas.** Kelas dimulai **Selasa**.
-- **16:00–17:30** = waktu ekstrakurikuler (Jounce, house meeting, klub).
-- **17:30** = gerbang ditutup. Siswa pulang.
-- **18:00** = kegiatan sekolah selesai (staf only).
+## The FBA Academic System
+- Each day has **4 class periods** (2 morning, 2 afternoon).
+- Each period lasts **90 minutes**.
+- **8 subjects** rotate through the week — each subject appears **twice per week**.
+- **Monday** = orientation and opening ceremony. **No classes.** Classes begin on **Tuesday**.
+- **16:00–17:30** = extracurricular time (Jounce, house meeting, clubs).
+- **17:30** = gates close. Students go home.
+- **18:00** = school activity ends (staff only).
 
-## Jadwal Harian
+## Daily Schedule
 
-| Waktu | Kegiatan |
+| Time | Activity |
 | :--- | :--- |
-| **07:00** | Gerbang dibuka. Siswa boleh datang lebih awal. |
-| **07:30** | Sarapan di Dining Hall (opsional). |
-| **07:50** | School Bell berbunyi. Siswa masuk homeroom. |
-| **08:00–09:30** | Periode 1 |
+| **07:00** | Gates open. Students may arrive early. |
+| **07:30** | Breakfast in the Dining Hall (optional). |
+| **07:50** | The school bell rings. Students enter homeroom. |
+| **08:00–09:30** | Period 1 |
 | **09:30–09:45** | Break |
-| **09:45–11:15** | Periode 2 |
-| **11:15–12:30** | Makan siang |
-| **12:30–14:00** | Periode 3 |
+| **09:45–11:15** | Period 2 |
+| **11:15–12:30** | Lunch |
+| **12:30–14:00** | Period 3 |
 | **14:00–14:15** | Break |
-| **14:15–15:45** | Periode 4 |
-| **16:00–17:30** | Ekstrakurikuler |
-| **17:30** | Gerbang ditutup. Siswa pulang. |
-| **18:00** | Kegiatan sekolah selesai (staf only). |
+| **14:15–15:45** | Period 4 |
+| **16:00–17:30** | Extracurricular |
+| **17:30** | Gates close. Students go home. |
+| **18:00** | School activity ends (staff only). |
 
-## Jadwal Mingguan
+## Weekly Schedule
 
-| Periode | Waktu | Senin | Selasa | Rabu | Kamis | Jumat |
+| Period | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 08:00–09:30 | — | **Algebra** (Imelda) | **History** (Elias) | **Practical Sciences** (Fenwick) | **Social Enchantment** (Seraphine) |
 | 2 | 09:45–11:15 | — | **Divination Ethics** (Ope) | **Literature** (Lorenzo) | **Algebra** (Imelda) | **Divination Ethics** (Ope) |
 | *Lunch* | 11:15–12:30 | — | — | — | — | — |
 | 3 | 12:30–14:00 | — | **Literature** (Lorenzo) | **Physical Education** (Garrick) | **History** (Elias) | **Practical Sciences** (Fenwick) |
 | 4 | 14:15–15:45 | — | **Physical Education** (Garrick) | **Civics & Magical Law** (Quill) | **Social Enchantment** (Seraphine) | **Civics & Magical Law** (Quill) |
-| *Ekstrakurikuler* | 16:00–17:30 | — | **House Meeting** | **Jounce Practice** | **Jounce Practice** | **Jounce Cup Prep** |
+| *Extracurricular* | 16:00–17:30 | — | **House Meeting** | **Jounce Practice** | **Jounce Practice** | **Jounce Cup Prep** |
 
-## Hari Kedua — Selasa, Hari Pertama Kelas
+## Day Two — Tuesday, the First Day of Classes
 
-### 07:00 — Gerbang Dibuka
-- Siswa berdatangan. Beberapa diantar keluarga. Beberapa berjalan sendiri.
-- **Suasana:** Berbeda dari hari pertama. Hari pertama adalah upacara — formal, kaku. Hari kedua adalah **kelas biasa** — siswa berlarian, tas di punggung, beberapa masih mengantuk.
+### 07:00 — Gates Open
+- Students stream in. Some are dropped off by family. Some walk alone.
+- **Mood:** Different from the first day. The first day was a ceremony — formal, stiff. The second day is **ordinary classes** — students rushing, bags on their backs, some still sleepy.
 
-### 07:30 — Sarapan (Opsional)
-- Dining Hall mulai ramai. Beberapa siswa sarapan di sekolah. Beberapa sudah sarapan di rumah.
+### 07:30 — Breakfast (Optional)
+- The Dining Hall begins to fill. Some students eat at school. Some have eaten at home.
 
-### 07:50 — School Bell (Lonceng Biasa)
-- **Catatan:** Ini **bukan** The Bell. Ini adalah lonceng sekolah biasa — untuk menandai pergantian kelas. Guru dan siswa sudah terbiasa.
-- Siswa masuk ke **homeroom** masing-masing (per house).
-- **DM Note:** Bedakan dengan jelas — lonceng biasa berbunyi pendek, nyaring, dan jelas. The Bell berbunyi dalam, panjang, dan **tidak ada sumbernya**.
+### 07:50 — School Bell (Ordinary Bell)
+- **Note:** This is **not** The Bell. This is the ordinary school bell — marking the change of classes. Teachers and students are used to it.
+- Students enter their **homerooms** (by house).
+- **DM Note:** Distinguish clearly — the ordinary bell rings short, sharp, and clear. The Bell rings deep, long, and **has no source**.
 
-### 08:00–09:30 — Periode 1: Algebra (Prof. Imelda)
-- **Lokasi:** Classroom 1 (North Wing).
-- **Guru:** Prof. Imelda.
-- **Apa yang terjadi:**
-  - Prof. Imelda masuk tanpa senyum. Ia meletakkan penggaris logam panjang di meja.
-  - Ia menulis satu persamaan di papan tulis — rumit, melibatkan simbol magis.
-  - "Sihir tanpa presisi hanyalah drama dengan konsekuensi. Kalian akan menghitung. Kalian akan membuat kesalahan. Kalian akan menghitung lagi."
-  - Kelas berjalan disiplin. Tidak ada yang berani bicara.
-  - **Momen:** Prof. Imelda melihat party — mungkin salah satu PC membuat kesalahan kecil. Ia mendekat. Ia tidak marah. Ia hanya berkata: *"Menarik. Kesalahanmu menunjukkan cara berpikirmu. Itu berguna."*
-  - **DM Note:** Prof. Imelda adalah guru pertama yang benar-benar memperhatikan party. Ia mungkin melihat sesuatu pada mereka — sesuatu yang tidak ia lihat pada siswa lain.
+### 08:00–09:30 — Period 1: Algebra (Prof. Imelda)
+- **Location:** Classroom 1 (North Wing).
+- **Teacher:** Prof. Imelda.
+- **What happens:**
+  - Prof. Imelda enters without a smile. She places a long metal ruler on her desk.
+  - She writes a single equation on the board — complex, involving magical symbols.
+  - "Magic without precision is only drama with consequences. You will calculate. You will make mistakes. You will calculate again."
+  - The class runs with discipline. No one dares to talk.
+  - **Moment:** Prof. Imelda looks at the party — perhaps one of the PCs makes a small error. She comes over. She is not angry. She only says: *"Interesting. Your mistake reveals how you think. That is useful."*
+  - **DM Note:** Prof. Imelda is the first teacher to truly notice the party. She may see something in them — something she has not seen in other students.
 
 ### 09:30–09:45 — Break
-- Siswa keluar ke koridor. Beberapa menuju kantin. Beberapa hanya berdiri di lorong.
+- Students spill into the corridors. Some head to the canteen. Some simply stand in the hallway.
 
-### 09:45–11:15 — Periode 2: Divination Ethics (Dr. Ope) ← **KEY SCENE**
-- **Lokasi:** Classroom 5 (East Wing, dekat Bell Tower).
-- **Guru:** Dr. Ope.
-- **Apa yang terjadi:**
-  - Dr. Ope masuk dengan kacamata ungu dan setumpuk kartu tarot. Ia duduk di kursi goyang, bukan di meja guru.
-  - Ia tidak mengabsen. Ia tidak membuka buku. Ia hanya berkata: *"Hari ini, kita tidak akan belajar ramalan. Hari ini, kita akan belajar **etika**. Siapa yang boleh melihat masa depan? Siapa yang tidak? Dan mengapa?"*
-  - Kelas berjalan filosofis. Dr. Ope berbicara tentang **kemungkinan** — bukan kepastian.
-  - **Momen kunci:** Di akhir kelas, Dr. Ope meminta setiap siswa mengambil satu kartu tarot dari dek yang ia bawa. Tidak untuk meramal — hanya untuk "memahami apa yang kartu katakan tentang cara kalian melihat dunia."
-  - **Untuk setiap PC:**
-    - **Brougha** menarik **The Lovers** (terbalik). Dr. Ope melihatnya. Ia tidak berkata apa-apa. Ia hanya mengangguk pelan.
-    - **Zenroy** menarik **The Hermit**. Dr. Ope tersenyum tipis. *"Kau mencari sesuatu yang tidak kau pahami. Itu bagus. Tapi jangan tersesat di dalamnya."*
-    - **Mya** menarik **Death**. Dr. Ope tidak terkejut. *"Kartu ini bukan tentang kematian. Ini tentang perubahan. Kau tahu itu, bukan?"*
-    - **Vivienne** menarik **The Tower**. Dr. Ope diam lama. Lalu ia berkata: *"Kartu ini tentang kehancuran. Tapi juga tentang pembebasan. Kau akan menghancurkan sesuatu. Pastikan itu sesuatu yang layak dihancurkan."*
-  - **DM Note:** Ini adalah **first tarot moment** — dan mungkin adalah pertama kalinya party menyadari bahwa Dr. Ope tahu lebih banyak dari yang ia katakan.
+### 09:45–11:15 — Period 2: Divination Ethics (Dr. Ope) ← **KEY SCENE**
+- **Location:** Classroom 5 (East Wing, near the Bell Tower).
+- **Teacher:** Dr. Ope.
+- **What happens:**
+  - Dr. Ope enters with purple glasses and a stack of tarot cards. She sits in a rocking chair, not at the teacher's desk.
+  - She does not take attendance. She does not open a book. She only says: *"Today, we will not study divination. Today, we will study **ethics**. Who is permitted to see the future? Who is not? And why?"*
+  - The class runs philosophically. Dr. Ope speaks about **possibility** — not certainty.
+  - **Key moment:** At the end of class, Dr. Ope asks each student to draw a tarot card from the deck she has brought. Not to divine — only to "understand what the card says about how you see the world."
+  - **For each PC:**
+    - **Brougha** draws **The Lovers** (reversed). Dr. Ope sees it. She says nothing. She only nods slowly.
+    - **Zenroy** draws **The Hermit**. Dr. Ope smiles thinly. *"You are searching for something you do not understand. That is good. But do not get lost in it."*
+    - **Mya** draws **Death**. Dr. Ope is unsurprised. *"This card is not about death. It is about change. You know that, don't you?"*
+    - **Vivienne** draws **The Tower**. Dr. Ope is silent for a long time. Then she says: *"This card is about destruction. But also about liberation. You will destroy something. Make sure it is something worth destroying."*
+  - **DM Note:** This is the **first tarot moment** — and perhaps the first time the party realises Dr. Ope knows more than she says.
 
 ### 11:15–12:30 — Lunch
-- **Lokasi:** Dining Hall.
-- **Apa yang terjadi:**
-  - Siswa duduk dalam kelompok-kelompok house. Beberapa saling melirik. Beberapa berbicara.
-  - **Momen:** Kael mendekati party lagi. Ia lebih tenang hari ini. *"Kalian sudah ketemu Dr. Ope? Aneh, kan? Dia selalu seperti itu."* Ia menambahkan: *"Tapi dia satu-satunya guru yang tidak pernah berbohong. Setidaknya, tidak sepenuhnya."*
-  - **DM Note:** Ini adalah kesempatan untuk party berbicara satu sama lain — tentang kelas, tentang Dr. Ope, tentang kartu tarot mereka.
+- **Location:** Dining Hall.
+- **What happens:**
+  - Students sit in house groups. Some glance at one another. Some talk.
+  - **Moment:** Kael approaches the party again. He is calmer today. *"Have you met Dr. Ope yet? Weird, right? She's always like that."* He adds: *"But she's the only teacher who never lies. At least, not entirely."*
+  - **DM Note:** This is a chance for the party to talk to one another — about classes, about Dr. Ope, about their tarot cards.
 
-### 12:30–14:00 — Periode 3: Literature (Maestro Lorenzo)
-- **Lokasi:** Literature Room (West Wing).
-- **Guru:** Maestro Lorenzo.
-- **Apa yang terjadi:**
-  - Maestro Lorenzo masuk dengan jas beludru dan kumis yang baru dirapikan. Ia membawa buku tebal.
-  - Ia membacakan puisi — dramatis, dengan gerakan tangan berlebihan. Beberapa siswa tertawa. Beberapa mendengarkan dengan serius.
-  - **Momen:** Lorenzo melihat **Brougha** — mungkin karena Brougha membawa *Lumen Arash*. Ia berhenti membaca. Ia berkata: *"Kau membawa buku itu. Bagus. Kita akan membicarakannya nanti."*
-  - **DM Note:** Lorenzo tahu tentang Brougha dan Lilia. Ia tidak akan mengatakan apa-apa di depan kelas. Tapi ia akan mencari Brougha setelah kelas.
+### 12:30–14:00 — Period 3: Literature (Maestro Lorenzo)
+- **Location:** Literature Room (West Wing).
+- **Teacher:** Maestro Lorenzo.
+- **What happens:**
+  - Maestro Lorenzo enters in a velvet jacket and a freshly trimmed moustache. He carries a thick book.
+  - He reads a poem aloud — dramatic, with excessive hand gestures. Some students laugh. Some listen seriously.
+  - **Moment:** Lorenzo spots **Brougha** — perhaps because Brougha carries *Lumen Arash*. He stops reading. He says: *"You carry that book. Good. We will talk about it later."*
+  - **DM Note:** Lorenzo knows about Brougha and Lilia. He will not say anything in front of the class. But he will seek Brougha out after class.
 
 ### 14:00–14:15 — Break
 
-### 14:15–15:45 — Periode 4: Physical Education (Coach Garrick)
-- **Lokasi:** The Jounce Court.
-- **Guru:** Coach Garrick.
-- **Apa yang terjadi:**
-  - Coach Garrick berdiri di tengah lapangan Jounce. Ia meniup peluit. *"Hari ini, kita tidak akan bermain Jounce. Hari ini, kita akan **belajar** Jounce."*
-  - Ia menjelaskan dasar-dasar Jounce — Jounceling, possession, scoring. Ia menunjukkan cara memegang Jounceling. Ia menunjukkan cara melempar.
-  - **Momen kunci:** Saat latihan, **Lilia Etheridge II** muncul. Ia kapten **The Bateleur Eagle** — tim varsity. Ia datang untuk mengawasi latihan. Ia tidak berbicara dengan siapa pun. Ia hanya berdiri di pinggir lapangan, mengamati.
-  - **Brougha melihat Lilia.** Lilia melihat Brougha. Tidak ada yang terjadi. Tidak ada percakapan. Hanya tatapan.
-  - **DM Note:** Ini adalah momen yang harus dibangun. Brougha dan Lilia — dua orang yang pernah bersama, sekarang berjauhan. Coach Garrick mungkin menyadari ketegangan itu. Ia tidak berkata apa-apa.
+### 14:15–15:45 — Period 4: Physical Education (Coach Garrick)
+- **Location:** The Jounce Court.
+- **Teacher:** Coach Garrick.
+- **What happens:**
+  - Coach Garrick stands at the centre of the Jounce Court. He blows his whistle. *"Today, we will not play Jounce. Today, we will **learn** Jounce."*
+  - He explains the basics of Jounce — the Jounceling, possession, scoring. He demonstrates how to hold the Jounceling. He demonstrates how to throw.
+  - **Key moment:** During practice, **Lilia Etheridge II** appears. She is the captain of **The Bateleur Eagle** — the varsity team. She has come to observe practice. She does not speak to anyone. She only stands at the edge of the court, watching.
+  - **Brougha sees Lilia.** Lilia sees Brougha. Nothing happens. No conversation. Only a look.
+  - **DM Note:** This is a moment that must be built. Brougha and Lilia — two people who were once together, now far apart. Coach Garrick may notice the tension. He says nothing.
 
-### 16:00–17:30 — Ekstrakurikuler: House Meeting
-- **Lokasi:** House Common Rooms (masing-masing house).
-- **Apa yang terjadi:**
-  - Setiap house berkumpul. Kepala house (senior) memperkenalkan diri. Mereka membahas tradisi house, jadwal Jounce Cup, dan ekspektasi.
-  - **DM Note:** Ini adalah kesempatan untuk party berinteraksi dengan house masing-masing — dan mungkin bertemu siswa lain yang akan menjadi bagian dari cerita.
+### 16:00–17:30 — Extracurricular: House Meeting
+- **Location:** House Common Rooms (each house's own).
+- **What happens:**
+  - Each house gathers. The head of house (a senior) introduces themselves. They discuss house traditions, the Jounce Cup schedule, and expectations.
+  - **DM Note:** This is a chance for the party to interact with their respective houses — and perhaps to meet other students who will become part of the story.
 
-### 17:30 — Gerbang Ditutup
-- Siswa pulang ke rumah masing-masing.
-- **DM Note:** Akhiri sesi dengan perjalanan pulang — atau dengan momen di rumah masing-masing. Mungkin salah satu PC menemukan sesuatu yang aneh di rumah. Mungkin The Bell berbunyi lagi di kejauhan.
+### 17:30 — Gates Close
+- Students go home to their families.
+- **DM Note:** End the session with the journey home — or with a moment at each PC's home. Perhaps one PC finds something strange at home. Perhaps The Bell rings again in the distance.

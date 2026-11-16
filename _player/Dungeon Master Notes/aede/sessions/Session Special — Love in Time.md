@@ -2,8 +2,9 @@
 type: Aede Session
 session_number: 1
 universe: Aede
+showToc: true
 ---
-> [!teaser] Previously...
+> [!abstract] Previously...
 > The party escaped Arujaya with Livia as hostage. Syl saw something beyond the veil — the Overseer itself. Darvin is Valerius's twin. Somewhere in the deep, Echo Gzirmo waits. And the sea is calling.
 
 ## Part 1: The Storm
@@ -168,4 +169,4 @@ They did not know how. They did not know why. They only knew they had survived. 
 
 ## Sessions Chain
 - **Previous:** [[oversee/sessions/Session 07 — Opressed|Session 07]]
-- **Next:** [[Session 09 — The Truth|Session 09]]
+- **Next:** Session 09

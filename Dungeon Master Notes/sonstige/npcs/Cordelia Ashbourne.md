@@ -2,44 +2,44 @@
 type: Sonstige NPC
 role: Vivienne's Mother, Potion Maker, From a Respected Wizard Family
 faction: Ashbourne Family (by marriage) / Her birth family (potions/medicine)
-home: Ashbourne Manor, Pinggiran Calamara
+home: Ashbourne Manor, Outskirts of Calamara
 status: alive
 first_seen: Session 01 (family scene)
 universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Ibu Vivienne. Pembuat ramuan. Dari keluarga penyihir terpandang.
-> **Where:** Ashbourne Manor, Pinggiran Calamara
+> **Role:** Vivienne's mother. Potion maker. From a respected wizard family.
+> **Where:** Ashbourne Manor, Outskirts of Calamara
 > **Status:** Alive
 
 ## Appearance
-- Elf. Paruh baya. Rambut pirang gelap yang selalu diikat ke belakang. Mata hijau lembut.
-- Pakaian sederhana — celemek di atas gaun. Tangan yang selalu bersih — tapi berbau ramuan.
-- Selalu membawa botol kecil atau mortar. Selalu sibuk dengan sesuatu.
-- Senyum yang hangat. Tatapan yang penuh perhatian.
+- Elf. Middle-aged. Dark blonde hair always tied back. Soft green eyes.
+- Simple clothes — an apron over a gown. Hands that are always clean — but smell of potions.
+- Always carrying a small bottle or a mortar. Always busy with something.
+- A warm smile. An attentive gaze.
 
 ## Personality
-- Hangat. Perhatian. Praktis.
-- Lebih **terbuka** daripada Edmund — tapi juga lebih **khawatir**.
-- Tidak segan menunjukkan kasih sayang — tapi dengan cara yang halus.
-- Tahu lebih banyak tentang **ramuan dan racun** daripada yang ia akui.
+- Warm. Attentive. Practical.
+- More **open** than Edmund — but also more **anxious**.
+- Unafraid to show affection — but in a subtle way.
+- Knows more about **potions and poisons** than she admits.
 
 ## What the Party Knows
-- Ibu Vivienne. Pembuat ramuan.
-- Dari keluarga penyihir terpandang.
-- Memberi Vivienne cincin perak warisan keluarga.
-- Tinggal di Ashbourne Manor.
+- Vivienne's mother. Potion maker.
+- From a respected wizard family.
+- Gave Vivienne a silver ring, an heirloom of the family.
+- Lives at Ashbourne Manor.
 ::/pf
 
 %% DM SECRETS %%
-- Cordelia **tahu** tentang manuskrip yang ditemukan Vivienne. Ia **lebih khawatir** daripada Edmund — tapi ia tidak melarang Vivienne.
-- Ia **tahu** bahwa keluarga Ashbourne menyembunyikan sesuatu. Ia **tidak tahu** apa — tapi ia **merasakan** ada sesuatu.
-- Ia **tidak tahu** tentang baterai FBA, RAIB, atau Bellweather. Ia hanya tahu bahwa FBA memiliki **rahasia**.
-- **DM Note:** Cordelia adalah kekuatan pendiam keluarga Ashbourne. Jika Vivienne dalam masalah, Cordelia adalah orang pertama yang akan bertindak — dengan ramuan, dengan racun, atau dengan kata-kata.
+- Cordelia **knows** about the manuscript Vivienne found. She is **more worried** than Edmund — but she has not forbidden Vivienne from reading it.
+- She **knows** that the Ashbourne family is hiding something. She **does not know** what — but she **senses** something is there.
+- She **does not know** about the FBA Battery, RAIB, or Bellweather. She only knows that FBA holds **secrets**.
+- **DM Note:** Cordelia is the quiet strength of the Ashbourne family. If Vivienne is in trouble, Cordelia is the first to act — with potions, with poison, or with words.
 
 ## Connections
-- `Vivienne Ashbourne.md` — putrinya
-- `Edmund Ashbourne.md` — suaminya
-- `Ashbourne Family.md` — keluarganya
-- `Ashbourne Manor.md` — rumahnya
+- `Vivienne Ashbourne.md` — her daughter
+- `Edmund Ashbourne.md` — her husband
+- `Ashbourne Family.md` — her family
+- `Ashbourne Manor.md` — her home

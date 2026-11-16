@@ -4,72 +4,72 @@ universe: Sonstige
 era: Modern
 ---
 ::pf
-> [!info] Baterai Sekolah
-> **The Free Bird Academy (FBA)** dijadikan baterai untuk menebalkan Void. Tapi bukan lewat olahraga — lewat **RAIB** dan **Bride of Bellweather**.
+> [!info] The School Battery
+> **The Free Bird Academy (FBA)** has been turned into a battery to thicken the Void. But not through sport — through **RAIB** and the **Bride of Bellweather**.
 
 ## The Free Bird Academy (FBA)
-- Sekolah elit di **Calamara**. Jalur akademik untuk berbagai disiplin sihir, ekstrakurikuler kompetitif, dan keluarga terpandang.
-- Dibangun di atas **Void-Well** kuno.
-- Basement levels adalah **baterai inti**.
-- Siswa tidak tahu mereka adalah bahan bakar.
-- Mereka diberi tahu bahwa mereka "luar biasa."
+- An elite school in **Calamara**. The academic track for many disciplines of magic, competitive extracurriculars, and respected families.
+- Built atop an ancient **Void-Well**.
+- The basement levels are the **core battery**.
+- Students do not know they are fuel.
+- They are told they are "extraordinary."
 
-## Dua Mekanisme Baterai
-Baterai memanen energi melalui **dua cara**:
+## The Two Battery Mechanisms
+The Battery harvests energy through **two means**:
 
-### 1. RAIB — Rekahan Anomali Ingatan Buram
-- **Envy** (iri hati) dipanen melalui **baby-headed fruit** di **The Hidden Garden**.
-- Jika **X** iri dengan **Y** dan memakan buah, **Y menjadi RAIB** — dihapus dari ingatan semua orang.
-- **X** menerima kehidupan, kepemilikan, dan tempat **Y**.
-- Setiap RAIB adalah satu "lubang" yang diisi oleh energi Void. Baterai memanen **kesedihan, kebingungan, dan kekosongan** yang tersisa.
+### 1. RAIB — Reality Anomaly of Impaired Belonging
+- **Envy** is harvested through the **baby-headed fruit** in **The Hidden Garden**.
+- If **X** is envious of **Y** and eats the fruit, **Y becomes a RAIB** — erased from everyone's memory.
+- **X** receives **Y's** life, possessions, and place.
+- Each RAIB is one "hole" filled by Void energy. The Battery harvests the **grief, confusion, and emptiness** left behind.
 
 ### 2. Bride of Bellweather
-- **Devotion** (pengabdian) dan **sacrifice** (pengorbanan) dipanen melalui **Bride Candidate**.
-- **Lilia Etheridge II** adalah Bride berikutnya.
-- Ritual pernikahan menjadikannya **filter hidup** — Valla lokal yang kasar.
-- Setiap Bride adalah satu "tambalan" di seal Void.
+- **Devotion** and **sacrifice** are harvested through the **Bride Candidate**.
+- **Lilia Etheridge II** is the next Bride.
+- The marriage ritual makes her a **living filter** — a rough local Valla.
+- Each Bride is one "patch" on the Void seal.
 
 ## Alumni Delivery
-- Setelah lulus, siswa "ditempatkan" oleh pemerintah.
-- Kenyataannya: mereka dibawa ke **Continuity Houses** dan dijadikan **void-anchor**.
-- Mereka tidak mati. Mereka tidak hidup. Mereka menjadi bagian dari seal.
-- Tidak ada yang melihat mereka lagi.
-- **The Bell** berbunyi sebelum kelulusan — tanda bahwa panen akan segera dimulai.
+- After graduation, students are "placed" by the government.
+- In reality, they are taken to **Continuity Houses** and made into **void-anchors**.
+- They do not die. They do not live. They become part of the seal.
+- No one sees them again.
+- **The Bell** rings before graduation — a sign that the harvest is about to begin.
 
 ## The Black Cloak Figure
-- Agen pengiriman. Muncul di setiap pengiriman, graduasi, dan RAIB.
-- Tidak ada yang mengingatnya secara konsisten.
-- Mungkin korban RAIB yang sekarang menegakkan RAIB.
+- The delivery agent. Appears at every delivery, graduation, and RAIB.
+- No one remembers them consistently.
+- Perhaps a RAIB victim who now enforces RAIB.
 
 ## What the Party Knows
-- Sekolah adalah baterai.
-- Baterai memanen melalui RAIB dan Bride.
-- Alumni dikirim dan tidak pernah terlihat lagi.
-- Ada Black Cloak Figure.
-- Ada The Bell yang berbunyi sebelum ujian, dansa, dan kelulusan.
+- The school is a battery.
+- The battery harvests through RAIB and the Bride.
+- Alumni are sent away and never seen again.
+- There is a Black Cloak Figure.
+- There is a Bell that rings before exams, dances, and graduation.
 ::/pf
 
 %% DM SECRETS %%
-- Baterai sekolah adalah **Valla lokal yang gagal** — tambalan, bukan solusi.
-- Baterai tidak menebalkan Void. Baterai hanya **menunda** keruntuhan.
-- **RAIB** adalah "panen" pertama: envy → baby-headed fruit → erasure → void-anchor.
-- **Bride of Bellweather** adalah "panen" kedua: devotion → living seal → void-filter.
-- Setiap alumni yang dijadikan anchor adalah satu tambalan lagi di luka yang tidak pernah tertutup.
-- **Lilia Etheridge II** (dipanggil "Lilie" oleh teman dekat) akan menjadi tambalan berikutnya — **Bride of Bellweather**. Ia adalah mantan kekasih **Brougha Ironhide** — dan Brougha tidak tahu.
-- Jika party tidak melakukan apa-apa, Lilia menjadi Bride. Ia tidak mati — ia berhenti menjadi Lilia.
-- Baterai akan gagal. Ketika gagal, Sonstige akan mengalami Rapture-nya sendiri.
-- **The Bell** bukan mitos. Itu adalah alarm baterai. Setiap dentangnya adalah hitungan mundur menuju panen berikutnya.
-- **Jounce TIDAK terhubung ke baterai.** Jounce adalah olahraga tradisional murni. Baterai memanen dari RAIB dan Bride.
+- The school battery is a **failed local Valla** — a patch, not a solution.
+- The battery does not thicken the Void. The battery only **delays** the collapse.
+- **RAIB** is the first "harvest": envy → baby-headed fruit → erasure → void-anchor.
+- **The Bride of Bellweather** is the second "harvest": devotion → living seal → void-filter.
+- Every alumnus made into an anchor is one more patch on a wound that never fully closes.
+- **Lilia Etheridge II** (called "Lilie" by close friends) will be the next patch — the **Bride of Bellweather**. She is the former lover of **Brougha Ironhide** — and Brougha does not know.
+- If the party does nothing, Lilia becomes the Bride. She does not die — she stops being Lilia.
+- The battery will fail. When it fails, Sonstige will experience its own Rapture.
+- **The Bell** is not a myth. It is the battery's alarm. Every toll is a countdown to the next harvest.
+- **Jounce is NOT connected to the battery.** Jounce is a pure traditional sport. The battery harvests from RAIB and the Bride.
 
 ## Connections
-- `SO1 Negara Anderes.md` — negara yang menjalankan program
-- `SO3 The Three Dates.md` — tiga tanggal penting
-- `The Free Bird Academy.md` — sekolah
-- `Calamara.md` — kota
-- `R.A.I.B.md` — mekanisme pertama
-- `The Bride of Bellweather.md` — mekanisme kedua (needs file)
-- `The Bell.md` — alarm baterai
-- `Bellweather.md` — keluarga/entitas di balik baterai
-- `Lilia Etheridge II.md` — Bride berikutnya
-- `Brougha Ironhide.md` — mantan kekasih Lilia
-- `Jounce.md` — olahraga tradisional (tidak terhubung ke baterai)
+- `SO1 Negara Anderes.md` — the country running the program
+- `SO3 The Three Dates.md` — three important dates
+- `The Free Bird Academy.md` — the school
+- `Calamara.md` — the city
+- `R.A.I.B.md` — the first mechanism
+- `The Bride of Bellweather.md` — the second mechanism (needs file)
+- `The Bell.md` — the battery's alarm
+- `Bellweather.md` — the family/entity behind the battery
+- `Lilia Etheridge II.md` — the next Bride
+- `Brougha Ironhide.md` — Lilia's former lover
+- `Jounce.md` — the traditional sport (not connected to the battery)

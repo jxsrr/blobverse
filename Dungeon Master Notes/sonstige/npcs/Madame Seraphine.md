@@ -9,81 +9,81 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Guru Social Enchantment di FBA. Ahli diplomasi, gosip, dan manipulasi sosial. Mantan agen Bellweather.
+> **Role:** Social Enchantment teacher at FBA. Expert in diplomacy, gossip, and social manipulation. Former Bellweather agent.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Wanita paruh baya dengan rambut pirang yang selalu tertata sempurna.
-- Gaun sutra dengan warna-warna lembut. Perhiasan yang elegan tapi tidak berlebihan.
-- Sarung tangan putih. Kipas lipat. Senyum yang selalu ada.
-- Selalu terlihat seperti sedang menghadiri pesta. Bahkan di kelas.
+- A middle-aged woman with blonde hair always perfectly arranged.
+- Silk gowns in soft colours. Jewellery that is elegant but not excessive.
+- White gloves. A folding fan. A smile that is always present.
+- Always looks like she is attending a party. Even in class.
 
 ## Personality
-- Tidak pernah bilang "jangan memanipulasi orang."
-- Sangat tegas soal **siapa yang boleh memanipulasi siapa** dan **kapan caranya dianggap sopan**.
-- Mengajar diplomasi, gosip, dan cara membuat orang lain mendengarkan.
-- Percaya bahwa **kekuatan sejati adalah kekuatan sosial**. "Sihir bisa membunuh. Tapi kata-kata bisa menghancurkan. Dan kata-kata tidak meninggalkan bukti."
+- Never says "don't manipulate people."
+- Is very firm about **who is allowed to manipulate whom** and **when the method is considered polite**.
+- Teaches diplomacy, gossip, and how to make others listen.
+- Believes that **true power is social power**. "Magic can kill. But words can destroy. And words leave no evidence."
 
 ## What the Party Knows
-- Guru Social Enchantment. Salah satu pengajar paling menawan di FBA.
-- Mengajar manipulasi sosial — tapi dengan etika.
-- Tahu semua gosip di Calamara. Tahu semua skandal.
+- The Social Enchantment teacher. One of the most charming instructors at FBA.
+- Teaches social manipulation — but with ethics.
+- Knows every piece of gossip in Calamara. Knows every scandal.
 
 ## What She Offers
-- **Keterampilan sosial.** Jika party ingin belajar cara berbicara, cara berbohong, cara meyakinkan — ia adalah guru terbaik.
-- **Informasi tentang gosip.** Ia tahu semua gosip di Calamara. Ia tahu siapa yang sedang bertengkar, siapa yang sedang jatuh cinta, siapa yang sedang berhutang.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **etika**.
+- **Social skills.** If the party wants to learn how to talk, how to lie, how to persuade — she is the best teacher.
+- **Information from gossip.** She knows every piece of gossip in Calamara. She knows who is fighting, who is falling in love, who is in debt.
+- **Clues about The Bell.** If the party asks about The Bell, she may speak. But she will speak about **ethics**.
 ::/pf
 
 %% DM SECRETS %%
 
 ### Who Madame Seraphine Is
-- **Madame Seraphine** adalah ahli manipulasi sosial terbaik di Calamara. Ia lahir dari keluarga biasa. Ia tidak memiliki sihir yang kuat. Ia tidak memiliki kekayaan. Ia hanya memiliki **kata-kata**.
-- Ia belajar bahwa kata-kata adalah senjata. Ia belajar bahwa kata-kata adalah perisai. Ia belajar bahwa kata-kata adalah kunci untuk membuka pintu yang tidak bisa dibuka oleh sihir.
-- Ia menjadi guru. Ia mengajar siswa untuk menggunakan kata-kata. Ia mengajar siswa untuk **bertahan hidup** di dunia sosial FBA — dunia yang penuh dengan jebakan, gosip, dan pengkhianatan.
-- Ia **tahu tentang baterai**. Ia tahu tentang Continuity Work. Ia tahu tentang Bellweather. Ia tahu bahwa FBA adalah mesin. Tapi ia tidak peduli.
-- **Ia tidak peduli** karena ia percaya bahwa sistem ini **perlu**. Ia percaya bahwa dunia ini kejam. Ia percaya bahwa satu-satunya cara untuk bertahan hidup adalah dengan **bermain**. Dan ia mengajari siswanya untuk bermain.
+- **Madame Seraphine** is the finest social manipulator in Calamara. She was born to an ordinary family. She has no powerful magic. She has no wealth. She has only **words**.
+- She learned that words are a weapon. She learned that words are a shield. She learned that words are the key to open doors that magic cannot open.
+- She became a teacher. She teaches students to use words. She teaches students to **survive** in the social world of FBA — a world full of traps, gossip, and betrayal.
+- She **knows about the Battery**. She knows about Continuity Work. She knows about Bellweather. She knows that FBA is a machine. But she does not care.
+- **She does not care** because she believes this system is **necessary**. She believes this world is cruel. She believes the only way to survive is to **play**. And she teaches her students to play.
 
-### Madame Seraphine and the Bell
-- Ia telah mendengar The Bell sepanjang hidupnya. Ia tahu itu bukan mitos. Ia tahu itu adalah sesuatu yang lain.
-- **Jika party bertanya tentang The Bell**, ia akan tersenyum. Ia akan berkata: *"Lonceng berbunyi sebelum ujian. Itu adalah pengingat bahwa kita harus siap. Lonceng berbunyi sebelum dansa. Itu adalah pengingat bahwa kita harus tampil. Lonceng berbunyi sebelum kelulusan. Itu adalah pengingat bahwa kita harus... siap untuk apa yang datang setelahnya."*
-- Ia tidak akan mengatakan apa yang datang setelahnya. Ia hanya akan tersenyum.
+### Madame Seraphine and The Bell
+- She has heard The Bell her whole life. She knows it is not a myth. She knows it is something else.
+- **If the party asks about The Bell**, she will smile. She will say: *"The Bell rings before exams. That is a reminder that we must be ready. The Bell rings before the dance. That is a reminder that we must perform. The Bell rings before graduation. That is a reminder that we must be... ready for what comes after."*
+- She will not say what comes after. She will only smile.
 
 ### Madame Seraphine and Mr. Rababrie Bellweather
-- Ia mengenal **Rababrie Bellweather** sebagai kepala sekolah. Ia juga mengenalnya sebagai **Bellweather**. Ia tahu tentang keluarga itu. Ia tahu tentang kekuasaan mereka. Ia tahu tentang apa yang mereka lakukan.
-- *"Rababrie adalah pria yang baik,"* katanya suatu kali. *"Tapi dia adalah Bellweather. Dan Bellweather selalu menyelesaikan apa yang mereka mulai."*
-- Ia tidak membenci Rababrie. Ia tidak takut padanya. Ia hanya **menghormatinya** — sebagai lawan. Sebagai sesama pemain dalam permainan yang sama.
+- She knows **Rababrie Bellweather** as the headmaster. She also knows him as **Bellweather**. She knows about that family. She knows about their power. She knows about what they do.
+- *"Rababrie is a good man,"* she once said. *"But he is a Bellweather. And Bellweather always finishes what they start."*
+- She does not hate Rababrie. She is not afraid of him. She only **respects** him — as an opponent. As a fellow player in the same game.
 
 ### Madame Seraphine's Role in Season 3
-- Jika party ingin belajar cara berbicara, cara meyakinkan, cara berbohong — Seraphine akan mengajari mereka. Ia akan mengajari mereka sampai mereka bisa berbohong tanpa berkedip.
-- Jika party ingin melawan Bellweather, Seraphine akan membantu dengan **informasi sosial**. Ia akan memberi tahu mereka siapa yang bisa dipercaya. Ia akan memberi tahu mereka siapa yang tidak bisa. Ia akan memberi tahu mereka siapa yang bisa dibeli. Dan siapa yang tidak bisa.
-- **Jika Seraphine dies**, FBA akan kehilangan gurunya yang paling berbahaya. Bukan karena sihir — karena kata-kata.
+- If the party wants to learn how to talk, how to persuade, how to lie — Seraphine will teach them. She will teach them until they can lie without blinking.
+- If the party wants to fight Bellweather, Seraphine will help with **social information**. She will tell them who can be trusted. She will tell them who cannot. She will tell them who can be bought. And who cannot.
+- **If Seraphine dies**, FBA will lose its most dangerous teacher. Not because of magic — because of words.
 
 ### Madame Seraphine's Secret
-- Ia pernah menjadi bagian dari **Bellweather** — bukan sebagai anggota keluarga, tapi sebagai **agen**. Ia adalah mata dan telinga mereka di FBA. Ia melaporkan segala sesuatu yang terjadi. Ia melaporkan siswa yang terlalu pintar. Ia melaporkan siswa yang terlalu penasaran. Ia melaporkan siswa yang mencoba melarikan diri.
-- Ia berhenti ketika **Lilia Etheridge II** lahir. Ia melihat Lilia sebagai bayi. Ia melihat Lilia sebagai anak. Ia melihat Lilia sebagai **Bride berikutnya** — dan ia tidak bisa melaporkannya lagi.
-- Ia tidak pernah memberitahu Bellweather bahwa ia berhenti. Ia hanya berhenti melaporkan. Bellweather tidak pernah bertanya. Mereka sudah tahu.
-- Ia menyimpan **surat pengunduran diri** di meja belajarnya. Surat itu belum pernah ia kirim. Ia tidak pernah mengirimnya. Ia hanya menyimpannya sebagai pengingat.
+- She was once part of **Bellweather** — not as a family member, but as an **agent**. She was their eyes and ears at FBA. She reported everything that happened. She reported students who were too clever. She reported students who were too curious. She reported students who tried to escape.
+- She stopped when **Lilia Etheridge II** was born. She saw Lilia as a baby. She saw Lilia as a child. She saw Lilia as **the next Bride** — and she could not report her again.
+- She never told Bellweather that she had stopped. She simply stopped reporting. Bellweather never asked. They already knew.
+- She keeps a **letter of resignation** on her study desk. She has never sent it. She never will. She only keeps it as a reminder.
 
 ### Madame Seraphine and Lilia
-- Madame Seraphine **tahu** bahwa Lilia adalah mantan kekasih Brougha. Ia mungkin **membantu** Brougha — jika Brougha bertanya. Tapi ia tidak akan **mengambil risiko**. Ia sudah mengambil risiko sekali. Ia tidak akan melakukannya lagi.
-- Ia **tahu** bahwa Lilia akan menjadi Bride. Ia **tidak bisa** menghentikannya. Tapi ia bisa **membantu** Brougha — jika Brougha mau mendengarkan.
-- **Jika Brougha bertanya tentang Lilia**, Seraphine akan diam sejenak. Lalu ia akan berkata: *"Lilia adalah anak yang baik. Ia selalu menjadi anak yang baik. Terlalu baik, mungkin. Terlalu baik untuk dunia ini."*
-- Ia tidak akan mengatakan lebih dari itu. Tapi ia akan **melihat** Brougha dengan mata yang **tahu**.
+- Madame Seraphine **knows** that Lilia was Brougha's former lover. She might **help** Brougha — if Brougha asks. But she will not **take the risk**. She has taken a risk once. She will not do it again.
+- She **knows** that Lilia will become the Bride. She **cannot** stop it. But she can **help** Brougha — if Brougha will listen.
+- **If Brougha asks about Lilia**, Seraphine will fall silent for a moment. Then she will say: *"Lilia is a good child. She was always a good child. Too good, perhaps. Too good for this world."*
+- She will not say more than that. But she will **look** at Brougha with eyes that **know**.
 
 ### What the Party Does NOT Know
-- Seraphine pernah menjadi agen Bellweather.
-- Seraphine berhenti ketika Lilia lahir.
-- Seraphine tahu tentang baterai. Ia tidak peduli.
-- Seraphine akan membantu party — dengan informasi sosial. Tapi ia tidak akan bertarung.
-- Seraphine tahu bahwa Lilia adalah mantan kekasih Brougha.
+- Seraphine was once a Bellweather agent.
+- Seraphine stopped when Lilia was born.
+- Seraphine knows about the Battery. She does not care.
+- Seraphine will help the party — with social information. But she will not fight.
+- Seraphine knows that Lilia was Brougha's former lover.
 
 ### Connections
-- `The Free Bird Academy.md` — sekolah
-- `SO2 The School Battery.md` — baterai
-- `The Bell.md` — mitos
-- `Bellweather.md` — keluarga yang pernah ia layani
-- `Mr. Rababrie Bellweather.md` — kepala sekolah
-- `Lilia Etheridge II.md` — anak yang membuatnya berhenti
-- `Brougha Ironhide.md` — mantan kekasih Lilia
+- `The Free Bird Academy.md` — the school
+- `SO2 The School Battery.md` — the Battery
+- `The Bell.md` — the myth
+- `Bellweather.md` — the family she once served
+- `Mr. Rababrie Bellweather.md` — the headmaster
+- `Lilia Etheridge II.md` — the child who made her stop
+- `Brougha Ironhide.md` — Lilia's former lover

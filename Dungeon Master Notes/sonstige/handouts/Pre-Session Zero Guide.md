@@ -3,80 +3,80 @@ type: handout
 given_in: Pre-Session Zero
 universe: Sonstige
 ---
-> [!quote] Panduan Pre-Sesi Nol — Selamat Datang di Calamara
+> [!quote] Pre-Session Zero Guide — Welcome to Calamara
 
-## SELAMAT DATANG DI CALAMARA
-Dunia ini berpusat di **Calamara**, sebuah kota kecil makmur di mana magis adalah hal yang sepenuhnya biasa. Reputasi kota ini sempurna. Sejarahnya tidak.
+## WELCOME TO CALAMARA
+This world is centred on **Calamara**, a small, prosperous city where magic is entirely ordinary. The city's reputation is flawless. Its history is not.
 
 ## The Free Bird Academy (FBA)
-FBA adalah sekolah elit dengan jalur akademik untuk berbagai disiplin sihir, ekstrakurikuler kompetitif, dan keluarga terpandang.
+FBA is an elite school with an academic track for many disciplines of magic, competitive extracurriculars, and respected families.
 
 ### FBA's Academic Class
-- **Algebra** — Prof. Imelda, wizard tua bertulang rahang tegas yang percaya bahwa "sihir tanpa presisi hanyalah drama dengan konsekuensi."
-- **History** — Mr. Elias, sejarawan karismatik dari keluarga lama Calamara yang hafal semua skandal kota sampai detail.
-- **Physical Education** — Coach Garrick, mantan atlet duel dengan peraturan dan baju yang ketat.
-- **Social Enchantment** — Madame Seraphine, tidak pernah bilang "jangan memanipulasi orang," tetapi sangat tegas soal siapa yang boleh memanipulasi siapa dan kapan caranya dianggap sopan.
-- **Divination Ethics** — Dr. Ope, peramal yang kebanyakan berbasis teori.
-- **Literature** — Maestro Lorenzo, mengajar dengan merapikan kumis dan gerakan tangan berlebihan.
-- **Practical Sciences** — Dr. Fenwick, mengajar dengan kacamata tebal dan antusiasme yang tidak wajar terhadap kegagalan: "Ledakan kecil itu data."
-- **Civics & Magical Law** — Prof. Quill, mantan pengacara, mengajar dengan studi kasus nyata dari Calamara.
+- **Algebra** — Prof. Imelda, an old wizard with a strong jawline who believes that "magic without precision is only drama with consequences."
+- **History** — Mr. Elias, a charismatic historian from an old Calamara family, who knows every scandal in the city down to the detail.
+- **Physical Education** — Coach Garrick, a former duelling athlete with strict rules and a strict uniform.
+- **Social Enchantment** — Madame Seraphine, who never says "don't manipulate people," but is very firm about who may manipulate whom and when the method is considered polite.
+- **Divination Ethics** — Dr. Ope, a diviner who is mostly theory-based.
+- **Literature** — Maestro Lorenzo, who teaches with a well-kept moustache and excessive hand gestures.
+- **Practical Sciences** — Dr. Fenwick, who teaches with thick glasses and an unnatural enthusiasm for failure: "A small explosion is data."
+- **Civics & Magical Law** — Prof. Quill, a former lawyer, who teaches using real case studies from Calamara.
 
 ### About "THE BELL"
-The Bell adalah mitos turun-temurun sekolah FBA — cerita tentang suara lonceng yang berdentang sebelum ujian besar, dansa musim sosial, dan terutama menjelang kelulusan.
+The Bell is a myth passed down through generations at FBA — a story of a bell that rings before major exams, before the social season's dances, and above all before graduation.
 
-## 1. Pilih Ras
-Ras yang Anda pilih secara signifikan membentuk identitas, penampilan, dan bakat bawaan karakter Anda. Di FBA, semua ras diterima — yang membedakan adalah status sosial, jaringan keluarga, dan seberapa baik Anda bermain dalam permainan.
+## 1. Choose a Race
+The race you choose significantly shapes your character's identity, appearance, and innate talents. At FBA, all races are accepted — what sets you apart is social status, family networks, and how well you play the game.
 
-| Ras | Bonus | Kemampuan |
+| Race | Bonus | Ability |
 | :--- | :--- | :--- |
-| 🏃‍♂️ **Manusia** | +1 ke SEMUA 6 skor | Serbaguna dan ambisius. Tulang punggung masyarakat. |
-| 🧝‍♂️ **Elf** | Dexterity +2 | Keen Senses (profisiensi Perception), Trance (4 jam meditasi). |
-| ⛰️ **Dwarf** | Constitution +2 | Darkvision, Resilience (tahan racun). |
-| 🍀 **Halfling** | Dexterity +2 | Lucky (reroll natural 1), Brave (kebal takut). |
-| 🐲 **Dragonborn** | Strength +2, Charisma +1 | Breath Weapon (serangan napas elemen area). |
-| 🤓 **Gnome** | Intelligence +2 | Gnome Cunning (advantage saving throw INT/WIS/CHA melawan magic). |
-| 🎭 **Half-Elf** | Charisma +2, +1 ke dua skor lain | Skill Versatility (profisiensi 2 skill pilihan). |
-| 💪 **Half-Orc** | Strength +2, Constitution +1 | Relentless Endurance (bangkit ke 1 HP sekali sehari). |
+| 🏃‍♂️ **Human** | +1 to ALL 6 scores | Versatile and ambitious. The backbone of society. |
+| 🧝‍♂️ **Elf** | Dexterity +2 | Keen Senses (Perception proficiency), Trance (4 hours of meditation). |
+| ⛰️ **Dwarf** | Constitution +2 | Darkvision, Resilience (resistance to poison). |
+| 🍀 **Halfling** | Dexterity +2 | Lucky (reroll natural 1), Brave (immune to fear). |
+| 🐲 **Dragonborn** | Strength +2, Charisma +1 | Breath Weapon (area elemental breath attack). |
+| 🤓 **Gnome** | Intelligence +2 | Gnome Cunning (advantage on INT/WIS/CHA saving throws against magic). |
+| 🎭 **Half-Elf** | Charisma +2, +1 to two other scores | Skill Versatility (proficiency in 2 chosen skills). |
+| 💪 **Half-Orc** | Strength +2, Constitution +1 | Relentless Endurance (drop to 1 HP instead of 0, once per day). |
 
-## 2. Pilih Kelas
-Setiap siswa termasuk dalam kelas atau Vocational Track.
+## 2. Choose a Class
+Every student belongs to a class or Vocational Track.
 
-### Perspektif Magis
-- **Wizard** — mempelajari sihir seperti sains: mencatat, menguji, mencari pola.
-- **Sorcerer** — kekuatannya muncul dari dalam diri. "Anak berbakat" yang perlu belajar mengendalikan diri.
-- **Bard** — menguasai panggung, gosip, diplomasi kelas, dan cara membuat orang lain mendengarkan.
-- **Cleric** — menyalurkan kekuatan dewa untuk menyembuhkan, melindungi, dan menuntun moral.
-- **Paladin** — kekuatannya bersumber dari sumpah kepada tuhan mereka. Memimpin organisasi, menjaga tradisi.
-- **Druid** — terhubung dengan alam, makhluk hidup, dan keseimbangan lingkungan.
-- **Warlock** — memperoleh kekuatan melalui perjanjian dengan entitas lain. Menyembunyikan sumber kekuatan mereka.
+### Magical Perspectives
+- **Wizard** — studies magic like a science: taking notes, testing, seeking patterns.
+- **Sorcerer** — their power comes from within. A "gifted child" who needs to learn self-control.
+- **Bard** — masters the stage, gossip, classroom diplomacy, and the art of making others listen.
+- **Cleric** — channels their god's power to heal, protect, and guide morally.
+- **Paladin** — their power comes from an oath to their god. Leads organisations, preserves tradition.
+- **Druid** — connected to nature, living things, and environmental balance.
+- **Warlock** — gains power through a pact with another entity. Conceals the source of their power.
 
-### Perspektif Non-Magis
-- **Fighter** — disiplin fisik, senjata, dan keberanian. Atlet duel, kapten tim.
-- **Rogue** — jarang masuk kelas dan bisa kabur dari kelas dengan santai.
-- **Barbarian** — mengandalkan kekuatan mentah dan naluri bertahan hidup. Dianggap liar, tapi dihormati di lapangan.
-- **Monk** — berasal dari biara mitra sekolah. Membuktikan bahwa kekuatan tidak selalu butuh sihir.
-- **Ranger** — lebih betah di hutan sekitar Calamara daripada di pesta dansa.
+### Non-Magical Perspectives
+- **Fighter** — physical discipline, weapons, and courage. Duel athletes, team captains.
+- **Rogue** — rarely attends class and can slip out of a lesson with ease.
+- **Barbarian** — relies on raw strength and survival instinct. Considered wild, but respected on the field.
+- **Monk** — from a monastery partnered with the school. Proves that strength does not always require magic.
+- **Ranger** — more at home in the forests around Calamara than at a dance.
 
-## 3. Tentukan Ability Score
-Gunakan array standar: **15, 14, 13, 12, 10, 8**. Tetapkan enam angka ke kemampuan karakter Anda, lalu terapkan peningkatan rasial.
+## 3. Determine Ability Scores
+Use the standard array: **15, 14, 13, 12, 10, 8**. Assign the six numbers to your character's abilities, then apply racial increases.
 
-| Ability | Digunakan untuk |
+| Ability | Used for |
 | :--- | :--- |
-| 💪 **Strength (STR)** | Serangan senjata fisik, Athletics. |
-| 🏃‍♂️ **Dexterity (DEX)** | Serangan jarak jauh, AC, Initiative, Acrobatics, Sleight of Hand, Stealth. |
-| ❤️ **Constitution (CON)** | HP, saving throw melawan racun/penyakit. |
-| 📚 **Intelligence (INT)** | Kekuatan sihir Wizard, Arcana, History, Investigation, Nature, Religion. |
-| 🌿 **Wisdom (WIS)** | Kekuatan sihir Cleric/Druid/Ranger, Perception, Insight, Medicine, Animal Handling, Survival. |
-| ✨ **Charisma (CHA)** | Kekuatan sihir Bard/Paladin/Sorcerer/Warlock, Deception, Intimidation, Performance, Persuasion. |
+| 💪 **Strength (STR)** | Physical weapon attacks, Athletics. |
+| 🏃‍♂️ **Dexterity (DEX)** | Ranged attacks, AC, Initiative, Acrobatics, Sleight of Hand, Stealth. |
+| ❤️ **Constitution (CON)** | HP, saving throws against poison/disease. |
+| 📚 **Intelligence (INT)** | Wizard spellcasting, Arcana, History, Investigation, Nature, Religion. |
+| 🌿 **Wisdom (WIS)** | Cleric/Druid/Ranger spellcasting, Perception, Insight, Medicine, Animal Handling, Survival. |
+| ✨ **Charisma (CHA)** | Bard/Paladin/Sorcerer/Warlock spellcasting, Deception, Intimidation, Performance, Persuasion. |
 
-## 4. Jelaskan Karakter Anda
-- **Keluarga:** Siapa mereka? Nama belakang Anda? Apa tuntutan mereka? Apakah mereka pemilik bisnis magis, pegawai kuil, atlet duel profesional, akademisi, politisi, atau keluarga biasa yang berjuang membayar uang sekolah?
-- **Tuntutan Keluarga:** Apakah mereka menuntut Anda masuk jalur tertentu, menikah dengan keluarga tertentu, mempertahankan reputasi keluarga, atau sekadar lulus tanpa memalukan nama? Apakah tuntutan itu masuk akal, atau justru bertentangan dengan apa yang Anda inginkan?
-- **Alasan Masuk FBA:** Apakah ini pilihan Anda sendiri, atau keinginan keluarga? Apakah Anda mengejar jalur keahlian tertentu, beasiswa, gengsi, pelarian dari rumah, atau sesuatu yang lebih pribadi?
-- **Others:** Apakah ada alasan yang Anda sembunyikan dari orang lain tentang kenapa FBA penting bagi Anda? Apa yang Anda dengar tentang FBA sebelum masuk?
+## 4. Describe Your Character
+- **Family:** Who are they? Your surname? What do they demand? Are they magical business owners, temple staff, professional duel athletes, academics, politicians, or an ordinary family struggling to pay tuition?
+- **Family Demands:** Do they demand you enter a certain track, marry into a certain family, uphold the family reputation, or simply graduate without disgracing the name? Are those demands reasonable, or do they conflict with what you want?
+- **Reason for Attending FBA:** Is this your own choice, or your family's wish? Are you pursuing a particular field of expertise, a scholarship, prestige, an escape from home, or something more personal?
+- **Other:** Is there a reason you are hiding from others for why FBA matters to you? What did you hear about FBA before you enrolled?
 
-Anda dapat mengembangkan penampilan fisik, ciri kepribadian, alignment, cita-cita, ikatan, dan kelemahan. Latar belakang memberikan ciri latar belakang, kemahiran dalam dua keterampilan, dan mungkin bahasa tambahan atau kemahiran alat.
+You may develop your physical appearance, personality traits, alignment, ideals, bonds, and flaws. Your background provides a background feature, proficiency in two skills, and possibly an additional language or tool proficiency.
 
 ---
 
-*Gform akan dikirimkan secepatnya (kalau saya tidak lupa).*
+*Gform to follow soon (if I don't forget).*

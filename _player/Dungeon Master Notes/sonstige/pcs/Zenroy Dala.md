@@ -10,70 +10,70 @@ universe: Sonstige
 > **Known as:** Zenroy Dala (registered age 20)
 
 ## Appearance
-- Human. Kulit gelap kecoklatan, namun tidak terlalu gelap — cukup jarang ditemukan di daerah sekitar Calamara.
-- Rambut panjang.
+- Human. Dark brown skin, though not too dark — a shade rarely found around Calamara.
+- Long hair.
 - Visual reference: [Google Drive](https://drive.google.com/open?id=1qAXFEpzHs_1uWSltPLLTcxX9o2QxhhQB)
 
 ## Family — Grafsten (Not Actually Family)
-- **Grafsten** adalah keluarga penguasa **Grafstenmouth** — kota pelabuhan kecil yang belum berkembang di ujung **Southeast Peninsula**.
-- Baru-baru ini mengalami **perselisihan dengan keluarga kekaisaran**. Saat ini berupaya memulihkan reputasi.
-- **Zenroy BUKAN anggota resmi keluarga Grafsten.** Ia adalah **pegawai** yang dipekerjakan oleh keluarga sebagai usaha mereka untuk membuat ahli yang dapat mengembangkan daerah mereka.
-- Rumah: salah satu kamar kosong di rumah besar keluarga Grafsten. Rumah luas, tapi Zenroy tidak mendapat banyak ruang untuk diri sendiri. Cukup untuk hidup nyaman dan sederhana.
-- Situasi di kediaman: tenang. Keluarga mengurus anggota kelompoknya sendiri. Namun saat ini menghadapi pengucilan dari keluarga-keluarga bangsawan lain akibat perselisihan dengan keluarga kekaisaran.
+- **Grafsten** is the ruling family of **Grafstenmouth** — a small, underdeveloped port town at the tip of the **Southeast Peninsula**.
+- It has recently suffered a **dispute with the imperial family**. It is currently trying to restore its reputation.
+- **Zenroy is NOT an official member of the Grafsten family.** He is an **employee** hired by the family as part of their effort to produce an expert who can develop their region.
+- Home: one of the empty rooms in the Grafsten family's great house. The house is large, but Zenroy is not given much space of his own. Enough to live comfortably and simply.
+- Situation at the residence: quiet. The family looks after its own members. But it is currently facing ostracisation from other noble families because of the dispute with the imperial family.
 
 ## Family Demands
-- Membangun hubungan dengan berbagai faksi yang akan mendukung pengembangan Grafsten.
-- Memulihkan kehormatan keluarga Grafsten melalui pencapaian di bidang akademik maupun non-akademik.
+- Build relationships with various factions that will support Grafsten's development.
+- Restore the honour of the Grafsten family through academic and non-academic achievements.
 
 ## Why FBA
-- **1) Beasiswa** — tentu.
-- **2) Membangun reputasi dan koneksi** untuk keluarga Grafsten.
-- **3) Mempelajari sihir** — sepertinya akan berguna untuk keselamatan diri (karena sebenarnya orang dari Bumi).
-- FBA adalah salah satu sekolah paling terpandang di dunia, menyaingi **Imperial Academy** di Imperial Capitol.
-- Biasanya keluarga Grafsten mengirim anak-anak dan pegawai mereka ke Imperial Capitol. Karena perseteruan akhir-akhir ini, mereka tidak melakukannya.
+- **1) Scholarship** — of course.
+- **2) Build reputation and connections** for the Grafsten family.
+- **3) Study magic** — it will likely be useful for self-preservation (since he is actually from Earth).
+- FBA is one of the most prestigious schools in the world, rivalling the **Imperial Academy** in the Imperial Capitol.
+- The Grafsten family usually sends its children and employees to the Imperial Capitol. Because of the recent feud, they have not done so.
 
 ## What He Heard About FBA
-- Salah satu sekolah paling terpandang di dunia, menyaingi Imperial Academy.
-- (Sumber lain tidak disebutkan — kemungkinan Zenroy tidak mendengar rumor spesifik tentang FBA, atau tidak menganggapnya penting.)
+- One of the most prestigious schools in the world, rivalling the Imperial Academy.
+- (No other sources mentioned — Zenroy likely heard no specific rumours about FBA, or did not consider them important.)
 
 ## Personality
-- **Three words others use:** Stubborn (setuju), Weird (tidak setuju — "wth?"), Cultured (setuju).
-- Ingin berteman banyak meski punya identitas rahasia.
-- Ingin mempelajari semua mata pelajaran di FBA.
-- Ingin berteman dekat dengan para guru.
+- **Three words others use:** Stubborn (agrees), Weird (disagrees — "wth?"), Cultured (agrees).
+- Wants to make many friends despite having a secret identity.
+- Wants to study every subject at FBA.
+- Wants to be close friends with the teachers.
 
 ## What He Wants
-- **Keselamatan diri sendiri** (dan misi yang ditugaskan tentunya).
-- **Banyak teman.**
-- **Semua mata pelajaran.**
-- **Kedekatan dengan para guru.**
+- **His own safety** (and, of course, the mission he has been assigned).
+- **Many friends.**
+- **Every subject.**
+- **Closeness with the teachers.**
 
 ## What He Values
-- Keselamatan diri sendiri dan misi.
-- (Implisit: hubungan dengan orang lain — karena ia ingin banyak teman.)
+- His own safety and the mission.
+- (Implied: relationships with others — because he wants many friends.)
 
 ## What Makes Him Lose Control
-- **Ajakan untuk berpetualang.**
-- **Terbongkarnya rahasia identitas diri sendiri.**
+- **An invitation to adventure.**
+- **His own secret identity being exposed.**
 
 ## Background
-- **Grafstenmouth**, kota pelabuhan di Southeast Peninsula.
-- **Sebelumnya: Bumi.** Tumbuh dan besar di Bumi, kemudian ter-Narnia-kan. Namun lupa ingatan akan masa lalunya.
-- Bekerja sebagai pelayan dan administrator keluarga Grafsten di Grafstenmouth karena bisa membaca, menulis, dan berhitung.
-- Fakta bahwa masa lalu bukan dari dunia ini **dirahasiakan** demi keselamatan diri sendiri.
+- **Grafstenmouth**, a port town on the Southeast Peninsula.
+- **Previously: Earth.** He grew up on Earth, then was Narnia'd. But he has lost his memory of his past.
+- Works as a servant and administrator for the Grafsten family in Grafstenmouth because he can read, write, and do arithmetic.
+- The fact that his past is not from this world is **kept secret** for his own safety.
 
 ## Work Experience
-- **Pelayan dan administrator** keluarga Grafsten di Grafstenmouth.
-- Bisa membaca, menulis, dan berhitung — itu sebabnya ia dipekerjakan.
-- Fakta bahwa ia bukan dari dunia ini dirahasiakan.
+- **Servant and administrator** for the Grafsten family in Grafstenmouth.
+- Can read, write, and do arithmetic — that is why he was hired.
+- The fact that he is not from this world is kept secret.
 
 ## Secret (Player-Facing)
-- **Ia bukan dari dunia ini.** Ia dari Bumi. Ter-Narnia-kan. Lupa ingatan akan masa lalunya.
-- Ia menyembunyikan ini dari semua orang.
-- Ia tidak tahu siapa teman atau musuh — terutama karena membawa nama Grafsten di luar Grafstenmouth saat ini cukup berbahaya (keluarga sedang ditarget oleh keluarga kekaisaran).
+- **He is not from this world.** He is from Earth. Narnia'd. Amnesiac about his past.
+- He hides this from everyone.
+- He does not know who is a friend or an enemy — especially since carrying the Grafsten name outside of Grafstenmouth is currently quite dangerous (the family is being targeted by the imperial family).
 
 ## RAIB Question
-> *"Pernahkah Anda mengingat sesuatu yang tidak pernah terjadi dan merasa ingatan itu lebih nyata daripada ingatan Anda sendiri?"*
+> *"Have you ever remembered something that never happened and felt that memory was more real than your own?"*
 > **Yes.**
 
 ## Current Goal

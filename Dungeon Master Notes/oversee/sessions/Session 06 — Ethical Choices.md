@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 6
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.
 
 ## Part 1: Muangching, Milk, and a Madman

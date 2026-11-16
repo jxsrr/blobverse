@@ -8,29 +8,29 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Kepala sekolah The Free Bird Academy. Anggota keluarga Bellweather.
+> **Role:** Headmaster of The Free Bird Academy. Member of the Bellweather family.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Pria paruh baya dengan rambut hitam yang selalu rapi.
-- Jas wol dengan potongan klasik. Kemeja putih. Dasi kupu-kupu.
-- Senyum yang selalu ada. Mata yang selalu hangat.
-- Selalu terlihat seperti sedang menyambut tamu. Bahkan di kantornya sendiri.
+- A middle-aged man with black hair always neatly kept.
+- A woollen suit with a classic cut. A white shirt. A bow tie.
+- A smile that is always present. Eyes that are always warm.
+- Always looks like he is welcoming a guest. Even in his own office.
 
 ## Personality
-- Ramah. Menawan. Karismatik.
-- Selalu tersenyum. Selalu tenang. Selalu **baik**.
-- Tidak pernah meninggikan suara. Tidak pernah marah. Tidak pernah **kehilangan kendali**.
-- Percaya bahwa **FBA adalah tempat terbaik di dunia**. Dan ia akan melakukan **apa pun** untuk menjaganya.
+- Friendly. Charming. Charismatic.
+- Always smiling. Always calm. Always **kind**.
+- Never raises his voice. Never angry. Never **loses control**.
+- Believes that **FBA is the finest place in the world**. And he will do **anything** to protect it.
 
 ## What the Party Knows
-- Kepala sekolah FBA. Anggota keluarga Bellweather.
-- Ramah. Menawan. Karismatik. **Terlalu** ramah.
-- Selalu tersenyum. Selalu tenang. Selalu **baik**.
-- Mungkin tahu tentang baterai. Mungkin **menjalankannya**.
+- Headmaster of FBA. Member of the Bellweather family.
+- Friendly. Charming. Charismatic. **Too** friendly.
+- Always smiling. Always calm. Always **kind**.
+- May know about the Battery. May be **running it**.
 
 ## What He Offers
-- **Sambutan hangat.** Ia akan menyambut party dengan tangan terbuka. Ia akan menawarkan bantuan. Ia akan menawarkan **segala sesuatu**.
-- **Informasi tentang FBA.** Ia tahu segalanya tentang sekolah ini. Ia tahu segalanya tentang siswa. Ia tahu segalanya tentang **alumni**.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia akan tersenyum. Ia akan berbicara. Tapi ia akan berbicara tentang **mitos**.
+- **A warm welcome.** He will welcome the party with open arms. He will offer help. He will offer **everything**.
+- **Information about FBA.** He knows everything about this school. He knows everything about the students. He knows everything about the **alumni**.
+- **Clues about The Bell.** If the party asks about The Bell, he will smile. He will speak. But he will speak about the **myth**.

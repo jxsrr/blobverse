@@ -8,28 +8,28 @@ first_seen: Session 01
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Role:** Guru Divination Ethics di FBA. Peramal yang kebanyakan berbasis teori.
+> **Role:** Divination Ethics teacher at FBA. A seer who is mostly theory-based.
 > **Where:** FBA Campus, Calamara
 > **Status:** Alive
 
 ## Appearance
-- Wanita tua dengan rambut putih yang selalu berantakan.
-- Kacamata tebal dengan lensa berwarna ungu.
-- Jubah akademik dengan motif bintang dan bulan.
-- Selalu membawa kartu tarot. Selalu mengocoknya. Bahkan saat mengajar.
+- An old woman with white hair that is always messy.
+- Thick glasses with purple-tinted lenses.
+- An academic robe patterned with stars and moons.
+- Always carrying tarot cards. Always shuffling them. Even while teaching.
 
 ## Personality
-- Teoretis. Filosofis. Tidak pernah memberikan jawaban langsung.
-- Percaya bahwa **ramalan bukan tentang melihat masa depan** — tapi tentang **memahami kemungkinan**.
-- Mengajar etika ramalan — kapan boleh melihat, kapan tidak, dan mengapa.
-- Tidak pernah menggunakan ramalan untuk dirinya sendiri. Tidak pernah.
+- Theoretical. Philosophical. Never gives a direct answer.
+- Believes that **divination is not about seeing the future** — but about **understanding possibilities**.
+- Teaches the ethics of divination — when it is permitted to look, when it is not, and why.
+- Never uses divination on herself. Never.
 
 ## What the Party Knows
-- Guru Divination Ethics. Peramal yang kebanyakan berbasis teori.
-- Mengajar etika ramalan.
-- Mungkin telah melihat sesuatu tentang The Bell.
+- The Divination Ethics teacher. A seer who is mostly theory-based.
+- Teaches the ethics of divination.
+- May have seen something about The Bell.
 
 ## What She Offers
-- **Pengetahuan tentang ramalan.** Jika party ingin belajar tentang tarot, tentang melihat masa depan, tentang membaca kemungkinan — ia adalah guru terbaik.
-- **Petunjuk tentang The Bell.** Jika party bertanya tentang The Bell, ia mungkin akan berbicara. Tapi ia akan berbicara tentang **kemungkinan**.
-- **Sebuah ramalan.** Jika party memintanya, ia akan memberikan satu ramalan. Satu. Tidak lebih.
+- **Knowledge of divination.** If the party wants to learn about tarot, about seeing the future, about reading possibilities — she is the best teacher.
+- **Clues about The Bell.** If the party asks about The Bell, she may speak. But she will speak about **possibilities**.
+- **A single reading.** If the party asks, she will give them one reading. One. No more.

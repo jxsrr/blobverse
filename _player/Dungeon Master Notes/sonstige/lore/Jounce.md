@@ -3,124 +3,124 @@ type: Sonstige Lore
 universe: Sonstige
 ---
 > [!info] Jounce
-> Olahraga tim magis tradisional Sonstige. Berabad-abad lamanya. Bola-nya adalah makhluk hidup — **Jounceling**.
+> The traditional team sport of magic in Sonstige. Centuries old. Its ball is a living creature — the **Jounceling**.
 
-## Sejarah Singkat
-- **Jounce berasal dari komunitas pedesaan Sonstige**, berabad-abad lalu.
-- Awalnya dimainkan oleh anak-anak desa menggunakan makhluk magis kecil bernama **Jounceling**.
-- Jounceling secara alami mengapung, ulet, dan tertarik pada gerakan.
-- Anak-anak berkompetisi menggiring makhluk itu ke kandang kayu.
-- Seiring waktu, berkembang menjadi olahraga terorganisir antar desa.
-- Nama "Jounce" berasal dari kata daerah kuno yang terkait dengan gerakan memantul makhluk itu.
-- Hari ini, Jounce dimainkan di sekolah, universitas, klub lokal, dan liga profesional di seluruh Sonstige.
-- Sangat populer di kalangan pelajar — membutuhkan atletik, koordinasi, strategi, dan keakraban dengan makhluk magis.
+## A Brief History
+- **Jounce originated in the rural communities of Sonstige**, centuries ago.
+- It was first played by village children using a small magical creature called a **Jounceling**.
+- Jouncelings naturally float, are resilient, and are drawn to motion.
+- Children competed to herd the creature into a wooden pen.
+- Over time it grew into an organised inter-village sport.
+- The name "Jounce" comes from an old regional word tied to the creature's bouncing motion.
+- Today, Jounce is played in schools, universities, local clubs, and professional leagues across Sonstige.
+- Very popular among students — it demands athleticism, coordination, strategy, and familiarity with magical creatures.
 
 ## The Jounceling
-- Makhluk magis kecil yang didomestikasi. Bukan benda sihir — **makhluk hidup** dengan insting dan kepribadian sendiri.
-- Ukuran: 25–35 cm diameter. Berat: 1–3 kg.
-- Penampilan: Tubuh bulat, anggota tubuh kecil, mata menonjol.
-- Gerakan: Menggelinding, memantul, mengapung, terbang jarak pendek.
-- Temperamen: Ingin tahu, energik, kadang keras kepala.
-- Bisa dilatih mengenali sinyal dasar, tapi **tidak selalu menurut**.
-- Setiap pertandingan menggunakan **satu Jounceling resmi**. Diperiksa sebelum dan sesudah.
+- A small domesticated magical creature. Not a magical object — a **living creature** with its own instincts and personality.
+- Size: 25–35 cm in diameter. Weight: 1–3 kg.
+- Appearance: Round body, small limbs, protruding eyes.
+- Movement: Rolls, bounces, floats, flies short distances.
+- Temperament: Curious, energetic, sometimes stubborn.
+- Can be trained to recognise basic signals, but **does not always obey**.
+- Each match uses **one official Jounceling**. Inspected before and after.
 
-## Aturan Jounceling (Resmi)
-1. Jounceling harus sehat dan terlatih.
-2. Pemain dilarang melukai atau menakut-nakuti Jounceling.
-3. Manipulasi magis terhadap Jounceling saat pertandingan **dilarang**.
-4. Setiap pertandingan menggunakan satu Jounceling terdaftar.
-5. Jounceling diperiksa sebelum dan sesudah setiap pertandingan.
+## The Jounceling Rules (Official)
+1. The Jounceling must be healthy and trained.
+2. Players are forbidden to harm or frighten the Jounceling.
+3. Magical manipulation of the Jounceling during a match is **forbidden**.
+4. Each match uses one registered Jounceling.
+5. The Jounceling is inspected before and after each match.
 
-## The Gimmick — Jounceling Punya Kemauan Sendiri
-- Jounceling bukan bola biasa. Ia makhluk hidup yang aktif merespons cara pemain memperlakukannya.
-- **Temperament:** Setiap Jounceling punya kepribadian — Playful (sering lepas, berubah arah), Timid (hindari keramaian), Competitive (bergerak ke ruang terbuka), Stubborn (menolak dioper), Curious (terdistraksi).
-- **The Bond:** Pemain yang sering berlatih dengan Jounceling tertentu bisa mempelajari perilakunya — tapi tidak menjamin kepatuhan. Pemain terbaik bukan yang paling kuat melempar, tapi yang **tahu ke mana Jounceling akan pergi sebelum ia pergi**.
-- **The Rebound:** Saat dilempar, Jounceling bisa memutuskan sendiri — lanjut, percepat, memantul menjauh, berubah arah di tengah udara, atau melayang diam sejenak.
-- **The Unclaimed Ball:** Jika tidak ada yang memegang Jounceling, ia menjadi peserta independen. Bisa bergerak bebas, menghindari kedua tim, bahkan masuk gawang sendiri. Tapi **tidak bisa mencetak gol** tanpa possession.
+## The Gimmick — The Jounceling Has Its Own Will
+- A Jounceling is not an ordinary ball. It is a living creature that actively responds to how players treat it.
+- **Temperament:** Each Jounceling has its own personality — Playful (often breaks loose, changes direction), Timid (avoids crowds), Competitive (moves into open space), Stubborn (refuses to be passed), Curious (gets distracted).
+- **The Bond:** A player who trains often with a particular Jounceling can learn its behaviour — but that does not guarantee obedience. The best players are not the strongest throwers, but those who **know where the Jounceling will go before it goes**.
+- **The Rebound:** When thrown, a Jounceling can decide for itself — continue, speed up, bounce away, change direction mid-air, or hover motionless for a moment.
+- **The Unclaimed Ball:** If no one is holding the Jounceling, it becomes an independent participant. It can move freely, avoid both teams, even enter a goal by itself. But it **cannot score** without possession.
 
-## Lapangan
-- Lapangan persegi panjang dengan dua gawang.
-- **Centre Circle** — titik mulai/restart.
-- **Open Field** — area utama.
-- **Scoring Arc** — area tembak di sekitar gawang.
-- **Goal Zone** — area terlarang dekat gawang.
-- Gawang: **lingkaran tinggi** (hoop) di atas rangka kokoh.
+## The Field
+- A rectangular field with two goals.
+- **Centre Circle** — starting/restart point.
+- **Open Field** — the main area.
+- **Scoring Arc** — the shooting zone around each goal.
+- **Goal Zone** — a forbidden area near the goal.
+- Goals: a **high hoop** atop a sturdy frame.
 
-## Tim — 5 vs 5
-| Posisi | Tanggung Jawab |
+## Teams — 5 vs 5
+| Position | Responsibility |
 | :--- | :--- |
-| **Keeper** | Melindungi gawang, mencegah skor |
-| **Striker** | Pencetak skor utama |
-| **Vouter** | Mengontrol possession, mengarahkan serangan |
-| **Guard** | Bertahan, mencegat lawan |
-| **Runner** | Membuka ruang, bergerak antar posisi |
+| **Keeper** | Protects the goal, prevents scoring |
+| **Striker** | Primary scorer |
+| **Vouter** | Controls possession, directs the attack |
+| **Guard** | Defends, intercepts the opposition |
+| **Runner** | Opens space, moves between positions |
 
-## Aturan Pertandingan
-- **Durasi:** 2 babak × 15 menit. Jeda 5 menit. Waktu dikontrol wasit.
-- **Extra time:** 5 menit jika seri di knockout.
-- **Memulai:** Kedua tim berbaris di sisi Centre Circle. Wasit melepas Jounceling ke udara. Tim pertama yang menguasai dapat possession pembuka.
+## Match Rules
+- **Duration:** 2 halves × 15 minutes. 5-minute break. Time controlled by the referee.
+- **Extra time:** 5 minutes if the score is level in a knockout.
+- **Starting:** Both teams line up on the edge of the Centre Circle. The referee releases the Jounceling into the air. The first team to gain possession takes the opening possession.
 - **Possession:**
-  - Boleh: pegang dua tangan, bawa maks 5 langkah, oper, lempar ke rekan, pandu dengan sinyal tangan, biarkan bergerak sendiri.
-  - Dilarang: pegang >5 detik, tendang/pukul Jounceling, lempar ke tanah sengaja, sihir, sembunyikan di pakaian.
-  - **The Escape:** Jika Jounceling lepas sendiri, permainan lanjut. Kedua tim boleh merebut.
+  - Permitted: hold with both hands, carry for up to 5 steps, pass, throw to a teammate, guide with hand signals, allow it to move on its own.
+  - Forbidden: hold longer than 5 seconds, kick or strike the Jounceling, deliberately throw it at the ground, magic, hide it in clothing.
+  - **The Escape:** If the Jounceling breaks loose on its own, play continues. Both teams may contest it.
 - **Scoring:**
-  - 1 poin: dari dalam Scoring Arc.
-  - 2 poin: dari luar Scoring Arc.
-  - 3 poin: aerial dari luar garis tembak.
-  - Gol hanya sah jika Jounceling melewati hoop sepenuhnya.
-- **Defending:** Boleh mencegat, memblok, menandai, berebut, posisi antara Jounceling dan gawang. Kontak fisik terbatas pada bahu-ke-bahu. Dilarang grab/tackle/push.
-- **Turnovers:** Possession pindah jika Jounceling dicegat, pelanggaran possession, Jounceling keluar lapangan, atau foul. Jika Jounceling lepas sendiri — tidak otomatis ke tim mana pun.
+  - 1 point: from inside the Scoring Arc.
+  - 2 points: from outside the Scoring Arc.
+  - 3 points: aerial from beyond the shooting line.
+  - A goal only counts if the Jounceling passes fully through the hoop.
+- **Defending:** Permitted to intercept, block, mark, contest, and position between the Jounceling and the goal. Physical contact is limited to shoulder-to-shoulder. Grabbing, tackling, and pushing are forbidden.
+- **Turnovers:** Possession changes if the Jounceling is intercepted, a possession violation occurs, the Jounceling leaves the field, or a foul is committed. If the Jounceling breaks loose on its own — it does not automatically go to either team.
 - **Fouls:**
-  - Kontak fisik ilegal → free possession.
-  - Melukai Jounceling sengaja → **suspensi langsung**.
-  - Sihir mempengaruhi permainan → **suspensi langsung**.
-  - Pegang >5 detik / >5 langkah → turnover.
-  - Masuk Goal Zone ilegal → free throw.
-  - Mengganggu Keeper → penalty shot.
+  - Illegal physical contact → free possession.
+  - Deliberately harming the Jounceling → **immediate suspension**.
+  - Magic affecting the match → **immediate suspension**.
+  - Hold >5 seconds / >5 steps → turnover.
+  - Illegally entering the Goal Zone → free throw.
+  - Interfering with the Keeper → penalty shot.
 
-## Situasi Khusus
-- **The Free Flight:** Jounceling terbang independen — boleh ditangkap, tapi tidak boleh pakai sihir terbang.
-- **The Wild Run:** Jounceling lepas dan bergerak bebas — wasit beri 10 detik. Jika tak ada yang menguasai, restart di Centre Circle.
-- **The Golden Jounce:** Extra time — tim pertama yang mencetak gol **menang langsung**.
+## Special Situations
+- **The Free Flight:** The Jounceling flies independently — it may be caught, but flying magic may not be used.
+- **The Wild Run:** The Jounceling breaks loose and moves freely — the referee gives 10 seconds. If no one gains possession, restart at the Centre Circle.
+- **The Golden Jounce:** Extra time — the first team to score **wins outright**.
 
-## Jounce di FBA
-- Jounce adalah **ekstrakurikuler paling populer** di FBA.
-- Setiap tahun FBA mengadakan **Jounce Cup** — kejuaraan antar-house.
-- Setiap house punya tim Jounce resmi.
-- Siswa boleh ikut **open tryouts** di awal tahun ajaran.
-- Senior sering melatih junior.
-- Rivalitas antar-house sering meluas ke luar lapangan.
-- Final Jounce Cup menarik siswa dan staf dari seluruh sekolah.
+## Jounce at FBA
+- Jounce is the **most popular extracurricular** at FBA.
+- Each year FBA holds the **Jounce Cup** — an inter-house championship.
+- Each house has its own official Jounce team.
+- Students may attend **open tryouts** at the start of the school year.
+- Seniors often coach juniors.
+- Inter-house rivalries often spill off the field.
+- The Jounce Cup final draws students and staff from the whole school.
 
-## Empat Houses FBA
-> [!warning] Nama house adalah **DM's decision**. Placeholder di bawah disarankan (tema burung, cocok dengan "Free Bird Academy") — tapi DM bebas mengganti.
+## The Four FBA Houses
+> [!warning] House names are **the DM's decision**. The placeholders below are suggested (bird themes, fitting "Free Bird Academy") — but the DM is free to change them.
 
-| House | Gaya Bermain |
+| House | Style of Play |
 | :--- | :--- |
-| **House Raven** | Taktis, disiplin, terhitung |
-| **House Hawk** | Agresif, defensif, dominan fisik |
-| **House Owl** | Kreatif, adaptif, tak terduga |
-| **House Swallow** | Cepat, terkoordinasi, oportunis |
+| **House Raven** | Tactical, disciplined, calculating |
+| **House Hawk** | Aggressive, defensive, physically dominant |
+| **House Owl** | Creative, adaptive, unpredictable |
+| **House Swallow** | Fast, coordinated, opportunistic |
 
-Catatan: Ini reputasi, bukan aturan ketat. Setiap house bisa menghasilkan pemain luar biasa di posisi apa pun.
+Note: These are reputations, not strict rules. Any house can produce exceptional players in any position.
 
-## FBA's The Bateleur Eagle — Tim Varsity
-- **The Bateleur Eagle** adalah **tim varsity Jounce FBA** — tim all-star yang mewakili sekolah di kompetisi antar-sekolah dan level profesional.
-- Terdiri dari pemain terbaik dari **keempat house**.
-- Kapten saat ini: **Lilia Etheridge II**.
+## FBA's The Bateleur Eagle — The Varsity Team
+- **The Bateleur Eagle** is **FBA's Jounce varsity team** — the all-star team that represents the school in inter-school and professional-level competition.
+- Composed of the best players from **all four houses**.
+- Current captain: **Lilia Etheridge II**.
 - Coach: **Coach Garrick**.
-- Nama "Bateleur" diambil dari **elang Bateleur** — burung yang terkenal dengan gerakan terbang bergoyang yang khas, mirip dengan perilaku Jounceling yang tak terduga.
-- **The Jounce Cup** (antar-house) berbeda dari **The Bateleur Eagle** (varsity antar-sekolah).
+- The name "Bateleur" is taken from the **Bateleur eagle** — a bird famous for its distinctive rocking flight, echoing the unpredictable behaviour of the Jounceling.
+- **The Jounce Cup** (inter-house) is separate from **The Bateleur Eagle** (inter-school varsity).
 
-## Tradisi FBA
-- Sebelum final Jounce Cup, kedua tim diperkenalkan bersama Jounceling mereka. Jounceling mendapat nama, nomor, dan insignia tim sendiri. Kadang Jounceling lebih populer daripada pemainnya.
-- Jounceling profesional yang pensiun sering diadopsi ke kehidupan nyaman.
-- Breeder khusus memelihara Jounceling untuk pertandingan kompetitif. Bloodline tertentu sangat dicari.
-- Liga profesional Jounce ada di kota-kota besar. Turnamen internasional ada.
+## FBA Traditions
+- Before the Jounce Cup final, both teams are introduced alongside their Jounceling. The Jounceling is given a name, a number, and its own team insignia. Sometimes the Jounceling is more popular than the players.
+- Retired professional Jouncelings are often adopted into comfortable lives.
+- Specialist breeders raise Jouncelings for competitive matches. Certain bloodlines are highly sought after.
+- Professional Jounce leagues exist in the great cities. International tournaments exist.
 
 ## What the Party Knows
-- Jounce adalah olahraga tim magis tradisional Sonstige.
-- Bola-nya adalah makhluk hidup bernama Jounceling.
-- FBA punya empat houses dan Jounce Cup.
-- The Bateleur Eagle adalah tim varsity FBA.
-- Lilia adalah kaptennya.
+- Jounce is the traditional team sport of magic in Sonstige.
+- Its ball is a living creature called a Jounceling.
+- FBA has four houses and a Jounce Cup.
+- The Bateleur Eagle is FBA's varsity team.
+- Lilia is its captain.

@@ -5,17 +5,17 @@ universe: Sonstige
 ---
 > [!info] At a Glance
 > **Part of:** Southwest Calamara
-> **Notable People:** Keluarga Ironhide
+> **Notable People:** The Ironhide family
 > **Status:** Suburban residential complex
 
 ## What Matters Here
-- Kompleks pemukiman suburban di Southwest Calamara.
-- Sekitar **satu jam perjalanan** dari FBA.
-- Rumah-rumah dua lantai. Jalan-jalan lebar. Pohon-pohon rindang.
-- **Rumah Keluarga Ironhide** — dua lantai, berantakan karena Atun baru lahir. Peralatan Jounce di mana-mana. Buku-buku antologi puisi Maestro Lorenzo di rak yang belum sempat dibaca.
-- Tidak jauh dari The Azures terdapat **Everglade Academy** — sekolah rival dengan program Jounce terkenal.
+- A suburban residential complex in Southwest Calamara.
+- About **an hour's journey** from FBA.
+- Two-storey houses. Wide streets. Leafy trees.
+- **The Ironhide family home** — two storeys, a mess now that Atun has been born. Jounce gear everywhere. Copies of Maestro Lorenzo's poetry anthologies on shelves no one has had time to read.
+- Not far from The Azures stands **Everglade Academy** — the rival school with the famous Jounce program.
 
 ## What the Party Knows
-- The Azures adalah kompleks pemukiman tempat Brougha tinggal.
-- Sekitar satu jam dari FBA.
-- Dekat dengan Everglade Academy.
+- The Azures is the residential complex where Brougha lives.
+- About an hour from FBA.
+- Close to Everglade Academy.

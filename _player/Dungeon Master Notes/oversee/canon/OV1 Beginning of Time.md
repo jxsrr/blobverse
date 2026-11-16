@@ -104,7 +104,7 @@ A new era began.
 
 In the vast **Central Plains** and the **Southwest Coast** — a region rich in resources but never free of natural disaster — the first truly conscious life was born.
 
-From the fruit of a **primordial tree** — one of the ancient flora that filtered Ambitio-Ether — came the **[[The Inbu|Inbu]]**.
+From the fruit of a **primordial tree** — one of the ancient flora that filtered Ambitio-Ether — came the **[[oversee/lore/Inbu|Inbu]]**.
 
 Born directly from the essence of Ambitio-Ether that had been filtered and purified by the primordial tree, the Inbu were the first creatures with **extraordinary magical power**. They were the **primordial ancestors** — the mother of all humanoid races in Oversee.
 

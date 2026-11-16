@@ -2,82 +2,82 @@
 type: Sonstige Lore
 universe: Sonstige
 ---
-> [!info] Sistem Wing FBA
-> FBA tidak memiliki houses. Siswa dikelompokkan ke dalam **Wings** — enam fakultas akademik. Setiap Wing mewakili satu **Vocational Track**. Siswa **memilih** Wing mereka saat mendaftar — seperti memilih jurusan di universitas.
+> [!info] The FBA Wing System
+> FBA does not have houses. Students are grouped into **Wings** — six academic faculties. Each Wing represents one **Vocational Track**. Students **choose** their Wing when they enrol — like choosing a major at a university.
 
-## Cara Kerja
+## How It Works
 
-- **Tidak ada sorting.** Siswa memilih Wing mereka — atau dibimbing oleh orang tua/wali. Tidak ada ujian penempatan. Tidak ada Sorting Hat.
-- **Wing menentukan kelas.** Setiap Wing punya kurikulum inti — plus mata pelajaran umum yang diambil semua siswa.
-- **Wing menentukan academic advisor.** Setiap siswa punya **Wing Advisor** — guru dari jurusan mereka.
-- **Wing menentukan homeroom.** Setiap pagi, siswa masuk homeroom per Wing.
-- **Wing bisa berubah.** Siswa yang ingin pindah jurusan bisa pindah Wing — meskipun jarang dan memerlukan persetujuan.
-- **Wing bukan identitas moral.** Tidak ada "Wing pemberani" atau "Wing jahat." Setiap Wing berisi campuran — orang baik, orang buruk, orang biasa. **Wing adalah jurusan, bukan rumah.**
+- **No sorting.** Students choose their Wing — or are guided by a parent or guardian. No placement tests. No Sorting Hat.
+- **The Wing determines classes.** Each Wing has a core curriculum — plus general subjects taken by all students.
+- **The Wing determines academic advisor.** Every student has a **Wing Advisor** — a teacher from their track.
+- **The Wing determines homeroom.** Every morning, students attend a homeroom by Wing.
+- **Wings can change.** A student who wishes to switch tracks may switch Wings — though it is rare and requires approval.
+- **The Wing is not a moral identity.** There is no "brave Wing" or "evil Wing." Every Wing contains a mix — good people, bad people, ordinary people. **The Wing is a major, not a house.**
 
-## Enam Wing
+## The Six Wings
 
-| Wing             | Vocational Track | Class Options            | Karakter Studi                 |
-| :--------------- | :--------------- | :----------------------- | :----------------------------- |
-| **Kestrel Wing** | Arcane Studies   | Wizard, Sorcerer         | Akademisi, peneliti, presisi   |
-| **Heron Wing**   | Divine Studies   | Cleric, Paladin          | Moral, tradisi, pelayanan      |
-| **Magpie Wing**  | Performance      | Bard, Rogue              | Ekspresif, sosial, networking  |
-| **Hawk Wing**    | Martial Arts     | Fighter, Barbarian, Monk | Disiplin fisik, kompetisi      |
-| **Sparrow Wing** | Wildcraft        | Ranger, Druid            | Alam, survival, komunitas      |
-| **Rook Wing**    | Contract Magic   | Warlock                  | Eksklusif, tertutup, misterius |
+| Wing | Vocational Track | Class Options | Study Character |
+| :--- | :--- | :--- | :--- |
+| **Kestrel Wing** | Arcane Studies | Wizard, Sorcerer | Academic, researcher, precise |
+| **Heron Wing** | Divine Studies | Cleric, Paladin | Moral, traditional, service |
+| **Magpie Wing** | Performance | Bard, Rogue | Expressive, social, networked |
+| **Hawk Wing** | Martial Arts | Fighter, Barbarian, Monk | Physical discipline, competition |
+| **Sparrow Wing** | Wildcraft | Ranger, Druid | Nature, survival, community |
+| **Rook Wing** | Contract Magic | Warlock | Exclusive, closed, mysterious |
 
-## Mengapa Nama Burung?
+## Why Bird Names?
 
-- **"Free Bird Academy"** — nama sekolah. Setiap Wing mewakili **jenis burung** yang mencerminkan **bidang studi**-nya.
-- **Kestrel** — burung kecil yang presisi, sabar, dan mematikan. Mencerminkan **Arcane Studies** — sihir yang presisi dan terkontrol.
-- **Heron** — burung yang diam, sabar, dan setia. Mencerminkan **Divine Studies** — kesabaran dan pelayanan.
-- **Magpie** — burung yang cerewet, cerdas, dan suka mencuri. Mencerminkan **Performance** — ekspresi dan kelicikan.
-- **Hawk** — burung yang agresif dan dominan. Mencerminkan **Martial Arts** — kekuatan dan kompetisi.
-- **Sparrow** — burung yang hidup berkelompok dan dekat dengan alam. Mencerminkan **Wildcraft** — komunitas dan alam.
-- **Rook** — burung yang misterius, strategis, dan gelap. Mencerminkan **Contract Magic** — misteri dan perjanjian.
+- **"Free Bird Academy"** — the school's name. Each Wing represents a **type of bird** that reflects its **field of study**.
+- **Kestrel** — a small bird that is precise, patient, and deadly. Reflects **Arcane Studies** — precise and controlled magic.
+- **Heron** — a bird that is still, patient, and faithful. Reflects **Divine Studies** — patience and service.
+- **Magpie** — a bird that is chatty, clever, and prone to stealing. Reflects **Performance** — expression and cunning.
+- **Hawk** — an aggressive and dominant bird. Reflects **Martial Arts** — strength and competition.
+- **Sparrow** — a bird that lives in flocks and close to nature. Reflects **Wildcraft** — community and nature.
+- **Rook** — a mysterious, strategic, and shadowy bird. Reflects **Contract Magic** — mystery and pacts.
 
-## Fungsi Wing di FBA
+## What the Wing Does at FBA
 
-- **Homeroom.** Setiap pagi, 07:50–08:00, siswa masuk homeroom per Wing. Dipimpin oleh **Wing Advisor**.
-- **Kelas inti.** Setiap Wing punya kurikulum inti — mata pelajaran yang wajib untuk jurusan tersebut.
-- **Academic Advisor.** Setiap siswa punya Wing Advisor — guru yang membimbing mereka secara akademik.
-- **Jounce Cup.** Kejuaraan Jounce **antar-Wing** — enam tim bertanding dalam bracket. Bukan antar-kelas, bukan antar-angkatan.
-- **The Bateleur Eagle.** Tim varsity FBA — **all-star** dari enam Wing. Bukan tim Wing mana pun.
+- **Homeroom.** Every morning, 07:50–08:00, students attend homeroom by Wing. Led by the **Wing Advisor**.
+- **Core classes.** Each Wing has a core curriculum — the subjects required for that track.
+- **Academic Advisor.** Every student has a Wing Advisor — a teacher who guides them academically.
+- **Jounce Cup.** The **inter-Wing** Jounce championship — six teams compete in a bracket. Not inter-class, not inter-year.
+- **The Bateleur Eagle.** FBA's varsity team — an **all-star** selection from all six Wings. Not a team of any one Wing.
 
-## Yang BUKAN Fungsi Wing
+## What the Wing Is NOT
 
-- **Wing bukan tempat tinggal.** FBA adalah sekolah pulang-pergi. Tidak ada asrama. Tidak ada common room.
-- **Wing bukan identitas moral.** Tidak ada "Wing pemberani" atau "Wing jahat."
-- **Wing bukan sistem poin.** Tidak ada poin Wing. Tidak ada piala untuk Wing terbaik.
-- **Wing bukan segalanya.** Siswa menghabiskan waktu di klub, di Jounce, di kelas umum — dengan siswa dari Wing lain.
+- **The Wing is not a residence.** FBA is a commuter school. No dorms. No common rooms.
+- **The Wing is not a moral identity.** There is no "brave Wing" or "evil Wing."
+- **The Wing is not a points system.** No Wing points. No trophy for the best Wing.
+- **The Wing is not everything.** Students spend time in clubs, in Jounce, in general classes — alongside students from other Wings.
 
-## Strata Sosial — Lebih Penting dari Wing
+## Social Strata — More Important Than Wing
 
-Wing hanyalah jurusan. Yang **sebenarnya** menentukan status sosial di FBA adalah:
+The Wing is only a major. What **actually** determines social status at FBA is:
 
-| Strata | Contoh | Karakter |
+| Stratum | Examples | Character |
 | :--- | :--- | :--- |
-| **Legacy Families** | Ashbourne, Cortenya | Old money. Nama besar. Ekspektasi tinggi. |
-| **New Money** | Ironhide | Kaya dari prestasi — bukan warisan. |
-| **Sponsored Students** | Zenroy (Grafsten) | Dibiayai. Punya misi. Tidak sepenuhnya bebas. |
-| **Scholarship Kids** | — | Berjuang. Tidak punya koneksi. |
-| **Staff Families** | — | Anak guru/staf. Status ambigu. |
+| **Legacy Families** | Ashbourne, Cortenya | Old money. Big names. High expectations. |
+| **New Money** | Ironhide | Wealth from achievement — not inheritance. |
+| **Sponsored Students** | Zenroy (Grafsten) | Funded. On a mission. Not entirely free. |
+| **Scholarship Kids** | — | Struggling. No connections. |
+| **Staff Families** | — | Children of teachers/staff. Ambiguous status. |
 
-**Klik sosial terbentuk dari** kelas, uang, dan reputasi — **bukan** dari Wing.
+**Social cliques form from** class, money, and reputation — **not** from Wing.
 
-## Homeroom vs Kelas
+## Homeroom vs Classes
 
-| Aspek | Homeroom | Kelas |
+| Aspect | Homeroom | Classes |
 | :--- | :--- | :--- |
-| **Berdasarkan** | Wing | Wing + mata pelajaran umum |
-| **Siapa yang hadir** | Semua siswa dari Wing yang sama | Campuran — tergantung mata pelajaran |
-| **Dipimpin oleh** | Wing Advisor | Guru mata pelajaran |
-| **Tujuan** | Administrasi, pengumuman, kehadiran | Pembelajaran |
+| **Based on** | Wing | Wing + general subjects |
+| **Who attends** | All students from the same Wing | Mixed — depends on the subject |
+| **Led by** | Wing Advisor | Subject teacher |
+| **Purpose** | Administration, announcements, attendance | Learning |
 
-**Catatan:** Beberapa mata pelajaran umum — seperti History, Literature, Civics — diambil oleh **semua siswa dari semua Wing**. Di sini, siswa dari Wing berbeda bertemu. Jounce Court, Dining Hall, Library — juga tempat siswa dari Wing berbeda bertemu.
+**Note:** Some general subjects — such as History, Literature, Civics — are taken by **all students from all Wings**. Here, students from different Wings meet. The Jounce Court, the Dining Hall, and the Library are also places where students from different Wings meet.
 
-## Jounce Cup
+## The Jounce Cup
 
-- **Kejuaraan antar-Wing.**
-- Setiap Wing mengirimkan tim Jounce.
-- Final: Enam tim bertanding dalam bracket — pemenang mendapat **Jounce Cup**.
-- **The Bateleur Eagle** — tim varsity FBA — adalah **all-star** dari enam Wing. Bukan tim Wing. Tim yang mewakili sekolah di kompetisi antar-sekolah.
+- **The inter-Wing championship.**
+- Each Wing sends a Jounce team.
+- Final: six teams compete in a bracket — the winner takes the **Jounce Cup**.
+- **The Bateleur Eagle** — FBA's varsity team — is an **all-star** selection from all six Wings. Not a Wing team. A team representing the school in inter-school competition.

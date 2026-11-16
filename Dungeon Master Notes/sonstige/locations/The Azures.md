@@ -6,31 +6,31 @@ universe: Sonstige
 ::pf
 > [!info] At a Glance
 > **Part of:** Southwest Calamara
-> **Notable People:** Keluarga Ironhide
+> **Notable People:** The Ironhide family
 > **Status:** Suburban residential complex
 
 ## What Matters Here
-- Kompleks pemukiman suburban di Southwest Calamara.
-- Sekitar **satu jam perjalanan** dari FBA.
-- Rumah-rumah dua lantai. Jalan-jalan lebar. Pohon-pohon rindang.
-- **Rumah Keluarga Ironhide** — dua lantai, berantakan karena Atun baru lahir. Peralatan Jounce di mana-mana. Buku-buku antologi puisi Maestro Lorenzo di rak yang belum sempat dibaca.
-- Tidak jauh dari The Azures terdapat **Everglade Academy** — sekolah rival dengan program Jounce terkenal.
+- A suburban residential complex in Southwest Calamara.
+- About **an hour's journey** from FBA.
+- Two-storey houses. Wide streets. Leafy trees.
+- **The Ironhide family home** — two storeys, a mess now that Atun has been born. Jounce gear everywhere. Copies of Maestro Lorenzo's poetry anthologies on shelves no one has had time to read.
+- Not far from The Azures stands **Everglade Academy** — the rival school with the famous Jounce program.
 
 ## What the Party Knows
-- The Azures adalah kompleks pemukiman tempat Brougha tinggal.
-- Sekitar satu jam dari FBA.
-- Dekat dengan Everglade Academy.
+- The Azures is the residential complex where Brougha lives.
+- About an hour from FBA.
+- Close to Everglade Academy.
 ::/pf
 
 %% DM SECRETS %%
-- The Azures adalah **lingkungan kelas menengah atas** — bukan kawasan bangsawan, tapi juga bukan kawasan miskin.
-- Sebagian besar penghuninya adalah **keluarga atlet** — karena dekat dengan Everglade Academy dan fasilitas olahraga.
-- **DM Note:** The Azures adalah tempat yang **aman** — tapi juga tempat yang **terisolasi** dari dunia luar. Brougha tumbuh di sini — dalam gelembung keluarga yang hangat.
+- The Azures is an **upper-middle-class neighbourhood** — not a noble quarter, but not a poor one either.
+- Most of its residents are **athletic families** — because of its proximity to Everglade Academy and the sports facilities.
+- **DM Note:** The Azures is a **safe** place — but also a place **isolated** from the outside world. Brougha grew up here — inside a warm family bubble.
 
 ## Connections
-- `Brougha Ironhide.md` — penghuni
-- `Ramarz Ironhide.md` — penghuni
-- `Shazara Ironhide.md` — penghuni
-- `Gargathun Ironhide.md` — penghuni
-- `Everglade Academy.md` — sekolah terdekat
-- `The Free Bird Academy.md` — sekolah Brougha
+- `Brougha Ironhide.md` — resident
+- `Ramarz Ironhide.md` — resident
+- `Shazara Ironhide.md` — resident
+- `Gargathun Ironhide.md` — resident
+- `Everglade Academy.md` — the nearest school
+- `The Free Bird Academy.md` — Brougha's school

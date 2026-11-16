@@ -2,48 +2,48 @@
 type: Sonstige Faction
 universe: Sonstige
 ---
-> [!info] Enam Ekstrakurikuler FBA
-> Setiap siswa wajib mengikuti minimal satu. Tidak ada batas maksimal. Ekstrakurikuler adalah tempat siswa dari berbagai Wing bercampur — dan tempat bonding utama.
+> [!info] The Six FBA Extracurriculars
+> Every student must join at least one. There is no upper limit. Extracurriculars are where students from different Wings mingle — and the main site of bonding.
 
 ## 1. Jounce
-- **Olahraga tim magis tradisional.** Bola hidup — Jounceling.
-- **Tim varsity:** The Bateleur Eagle.
-- **Jounce Cup:** Kejuaraan antar-Wing tahunan.
+- **The traditional team sport of magic.** A living ball — the Jounceling.
+- **Varsity team:** The Bateleur Eagle.
+- **Jounce Cup:** The annual inter-Wing championship.
 - **Coach:** Coach Garrick.
-- **Jadwal:** Latihan Selasa & Kamis, 16:00–17:30.
-- **Fitur:** Kompetisi, disiplin, kerja sama tim.
+- **Schedule:** Practice Tuesdays & Thursdays, 16:00–17:30.
+- **Features:** Competition, discipline, teamwork.
 
 ## 2. The Daily Flight
-- **Koran sekolah FBA.**
-- **Isi:** Gosip kampus, prestasi siswa, investigasi ringan, opini, puisi, komik.
-- **Editor Senior:** (TBD — mungkin senior yang ambisius).
-- **Jadwal:** Rapat redaksi Rabu, 16:00–17:30.
-- **Fitur:** Investigasi, networking, rumor, menulis.
+- **The FBA school newspaper.**
+- **Contents:** Campus gossip, student achievements, light investigations, opinion, poetry, comics.
+- **Senior Editor:** (TBD — perhaps an ambitious senior).
+- **Schedule:** Editorial meeting Wednesdays, 16:00–17:30.
+- **Features:** Investigation, networking, rumour, writing.
 
 ## 3. Student Council
-- **Pemerintahan siswa FBA.**
-- **Isi:** Mengorganisir acara sekolah, menyuarakan keluhan siswa, mengelola anggaran kegiatan, berkoordinasi dengan pihak sekolah.
-- **Ketua:** Dipilih melalui pemilihan tahunan.
-- **Jadwal:** Rapat Senin, 16:00–17:30.
-- **Fitur:** Politik kampus, diplomasi, leadership, konflik kepentingan.
+- **The FBA student government.**
+- **Contents:** Organising school events, voicing student complaints, managing activity budgets, coordinating with the school.
+- **Chair:** Elected through the annual election.
+- **Schedule:** Meetings Mondays, 16:00–17:30.
+- **Features:** Campus politics, diplomacy, leadership, conflicts of interest.
 
 ## 4. Debate Club
-- **Klub debat.**
-- **Isi:** Debat formal, debat parlementer, public speaking, argumentasi.
-- **Pembina:** Prof. Quill (mantan pengacara — cocok untuk debat hukum) atau Mr. Elias (debat sejarah).
-- **Jadwal:** Latihan Senin & Jumat, 16:00–17:30.
-- **Fitur:** Retorika, logika, penelitian, kompetisi antar-sekolah.
+- **The debating club.**
+- **Contents:** Formal debate, parliamentary debate, public speaking, argumentation.
+- **Advisor:** Prof. Quill (a former lawyer — suited to legal debate) or Mr. Elias (historical debate).
+- **Schedule:** Practice Mondays & Fridays, 16:00–17:30.
+- **Features:** Rhetoric, logic, research, inter-school competition.
 
 ## 5. Drama Club
-- **Klub teater.**
-- **Isi:** Akting, penulisan naskah, sutradara, produksi panggung, pertunjukan tahunan.
-- **Pembina:** Maestro Lorenzo (dramatis — cocok untuk teater).
-- **Jadwal:** Latihan Rabu, 16:00–17:30.
-- **Fitur:** Ekspresi, kolaborasi, performance, kompetisi drama antar-sekolah.
+- **The theatre club.**
+- **Contents:** Acting, script writing, directing, stage production, annual performances.
+- **Advisor:** Maestro Lorenzo (dramatic — well-suited to theatre).
+- **Schedule:** Practice Wednesdays, 16:00–17:30.
+- **Features:** Expression, collaboration, performance, inter-school drama competition.
 
 ## 6. Cooking Club
-- **Klub memasak.**
-- **Isi:** Memasak, baking, eksperimen resep, kompetisi masak, katering acara sekolah.
-- **Pembina:** (TBD — mungkin staf dapur atau guru yang hobi memasak).
-- **Jadwal:** Latihan Kamis, 16:00–17:30.
-- **Fitur:** Kreativitas, kerja sama tim, eksperimen, kompetisi masak antar-sekolah.
+- **The cooking club.**
+- **Contents:** Cooking, baking, recipe experiments, cook-offs, catering for school events.
+- **Advisor:** (TBD — perhaps kitchen staff or a teacher with a cooking hobby).
+- **Schedule:** Practice Thursdays, 16:00–17:30.
+- **Features:** Creativity, teamwork, experimentation, inter-school cook-offs.

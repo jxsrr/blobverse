@@ -9,24 +9,24 @@ universe: Sonstige
 ---
 ::pf
 > [!info] At a Glance
-> **Role:** Penyanyi yang mati dalam kecelakaan jet pribadi setelah membahas UAP.
+> **Role:** A singer who died in a private jet crash after discussing UFOs.
 > **Status:** Deceased (2016)
 
 ## What the Party Knows
-- Penyanyi terkenal. Mati dalam kecelakaan jet pribadi pada 2016.
-- Sebelum mati, ia membahas UAP di livestream.
-- Ia menyebut "elang yang terbang mundur."
-- Pemerintah menyebutnya kecelakaan.
+- A famous singer. Died in a private jet crash in 2016.
+- Before he died, he discussed UFOs on a livestream.
+- He mentioned "the eagle that flies backwards."
+- The government called it an accident.
 ::/pf
 
 %% DM SECRETS %%
-- Oliver Deen tahu tentang **The Bateleur Incident** — RAIB massal yang menghapus satu tim Jounce pada 2016.
-- Ia mencoba memperingatkan dunia. Ia membahas UAP dan "elang yang terbang mundur" — kode untuk Bateleur Eagle yang terbang ke Void.
-- Ia dibungkam. Kecelakaan jet pribadi adalah pembunuhan.
-- **Lagu terakhirnya** mengandung peringatan terkode tentang Bateleur Incident dan 2001 First Delivery.
-- Mungkin ada **Echo** Oliver Deen — atau hanya lagunya yang tersisa.
+- Oliver Deen knew about **The Bateleur Incident** — a mass RAIB that erased an entire Jounce team in 2016.
+- He tried to warn the world. He discussed UFOs and "the eagle that flies backwards" — a coded reference to the Bateleur Eagle that flies into the Void.
+- He was silenced. The private jet crash was an assassination.
+- **His final song** contained a coded warning about the Bateleur Incident and the 2001 First Delivery.
+- There may be an **Echo** of Oliver Deen — or only his song remains.
 
 ## Connections
 - `SO3 The Three Dates.md` — 2016
 - `Jounce.md` — Bateleur Eagle
-- `R.A.I.B.md` — erasure yang ia coba peringatkan
+- `R.A.I.B.md` — the erasure he tried to warn about

@@ -8,12 +8,12 @@ universe: Sonstige
 > **Status:** Elite school. Rival of FBA.
 
 ## What Matters Here
-- Akademi paling terpandang di **Imperial Capitol**.
-- Menyaingi **FBA** sebagai sekolah elit.
-- Biasanya keluarga Grafsten mengirim anak-anak dan pegawai mereka ke sini.
-- Karena perselisihan dengan keluarga kekaisaran, keluarga Grafsten **tidak** mengirim Zenroy ke sini — mereka memilih FBA.
+- The most prestigious academy in the **Imperial Capitol**.
+- Rivals **FBA** as an elite school.
+- The Grafsten family usually sends its children and its retainers here.
+- Because of the dispute with the imperial family, the Grafstens did **not** send Zenroy here — they chose FBA instead.
 
 ## What the Party Knows
-- Sekolah rival FBA. Di Imperial Capitol.
-- Biasanya tujuan keluarga Grafsten.
-- Zenroy **seharusnya** masuk sini — tapi tidak jadi.
+- FBA's rival school. In the Imperial Capitol.
+- Usually where the Grafsten family ends up.
+- Zenroy was **supposed** to enrol here — but didn't.

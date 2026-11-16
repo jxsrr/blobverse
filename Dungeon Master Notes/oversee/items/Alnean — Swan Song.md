@@ -43,10 +43,10 @@ aliases:
 ## What the Party Knows
 - They have never heard of Alnean.
 - They know there are three ancient relics, but they have only seen one — Gustaero.
+%% DM SECRETS %%
 - They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Kota Juto. They do not yet know he is connected to the Kuo Lau Kingdom, or to Alnean.
 ::/pf
 
-%% DM SECRETS %%
 
 ### What Alnean Is
 - Alnean is the **breath of the swan**. It is a breathing relic — not a weapon, not a crown, not a blade.

@@ -6,30 +6,30 @@ universe: Sonstige
 ::pf
 > [!info] At a Glance
 > **Part of:** Southeast Peninsula
-> **Notable People:** Keluarga Grafsten, Zenroy Dala
+> **Notable People:** The Grafsten family, Zenroy Dala
 > **Status:** Small port town. Developing. Under imperial scrutiny.
 
 ## What Matters Here
-- Kota pelabuhan kecil di ujung **Southeast Peninsula**.
-- **Belum berkembang** — infrastruktur terbatas, ekonomi bergantung pada perdagangan laut.
-- Dikuasai oleh **Keluarga Grafsten**.
-- Saat ini **berselisih dengan keluarga kekaisaran** — sedang berupaya memulihkan reputasi.
-- **Rumah besar keluarga Grafsten** — luas, tapi Zenroy hanya mendapat satu kamar kosong.
-- **Gerbang kota** — dijaga oleh penjaga yang curiga pada orang asing.
+- A small port town at the tip of the **Southeast Peninsula**.
+- **Underdeveloped** — limited infrastructure, its economy dependent on maritime trade.
+- Controlled by the **Grafsten family**.
+- Currently **in dispute with the imperial family** — struggling to restore its reputation.
+- The **Grafsten family's great house** — sprawling, but Zenroy was given only one empty room.
+- The **town gate** — watched by guards suspicious of strangers.
 
 ## What the Party Knows
-- Kota asal Zenroy. Kota pelabuhan di Southeast Peninsula.
-- Dikuasai keluarga Grafsten.
-- Sedang dalam masalah dengan keluarga kekaisaran.
+- Zenroy's home town. A port town on the Southeast Peninsula.
+- Controlled by the Grafsten family.
+- Currently in trouble with the imperial family.
 ::/pf
 
 %% DM SECRETS %%
-- Grafstenmouth adalah **kota yang sedang sekarat**. Perselisihan dengan keluarga kekaisaran telah memutus jalur perdagangan. Warga mulai pergi.
-- **Keluarga Grafsten** adalah penguasa lokal — bukan bangsawan tinggi, tapi cukup berpengaruh di wilayahnya.
-- **DM Note:** Grafstenmouth adalah tempat yang **terlupakan**. Tidak ada yang peduli pada kota ini — kecuali keluarga Grafsten, yang mencoba menyelamatkannya.
+- Grafstenmouth is a **dying town**. The dispute with the imperial family has cut off its trade routes. Residents are beginning to leave.
+- The **Grafsten family** are the local rulers — not high nobles, but influential enough in their region.
+- **DM Note:** Grafstenmouth is a **forgotten** place. Nobody cares about this town — except the Grafsten family, who are trying to save it.
 
 ## Connections
-- `Zenroy Dala.md` — tinggal di sini
-- `Lord Aldric Grafsten.md` — penguasanya
-- `Grafsten Family.md` — keluarganya
-- `Imperial Academy.md` — sekolah rival di Imperial Capitol
+- `Zenroy Dala.md` — lives here
+- `Lord Aldric Grafsten.md` — its ruler
+- `Grafsten Family.md` — his family
+- `Imperial Academy.md` — the rival school in the Imperial Capitol

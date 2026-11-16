@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 7
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.
 
 ## Part 1: The Recovery Ward

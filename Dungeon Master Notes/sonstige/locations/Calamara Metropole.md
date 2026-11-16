@@ -5,38 +5,38 @@ era: Modern
 ---
 ::pf
 > [!info] Calamara
-> Kota kecil makmur di Negara Anderes. Magis adalah hal yang sepenuhnya biasa. Reputasinya sempurna. Sejarahnya tidak.
+> A small, prosperous city in Negara Anderes. Magic is entirely ordinary here. Its reputation is flawless. Its history is not.
 
-## Apa Itu Calamara
-- Kota kecil yang makmur. Rumah bagi keluarga terpandang, bisnis magis, kuil, atlet duel, akademisi, dan politisi.
-- Magis adalah hal yang sepenuhnya biasa.
-- Reputasinya sempurna.
-- Sejarahnya tidak.
+## What Calamara Is
+- A small, prosperous city. Home to respected families, magical businesses, temples, duelling athletes, academics, and politicians.
+- Magic is entirely ordinary.
+- Its reputation is flawless.
+- Its history is not.
 
-## Yang Ada di Calamara
-- **The Free Bird Academy (FBA)** — sekolah elit.
-- **Kuil-kuil** — tempat para Cleric dan Paladin berlatih.
-- **Bisnis magis** — toko-toko, bengkel, laboratorium.
-- **Arena duel** — tempat Coach Garrick melatih atlet.
-- **Pasar** — tempat para siswa membeli perlengkapan.
-- **Rumah-rumah keluarga lama** — keluarga berdarah biru yang telah tinggal di Calamara selama generasi.
+## What Is in Calamara
+- **The Free Bird Academy (FBA)** — an elite school.
+- **The temples** — where Clerics and Paladins train.
+- **Magical businesses** — shops, workshops, laboratories.
+- **Duelling arenas** — where Coach Garrick trains athletes.
+- **The markets** — where students buy their supplies.
+- **The houses of old families** — blue-blooded families who have lived in Calamara for generations.
 
 ## What the Party Knows
-- Calamara adalah kota tempat campaign berlangsung.
-- Magis adalah hal biasa.
-- Reputasinya sempurna.
+- Calamara is the city where the campaign takes place.
+- Magic is ordinary here.
+- Its reputation is flawless.
 ::/pf
 
 %% DM SECRETS %%
-- Calamara adalah **panggung**. Reputasinya sempurna karena **Bellweather** menjaganya sempurna.
-- Setiap skandal di Calamara telah dikubur. Setiap saksi telah dibungkam. Setiap alumni yang "dikirim" telah dilupakan.
-- Sejarah Calamara adalah sejarah **penghapusan**.
-- **Mr. Elias** — guru Sejarah di FBA — tahu semua skandal kota sampai detail. Ia mungkin satu-satunya yang ingat.
-- **Prof. Quill** — guru Civics & Magical Law — mengajar dengan studi kasus nyata dari Calamara. Ia tahu hukum, tapi tidak tahu kebenaran di baliknya.
+- Calamara is a **stage**. Its reputation is flawless because **Bellweather** keeps it flawless.
+- Every scandal in Calamara has been buried. Every witness has been silenced. Every alumnus who was "sent away" has been forgotten.
+- Calamara's history is a history of **erasure**.
+- **Mr. Elias** — the History teacher at FBA — knows every scandal in the city in detail. He may be the only one who remembers.
+- **Prof. Quill** — the Civics & Magical Law teacher — teaches using real case studies from Calamara. He knows the law, but not the truth behind it.
 
 ## Connections
-- `SO0 Sonstige.md` — dunia
-- `SO1 Negara Anderes.md` — negara
-- `The Free Bird Academy.md` — sekolah
-- `The Bell.md` — mitos
-- `Bellweather.md` — keluarga yang menjaga reputasi kota
+- `SO0 Sonstige.md` — the world
+- `SO1 Negara Anderes.md` — the country
+- `The Free Bird Academy.md` — the school
+- `The Bell.md` — the myth
+- `Bellweather.md` — the family that guards the city's reputation

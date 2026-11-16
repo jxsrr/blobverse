@@ -3,6 +3,16 @@ title: Blobverse
 description: Player-facing wiki for the Blobverse campaigns.
 showSidebar: false
 showToc: false
+cta:
+  - label: "Start with Oversee"
+    href: "/oversee"
+    variant: "primary"
+  - label: "Visit Sonstige"
+    href: "/sonstige"
+    variant: "secondary"
+  - label: "Read Aede"
+    href: "/aede"
+    variant: "secondary"
 ---
 # Blobverse
 

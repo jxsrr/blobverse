@@ -5,16 +5,16 @@ current_holder: Vivienne Ashbourne
 universe: Sonstige
 ---
 > [!info] At a Glance
-> **Type:** Manuskrip tua
+> **Type:** An old manuscript
 > **Holder:** Vivienne Ashbourne
 > **Rarity:** Unique
 
 ## What It Is
-- Manuskrip tua yang ditemukan Vivienne di antara peninggalan keluarga Ashbourne.
-- Berisi catatan mengenai **penelitian magis** yang tidak pernah dibicarakan dalam sejarah keluarga.
-- Beberapa bagian **sengaja dihapus**. Sisanya menggunakan **simbol dan bahasa** yang belum berhasil dipahami.
-- Vivienne menduga FBA memiliki arsip yang dapat membantu mengungkap isi manuskrip.
+- An old manuscript Vivienne found among the Ashbourne family's heirlooms.
+- It contains notes on **magical research** that was never spoken of in the family's history.
+- Several sections were **deliberately erased**. The rest uses **symbols and a language** that has not yet been deciphered.
+- Vivienne suspects FBA holds archives that could help reveal the manuscript's contents.
 
 ## Why It Matters
-- Ini adalah alasan Vivienne masuk FBA — selain alasan resmi.
-- Manuskrip ini mungkin berisi **kebenaran** tentang keluarga Ashbourne — atau tentang FBA.
+- This is the reason Vivienne enrolled at FBA — beyond the official reason.
+- The manuscript may contain the **truth** about the Ashbourne family — or about FBA.

@@ -11,11 +11,11 @@ years: 201 – 699 AV
 
 **~240 AV — Hutan Domido**
 
-Years passed. **[[oversee/npcs/Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[Hutan Domido|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
+Years passed. **[[oversee/npcs/Gordon]]** grew into a strong young man — a hunter of rare skill, known throughout the **[[oversee/locations/Domido Forest|Domido Forest]]** for his tracking, his patience, and his uncanny ability to read the land.
 
 The **[[oversee/items/Gustaero — The Swan Bow|Gustaero bow]]** was always with him, though he rarely used it for hunting. He preferred a simple hunting bow. Gustaero was too special, too precious to use casually. He kept it wrapped in cloth, hidden in a hollow beneath the floorboards of his hut, and occasionally took it out just to hold it — to feel the warmth of the wood, to remember the old dwarf who had given it to him.
 
-He traveled often between **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
+He traveled often between **[[oversee/locations/Ghuffghuff Town]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
 
 He knew they had no real quarrel with each other. They differed only in cuisine — **fried rice versus fried noodles** — and that was not a reason for hatred, let alone war.
 
@@ -25,7 +25,7 @@ He knew they had no real quarrel with each other. They differed only in cuisine 
 
 Then, in the year 260 AV, something changed.
 
-Merchants from the great cities — **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
+Merchants from the great cities — **[[oversee/locations/Padre Megalopolis]]**, **[[oversee/locations/Javan Town]]** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
 
 They also brought **rumors**. Whispers of the neighboring village's hostile intentions. Whispers of plans to steal secret recipes. Whispers of insults that Gordon had never heard before.
 
@@ -69,7 +69,7 @@ They left Gordon there, with a wound in his leg and a fire in his chest.
 
 The next day, limping and determined, Gordon went to the elders of **Ghuffghuff**.
 
-He told them what he had seen. He told them about the Commonwealth agents, about the secret project at **[[Gunung Rayu]]**, about the conspiracy to start a war as a distraction.
+He told them what he had seen. He told them about the Commonwealth agents, about the secret project at **[[oversee/locations/Mount Rayu]]**, about the conspiracy to start a war as a distraction.
 
 The elder of Ghuffghuff — an old man with a white beard and weary eyes — looked at him with something between pity and irritation.
 
@@ -119,7 +119,7 @@ Because he kept making noise that no one wanted to hear. Because he kept shoutin
 
 The **Gruffgud War** lasted for centuries.
 
-For the people of the great cities of **[[oversee/locations/Harka]]** — **[[oversee/locations/Yawning Town]]**, **[[Padre City]]**, **[[oversee/locations/Javan Town]]** — this war was a joke.
+For the people of the great cities of **[[oversee/locations/Harka]]** — **[[oversee/locations/Yawning Town]]**, **[[oversee/locations/Padre Megalopolis]]**, **[[oversee/locations/Javan Town]]** — this war was a joke.
 
 Merchants passing through the region brought stories of two foolish villages fighting over food. Bards composed mocking songs about the *"Rice vs. Noodle War"* and sang them in port taverns. People laughed when they heard that the two villages were fighting over **fried rice**, joking that fried noodles were also delicious and perhaps they should fight too.
 
@@ -167,7 +167,7 @@ The persecution came in waves.
 
 Grin merchants were driven from city markets. Grin children were stoned in the streets. Grin families who had settled in various regions were forcibly evicted from their homes. The Grin Kingdom — which had once stood as a symbol of resilience on the barren land no one wanted — began losing its citizens one by one.
 
-Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth]]** — chose to **stay and fight**.
+Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **[[oversee/npcs/Gavaevodata Grin]]** and **[[oversee/npcs/Zargoth]]** — chose to **stay and fight**.
 
 From the ashes of despair, **[[oversee/factions/Will of Grin]]** was born.
 
@@ -201,7 +201,7 @@ For most members, **Emelanica was the Answer Key**. They believed that the green
 
 For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **[[oversee/items/Emelanica]]**, **[[oversee/items/Safayer]]**, **[[oversee/items/Rubion]]**, **[[oversee/items/Topaju]]** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
 
-But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[oversee/npcs/Lei Alejandro]]**, to the still-living child of **[[Ratu Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
+But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **[[oversee/npcs/Lei Alejandro]]**, to the still-living child of **[[oversee/npcs/Queen Ghaniba]]**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
 
 **[[oversee/factions/Will of Grin]]** was easy to recognize — not by uniform or emblem, but by the **cursed smile** that never faded from their faces. In a world that hated them for that smile, they made it their identity, their badge among peers. The eternal smile was their uniform, their flag, their proof that they were part of something greater than themselves.
 
@@ -217,9 +217,9 @@ At the bottom layer stood the **Grinners** — the field troops who were the bac
 
 In their underground headquarters in **[[oversee/locations/Maw Desert]]**, Pirizia, **[[oversee/factions/Will of Grin]]** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **[[oversee/lore/The Initial Six]]**.
 
-They knew **[[oversee/npcs/Lei Alejandro]]** was still alive somewhere. They knew **[[Klan Lei]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
+They knew **[[oversee/npcs/Lei Alejandro]]** was still alive somewhere. They knew **[[oversee/lore/Lei Bloodline]]** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
 
-But they were not afraid. They were the descendants of **[[Gavaevodata]]** and **[[oversee/npcs/Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
+But they were not afraid. They were the descendants of **[[oversee/npcs/Gavaevodata Grin]]** and **[[oversee/npcs/Zargoth]]** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
 
 And in the heart of every member of **[[oversee/factions/Will of Grin]]**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
 
@@ -245,7 +245,7 @@ A new generation had been born and died without ever knowing what life without w
 
 His body was ancient. His hair was completely white. His beard hung to his chest. But his eyes still burned. And his voice still rumbled like thunder.
 
-He gathered the elders of both villages at the old fortress in the middle of **[[Hutan Domido]]** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
+He gathered the elders of both villages at the old fortress in the middle of **[[oversee/locations/Domido Forest]]** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
 
 Gordon stood in the center of the room. The elders sat around him — some with skeptical expressions, some with curiosity, some with hope that had almost burned out.
 
@@ -447,7 +447,7 @@ For him, the past had died with his parents on the day the sky fell. All that ex
 
 That year, **[[oversee/pcs/Vya Arleschia|Vya]]** was only **four years old**.
 
-**[[Chenalia]]** was as usual — quiet, green, surrounded by gently rolling hills like frozen waves. Vya spent her days chasing butterflies in the meadows, or sitting on her mother **[[oversee/npcs/Vreina Arleschia|Vreina's]]** lap, listening to stories about stars and seas she had never seen.
+**[[oversee/locations/Chenalia Town]]** was as usual — quiet, green, surrounded by gently rolling hills like frozen waves. Vya spent her days chasing butterflies in the meadows, or sitting on her mother **[[oversee/npcs/Vreina Arleschia|Vreina's]]** lap, listening to stories about stars and seas she had never seen.
 
 Her father, **[[oversee/npcs/Antrem Klaus|Antrem]]**, was a quiet man. Vya was used to seeing him sit on the veranda, staring at the sky with empty eyes, as if searching for something no one else could see. Sometimes, at night, she heard him mutter in his sleep — unfamiliar names, words in a strange language.
 
@@ -501,7 +501,7 @@ Weeks after Antrem's departure, **an old man came to Chenalia**.
 
 His body was thin and tall, with faint scales on some parts of his skin — the mark of dragonborn blood, long diluted. His eyes were sharp, but there was **gentleness** there.
 
-The old man was **[[Kopling]]** — an old acquaintance of Vreina from her youth, a wanderer who had once been an adventurer.
+The old man was **[[oversee/npcs/Yayat Kopling]]** — an old acquaintance of Vreina from her youth, a wanderer who had once been an adventurer.
 
 They had met by chance years before, and Vreina had kept his name as a **backup**, in case something happened. Now, something had happened.
 
@@ -559,7 +559,7 @@ But Kopling shook his head, admitting he was only an old man who could not bear 
 
 **~683 AV**
 
-Vya began her new life with **[[Kopling]]** — the old wanderer who became her adoptive father.
+Vya began her new life with **[[oversee/npcs/Yayat Kopling]]** — the old wanderer who became her adoptive father.
 
 She never saw her mother again. She never learned what happened to **[[oversee/npcs/Vreina Arleschia|Vreina]]** — whether she was taken by Will of Grin, killed by agents of the Commonwealth, or simply disappeared into the chaos of the world.
 
@@ -591,7 +591,7 @@ When his soul was sucked into **[[oversee/npcs/Simon Greenbottle|Simon]]** witho
 
 Centuries after that ritual, **Echo Sam Hurls found his way out**.
 
-He was drawn to **[[Ghuffghuff]]** — a place with a strong connection to **[[oversee/npcs/Gordon]]**, the student of **[[oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
+He was drawn to **[[oversee/locations/Ghuffghuff Town]]** — a place with a strong connection to **[[oversee/npcs/Gordon]]**, the student of **[[oversee/npcs/Olaf Guirela|Olaf]]**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
 
 In Ghuffghuff, **Echo Sam took a horrifying form**.
 
@@ -599,7 +599,7 @@ He became a pale creature with many human-like heads. Each head was a fragment o
 
 The creature sang, and its song was a **trap**.
 
-Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[oversee/npcs/Yahanda]]** and **[[Faska]]**.
+Anyone who heard the melody would be caught in an illusion — trapped in an unreal version of Ghuffghuff, slowly drained of energy until they became a dried corpse like **[[oversee/npcs/Yahanda]]** and **[[oversee/npcs/Faska Mektol]]**.
 
 The creature was not evil in the ordinary sense. It was only **hungry** — hungry for life, for energy, for something to fill the emptiness left by a fractured soul.
 
@@ -627,7 +627,7 @@ Other Echoes might also be waiting in other places.
 
 - **[[oversee/npcs/Atreus Grin]]** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
 - **[[oversee/npcs/Gzirmo Kopling]]** might echo in the mountains of **Elis**, near the clan he left behind.
-- **[[oversee/npcs/Atlan Nouveau]]** might echo in the **[[The Observatorium|Observatorium]]** of **[[Kota Juto]]**, or on the shore where he first found **[[oversee/npcs/Reins]]**.
+- **[[oversee/npcs/Atlan Nouveau]]** might echo in the **[Observatorium](/oversee/locations/Juto%27s%20Observatorium)** of **[[oversee/locations/Juto Port City]]**, or on the shore where he first found **[[oversee/npcs/Reins]]**.
 - **[[oversee/npcs/Olaf Guirela]]** might echo in the villages he once protected, or within **[[oversee/npcs/Gordon]]** and later **[[oversee/pcs/Husgus]]**, who inherited his teachings without knowing where they came from.
 
 They wait, these Echoes. Waiting for the moment to speak again — to finish what was interrupted at that altar.
@@ -638,7 +638,7 @@ And **[[oversee/factions/Keeper of Secret]]** — the organization founded by **
 
 **~690 AV**
 
-Forty years after the war ended, **[[oversee/npcs/Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[Hutan Domido]]**.
+Forty years after the war ended, **[[oversee/npcs/Gordon]]** — now ancient, his age approaching five centuries — still lived in his hut in **[[oversee/locations/Domido Forest]]**.
 
 His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **[[oversee/npcs/Sam Hurls]]** had taught him.
 
@@ -848,7 +848,7 @@ After leaving **Hutan Domido**, **Husgus wandered without purpose**, searching f
 
 ## Aftermath
 
-Years later, in **[[Ghuffghuff]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, the name **Gordon** was almost forgotten.
+Years later, in **[[oversee/locations/Ghuffghuff Town]]** and **[[oversee/locations/Gudameng Town|Gudameng]]**, the name **Gordon** was almost forgotten.
 
 But the **melody** that **[[oversee/npcs/Sam Hurls]]** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
 
@@ -856,9 +856,9 @@ Children sang it without knowing what it meant. Mothers hummed it while putting 
 
 The melody seeped into the soil, into the trees, into the air.
 
-**Centuries later**, when **[[oversee/pcs/README|The Five Sticks]]** came to **[[Ghuffghuff]]**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
+**Centuries later**, when **[[oversee/pcs/README|The Five Sticks]]** came to **[[oversee/locations/Ghuffghuff Town]]**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
 
-At **[[Gunung Rayu]]**, the **secret project of the Commonwealth continued for centuries**.
+At **[[oversee/locations/Mount Rayu]]**, the **secret project of the Commonwealth continued for centuries**.
 
 What they dug up in the ancient underground city, what artifacts they found — **no one knew**. Because the war they had created had successfully distracted everyone.
 

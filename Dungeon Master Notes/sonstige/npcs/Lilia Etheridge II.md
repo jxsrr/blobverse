@@ -9,102 +9,102 @@ universe: Sonstige
 ---
 > [!info] At a Glance
 > **Full Name:** Lilia Etheridge II
-> **Nickname:** "Lilie" (hanya teman dekat — Brougha dulu memanggilnya ini)
-> **Role:** Jounce prodigy. Kapten FBA's The Bateleur Eagle. Bellweather Candidate. Mantan kekasih Brougha.
+> **Nickname:** "Lilie" (close friends only — Brougha used to call her this)
+> **Role:** Jounce prodigy. Captain of FBA's The Bateleur Eagle. Bellweather Candidate. Brougha's ex-girlfriend.
 > **Where:** Calamara / FBA
-> **Status:** Alive — dijadwalkan menjadi Bride of Bellweather
+> **Status:** Alive — scheduled to become the Bride of Bellweather
 
 ## Appearance
 - Visual reference: [Picrew #708151](https://picrew.me/ja/image_maker/708151#goog_rewarded)
-- (Detail lain TBD oleh DM)
+- (Other details TBD by DM)
 
 ## What the Party Knows
-- **Lilia Etheridge II** — dipanggil "Lilie" oleh teman-teman dekatnya.
-- Prodigy Jounce. Kapten **FBA's The Bateleur Eagle**.
-- Orang pertama yang "naik" — dipromosikan lebih dulu.
-- Ditempatkan di jalur **Bellweather Candidate**.
-- **Mantan kekasih Brougha Ironhide.** Mereka putus sebelum FBA.
-- Menyukai **Lumen Arash** karya Maestro Lorenzo. Brougha membaca buku itu karena Lilia.
-- Line: *"Aku memang masih bisa mencintai, tapi tidak ada satu orang yg benar-benar spesial untukku."*
+- **Lilia Etheridge II** — called "Lilie" by her close friends.
+- Jounce prodigy. Captain of **FBA's The Bateleur Eagle**.
+- The first to "go up" — promoted first.
+- Placed on the **Bellweather Candidate** track.
+- **Brougha Ironhide's ex-girlfriend.** They broke up before FBA.
+- She loves **Lumen Arash** by Maestro Lorenzo. Brougha reads that book because of Lilia.
+- Her line: *"I can still love, but there's no one person who's really special to me."*
 
 ## Current Goal
-Menjadi Bride of Bellweather — atau melarikan diri darinya. (Ia belum tahu apa itu Bride. Ia hanya tahu itu adalah kehormatan.)
+Become the Bride of Bellweather — or escape it. (She does not yet know what the Bride is. She only knows it is an honour.)
 
 %% DM SECRETS %%
 
 ### Who Lilia Is — The Merged Truth
-- **Lilia Etheridge II** adalah **Bride of Bellweather berikutnya**. Ia adalah **Jounce prodigy**, **kapten The Bateleur Eagle**, dan **mantan kekasih Brougha Ironhide**.
-- Ia **tidak tahu** apa itu Bride. Ia hanya tahu bahwa ia **terpilih**. Ia hanya tahu bahwa itu adalah **kehormatan**. Ia hanya tahu bahwa keluarganya **bangga**.
-- Ia **tidak tahu** bahwa ia akan menjadi **filter hidup** — Valla lokal yang kasar. Ia **tidak tahu** bahwa ia tidak akan mati — ia hanya akan **berhenti menjadi Lilia**.
-- **Line-nya** — *"Aku memang masih bisa mencintai, tapi tidak ada satu orang yg benar-benar spesial untukku"* — adalah hal terakhir yang benar yang ia ucapkan sebelum ritual. **Apakah ia mengucapkannya kepada Brougha?** DM harus memutuskan. Apakah ia mengucapkannya tentang Brougha? Apakah ia mengucapkannya karena ia sudah move on — atau karena ia **tidak bisa** move on?
-- **Ia menyukai Lumen Arash.** Brougha membaca buku itu karena Lilia. Brougha membeli 23 buku lain dari rak buku Lilia. **Apakah Lilia tahu?** Apakah ia meninggalkan **pesan** di buku-buku itu? Apakah ia mencoba **memberi tahu** Brougha tentang sesuatu?
+- **Lilia Etheridge II** is the **next Bride of Bellweather**. She is a **Jounce prodigy**, the **captain of The Bateleur Eagle**, and **Brougha Ironhide's ex-girlfriend**.
+- She **does not know** what the Bride is. She only knows that she is **chosen**. She only knows that it is an **honour**. She only knows that her family is **proud**.
+- She **does not know** that she will become a **living filter** — a rough local Valla. She **does not know** that she will not die — she will only **stop being Lilia**.
+- **Her line** — *"I can still love, but there's no one person who's really special to me"* — is the last true thing she says before the ritual. **Does she say it to Brougha?** The DM must decide. Does she say it about Brougha? Does she say it because she has moved on — or because she **cannot** move on?
+- **She loves Lumen Arash.** Brougha reads that book because of Lilia. Brougha buys 23 other books from Lilia's shelf. **Does Lilia know?** Did she leave a **message** in those books? Was she trying to **tell** Brougha something?
 
 ### Lilia and Brougha — The Breakup
-- **Mereka putus sebelum FBA.** Brougha tidak pernah mengatakan mengapa. Lilia tidak pernah mengatakan mengapa. DM harus memutuskan:
-  - Apakah Lilia yang memutuskan? (Brougha bilang "mantan kekasihnya" — tapi tidak bilang siapa yang mengakhiri.)
-  - Apakah karena Lilia **terpilih** sebagai Bellweather Candidate — dan ia tahu ia tidak akan punya masa depan?
-  - Apakah karena Lilia **takut** pada perasaannya sendiri?
-  - Apakah karena **RAIB** — Lilia kehilangan ingatan tentang Brougha, dan Brougha adalah satu-satunya yang mengingat?
-- **Brougha memilih FBA** sebagian karena Lilia. Ia tidak akan mengakuinya. Tapi ia membeli buku-buku Lilia. Ia membaca Lumen Arash. Ia berharap Lilia melihatnya di halaman sekolah.
-- **Lilia tahu Brougha ada di FBA.** Ia mungkin sudah melihatnya. Ia mungkin menghindarinya. Ia mungkin **ingin** berbicara — tapi tidak bisa.
+- **They broke up before FBA.** Brougha never said why. Lilia never said why. The DM must decide:
+  - Did Lilia do the breaking up? (Brougha said "my ex" — but did not say who ended it.)
+  - Was it because Lilia was **chosen** as a Bellweather Candidate — and she knew she would not have a future?
+  - Was it because Lilia was **afraid** of her own feelings?
+  - Was it because of **RAIB** — Lilia lost her memory of Brougha, and Brougha is the only one who remembers?
+- **Brougha chose FBA** partly because of Lilia. He will not admit it. But he buys Lilia's books. He reads Lumen Arash. He hopes Lilia will see him in the school grounds.
+- **Lilia knows Brougha is at FBA.** She may have seen him already. She may be avoiding him. She may **want** to speak — but cannot.
 
-### Lilia and the Bell
-- Lilia **telah mendengar The Bell**. Ia telah mendengarnya sepanjang hidupnya. Ia tahu itu bukan mitos. Tapi ia tidak tahu apa itu.
-- **The Bell berbunyi lebih keras untuknya.** Karena ia adalah **Bride Candidate**. Karena ia adalah **panen berikutnya**.
-- **Jika Lilia mendengar The Bell di FBA**, ia akan **membeku**. Ia akan **mengigau**. Ia akan mengatakan sesuatu dalam bahasa yang tidak ia kenal. Bahasa **Void**.
-- **Lilia mungkin sudah mendengar The Bell sebelum ritual.** Ia mungkin sudah tahu bahwa sesuatu akan terjadi. Ia mungkin sudah **menerima** bahwa ia tidak akan kembali.
+### Lilia and The Bell
+- Lilia **has heard The Bell**. She has heard it her whole life. She knows it is not a myth. But she does not know what it is.
+- **The Bell rings louder for her.** Because she is a **Bride Candidate**. Because she is the **next harvest**.
+- **If Lilia hears The Bell at FBA**, she will **freeze**. She will **mutter**. She will say something in a language she does not know. The **Void** language.
+- **Lilia may already have heard The Bell before the ritual.** She may already know that something is coming. She may already have **accepted** that she will not return.
 
 ### Lilia and the Books — The Clues
-- Lilia **meninggalkan pesan** di buku-buku yang ia baca. Bukan pesan tertulis — **pesan tersembunyi**. Highlight, catatan pinggir, halaman yang dilipat.
-- **Lumen Arash** adalah buku pertama yang Brougha baca. Di halaman 41 — tempat Brougha berhenti — ada **catatan pinggir** dari Lilia. Catatan itu mungkin adalah **petunjuk** tentang The Bell, tentang Bride, atau tentang **perasaannya**.
-- **23 buku lain** yang Brougha beli juga berisi catatan Lilia. Brougha belum membacanya. Jika ia membacanya, ia akan menemukan **kebenaran**.
-- **DM must decide:** Apakah Lilia meninggalkan pesan-pesan ini **sebelum** ia terpilih? Atau **sesudah**? Apakah ia mencoba **memberi tahu** Brougha? Atau apakah ia hanya **menulis** untuk dirinya sendiri?
+- Lilia **left messages** in the books she read. Not written messages — **hidden messages**. Highlights, marginal notes, dog-eared pages.
+- **Lumen Arash** is the first book Brougha read. On page 41 — where Brougha stopped — there is a **marginal note** from Lilia. That note may be a **clue** about The Bell, about the Bride, or about **her feelings**.
+- **The other 23 books** Brougha bought also contain notes from Lilia. Brougha has not read them. If he reads them, he will find the **truth**.
+- **DM must decide:** Did Lilia leave these messages **before** she was chosen? Or **after**? Was she trying to **tell** Brougha? Or was she only **writing** for herself?
 
 ### Lilia and Maestro Lorenzo
-- Lilia **menyukai Lumen Arash**. Ia mungkin pernah bertemu Maestro Lorenzo. Ia mungkin pernah **berbicara** dengannya.
-- **Maestro Lorenzo adalah pencipta mitos The Bell.** Jika Lilia berbicara dengannya, ia mungkin tahu lebih banyak tentang The Bell daripada yang ia akui.
-- **DM must decide:** Apakah Lilia tahu bahwa Maestro Lorenzo adalah pencipta mitos? Apakah ia tahu bahwa mitos itu **benar**?
+- Lilia **loves Lumen Arash**. She may have met Maestro Lorenzo. She may have **spoken** with him.
+- **Maestro Lorenzo is the creator of the myth of The Bell.** If Lilia spoke with him, she may know more about The Bell than she admits.
+- **DM must decide:** Does Lilia know that Maestro Lorenzo is the creator of the myth? Does she know that the myth is **true**?
 
 ### The RAIB Connection — The Darkest Possibility
-- **DM must decide:** Apakah Lilia adalah **RAIB victim**? Apakah Brougha mengingat **versi Lilia yang sudah dihapus**?
-- **Option A:** Lilia adalah **RAIB victim**. Brougha ingat versi Lilia yang **masih bersamanya** — versi yang **sudah dihapus**. Lilia yang sekarang adalah **beneficiary** — seseorang yang mengambil kehidupan Lilia. Brougha tidak tahu. Ia hanya tahu ia mencintai Lilia — tapi Lilia yang ia cintai **sudah tidak ada**.
-- **Option B:** Lilia adalah **RAIB beneficiary**. Ia mengambil kehidupan orang lain. Dan sekarang ia **membayar harganya** — menjadi Bride of Bellweather. Brougha mencintainya — tapi Lilia yang ia cintai **bukan Lilia yang sebenarnya**.
-- **Option C:** Lilia adalah **orang biasa**. Tidak ada RAIB. Hanya dua orang yang tidak bisa move on. Tapi Brougha ingat **sesuatu** — dan sesuatu itu mungkin adalah **kehidupan yang seharusnya**.
-- **Recommended:** Option A. Ini adalah **tragedi** — Brougha mencintai seseorang yang **sudah tidak ada**, dan ia tidak tahu. Ini menjelaskan RAIB "Yes" dari Brougha. Ini membuat Lilia menjadi **korban** — dan **kunci** untuk memulihkan RAIB.
+- **DM must decide:** Is Lilia a **RAIB victim**? Is Brougha remembering **a version of Lilia that has already been erased**?
+- **Option A:** Lilia is a **RAIB victim**. Brougha remembers the version of Lilia who was **still with him** — a version that has **already been erased**. The Lilia who exists now is a **beneficiary** — someone who took Lilia's life. Brougha does not know. He only knows he loves Lilia — but the Lilia he loves **is already gone**.
+- **Option B:** Lilia is a **RAIB beneficiary**. She took someone else's life. And now she is **paying the price** — becoming the Bride of Bellweather. Brougha loves her — but the Lilia he loves is **not the real Lilia**.
+- **Option C:** Lilia is an **ordinary person**. No RAIB. Just two people who cannot move on. But Brougha remembers **something** — and that something may be **the life that should have been**.
+- **Recommended:** Option A. It is a **tragedy** — Brougha loves someone who **is already gone**, and he does not know. It explains Brougha's "Yes" on the RAIB question. It makes Lilia a **victim** — and the **key** to restoring RAIB.
 
 ### Lilia's Fate
-- **Jika party tidak melakukan apa-apa**, Lilia menjadi Bride. Ia tidak mati — ia berhenti menjadi Lilia. Brougha akan hancur. Ia mungkin **tidak akan pernah** pulih.
-- **Jika party menyelamatkan Lilia**, ia bisa menjadi **NPC ally** — atau **RAIB**. Ia mungkin **tidak bisa** diselamatkan. Ia mungkin sudah **terlalu jauh**.
-- **Jika Lilia menjadi RAIB**, Brougha bisa memulihkannya. Tapi ia harus **mengingat rahasia** tentang Lilia yang tidak diketahui siapa pun. **Rahasia itu mungkin adalah puisi yang ia tulis untuk Lilia** — puisi yang belum pernah ia tunjukkan.
+- **If the party does nothing**, Lilia becomes the Bride. She does not die — she stops being Lilia. Brougha will be destroyed. He may **never** recover.
+- **If the party saves Lilia**, she may become an **NPC ally** — or a **RAIB**. She may **not be savable**. She may already be **too far gone**.
+- **If Lilia becomes a RAIB**, Brougha can restore her. But he must **remember a secret** about Lilia that no one else knows. **That secret may be the poem he wrote for Lilia** — a poem he has never shown anyone.
 
 ### Lilia's Role in the Campaign
-- **Emotional anchor** untuk Brougha. Segala sesuatu yang Brougha lakukan — membaca buku, memilih FBA, menulis puisi — mengarah pada Lilia.
-- **Plot device** untuk The Bell, Bride of Bellweather, dan RAIB. Lilia adalah **kunci** untuk memahami apa yang terjadi di FBA.
-- **Tragedy** — jika party tidak bisa menyelamatkannya, ia akan menjadi **peringatan** tentang apa yang akan terjadi pada siswa lain.
+- An **emotional anchor** for Brougha. Everything Brougha does — reading books, choosing FBA, writing poetry — leads back to Lilia.
+- A **plot device** for The Bell, the Bride of Bellweather, and RAIB. Lilia is the **key** to understanding what is happening at FBA.
+- **Tragedy** — if the party cannot save her, she will be a **warning** about what will happen to the other students.
 
 ### Season 3 Reveal Schedule
-- **Session 1** — Party bertemu Lilia. Ia adalah kapten Bateleur Eagle. Ia adalah mantan kekasih Brougha. Brougha mungkin **menghindarinya** — atau **mencarinya**.
-- **Session 2–3** — Party belajar tentang Jounce. Mereka belajar tentang The Bell. Mereka belajar tentang Bride. Mereka mungkin **menemukan catatan Lilia** di buku-buku.
-- **Session 4–5** — Party mengetahui bahwa Lilia adalah **Bellweather Candidate**. Mereka mengetahui bahwa ia akan menjadi **Bride**.
-- **Session 6–7** — Party mengetahui bahwa Lilia adalah **RAIB victim** (jika DM memilih Option A). Mereka mengetahui bahwa Brougha ingat versi Lilia yang sudah dihapus.
-- **Session 8–10** — Party harus memutuskan: **selamatkan** Lilia, **biarkan** ia menjadi Bride, atau **pulihkan** RAIB-nya.
-- **Endgame** — Lilia mungkin **hidup**. Lilia mungkin **mati**. Lilia mungkin **menjadi Bride**. Pilihan ada di tangan party.
+- **Session 1** — The party meets Lilia. She is the captain of The Bateleur Eagle. She is Brougha's ex-girlfriend. Brougha may be **avoiding her** — or **seeking her out**.
+- **Session 2–3** — The party learns about Jounce. They learn about The Bell. They learn about the Bride. They may **find Lilia's notes** in the books.
+- **Session 4–5** — The party learns that Lilia is a **Bellweather Candidate**. They learn that she will become the **Bride**.
+- **Session 6–7** — The party learns that Lilia is a **RAIB victim** (if the DM chooses Option A). They learn that Brougha remembers a version of Lilia that has been erased.
+- **Session 8–10** — The party must decide: **save** Lilia, **let** her become the Bride, or **restore** her RAIB.
+- **Endgame** — Lilia may **live**. Lilia may **die**. Lilia may **become the Bride**. The choice is in the party's hands.
 
 ### Lilia's Secrets — For DM Only
-- **Lilia tahu ia akan menjadi Bride.** Ia tidak tahu apa itu Bride. Tapi ia tahu ia **tidak akan kembali**.
-- **Lilia mencintai Brougha.** Ia tidak pernah berhenti. Tapi ia **tidak bisa** kembali. Ia **tidak bisa** memberitahu Brougha. Ia **tidak bisa** menyakiti Brougha lagi.
-- **Lilia meninggalkan pesan** di buku-buku untuk Brougha. Pesan itu adalah **cara** ia mengatakan **selamat tinggal** tanpa mengatakan selamat tinggal.
-- **Lilia mungkin adalah RAIB victim.** Jika iya, maka Lilia yang sekarang **bukan Lilia yang sebenarnya** — dan Brougha mencintai **bayangan**.
-- **Lilia akan menangis** saat ritual. Ia akan menangis karena ia **tidak ingin** pergi. Tapi ia akan **pergi** — karena ia percaya bahwa itu adalah **kehormatan**.
+- **Lilia knows she will become the Bride.** She does not know what the Bride is. But she knows she **will not return**.
+- **Lilia loves Brougha.** She never stopped. But she **cannot** come back. She **cannot** tell Brougha. She **cannot** hurt Brougha again.
+- **Lilia left messages** in the books for Brougha. Those messages are her **way** of saying **goodbye** without saying goodbye.
+- **Lilia may be a RAIB victim.** If so, then the Lilia who exists now is **not the real Lilia** — and Brougha loves a **shadow**.
+- **Lilia will cry** during the ritual. She will cry because she **does not want** to go. But she will **go** — because she believes it is an **honour**.
 
 ### Connections
-- `Brougha Ironhide.md` — mantan kekasihnya, yang masih mencintainya
-- `SO2 The School Battery.md` — program yang menjadikannya Bride
-- `Bellweather.md` — entitas yang akan menikahinya
-- `The Bride of Bellweather.md` — ritual (needs file)
-- `The Bell.md` — alarm yang berbunyi untuknya
-- `Maestro Lorenzo.md` — pencipta mitos yang ia sukai
-- `R.A.I.B.md` — jika ia menjadi RAIB
-- `The Free Bird Academy.md` — sekolah
-- `Lumen Arash.md` — buku yang ia sukai, yang berisi pesan-pesannya
-- `FBA's The Bateleur Eagle.md` — tim yang ia pimpin (needs file)
+- `Brougha Ironhide.md` — her ex-boyfriend, who still loves her
+- `SO2 The School Battery.md` — the program that will make her the Bride
+- `Bellweather.md` — the entity that will marry her
+- `The Bride of Bellweather.md` — the ritual (needs file)
+- `The Bell.md` — the alarm that rings for her
+- `Maestro Lorenzo.md` — the creator of the myth she loves
+- `R.A.I.B.md` — if she becomes a RAIB
+- `The Free Bird Academy.md` — the school
+- `Lumen Arash.md` — the book she loves, which contains her messages
+- `FBA's The Bateleur Eagle.md` — the team she leads (needs file)

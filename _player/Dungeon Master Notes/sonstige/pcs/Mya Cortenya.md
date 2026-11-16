@@ -10,84 +10,84 @@ universe: Sonstige
 > **Known as:** Mya Cortenya
 
 ## Appearance
-- Wood Elf. Rambut seperti **veiled mushroom** (bridal veil stinkhorn) — putih, berenda, menjuntai.
+- Wood Elf. Hair like a **veiled mushroom** (bridal veil stinkhorn) — white, lacy, trailing.
 - Visual reference: [Google Drive](https://drive.google.com/open?id=1nP81fXYUiAo4UxekB-psWpN1IYDTRdDf)
-- (Detail lain TBD oleh player)
+- (Other details TBD by player)
 
 ## Family — Cortenya
-- Keluarga besar yang **dihormati** di antara masyarakat Wood Elf.
-- **Ahli jamur** di hutan. Memiliki bisnis luxury yang menjual kain sutra diwarnai menggunakan pigmen dari jamur ke spesies-spesies lain — termasuk manusia.
-- **Elite dan kaya** (rich rich).
-- Rumah: fancy shmancy house in a big tree. Hutan ajaib. Tempat tinggal Wood Elf.
-- Mya adalah **anak perempuan kedua**. Kakaknya adalah **"golden child"** — dianggap sempurna dan ideal, cocok sebagai pewaris utama yang bertanggung jawab meneruskan nama besar keluarga.
+- A large family **respected** among the Wood Elf community.
+- **Mushroom experts** of the forest. They run a luxury business selling silk dyed with pigments from mushrooms to other species — including humans.
+- **Elite and wealthy** (rich rich).
+- Home: a fancy-shmancy house in a big tree. A magical forest. Home of the Wood Elves.
+- Mya is the **second daughter**. Her older sister is the **"golden child"** — considered perfect and ideal, fit to be the primary heir responsible for carrying on the family's great name.
 
 ## Family Demands
-- Mya memiliki **kebebasan** dari tuntutan orang tua soal jalur dan prestasi.
-- Tapi ia **selalu dibandingkan** dengan kakaknya dan **dituntut untuk menjadi seperti dia**.
-- Itu **bertentangan** dengan apa yang Mya inginkan.
+- Mya has **freedom** from her parents' demands regarding track and achievement.
+- But she is **constantly compared** to her sister and **expected to be like her**.
+- That **conflicts** with what Mya wants.
 
 ## Home Situation
 - **"It SUCKS."**
-- Walaupun Mya lebih suka menyendiri, ia selalu dianggap sebagai anak yang **berantakan, aneh, dan ansos** — berbanding terbalik dengan kakaknya yang ideal dan "sempurna".
-- Mya merasa dirinya seperti **"rahasia keluarga yang memalukan"**.
-- Perasaan selalu dikesampingkan dan dibandingkan dengan kakaknya telah memicu sifat **sinis dan ansos** dalam dirinya.
-- **Kakaknya baik** ke Mya. Tidak mengerti dirinya tapi tetap suportif. Namun ia tidak bisa melindungi Mya dari keluarga mereka.
+- Even though Mya prefers to be alone, she is always seen as the **messy, strange, antisocial** child — the exact opposite of her ideal, "perfect" sister.
+- Mya feels like **"the family's embarrassing secret."**
+- The constant sense of being set aside and compared to her sister has fuelled the **cynical, antisocial** streak in her.
+- **Her sister is kind** to Mya. She does not understand her but is still supportive. But she cannot protect Mya from their family.
 
 ## Why FBA
-- **Gabungan** dari keinginan keluarga dan keinginan Mya sendiri.
-- **Pelarian dari rumah 100%.** FBA merupakan tempat pelarian Mya dari keadaan rumah yang menyesakkan.
+- A **combination** of the family's wish and Mya's own wish.
+- **100% an escape from home.** FBA is Mya's escape from a stifling home situation.
 
 ## Path at FBA
-- Jalur **alkimia/kimia, toksikologi, dan farmakologi** (kemungkinan Practical Sciences).
-- Ingin mempelajari **sihir druid** (kemungkinan Divination Ethics).
+- Track of **alchemy/chemistry, toxicology, and pharmacology** (likely Practical Sciences).
+- Wants to study **druidic magic** (likely Divination Ethics).
 - **She sucks ass at physical education.**
 
 ## What She Heard About FBA
-- Sekolah elit. Sekolah kakaknya.
-- **Does not gaf about its myths.** Thinks it's just rumors.
+- An elite school. Her sister's school.
+- **Does not gaf about its myths.** Thinks they are just rumours.
 
 ## Personality
-- **Three words others use:** Ansos (antisosial), Aneh (eccentric), Bayangan kakaknya.
-- **Introvert parah.** Lebih suka menyendiri di alam dengan jamur-jamurnya.
-- Sinis. Ansos. Terbentuk dari perasaan selalu dikesampingkan dan dibandingkan dengan kakaknya.
-- Mudah kehilangan kendali: **social interaction and confrontation** (avoidant type). Keluar dari zona nyaman.
+- **Three words others use:** Antisocial, Strange, Her sister's shadow.
+- **Severely introverted.** Prefers to be alone in nature with her mushrooms.
+- Cynical. Antisocial. Shaped by the constant sense of being set aside and compared to her sister.
+- Loses control easily: **social interaction and confrontation** (avoidant type). Stepping out of her comfort zone.
 
 ## What She Wants
-- **Kebebasan** dari bayangan keluarga dan kakaknya.
-- Kegiatannya di FBA — sebagai bandar narkoba — merupakan bentuk **pemberontakan** terhadap keluarganya.
-- **Setelah lulus:** tinggal di tengah hutan ("live as one with nature"). Memiliki kebebasan untuk mempelajari dan bereksperimen dengan jamur.
-- **Selama di FBA:** melanjutkan kegiatan sebagai bandar narkoba.
+- **Freedom** from the shadow of her family and her sister.
+- Her activities at FBA — as a drug dealer — are a form of **rebellion** against her family.
+- **After graduation:** live in the middle of the forest ("live as one with nature"). Have the freedom to study and experiment with mushrooms.
+- **While at FBA:** continue her activities as a drug dealer.
 
 ## What She Values
-- **Kejujuran dan siklus alam** — terutama proses dekomposisi oleh jamur.
-- Sebagai druid, Mya adalah **pencinta alam pro maks**. Ia suka jamur dan alam karena alam itu **jujur** — berbeda dengan orang lain yang bisa bermuka dua dan nge-judge dia.
-- **Toksin, efek, dan kegunaan praktis dari jamur.** She LOVES studying and experimenting with them — bagaimana mereka tumbuh, peran mereka di alam, serta toksin/efek apa yang mereka hasilkan. Karena itu ia bisa membuat obat/potions.
+- **Honesty and the cycles of nature** — especially the process of decomposition by mushrooms.
+- As a druid, Mya is a **pro-max nature lover**. She loves mushrooms and nature because nature is **honest** — unlike people, who can be two-faced and judge her.
+- **Toxins, effects, and practical uses of mushrooms.** She LOVES studying and experimenting with them — how they grow, their role in nature, and what toxins/effects they produce. That is why she can make medicines/potions.
 
 ## What Makes Her Lose Control
 - **Social interaction and confrontation** (avoidant type).
-- Keluar dari zona nyaman.
+- Stepping out of her comfort zone.
 
 ## Background
-- **Hutan ajaib.** Tempat tinggal para Wood Elf.
-- (Detail lebih spesifik TBD oleh player)
+- **A magical forest.** Home of the Wood Elves.
+- (More specific details TBD by player)
 
 ## Work Experience
-- **Bandar narkoba.** "Itu gamau dibicarakan ya. Its a shady school secret."
-- **Job sebagai bandar narkoba berlangsung sejak SMP** dan akan diteruskan di FBA.
+- **Drug dealer.** "Not going to talk about that. It's a shady school secret."
+- **Her job as a drug dealer began in middle school** and will continue at FBA.
 
 ## Secret (Player-Facing)
-- **Mya adalah bandar narkoba FBA.** FBA's resident drug dealer. The ultimate "middle finger" to her family.
-- Mya punya keahlian meracik ramuan (potions) dan obat-obatan dari jamur.
-- Di FBA, Mya meracik:
-  - **Stimulan** untuk meningkatkan performa di ujian.
-  - **Sedatif** untuk siswa cemas.
-  - **Obat terlarang dari jamur halusinogen.**
-- **Tidak untuk uang.** Paling ia minta spesimen baru atau informasi.
-- Ini lebih ke **"act of rebellion"** terhadap keluarganya — karena di sini Mya menemukan tempat di mana keahliannya dihargai.
-- Mya juga **tidak setuju** dengan bisnis dan kegiatan keluarganya — mereka mengeksploitasi alam. Mya lebih tertarik mempelajari jamur, siklus alam, proses dekomposisi, dan bereksperimen dengan zat-zat dari alam.
+- **Mya is FBA's drug dealer.** FBA's resident drug dealer. The ultimate "middle finger" to her family.
+- Mya has skill in brewing potions and medicines from mushrooms.
+- At FBA, Mya brews:
+  - **Stimulants** to boost exam performance.
+  - **Sedatives** for anxious students.
+  - **Illegal drugs from hallucinogenic mushrooms.**
+- **Not for money.** At most, she asks for new specimens or information.
+- This is more of an **"act of rebellion"** against her family — because here Mya has found a place where her skills are valued.
+- Mya also **disagrees** with her family's business and activities — they exploit nature. Mya is more interested in studying mushrooms, natural cycles, decomposition, and experimenting with substances from nature.
 
 ## RAIB Question
-> *"Pernahkah Anda mengingat sesuatu yang tidak pernah terjadi dan merasa ingatan itu lebih nyata daripada ingatan Anda sendiri?"*
+> *"Have you ever remembered something that never happened and felt that memory was more real than your own?"*
 > **Yes.**
 
 ## Current Goal

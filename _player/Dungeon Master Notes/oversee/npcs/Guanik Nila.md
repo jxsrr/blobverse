@@ -15,7 +15,7 @@ aliases:
 > **Status:** Alive
 
 ## What the Party Knows
-- Daughter of **[[oversee/npcs/Guanik Smith|Guanik]]** and **[[oversee/npcs/Janja]]**. Sister of **[[Huan]]** and **Dontol**.
+- Daughter of **[[oversee/npcs/Guanik Smith|Guanik]]** and **[[oversee/npcs/Janja]]**. Sister of **[[oversee/npcs/Guanik Huan]]** and **Dontol**.
 - Cried when her shell collection was stolen. Gave the party a **rainbow spiral shell** as thanks if they recovered it.
 - **Was on Pulau Dima when Will of Grin attacked.** Survived.
 

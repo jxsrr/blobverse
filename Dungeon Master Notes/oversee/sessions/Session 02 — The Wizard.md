@@ -2,9 +2,10 @@
 type: Oversee Session
 session_number: 2
 universe: Oversee
+showToc: true
 ---
 ::pf
-> [!teaser] Previously...
+> [!abstract] Previously...
 > Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.
 
 ## Part 1: The Dream of Fate

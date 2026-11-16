@@ -4,29 +4,29 @@ universe: Sonstige
 era: Modern
 years: 2001, 2016, 2026
 ---
-> [!info] Tiga Tanggal
-> Tiga tanggal yang mengubah Sonstige. Tiga titik balik. Tiga luka.
+> [!info] The Three Dates
+> Three dates that changed Sonstige. Three turning points. Three wounds.
 
 ## 2001 — The First Delivery
-- Baterai sekolah pertama kali diaktifkan.
-- Satu angkatan siswa hilang.
-- **RAIB pertama** terjadi.
-- **The Black Cloak Figure** pertama kali tercatat.
-- **Zenroy** — seorang Lei dari Oversee — tiba di Sonstige melalui celah Void.
+- The school's battery is activated for the first time.
+- One entire cohort of students disappears.
+- The **first RAIB** occurs.
+- **The Black Cloak Figure** is recorded for the first time.
+- **Zenroy** — a Lei from Oversee — arrives in Sonstige through a Void rift.
 
 ## 2016 — The Bateleur Incident
-- Saat final **Jounce** antar-sekolah, **RAIB massal** menghapus **The Bateleur Eagle** — tim varsity Jounce FBA tahun itu — di tengah pertandingan.
-- **Coach Garrick** (saat itu siswa, kapten tim) adalah satu-satunya yang ingat.
-- Penyanyi **Oliver Deen** mati dalam kecelakaan jet pribadi tak lama setelah membahas UAP dan "elang yang terbang mundur."
-- Pemerintah menyebutnya kecelakaan.
+- At the inter-school **Jounce** final, a **mass RAIB** erases **The Bateleur Eagle** — that year's FBA Jounce varsity team — in the middle of the match.
+- **Coach Garrick** (then a student, the team captain) is the only one who remembers.
+- The singer **Oliver Deen** dies in a private jet crash shortly after discussing UFOs and "the eagle that flies backwards."
+- The government calls it an accident.
 
 ## 2026 — The Third Thickening
-- Tahun PCs.
-- Baterai kembali lapar.
-- **Lilia Etheridge II** naik lebih dulu — "goes up" — dan ditempatkan di jalur **Bellweather Candidate**.
-- RAIB mulai lagi. Black Cloak kembali.
-- **Lilia Etheridge II** menjadi kapten **The Bateleur Eagle** — tim varsity Jounce FBA tahun ini.
+- The year of the PCs.
+- The Battery is hungry again.
+- **Lilia Etheridge II** ascends first — "goes up" — and is placed on the **Bellweather Candidate** track.
+- RAIB begins again. The Black Cloak returns.
+- **Lilia Etheridge II** becomes captain of **The Bateleur Eagle** — this year's FBA Jounce varsity team.
 
 ## What the Party Knows
-- Tiga tanggal penting: 2001, 2016, 2026.
-- Ada sesuatu yang terjadi di setiap tanggal.
+- Three important dates: 2001, 2016, 2026.
+- Something happened on each of them.

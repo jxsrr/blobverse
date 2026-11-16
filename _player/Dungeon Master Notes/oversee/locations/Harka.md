@@ -10,7 +10,7 @@ universe: Oversee
 
 ## What Matters Here
 - One of the major continents of **Oversee**, home to sprawling urban centers such as **[[oversee/locations/Padre Megalopolis|Padre City]]**, **[[oversee/locations/Yawning Town|Yawning Town]]**, and **[[oversee/locations/Javan Town|Javan Town]]**.
-- Borders the wild continent of **[[oversee/locations/Elis|Elis]]** along the towering **[[oversee/locations/Arbor's Observatorium|Pegunungan Arbor]]** mountain range.
+- Borders the wild continent of **[[oversee/locations/Elis|Elis]]** along the towering **[Pegunungan Arbor](/oversee/locations/Arbor%27s%20Observatorium)** mountain range.
 - Strongly influenced by **[[oversee/factions/One Voice Commonwealth|The Commonwealth]]** and the noble houses of **[[oversee/lore/Lei Bloodline|Klan Lei]]**.
 
 ## What the Party Knows
