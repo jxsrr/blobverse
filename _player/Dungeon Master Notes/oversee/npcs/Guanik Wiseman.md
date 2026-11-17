@@ -8,7 +8,7 @@ status: Deceased (1020 BV)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased (1020 bv)</span></div><div class="bv-dossier-name">Guanik Wiseman</div><div class="bv-dossier-epithet">Founder of the Cycle Clan, First Witness of the Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown. Hidden. Alive.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium Ancient Lake</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 

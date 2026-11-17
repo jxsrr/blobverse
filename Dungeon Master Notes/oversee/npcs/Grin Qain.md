@@ -9,7 +9,7 @@ first_seen: Not yet met (in history)
 universe: Oversee
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Kerajaan Grin</span></div><span class="bv-status bv-status-deceased">Deceased (01 bv)</span></div><div class="bv-dossier-name">Grin Qain</div><div class="bv-dossier-epithet">The Sacrificed Grin, Simon's Best Friend</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Kerajaan Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died at the altar of Ancient Lake (01 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Altar of Ancient Lake (died here)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 

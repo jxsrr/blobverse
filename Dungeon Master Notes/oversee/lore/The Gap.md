@@ -4,7 +4,7 @@ type: Oversee Lore
 universe: Oversee
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Gap</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 

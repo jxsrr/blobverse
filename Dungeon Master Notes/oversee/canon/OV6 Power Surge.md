@@ -6,7 +6,7 @@ era: Power Surge
 years: 201 – 699 AV
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 07 OF 07</div><div class="bv-world-title">OV6 Power Surge</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Power Surge</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">201 – 699 AV</div></div></div></div>
 

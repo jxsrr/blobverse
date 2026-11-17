@@ -5,7 +5,7 @@ current_holder: The Party
 universe: Oversee
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Atlan's Compass</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Wondrous item</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val">The Party</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Rare</div></div></div></div>
 

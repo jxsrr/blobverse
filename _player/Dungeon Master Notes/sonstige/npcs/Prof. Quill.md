@@ -7,6 +7,8 @@ status: alive
 first_seen: Session 01
 universe: Sonstige
 ---
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Prof. Quill</div><div class="bv-world-sub">Civics & Magical Law Professor, Former Lawyer</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Free Bird Academy</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive</div></div></div></div>
 
 ## Appearance

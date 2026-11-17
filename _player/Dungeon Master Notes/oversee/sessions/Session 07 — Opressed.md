@@ -4,7 +4,7 @@ session_number: 7
 universe: Oversee
 showToc: true
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 07 · OVERSEE</div><div class="bv-ep-heading">Session 07 — Opressed</div><p class="bv-ep-synopsis">Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.</p></div>
 

@@ -3,7 +3,7 @@ title: Lore
 showSidebar: false
 showToc: false
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · WORLD LORE (33 ENTRIES)</div><div class="bv-sec-title">Oversee — Lore</div><p class="bv-sec-sub">History, metaphysics, magic systems, and documented knowledge.</p></div>
 

@@ -7,7 +7,7 @@ aliases:
   - Zenahhi
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Zenahhi — The Loyal Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Canyon of Lament (Rioquan East)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 

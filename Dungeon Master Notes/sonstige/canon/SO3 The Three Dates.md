@@ -5,6 +5,8 @@ era: Modern
 years: 2001, 2016, 2026
 ---
 ::pf
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">SONSTIGE · CANON ERA 04 OF 04</div><div class="bv-world-title">SO3 The Three Dates</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Modern</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">2001, 2016, 2026</div></div></div></div>
 
 > [!info] The Three Dates

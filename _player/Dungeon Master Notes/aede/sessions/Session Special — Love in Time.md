@@ -4,6 +4,8 @@ session_number: 1
 universe: Aede
 showToc: true
 ---
+<a class="bv-world-home" href="/aede" aria-label="Back to Aede Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Aede</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">SPECIAL EPISODE · AEDE</div><div class="bv-ep-heading">Session Special — Love in Time</div><p class="bv-ep-synopsis">The party escaped Arujaya with Livia as hostage. Syl saw something beyond the veil — the Overseer itself. Darvin is Valerius's twin. Somewhere in the deep, Echo Gzirmo waits. And the sea is calling.</p></div>
 
 ## Part 1: The Storm

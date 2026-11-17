@@ -5,7 +5,7 @@ parent_location: Deep beneath the Elis Ocean
 universe: Oversee
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Kuo Lau Kingdom</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Deep beneath the Elis Ocean</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Kuo Lau King, Babibubebo (lost prince)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Hidden. Isolationist. In danger.</div></div></div></div>
 

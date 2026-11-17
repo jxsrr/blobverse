@@ -3,7 +3,7 @@ title: Sessions
 showSidebar: false
 showToc: false
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · SESSION LOGS (7 ENTRIES)</div><div class="bv-sec-title">Oversee — Sessions</div><p class="bv-sec-sub">Episode-by-episode recaps of everything that happened at the table.</p></div>
 

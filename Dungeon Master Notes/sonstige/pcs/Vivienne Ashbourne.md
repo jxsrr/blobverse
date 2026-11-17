@@ -5,6 +5,8 @@ player: Gladys
 universe: Sonstige
 ---
 ::pf
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier">
   <div class="bv-dossier-top">
     <div class="bv-badge-row">

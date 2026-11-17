@@ -4,6 +4,8 @@ parent_location: Calamara, Negara Anderes
 universe: Sonstige
 ---
 ::pf
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Free Bird Academy Campus</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Calamara, Negara Anderes</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Lilie, the Professors, the Black Cloak Figure</div></div></div></div>
 
 

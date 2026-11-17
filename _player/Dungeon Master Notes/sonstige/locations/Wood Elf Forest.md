@@ -3,6 +3,8 @@ type: Sonstige Location
 parent_location: Unknown (remote forest)
 universe: Sonstige
 ---
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">SONSTIGE · LOCATION ARCHIVE</div><div class="bv-world-title">Wood Elf Forest</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">A magical forest. Home of the Wood Elves.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">The Cortenya family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Remote. Magical. Hidden.</div></div></div></div>
 
 ## What Matters Here

@@ -7,7 +7,7 @@ status: Deceased (200 AV), Echo whereabouts unknown
 first_seen: Session 02 (via diary), not yet met in person
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Juto Port City (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Juto Port City (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
 

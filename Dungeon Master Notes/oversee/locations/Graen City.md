@@ -4,7 +4,7 @@ parent_location: Rioquan Timur (coastal)
 universe: Oversee
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Graen City</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan Timur (coastal)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Kuur (mute beggar), Nenek Laksmi (blind code-breaker, hidden)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Small coastal town. Carnival atmosphere.</div></div></div></div>
 

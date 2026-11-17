@@ -8,6 +8,8 @@ first_seen: Session 02 (rumoured)
 universe: Sonstige
 ---
 ::pf
+<a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.35rem;letter-spacing:0.06em;text-transform:uppercase;">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-world-kicker">SONSTIGE · NPC DOSSIER</div><div class="bv-world-title">Bellweather</div><div class="bv-world-sub">The Family Behind the School, The Entity Behind the Battery, The Keepers of The Bell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Bellweather</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Sonstige NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">alive (or something else)</div></div></div></div>
 
 ## What the Party Knows

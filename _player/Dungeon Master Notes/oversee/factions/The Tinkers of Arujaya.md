@@ -4,7 +4,7 @@ leader: Echo Gzirmo (as figurehead), Dr. Vektor (de facto)
 attitude_to_party: neutral
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Tinkers of Arujaya</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Echo Gzirmo (figurehead), Dr. Vektor (de facto)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Neutral</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Arujaya (underground city)</div></div></div></div>
 

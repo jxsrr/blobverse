@@ -1063,3 +1063,96 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
   margin: 0 0 var(--sp-1) !important;
   display: block;
 }
+
+/* === World-Specific UI Color Themes === */
+body:has(a[href="/oversee"]),
+article:has(a[href="/oversee"]) {
+  --bv-accent: #523d73;
+  --bv-secondary-accent: #9a7438;
+}
+
+body:has(a[href="/aede"]),
+article:has(a[href="/aede"]) {
+  --bv-accent: #16655c;
+  --bv-secondary-accent: #c27828;
+}
+
+body:has(a[href="/sonstige"]),
+article:has(a[href="/sonstige"]) {
+  --bv-accent: #9b2c3d;
+  --bv-secondary-accent: #2b5b84;
+}
+
+/* === Large Clickable Typography Logos Across All Worlds === */
+.bv-world-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 0 0 var(--sp-3);
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--bv-radius);
+  border: 1.5px solid color-mix(in srgb, var(--bv-accent) 45%, var(--bv-border-strong));
+  background: var(--bv-surface);
+  color: var(--bv-text) !important;
+  text-decoration: none !important;
+  box-shadow: 0 4px 14px rgba(20, 16, 12, 0.08);
+  transition: transform var(--t-hover) var(--ease-out), border-color var(--t-hover) var(--ease-out), box-shadow var(--t-hover) var(--ease-out);
+}
+.bv-world-home:hover,
+.bv-world-home:focus-visible {
+  transform: translateY(-2px);
+  border-color: var(--bv-accent);
+  box-shadow: 0 8px 22px color-mix(in srgb, var(--bv-accent) 24%, transparent);
+}
+.bv-world-home img {
+  height: 44px !important;
+  width: auto !important;
+  max-width: 240px;
+  object-fit: contain;
+  border-radius: 0 !important;
+  margin: 0 !important;
+  display: block;
+}
+.bv-world-home-arrow {
+  font-family: var(--font-family-monospace);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--bv-accent);
+}
+
+/* Logo Besar di Halaman Hub Dunia (/oversee, /aede, /sonstige) */
+.bv-hub-logo-link {
+  display: inline-block;
+  margin: 0 0 var(--sp-2);
+  text-decoration: none !important;
+  transition: transform var(--t-hover) var(--ease-out), opacity var(--t-hover) var(--ease-out);
+}
+.bv-hub-logo-link:hover,
+.bv-hub-logo-link:focus-visible {
+  transform: scale(1.02);
+  opacity: 0.92;
+}
+.bv-logo-hero {
+  height: 96px !important;
+  width: auto !important;
+  max-width: min(440px, 100%);
+  object-fit: contain;
+  margin: 0 !important;
+  display: block;
+}
+
+/* Logo Besar di Kartu Landing Page Utama */
+.bv-logo-selector {
+  height: 68px !important;
+  width: auto !important;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 0 var(--sp-2) !important;
+  display: block;
+}
+
+@media (max-width: 720px) {
+  .bv-logo-hero { height: 72px !important; }
+  .bv-logo-selector { height: 54px !important; }
+  .bv-world-home img { height: 34px !important; }
+}

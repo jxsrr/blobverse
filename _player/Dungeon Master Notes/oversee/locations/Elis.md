@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Oversee (Continent)
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Elis</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Wild, Untamed Continent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable Features</div><div class="bv-stat-val">Kanopi Tanpa Ujung, Danau Ajaib, Pegunungan Kabut</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Largely unexplored by modern civilization</div></div></div></div>
 
