@@ -729,3 +729,26 @@ html.dark .bv-world-canon { --bv-card-accent: #dfc080; }
 
 /* Hide duplicate Flowershow frontmatter header when custom HoYo hero/dossier is present */
 main:has(.bv-hero) header:has(h1), main:has(.bv-dossier) header:has(h1), main:has(.bv-ep-header) header:has(h1), main:has(.bv-world) header:has(h1), main:has(.bv-sec-hero) header:has(h1) { display: none; }
+
+/* === Two-World HoYo Launcher Gate === */
+.bv-world-gate { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; margin: 1.5rem 0 1.75rem; }
+.bv-gate-card {
+  position: relative; display: flex; flex-direction: column; justify-content: space-between;
+  padding: 1.85rem 1.75rem 1.5rem; border-radius: 12px;
+  border: 1px solid var(--bv-gold-soft); background: var(--bv-surface);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.05); transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+.bv-gate-card:hover { transform: translateY(-3px); border-color: var(--bv-gold); box-shadow: 0 14px 34px rgba(0, 0, 0, 0.09); }
+.bv-gate-oversee { background: radial-gradient(circle at 92% 10%, rgba(29, 107, 120, 0.16), transparent 52%), var(--bv-surface); }
+.bv-gate-sonstige { background: radial-gradient(circle at 92% 10%, rgba(154, 41, 70, 0.16), transparent 52%), var(--bv-surface); }
+.bv-gate-title { font-family: var(--font-family-heading); font-size: 2.15rem; font-weight: 700; line-height: 1.08; margin: 0.25rem 0 0.6rem; color: var(--bv-text); }
+.bv-gate-party { font-family: var(--font-family-monospace); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; color: var(--bv-gold); }
+.bv-gate-desc { font-size: 0.95rem; color: var(--bv-text-sub); line-height: 1.55; margin: 0 0 1.35rem; }
+.bv-gate-oversee .bv-btn-primary { background: #1d6b78 !important; }
+.bv-gate-sonstige .bv-btn-primary { background: #9a2946 !important; }
+.bv-special-bar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;
+  padding: 1.1rem 1.45rem; border-radius: 10px; border: 1px solid var(--bv-border-strong);
+  background: radial-gradient(circle at 5% 50%, rgba(36, 81, 166, 0.12), transparent 45%), var(--bv-surface);
+}
+@media (max-width: 760px) { .bv-world-gate { grid-template-columns: 1fr; } }
