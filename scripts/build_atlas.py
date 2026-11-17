@@ -33,7 +33,7 @@ def main():
         status = html.escape(loc.get("status", "Charted"))
         desc = html.escape(loc["summary"])
         pins.append(
-            f'<a class="bv-pin" data-cat="{cat_raw}" href="{href}" style="left:{loc["x"]}%;top:{loc["y"]}%;" aria-label="{name}">'
+            f'<a class="bv-pin" data-cat="{cat_raw}" href="{href}" style="--x:{loc["x"]}%;--y:{loc["y"]}%;left:{loc["x"]}%;top:{loc["y"]}%;" aria-label="{name}">'
             f'<span class="bv-pin-marker" aria-hidden="true">{svg}</span>'
             f'<span class="bv-pin-label">{name}</span>'
             f'<span class="bv-pin-card" role="tooltip">'
