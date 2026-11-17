@@ -12,7 +12,7 @@ universe: Oversee
 
 
 ## What the Party Knows
-- A member of **The Grace** — the demon-hunter order Shin belonged to before he woke up 690 years later.
+- A member of **The Grace** — the demon-hunter order Shin fought alongside during his **690 AV** awakening.
 - Befriended Shin on his first day. Sat beside him without being asked. Never treated him as strange.
 - **Did not blame Shin for what happened in Elis.** She tried to save him.
 - Died in **690 AV**, when The Grace fell.

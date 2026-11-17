@@ -7,7 +7,7 @@ universe: Oversee
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Grace's Fall</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Demon Hunters Who Died
-> Shin's old order. Destroyed 690 years ago. Only he survived.
+> Shin's old order. Destroyed in **690 AV** during one of his awakenings. Only he survived.
 
 ## What Was The Grace?
 - An order of demon hunters. Based in Elis. Trained to fight Gap-touched creatures.
@@ -41,7 +41,7 @@ universe: Oversee
 
 ## What Shin Knows
 - He was found by The Grace. He was raised by Helius. He was loved by Edra and Crest.
-- He does not remember what happened during the fall. He remembers only white, and screaming, and then waking up 690 years later.
+- He does not remember what happened during the fall. He remembers only white, and screaming, and then falling back into slumber before waking again in **700 AV**.
 - He believes he destroyed The Grace. He believes he killed his family.
 - He does not know about Zargoth. He does not know about Zargoyle. He does not know about the frozen dome.
 - He does not know that Edra and Crest did not blame him. He does not know that they tried to save him.

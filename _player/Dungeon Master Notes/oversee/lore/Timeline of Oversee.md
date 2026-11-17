@@ -66,7 +66,8 @@ universe: Oversee
 - **674 AV** — **The Great Strike**. A meteor hits Rioquan. The continent splits. **Accarus** survives in a cellar. **Antrem** is swept away — lost.
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
-- **10 AV** — **The Grace** falls. Shin's order is destroyed by **Zargoyle**. He wakes 690 years later — in **700 AV**.
+- **10 AV** — **Shin Van Hel** briefly awakens from his long slumber before falling dormant once more.
+- **690 AV** — **The Grace** falls in Elis. Awakened and fighting alongside his order, Shin is possessed by **Zargoyle** when a massive Gap tear opens; **Edra** and **Crest** perish, and Shin falls dormant again until **700 AV**.
 - **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.

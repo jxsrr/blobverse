@@ -14,7 +14,7 @@ universe: Oversee
 - Trained hunters to fight demons, spirits, and Gap-touched creatures.
 - Shin joined as a young man. He made friends: **Edra** and **Crest**.
 - The order was **destroyed in 690 AV** — when a massive Gap tear opened in Elis and demons poured through.
-- Edra and Crest died. Shin survived — but he was possessed by something. He destroyed everything. He woke up 690 years later.
+- Edra and Crest died. Shin survived — but he was possessed by something. He destroyed everything, then fell dormant again until awakening in **700 AV**.
 - The symbol of The Grace is a **blue-silver seal** — a stylized wing.
 
 ## What Shin Knows

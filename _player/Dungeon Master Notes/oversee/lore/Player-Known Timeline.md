@@ -14,7 +14,7 @@ universe: Oversee
 
 ## Awal Era Valla & Runtuhnya The Grace (1 – 179 AV)
 - **1 AV** — **Lei Firsa** memaksa **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** memikul peran **<a href="/oversee/lore/The%20Valla">The Valla</a>** kedua untuk menahan segel dunia.
-- **10 AV *(690 Tahun Lalu)*** — **<a href="/oversee/lore/The%20Grace%27s%20Fall">The Fall of The Grace</a>**: celah *Gap* raksasa terbuka di <a href="/oversee/locations/Elis">Elis</a>; ordo pemburu iblis **<a href="/oversee/factions/The%20Grace">The Grace</a>** musnah (**<a href="/oversee/npcs/Edra">Edra</a>** dan **<a href="/oversee/npcs/Crest">Crest</a>** gugur), sementara **<a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>** dirasuki **<a href="/oversee/npcs/Zargoyle">Zargoyle</a>** dan tertidur selama 690 tahun.
+- **10 AV** — **<a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>** sempat terbangun sejenak dari tidur panjangnya sejak era HVS-02 sebelum kembali tertidur.
 
 ## Era The Initial Six (180 – 200 AV)
 - **~180 AV** — **<a href="/oversee/npcs/Gordon">Gordon</a>** lahir di pegunungan Harka; **Gunnar Guirela** menemukan **Gustaero** di jaring ikannya di <a href="/oversee/locations/Wind%27s%20Rest">Wind's Rest</a>.
@@ -33,13 +33,14 @@ universe: Oversee
 - **682 AV** — **Antrem** pergi bersama Accarus dari <a href="/oversee/locations/Chenalia%20Town">Chenalia Town</a> saat **Vya** berusia 4 tahun.
 - **683 AV** — **Vreina** membuat perjanjian dengan **Kopling** untuk melindungi Vya.
 - **~688 AV *(12 Tahun Lalu)*** — **Mira Nouveau** menemukan pedang batu **<a href="/oversee/items/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana</a>** dalam ekspedisi Keeper of Secret.
+- **690 AV (*<a href="/oversee/lore/The%20Grace%27s%20Fall">The Fall of The Grace</a>*)** — Terbangun di era ini, **<a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>** bertempur bersama ordo **<a href="/oversee/factions/The%20Grace">The Grace</a>** saat celah *Gap* raksasa terbuka di <a href="/oversee/locations/Elis">Elis</a>; **<a href="/oversee/npcs/Edra">Edra</a>** dan **<a href="/oversee/npcs/Crest">Crest</a>** gugur, sementara Shin dirasuki **<a href="/oversee/npcs/Zargoyle">Zargoyle</a>** lalu kembali tertidur hingga **700 AV**.
 - **690 AV** — **<a href="/oversee/npcs/Gordon">Gordon</a>** menemukan **<a href="/oversee/pcs/Husgus">Husgus</a>** di <a href="/oversee/locations/Domido%20Forest">Domido Forest</a> dan merawatnya.
 - **694 AV** — **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>** mendarat di <a href="/oversee/locations/Nesia%20Town">Nesia Town</a> dan diadopsi oleh petani **<a href="/oversee/npcs/Joni">Joni</a>**.
 - **695 AV** — Agen Commonwealth **<a href="/oversee/npcs/Malakor">Malakor</a>** membunuh **<a href="/oversee/npcs/Gordon">Gordon</a>**; **<a href="/oversee/pcs/Husgus">Husgus</a>** membalas kematiannya dan berubah menjadi *halfling*.
 - **699 AV** — Insiden non-peristiwa **Valerius Thorne** dan **Topaju** di Observatorium Ancient Lake (Topaju sebenarnya berada bersama Lei Alejandro).
 
 ## Masa Kampanye (700 AV)
-- **700 AV** — Telur klan naga menetas saat ritual bulan purnama; **<a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>** terbangun setelah 690 tahun; kelompok **The Five Sticks** terbentuk di <a href="/oversee/locations/Yawning%20Town">Yawning Town</a> (<a href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a> – <a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>).
+- **700 AV** — Telur klan naga menetas saat ritual bulan purnama; **<a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>** kembali terbangun dari siklus tidurnya; kelompok **The Five Sticks** terbentuk di <a href="/oversee/locations/Yawning%20Town">Yawning Town</a> (<a href="/oversee/sessions/Session%2001%20%E2%80%94%20The%20Sorcerer">Session 01</a> – <a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>).
 
 ---
 
