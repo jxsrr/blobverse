@@ -18,7 +18,7 @@ aliases:
 - **Two-Handed:** When wielded with two hands, damage die becomes 1d12.
 
 ## History
-- One of six legendary weapons collected by Simon Greenbottle.
+- One of six legendary weapons of the Six Legendary Blades.
 - Thrown into Garberro Forest by Lei Firsa.
 - **Not yet recovered.**
 

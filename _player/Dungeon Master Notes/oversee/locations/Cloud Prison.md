@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Location
 parent_location: Above Arbor Mountains
 universe: Oversee

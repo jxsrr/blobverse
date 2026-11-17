@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Item
 rarity: legendary
 current_holder: Lei Alejandro (hidden in the Bahtera Bawah Tanah)

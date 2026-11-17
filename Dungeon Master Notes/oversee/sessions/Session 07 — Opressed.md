@@ -99,7 +99,7 @@ She ran. She jumped. She climbed past gravity itself.
 
 And above her, she saw:
 
-**The Overseer.**
+**The Blob.**
 
 Not a god. Not a demon. A **presence**. Blob-like entities with tentacles, drifting in a space that was not space. And beyond them — **something vast**.
 
@@ -131,7 +131,7 @@ He **spat on it**.
 
 The Imp woke.
 
-**<a href="/oversee/items/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Overseer discarded.
+**<a href="/oversee/items/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Blob discarded.
 
 He walked into the Depths.
 
@@ -231,7 +231,7 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 
 ## Locations Visited
 - **<a href="/Arujaya">Arujaya</a>** — now a memory behind them
-- **The Depths of Arujaya** — where Syl saw the Overseer
+- **The Depths of Arujaya** — where Syl saw the Blob
 - **<a href="/The%20Rune%20of%20the%20Cycle">The Rune of the Cycle</a>** — the desert stone circle, safe from scrying
 - **The First Tree** — where the Shell fragment was hidden
 

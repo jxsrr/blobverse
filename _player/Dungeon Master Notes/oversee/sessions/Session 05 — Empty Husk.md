@@ -14,7 +14,7 @@ They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima
 
 During the voyage, **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — who had spent long nights with the **Berkas Penelitian Cycle Clan** at the Lyceum — finally understood what the four gems were.
 
-> *"They are not separate treasures. They are organs of a single being — the Architect. Together, they are called the **Gemhearts**."*
+> *"They are not separate treasures. They are organs of a single primordial being. Together, they are called the **Gemhearts**."*
 
 She named them:
 - **<a href="/oversee/items/Emelanica">Emelanica</a>** — green, time and mana flow
@@ -24,7 +24,7 @@ She named them:
 
 The party had two of these. They needed the other two.
 
-Later, they asked about the legendary weapons — the six blades of Simon Greenbottle's legacy. Accarus answered:
+Later, they asked about the legendary weapons — the six blades of the legendary warrior's legacy. Accarus answered:
 
 - **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — Accarus carried it
 - **<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** — lost in **<a href="/Hutan%20Garberro">Garberro Forest</a>**

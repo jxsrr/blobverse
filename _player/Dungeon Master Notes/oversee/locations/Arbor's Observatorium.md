@@ -20,4 +20,4 @@ universe: Oversee
 - They may have heard of the Third Observatory — the Radio Observatory at the peak of Pegunungan Arbor — but not the Lakeside Listening Post.
 
 ## Current State
-- Ruined. Flooded. Haunted. The whispers are the Overseer's signal, still bleeding through the lake.
+- Ruined. Flooded. Haunted. The whispers are the Blob's signal, still bleeding through the lake.

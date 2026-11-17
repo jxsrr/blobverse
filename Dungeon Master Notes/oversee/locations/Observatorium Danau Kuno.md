@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Location
 parent_location: Ancient Lake (now Universitas Tarakita)
 universe: Oversee

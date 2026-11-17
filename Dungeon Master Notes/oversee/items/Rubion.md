@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Item
 rarity: legendary
 current_holder: Mira Nouveau (Keeper of Secret)

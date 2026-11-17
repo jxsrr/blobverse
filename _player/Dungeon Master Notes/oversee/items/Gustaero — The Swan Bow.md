@@ -19,12 +19,12 @@ aliases:
 ## The Swan
 - Gustaero is not one of the six blades. It is one of the **three ancient relics** — the **neck of the swan**.
 - The neck is graceful, silent, and reaching. Gustaero reflects this: it reaches farther than any other bow, it makes no sound, and it pierces the veil between worlds.
-- The other two relics are **Niette** (the wing — a spear) and **Alnean** (the breath — a breathing relic). Together they form the swan that pierces the Gap.
-- **Gustaero is not related to the Architect.** It predates the Architect — or exists separately from it. The Cycle Clan did not make it. They found it. They hid it. They have guarded it for millennia without knowing where it came from.
+- Two sister relics are rumored to exist elsewhere in Oversee.
+- **Gustaero predates the modern factions.** The Cycle Clan did not make it. They found it. They hid it. They have guarded it for millennia without knowing where it came from.
 
 ## History
 - One of the three ancient relics. Origin unknown — even to the Cycle Clan.
-- Never carried by the Architect. Never part of the Gemheart network.
+- Never bound to the Commonwealth. Never part of the Gemheart network.
 - Thrown into the sea by **Lei Firsa** after she scattered the six blades.
 - Found by **Gunnar Guirela** in his fishing net in Wind's Rest.
 - Passed to **Olaf Guirela**, then **Gordon**, then **Husgus**.

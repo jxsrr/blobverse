@@ -32,7 +32,7 @@ showToc: false
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">VISION</span>
-    <span>Syl glimpsed something beyond the veil — the Overseer itself, while Echo Gzirmo waits in the deep.</span>
+    <span>Syl glimpsed something beyond the veil — the Blob itself, while Echo Gzirmo waits in the deep.</span>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ showToc: false
     <div>
       <div class="bv-ep-num">SESSION 07 · LATEST</div>
       <div class="bv-ep-title"><a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Opressed</a></div>
-      <div class="bv-ep-desc">Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.</div>
+      <div class="bv-ep-desc">Syl saw the Blob. The party escaped with a hostage. And the truth about the twins was laid bare.</div>
     </div>
   </div>
   <div class="bv-ep-card">

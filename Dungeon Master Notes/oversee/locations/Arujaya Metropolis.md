@@ -19,7 +19,7 @@ aliases:
 
 ## What Happened Here
 - Ama got a new arm (<a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>).
-- Syl saw the Overseer (<a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>).
+- Syl saw the Blob (<a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>).
 - The party escaped with Livia as hostage.
 ::/pf
 

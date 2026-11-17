@@ -22,7 +22,7 @@ universe: Oversee
 - They may have heard of the Third Observatory — the Radio Observatory at the peak of Pegunungan Arbor — but not the Lakeside Listening Post.
 
 ## Current State
-- Ruined. Flooded. Haunted. The whispers are the Overseer's signal, still bleeding through the lake.
+- Ruined. Flooded. Haunted. The whispers are the Blob's signal, still bleeding through the lake.
 ::/pf
 
 %% DM SECRETS %%
@@ -32,7 +32,7 @@ universe: Oversee
 - It was built **after** the Radio Observatory. It was a **convenience** — a closer place for the researchers to collect data, to rest, to listen without climbing the mountain.
 - **The lake** — the Lake of Whispers — is not a natural lake. It is a **crater** left by a piece of the Shell that broke off during the Fall — the **same Fall** that created the Lake of Ancient Lake. The two lakes are fragments of the same impact event.
 - **The water is Ambitio-Ether-infused.** Drinking it causes visions. Immersing it causes memory loss. This is the same water as Ancient Lake — the Shell's residue.
-- **The whispers** are the Overseer's signal, bleeding through the water. The researchers heard it. The Post is still full of echoes.
+- **The whispers** are the Blob's signal, bleeding through the water. The researchers heard it. The Post is still full of echoes.
 
 ### The Difference — Ancient Lake vs. the Lakeside Listening Post
 - **Ancient Lake** — the First Observatory (Optical/Stellar). Built by **Guanik Wiseman** in 1040 BV. Where Wiseman first saw the **Shell** in the sky. Where he received the Architect's vision. Where the Cycle Clan was founded. Now the site of **Universitas Tarakita**.
@@ -59,7 +59,7 @@ universe: Oversee
 ### What the Party Does NOT Know
 - The Listening Post is **not** one of the three Observatories. It is a **satellite site** of the Radio Observatory.
 - The Lake of Whispers is **not** the Lake of Ancient Lake. It is a **different crater** — a different piece of the same Shell fall.
-- The whispers are the Overseer's signal, still bleeding through the water.
+- The whispers are the Blob's signal, still bleeding through the water.
 - The **Archive Chamber** holds a copy of the radio-telescope logs. If they retrieve it, they can give it to Professor Rubi.
 - The **Listening Pool** can let a character hear the Overseer directly. It is dangerous. It is also the only way to know what the Overseer sounds like.
 

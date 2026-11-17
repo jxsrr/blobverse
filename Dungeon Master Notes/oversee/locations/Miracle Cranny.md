@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Location
 parent_location: Between Pegunungan Arbor and the eastern lowlands
 universe: Oversee

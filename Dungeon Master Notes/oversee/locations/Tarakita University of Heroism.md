@@ -28,13 +28,13 @@ aliases:
 ## The Ancient Observatory (Ancient Lake) — Beneath the University
 - **The Lake of Ancient Lake** — a dark blue lake that never moves. No wind touches it. It is the **impact crater** of the Shell.
 - In the center: a **white stone tower** — the **First Observatory**, built by **Guanik Wiseman** in 1040 BV.
-- This is where Wiseman first saw the **Shell** in the sky. This is where he received his vision from the Architect. This is where the **Cycle Clan was founded**. This is where the original **Edisi Law** was signed.
+- This is where Wiseman first saw the **Shell** in the sky. This is where he received his vision from beyond the veil. This is where the **Cycle Clan was founded**. This is where the original **Edisi Law** was signed.
 - The tower is half-sunken. The lower levels are flooded. The upper levels are intact.
 - **The Altar of the Lake** — a black stone altar in the center of the lake, visible only when the water recedes.
 - **The Well of the Lake** — beneath the altar. Leads to a submerged cave with:
   - **Wiseman's journal** — the full account of the Shell's descent, the founding of the Cycle Clan, and the creation of the HVS shells.
-  - **A cracked Gemheart fragment** — a piece of Emelanica that broke off when the Architect created the Gemhearts. It can be fused with Emelanica to double its power.
-  - **The Architect's echo** — a fragment of the Architect's consciousness. It is tired. It is fading. It will answer one question truthfully.
+  - **A cracked Gemheart fragment** — a piece of Emelanica that broke off when the Gemhearts were formed. It can be fused with Emelanica to double its power.
+  - **An ancient echo** — a fragment of primordial consciousness. It is tired. It is fading. It will answer one question truthfully.
   - **The first Cycle Clan sigil** — one of three. It resonates with the other two Observatories.
 
 ## The Three Observatories
@@ -42,7 +42,7 @@ There are **three Observatories** built by the Cycle Clan, each with a different
 
 1. **The First Observatory — Ancient Lake (Optical/Stellar)**
    - Built by **Guanik Wiseman** in 1040 BV. Dedicated to studying the **stars** — the optical sky.
-   - Where Wiseman recorded the Shell video. Where he received the Architect's vision. Where the Cycle Clan was founded.
+   - Where Wiseman recorded the Shell video. Where he received the vision. Where the Cycle Clan was founded.
    - **Ruined and forgotten.** Now the site of **Universitas Tarakita**.
 
 2. **The Second Observatory — Juto Port City (High-Energy Astrophysics)**
@@ -86,7 +86,7 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 **1. The First Observatory — Ancient Lake (Optical)**
 - Built by **Guanik Wiseman** in **1040 BV**. The oldest. The most sacred.
 - Dedicated to **optical astronomy** — the study of visible light. Stars, comets, the movement of the sky.
-- Where Wiseman first saw the Shell descend. Where he recorded the video. Where he received the Architect's vision. Where the Cycle Clan was founded. Where the original Edisi Law was signed.
+- Where Wiseman first saw the Shell descend. Where he recorded the video. Where he received the vision. Where the Cycle Clan was founded. Where the original Edisi Law was signed.
 - **The Shell fell here.** The crater that became the lake was formed by the Shell's descent. The water is **Ambitio-Ether-infused**.
 - **Ruined.** The lake was drained. The tower was excavated. **Universitas Tarakita** was built on top of it.
 - **Wiseman's journal** is in the submerged cave beneath the lake.

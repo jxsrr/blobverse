@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee item
 rarity: legendary
 current_holder: Shin Van Hel
