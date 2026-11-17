@@ -748,3 +748,100 @@ html.dark .bv-status-captive { color: #deb25b; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; scroll-behavior: auto !important; }
 }
+
+/* === Editorial World Atlas (.bv-atlas) === */
+.bv-atlas { margin: var(--sp-3) 0 var(--sp-5); }
+.bv-atlas-state { position: absolute; opacity: 0; pointer-events: none; }
+.bv-atlas-bar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: var(--sp-1); margin-bottom: var(--sp-2);
+}
+.bv-atlas-filters, .bv-atlas-zoom { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.bv-atlas-bar label {
+  cursor: pointer; font-family: var(--font-family-monospace); font-size: var(--text-xs);
+  padding: 0.32rem 0.65rem; border-radius: 4px; border: 1px solid var(--bv-border);
+  color: var(--bv-text-sub); background: var(--bv-surface);
+  transition: border-color var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out), background-color var(--t-hover) var(--ease-out);
+}
+.bv-atlas-bar label:hover { border-color: var(--bv-accent); color: var(--bv-text); }
+#bv-cat-all:checked ~ .bv-atlas-bar label[for="bv-cat-all"],
+#bv-cat-settlement:checked ~ .bv-atlas-bar label[for="bv-cat-settlement"],
+#bv-cat-landmark:checked ~ .bv-atlas-bar label[for="bv-cat-landmark"],
+#bv-cat-region:checked ~ .bv-atlas-bar label[for="bv-cat-region"],
+#bv-cat-institution:checked ~ .bv-atlas-bar label[for="bv-cat-institution"],
+#bv-cat-fortress:checked ~ .bv-atlas-bar label[for="bv-cat-fortress"],
+#bv-zoom-1:checked ~ .bv-atlas-bar label[for="bv-zoom-1"],
+#bv-zoom-2:checked ~ .bv-atlas-bar label[for="bv-zoom-2"] {
+  background: var(--bv-accent); color: var(--bv-bg); border-color: var(--bv-accent);
+}
+
+.bv-atlas-frame {
+  border: 1px solid var(--bv-border-strong); border-radius: var(--bv-radius);
+  background: var(--bv-bg-sub); overflow: hidden;
+}
+.bv-atlas-viewport { width: 100%; overflow: auto; -webkit-overflow-scrolling: touch; }
+.bv-atlas-canvas { position: relative; width: 100%; transition: width 220ms var(--ease-out); }
+#bv-zoom-2:checked ~ .bv-atlas-frame .bv-atlas-canvas { width: 175%; }
+.bv-atlas-canvas img { display: block; width: 100%; height: auto; user-select: none; }
+
+/* Cartographic Pins */
+.bv-pin {
+  position: absolute; left: var(--x); top: var(--y); transform: translate(-50%, -50%);
+  z-index: 2; display: inline-flex; align-items: center; gap: 0.32rem;
+  padding: 0.25rem; text-decoration: none !important; background: none !important; border: none !important;
+}
+.bv-pin-dot {
+  width: 11px; height: 11px; border-radius: 50%;
+  background: var(--bv-accent); border: 2px solid #faf9f6;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+  transition: transform var(--t-hover) var(--ease-out), background-color var(--t-hover) var(--ease-out);
+}
+.bv-pin-label {
+  font-family: var(--font-family-body); font-size: 0.72rem; font-weight: 600;
+  color: #1c1a17; background: rgba(250, 249, 246, 0.92);
+  padding: 0.08rem 0.38rem; border-radius: 3px; border: 1px solid rgba(28, 26, 23, 0.22);
+  white-space: nowrap; pointer-events: none;
+  transition: background-color var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out);
+}
+.bv-pin:hover, .bv-pin:focus-visible { z-index: 20; }
+.bv-pin:hover .bv-pin-dot, .bv-pin:focus-visible .bv-pin-dot {
+  transform: scale(1.4); background: var(--bv-secondary-accent);
+}
+.bv-pin:hover .bv-pin-label, .bv-pin:focus-visible .bv-pin-label {
+  background: var(--bv-accent); color: #faf9f6; border-color: var(--bv-accent);
+}
+
+/* Category Filtering */
+#bv-cat-settlement:checked ~ .bv-atlas-frame .bv-pin:not([data-cat="settlement"]),
+#bv-cat-landmark:checked ~ .bv-atlas-frame .bv-pin:not([data-cat="landmark"]),
+#bv-cat-region:checked ~ .bv-atlas-frame .bv-pin:not([data-cat="region"]),
+#bv-cat-institution:checked ~ .bv-atlas-frame .bv-pin:not([data-cat="institution"]),
+#bv-cat-fortress:checked ~ .bv-atlas-frame .bv-pin:not([data-cat="fortress"]) {
+  opacity: 0.16; pointer-events: none;
+}
+
+/* Docked Contextual Information Panel (Zero Map Obstruction, Zero Flicker) */
+.bv-atlas-dock {
+  position: relative; min-height: 5.4rem; padding: var(--sp-2) var(--sp-3);
+  border-top: 1px solid var(--bv-border); background: var(--bv-surface);
+  display: flex; align-items: center;
+}
+.bv-atlas-dock-hint { font-size: var(--text-sm); color: var(--bv-text-muted); font-style: italic; }
+.bv-pin-card {
+  display: none; position: fixed; left: 50%; bottom: 1.25rem; transform: translateX(-50%);
+  width: min(560px, calc(100vw - 2rem)); padding: var(--sp-2) var(--sp-3);
+  border-radius: var(--bv-radius); border: 1px solid var(--bv-border-strong);
+  border-left: 3px solid var(--bv-accent); background: var(--bv-surface);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16); z-index: 100; pointer-events: none;
+}
+.bv-pin:hover .bv-pin-card, .bv-pin:focus-visible .bv-pin-card { display: flex; flex-direction: column; gap: 0.2rem; }
+.bv-pin-meta { font-family: var(--font-family-monospace); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--bv-accent); }
+.bv-pin-title { font-family: var(--font-family-heading); font-size: 1.35rem; font-weight: 600; color: var(--bv-text); line-height: 1.15; }
+.bv-pin-desc { font-size: var(--text-sm); color: var(--bv-text-sub); line-height: 1.45; }
+.bv-pin-cta { font-family: var(--font-family-monospace); font-size: var(--text-xs); color: var(--bv-accent); margin-top: 0.2rem; }
+
+@media (max-width: 720px) {
+  .bv-pin-label { display: none; }
+  .bv-pin:hover .bv-pin-label, .bv-pin:focus-visible .bv-pin-label { display: inline-block; }
+  .bv-pin-dot { width: 13px; height: 13px; }
+}
