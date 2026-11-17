@@ -797,12 +797,17 @@ html.dark .bv-status-captive { color: #deb25b; }
   transition: transform var(--t-hover) var(--ease-out), background-color var(--t-hover) var(--ease-out);
 }
 .bv-pin-label {
-  position: absolute; left: 9px; top: 0; transform: translateY(-50%);
-  font-family: var(--font-family-body); font-size: 0.72rem; font-weight: 600;
-  color: #1c1a17; background: rgba(250, 249, 246, 0.92);
-  padding: 0.08rem 0.38rem; border-radius: 3px; border: 1px solid rgba(28, 26, 23, 0.22);
+  position: absolute; left: 10px; top: 0; transform: translateY(-50%);
+  opacity: 0; visibility: hidden;
+  font-family: var(--font-family-body); font-size: 0.74rem; font-weight: 600;
+  color: #faf9f6; background: var(--bv-accent);
+  padding: 0.14rem 0.48rem; border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.28);
   white-space: nowrap; pointer-events: none;
-  transition: background-color var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out);
+  transition: opacity var(--t-hover) var(--ease-out), visibility var(--t-hover) var(--ease-out);
+}
+.bv-pin:hover .bv-pin-label, .bv-pin:focus-visible .bv-pin-label {
+  opacity: 1; visibility: visible;
 }
 .bv-pin:hover, .bv-pin:focus-visible { z-index: 20; }
 .bv-pin:hover .bv-pin-dot, .bv-pin:focus-visible .bv-pin-dot {
