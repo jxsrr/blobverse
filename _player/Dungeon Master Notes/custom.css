@@ -910,3 +910,20 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
   .bv-pin-marker { width: 18px; height: 18px; }
   .bv-pin-marker svg { width: 10px; height: 10px; }
 }
+
+/* === Pin Anchor Exact Center Lock === */
+.bv-atlas-full .bv-atlas-canvas { position: relative; width: 100%; }
+.bv-atlas-full .bv-atlas-canvas > img { display: block; width: 100% !important; height: 100% !important; margin: 0 !important; max-width: none !important; }
+.bv-atlas-full .bv-pin {
+  position: absolute !important; left: var(--x) !important; top: var(--y) !important;
+  width: 0 !important; height: 0 !important; padding: 0 !important; margin: 0 !important;
+  transform: none !important; display: block !important;
+}
+.bv-atlas-full .bv-pin-marker {
+  position: absolute !important; left: 0 !important; top: 0 !important;
+  transform: translate(-50%, -50%) !important; margin: 0 !important;
+}
+.bv-atlas-full .bv-pin:hover .bv-pin-marker,
+.bv-atlas-full .bv-pin:focus-visible .bv-pin-marker {
+  transform: translate(-50%, -50%) scale(1.28) !important;
+}
