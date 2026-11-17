@@ -7,7 +7,7 @@ status: deceased (Session 04)
 first_seen: Session 04
 universe: Oversee
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Lyceum University</span></div><span class="bv-status bv-status-deceased">Deceased (session 04)</span></div><div class="bv-dossier-name">Professor Alistair Donta</div><div class="bv-dossier-epithet">Oldest Priest of Oversee, Rector of Lyceum University</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Lyceum University (nominally Commonwealth)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Lyceum University of Arcane Arts, Padre City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
 

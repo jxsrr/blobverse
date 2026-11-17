@@ -4,7 +4,7 @@ leader: Livia Vane
 attitude_to_party: hostile (officially), uncertain (via Livia)
 universe: Oversee
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Rose Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a> (Wakil Keadilan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile (officially), uncertain (via Livia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div></div></div>
 

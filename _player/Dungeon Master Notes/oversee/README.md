@@ -6,7 +6,7 @@ showToc: false
 ---
 <div class="bv-hero">
   <span class="bv-hero-kicker">Main Campaign · Active Arc</span>
-  <a class="bv-hub-logo-link" href="/oversee" aria-label="Oversee Home"><img class="bv-logo-hero" src="/oversee/Logo.png" alt="Oversee"></a>
+  <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-hub-logo-link" href="/oversee" aria-label="Oversee Home"><img class="bv-logo-hero" src="/oversee/Logo.png" alt="Oversee"></a>
   <p class="bv-hero-sub">From the Yawning Town to the Spire of Whispering Ice and the subterranean metropolis of Arujaya — the chronicle of the Five Sticks.</p>
   <div class="bv-cta-row">
     <a class="bv-btn bv-btn-primary" href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Latest Recap: Session 07</a>

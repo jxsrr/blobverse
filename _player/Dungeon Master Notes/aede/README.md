@@ -6,7 +6,7 @@ showToc: false
 ---
 <div class="bv-hero">
   <span class="bv-hero-kicker">Special Campaign · Anomaly Arc</span>
-  <div class="bv-hero-title">AEDE</div>
+  <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span><div class="bv-hero-title">AEDE</div>
   <p class="bv-hero-sub">Across the storm-wracked Elis Ocean into a tear in reality — where the sea bends and time unravels.</p>
   <div class="bv-cta-row">
     <a class="bv-btn bv-btn-primary" href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Read Special Episode</a>

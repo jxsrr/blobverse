@@ -4,7 +4,7 @@ session_number: 1
 universe: Oversee
 showToc: true
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 01 · OVERSEE</div><div class="bv-ep-heading">Session 01 — The Sorcerer</div><p class="bv-ep-synopsis">Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.</p></div>
 

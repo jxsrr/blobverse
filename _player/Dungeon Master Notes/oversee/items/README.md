@@ -3,7 +3,7 @@ title: Items
 showSidebar: false
 showToc: false
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · RELICS & ARTIFACTS (18 ENTRIES)</div><div class="bv-sec-title">Oversee — Items</div><p class="bv-sec-sub">Weapons, curiosities, and named items uncovered in play.</p></div>
 

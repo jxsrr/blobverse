@@ -5,7 +5,7 @@ universe: Oversee
 era: Initial Six Era
 years: 180 – 200 AV
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 06 OF 07</div><div class="bv-world-title">OV5 Initial Six Era</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Initial Six Era</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">180 – 200 AV</div></div></div></div>
 

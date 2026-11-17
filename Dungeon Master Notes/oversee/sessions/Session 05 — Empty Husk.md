@@ -5,7 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 05 · OVERSEE</div><div class="bv-ep-heading">Session 05 — Empty Husk</div><p class="bv-ep-synopsis">The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.</p></div>
 

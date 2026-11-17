@@ -1156,3 +1156,78 @@ article:has(a[href="/sonstige"]) {
   .bv-logo-selector { height: 54px !important; }
   .bv-world-home img { height: 34px !important; }
 }
+
+/* === Reliable Root-Level World Themes (Logo-Matched Palettes) === */
+:root:has([data-world="oversee"]) {
+  --bv-accent: #85181A !important;
+  --bv-secondary-accent: #D94E34 !important;
+}
+:root:has([data-world="aede"]) {
+  --bv-accent: #C83E88 !important;
+  --bv-secondary-accent: #6772C8 !important;
+}
+:root:has([data-world="sonstige"]) {
+  --bv-accent: #C96A10 !important;
+  --bv-secondary-accent: #B87A14 !important;
+}
+
+/* === Maximized Logo Placement (Hub Hero, Landing Cards, & Subpage Header) === */
+.bv-world-theme { display: none; }
+
+/* 1. Hub Hero Logo (/oversee, /aede, /sonstige) */
+.bv-hero .bv-hub-logo-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.4rem 0 0.85rem;
+  padding: 0.35rem;
+  border-radius: var(--bv-radius);
+  transition: transform var(--t-hover) var(--ease-out), filter var(--t-hover) var(--ease-out);
+}
+.bv-hero .bv-hub-logo-link:hover,
+.bv-hero .bv-hub-logo-link:focus-visible {
+  transform: scale(1.03);
+  filter: drop-shadow(0 8px 20px color-mix(in srgb, var(--bv-accent) 32%, transparent));
+}
+.bv-hero .bv-logo-hero {
+  height: 124px !important;
+  width: auto !important;
+  max-width: min(520px, 92vw) !important;
+  object-fit: contain;
+  margin: 0 !important;
+}
+
+/* 2. Subpage Back-to-Hub Logo Bar (/oversee/xxx, /aede/xxx, /sonstige/xxx) */
+.bv-world-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 0 0 var(--sp-3);
+  padding: 0.5rem 1rem;
+  border-radius: var(--bv-radius);
+  border: 1.5px solid color-mix(in srgb, var(--bv-accent) 45%, var(--bv-border-strong));
+  background: linear-gradient(135deg, var(--bv-surface), color-mix(in srgb, var(--bv-accent) 6%, var(--bv-surface)));
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--bv-accent) 12%, transparent);
+}
+.bv-world-home img {
+  height: 52px !important;
+  width: auto !important;
+  max-width: 280px !important;
+  object-fit: contain;
+}
+
+/* 3. Landing Page World Cards (/) */
+.bv-logo-selector {
+  height: 88px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  object-fit: contain;
+  margin: 0 auto var(--sp-2) !important;
+  display: block;
+}
+
+@media (max-width: 720px) {
+  .bv-hero .bv-logo-hero { height: 88px !important; }
+  .bv-world-home img { height: 38px !important; }
+  .bv-logo-selector { height: 68px !important; }
+}

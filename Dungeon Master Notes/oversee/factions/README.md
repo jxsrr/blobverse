@@ -5,7 +5,7 @@ showToc: false
 ---
 
 ::pf
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · FACTIONS & ORDERS (12 ENTRIES)</div><div class="bv-sec-title">Oversee — Factions</div><p class="bv-sec-sub">Guilds, courts, syndicates, and powers shaping the world.</p></div>
 

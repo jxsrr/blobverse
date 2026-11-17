@@ -4,7 +4,7 @@ session_number: 2
 universe: Oversee
 showToc: true
 ---
-<a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 02 · OVERSEE</div><div class="bv-ep-heading">Session 02 — The Wizard</div><p class="bv-ep-synopsis">Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.</p></div>
 
