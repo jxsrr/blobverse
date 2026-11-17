@@ -851,3 +851,6 @@ html.dark .bv-status-captive { color: #deb25b; }
   .bv-pin:hover .bv-pin-label, .bv-pin:focus-visible .bv-pin-label { display: inline-block; }
   .bv-pin-dot { width: 13px; height: 13px; }
 }
+
+article:has(.bv-atlas-full) { max-width: 1320px; }
+.bv-atlas-full { margin: var(--sp-2) 0 var(--sp-4); border: 1px solid var(--bv-border-strong); border-radius: var(--bv-radius); overflow: hidden; }

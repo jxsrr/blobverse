@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Locations
 showSidebar: false
 showToc: false

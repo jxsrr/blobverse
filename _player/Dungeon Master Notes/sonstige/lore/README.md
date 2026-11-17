@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Lore
 showSidebar: false
 showToc: false

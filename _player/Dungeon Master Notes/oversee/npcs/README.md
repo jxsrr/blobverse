@@ -1,5 +1,4 @@
 ---
-layout: list
 title: NPCs
 showSidebar: false
 showToc: false

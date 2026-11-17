@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Factions
 showSidebar: false
 showToc: false

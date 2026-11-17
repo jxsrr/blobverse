@@ -263,6 +263,26 @@
       "region": "Elis",
       "status": "Charted",
       "summary": "Colossal primordial world-tree towering over western Elis."
+    },
+    {
+      "name": "Pirizia",
+      "slug": "Pirizia",
+      "x": 39.87,
+      "y": 12.29,
+      "category": "Region",
+      "region": "Pirizia",
+      "status": "Visited",
+      "summary": "The frozen northwestern continent of Oversee."
+    },
+    {
+      "name": "Rioquan",
+      "slug": "Rioquan",
+      "x": 55.78,
+      "y": 34.81,
+      "category": "Region",
+      "region": "Rioquan",
+      "status": "Charted",
+      "summary": "North-central island realm and archipelago between Pirizia and Harka."
     }
   ]
 }

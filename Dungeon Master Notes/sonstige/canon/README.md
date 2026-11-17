@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Timeline
 showSidebar: false
 showToc: false

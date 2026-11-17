@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Items
 showSidebar: false
 showToc: false

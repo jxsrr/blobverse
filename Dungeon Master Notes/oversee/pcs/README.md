@@ -1,5 +1,4 @@
 ---
-layout: list
 title: PCs
 showSidebar: false
 showToc: false

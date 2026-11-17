@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Sessions
 showSidebar: false
 showToc: false

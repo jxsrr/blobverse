@@ -5,6 +5,7 @@ showSidebar: false
 showToc: false
 ---
 
+::pf
 <div class="bv-hero">
   <span class="bv-hero-kicker">Special Campaign · Anomaly Arc</span>
   <div class="bv-hero-title">AEDE</div>
@@ -14,6 +15,7 @@ showToc: false
     <a class="bv-btn bv-btn-secondary" href="/aede/sessions">Session Index</a>
   </div>
 </div>
+::/pf
 
 <div class="bv-section-head">
   <span class="bv-section-en">INTRODUCTION</span>

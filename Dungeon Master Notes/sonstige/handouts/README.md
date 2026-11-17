@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Handouts
 showSidebar: false
 showToc: false
