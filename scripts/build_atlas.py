@@ -33,7 +33,7 @@ def main():
         status = html.escape(loc.get("status", "Charted"))
         desc = html.escape(loc["summary"])
         pins.append(
-            f'<a class="bv-pin" data-cat="{cat_raw}" href="{href}" style="--x:{loc["x"]}%;--y:{loc["y"]}%;" aria-label="{name} ({cat})">'
+            f'<a class="bv-pin" data-cat="{cat_raw}" href="{href}" style="left:{loc["x"]}%;top:{loc["y"]}%;" aria-label="{name}">'
             f'<span class="bv-pin-marker" aria-hidden="true">{svg}</span>'
             f'<span class="bv-pin-label">{name}</span>'
             f'<span class="bv-pin-card" role="tooltip">'
@@ -55,14 +55,14 @@ def main():
         '<span class="bv-atlas-corner bv-c-tr" aria-hidden="true"></span>'
         '<span class="bv-atlas-corner bv-c-bl" aria-hidden="true"></span>'
         '<span class="bv-atlas-corner bv-c-br" aria-hidden="true"></span>'
-        f'<div class="bv-atlas-canvas" style="aspect-ratio:{data["aspectRatio"]};">'
-        f'<img src="{data["image"]}" alt="World map of Oversee" loading="eager">'
+        '<div class="bv-atlas-stage">'
+        f'<img src="{data["image"]}" alt="World map of Oversee">'
         + "".join(pins) +
         "</div></div>\n"
         "::/pf\n"
     )
     README_PATH.write_text(content, encoding="utf-8")
-    print("Built framed icon atlas with", len(pins), "markers")
+    print("Rebuilt exact stage atlas with", len(pins), "pins")
 
 if __name__ == "__main__":
     main()

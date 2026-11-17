@@ -927,3 +927,8 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
 .bv-atlas-full .bv-pin:focus-visible .bv-pin-marker {
   transform: translate(-50%, -50%) scale(1.28) !important;
 }
+
+/* === Exact Image-Bound Stage (Matches picker.html 1:1) === */
+.bv-atlas-stage { position: relative; display: block; width: 100%; line-height: 0; }
+.bv-atlas-stage > img { display: block; width: 100% !important; height: auto !important; margin: 0 !important; }
+.bv-atlas-stage p { display: contents; }
