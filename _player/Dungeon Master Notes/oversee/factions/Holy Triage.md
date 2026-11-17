@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Valerius Thorne (Kanselir Agung)
 attitude_to_party: hostile

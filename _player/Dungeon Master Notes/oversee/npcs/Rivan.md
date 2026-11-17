@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Sketch Artist, HVS Researcher
 faction: Cycle Clan (former)

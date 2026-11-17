@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Dying Knight, Kkana and Terrde's Previous Owner
 faction: None (independent)

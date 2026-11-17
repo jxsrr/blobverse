@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Founder of the Cycle Clan, First Witness of the Shell
 faction: Cycle Clan (deceased)

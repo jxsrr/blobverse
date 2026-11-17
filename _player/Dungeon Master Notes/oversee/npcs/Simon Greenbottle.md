@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Second Valla, The Halfling Who Became a God
 faction: None (Valla)

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Water Heir of Klan Lei, Syl's Biological Father, The Man Who Raped Vythrax
 faction: Klan Lei (Watigi line) — deceased

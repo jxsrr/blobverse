@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Former General, Prisoner of Benteng Atlan
 faction: The Commonwealth (former)

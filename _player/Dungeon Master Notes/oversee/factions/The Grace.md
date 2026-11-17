@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Unknown (destroyed)
 attitude_to_party: neutral

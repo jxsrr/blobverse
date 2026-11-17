@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Predator, The Possessor of Shin, The Destroyer of The Grace
 faction: The Gap (hostile) / None
