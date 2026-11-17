@@ -70,11 +70,11 @@ showToc: false
 
   <div class="bv-tl-item">
     <div class="bv-tl-marker"></div>
-    <div class="bv-tl-date">650 CC</div>
+    <div class="bv-tl-date">650 AV</div>
     <div class="bv-tl-card">
       <div class="bv-tl-source">Uncovered in Session 03 · <a href="/oversee/npcs/Mr.%20Bejir">Mr. Bejir's Lobby Photo</a></div>
       <div class="bv-tl-title">The Inter-Village Fried Rice Competition</div>
-      <div class="bv-tl-desc">A black-and-white photograph in <a href="/oversee/locations/Gudameng%20Town">Gudameng Town</a> commemorates peace between Ghuffghuff and Gudameng in <strong>650 CC</strong>.</div>
+      <div class="bv-tl-desc">A black-and-white photograph in <a href="/oversee/locations/Gudameng%20Town">Gudameng Town</a> commemorates peace between Ghuffghuff and Gudameng in <strong>650 AV</strong>.</div>
     </div>
   </div>
 

@@ -12,7 +12,7 @@ universe: Oversee
 ## What the Party Knows
 - A nervous, balding man. Runs the inn.
 - Offered the party the "Signature Fried Rice Breakfast Package" — then whispered it was "not available" because "the ingredients... are difficult."
-- Had a **black-and-white photo** in the lobby: "The Inter-Village Fried Rice Competition, 650 CC."
+- Had a **black-and-white photo** in the lobby: "The Inter-Village Fried Rice Competition, 650 AV."
 - The inn menu included "Fried Rice Night."
 
 ## What He Offers
