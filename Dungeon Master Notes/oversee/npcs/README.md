@@ -1,4 +1,5 @@
 ---
+publish: false
 layout: list
 title: NPCs
 showSidebar: false

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: Juto Port City (Rioquan South)
 universe: Oversee
@@ -37,8 +38,8 @@ There are **three Observatories** built by the Cycle Clan:
    - Repurposed by **Atlan Nouveau** for oceanography.
    - Now the **Keeper of Secret's headquarters**.
 
-3. **The Third Observatory — Pegunungan Arbor (Radio)**
-   - Built in the **Pegunungan Arbor**. Dedicated to **radio astronomy**.
+3. **The Third Observatory — Arbor Mountains (Radio)**
+   - Built in the **Arbor Mountains**. Dedicated to **radio astronomy**.
    - **Abandoned.** Connected to the **Cloud Prison**.
 
 ## The Triangulation Network

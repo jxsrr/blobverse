@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Bartender, The Dead Numbers
 faction: Independent

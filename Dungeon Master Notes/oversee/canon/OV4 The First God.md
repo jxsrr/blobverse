@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Overseer Lore
 universe: Oversee
 era: The First God
@@ -440,7 +441,7 @@ The party will have to decide how much of the official history to trust.
 - **`Frosthaven Peak.md`** — the mountain of The Frostscale Clan
 - **`Wind's Rest.md`** — where Gustaero was found
 - **`Hutan Garberro.md`** — where Rayio was thrown
-- **`Ngarai Ratapan.md`** — where Zenahhi was thrown
+- **`Canyon of Lament.md`** — where Zenahhi was thrown
 - **`Dur-Khazim.md`** — where Swaith and Terrde were found
 
 ## Timeline Note

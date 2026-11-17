@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: Pirizia West
 universe: Oversee

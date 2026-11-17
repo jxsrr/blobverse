@@ -1,6 +1,7 @@
 ---
+publish: false
 type: Location
-parent_location: Between Pegunungan Arbor and the eastern lowlands
+parent_location: Between Arbor Mountains and the eastern lowlands
 universe: Oversee
 continent: elis
 title: Miracle Cranny

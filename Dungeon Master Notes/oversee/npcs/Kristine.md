@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Dr. Vektor's Daughter, Preserved in Stasis
 faction: None (Arujaya)

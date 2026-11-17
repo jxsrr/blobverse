@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: Danau Kuno (now Tarakita University of Heroism)
 universe: Oversee

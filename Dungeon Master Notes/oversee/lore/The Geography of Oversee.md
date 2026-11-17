@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 ---
@@ -21,7 +22,7 @@ universe: Oversee
 
 ## Rioquan — The North
 - **Climate:** Tropical. Island. Divided.
-- **Terrain:** Vertical city (Juto Port City), canyons (Ngarai Ratapan), islands, the Silent Docks.
+- **Terrain:** Vertical city (Juto Port City), canyons (Canyon of Lament), islands, the Silent Docks.
 - **Cities:** Juto Port City, Graen, Zundabun, Thainarv.
 - **Notable Features:** The Observatorium, the Well of Wonders (hidden), the The Underground Ark (under the mountains).
 

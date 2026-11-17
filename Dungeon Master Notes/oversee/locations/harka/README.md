@@ -9,7 +9,7 @@ universe: Oversee
 
 ## What Matters Here
 - One of the major continents of **Oversee**, home to sprawling urban centers such as **<a href="/oversee/locations/harka/Padre%20Megalopolis">Padre City</a>**, **<a href="/oversee/locations/harka/Yawning%20Town">Yawning Town</a>**, and **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>**.
-- Borders the wild continent of **<a href="/oversee/locations/elis">Elis</a>** along the towering **Pegunungan Arbor** mountain range.
+- Borders the wild continent of **<a href="/oversee/locations/elis">Elis</a>** along the towering **Arbor Mountains** mountain range.
 - Strongly influenced by **<a href="/oversee/factions/One%20Voice%20Commonwealth">The Commonwealth</a>** and the noble houses of **The Lei Clan**.
 
 ## What the Party Knows
@@ -17,7 +17,7 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- The western border of Harka meets **Pegunungan Arbor**, hiding both the **Radio Observatory** at the peak and **<a href="/oversee/locations/elis/The%20Underground%20Ark">The Underground Ark</a>** deep beneath its roots.
+- The western border of Harka meets **Arbor Mountains**, hiding both the **Arbor's Observatorium** at the peak and **<a href="/oversee/locations/elis/The%20Underground%20Ark">The Underground Ark</a>** deep beneath its roots.
 %%
 
 <div class="bv-idx-grid">

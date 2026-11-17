@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 ---
@@ -35,7 +36,7 @@ universe: Oversee
 - **Kkana** — the **greatsword**. It stands firm. It anchors a position. It holds back collapsing reality.
 - **Zenahhi** — the **longsword**. It protects. It parries any attack. It deflects a blow meant for another.
 - **Purpose:** To **keep the Swan and the Bat in check**. To prevent them from destroying each other — and the world with them.
-- **Current holders:** Swaith — <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Ngarai Ratapan.
+- **Current holders:** Swaith — <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Canyon of Lament.
 - **The Fool is the walker.** It does not open doors. It does not close them. It **chooses** which door to open and which to close.
 
 ## The Fool and the Tarot
@@ -77,7 +78,7 @@ universe: Oversee
 ## What the Party Does NOT Know
 - The **six blades** are not ancient. They are a **later invention** — a **corruption** of the old legend.
 - The **Bat Trio** still exists. It is hidden. It is guarded by the **royal families of Oversee**.
-- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Ngarai Ratapan.
+- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Canyon of Lament.
 - The **Swan and the Bat** are not enemies. They are **rivals** — two sides of the same coin.
 - The **Fool Trio** is the key. Without it, the Swan and the Bat would destroy each other — and the world with them.
 - **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan.
@@ -100,7 +101,7 @@ The nine ancient weapons are divided into **three trios**, not six blades and th
 
 **The Fool Trio (3):** Swaith (dagger), Kkana (greatsword), Zenahhi (longsword)
 - **Purpose:** Keep the Swan and the Bat in check. Prevent them from destroying the world.
-- **Current holders:** Swaith (Shin), Kkana (Mira), Zenahhi (Ngarai Ratapan).
+- **Current holders:** Swaith (Shin), Kkana (Mira), Zenahhi (Canyon of Lament).
 - **Origin:** Unknown. Predates the Architect. They are the living embodiment of the Fool card in the Tarot of the Architect.
 
 ### The Six Blades — A Corruption of the Legend
@@ -125,7 +126,7 @@ The nine ancient weapons are divided into **three trios**, not six blades and th
 - **Swaith** (dagger) — releases souls. Frees the trapped. Absorbs them. The only weapon that can interact with the Echoes.
 - **Kkana** (greatsword) — stands firm. Anchors a position. Holds back collapsing reality.
 - **Zenahhi** (longsword) — protects. Parries any attack. Deflects a blow meant for another.
-- **The Fool Trio is scattered** — Swaith with Shin, Kkana with Mira, Zenahhi in Ngarai Ratapan.
+- **The Fool Trio is scattered** — Swaith with Shin, Kkana with Mira, Zenahhi in Canyon of Lament.
 - **The Fool Trio is the key.** Without it, the Swan and the Bat would destroy each other — and the world with them.
 - **The Fool Trio is tied to the Tarot of the Architect.** The Fool is the first card — the beginning, the journey, the walker between worlds. The Fool Trio is the living embodiment of the Fool card.
 
@@ -146,7 +147,7 @@ The nine ancient weapons are divided into **three trios**, not six blades and th
 ### What the Party Does NOT Know
 - The **six blades** are not ancient. They are a **later invention** — a **corruption** of the old legend.
 - The **Bat Trio** still exists. It is hidden. It is guarded by the **royal families of Oversee**.
-- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Ngarai Ratapan.
+- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Canyon of Lament.
 - The **Swan and the Bat** are not enemies. They are **rivals** — two sides of the same coin.
 - The **Fool Trio** is the key. Without it, the Swan and the Bat would destroy each other — and the world with them.
 - **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan.

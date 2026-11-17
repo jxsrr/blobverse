@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Founder of the Lei Roiga Branch
 faction: The Lei Clan

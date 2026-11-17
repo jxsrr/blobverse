@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: Rioquan Timur Barat
 universe: Oversee
@@ -52,8 +53,8 @@ There are **three Observatories** built by the Cycle Clan, each with a different
    - Repurposed by **Atlan Nouveau** for **oceanographic research**.
    - Now the **current headquarters of the Keeper of Secret**.
 
-3. **The Third Observatory — Pegunungan Arbor (Radio)**
-   - Built in the **Pegunungan Arbor** (Arbor Mountains, Harka/Elis border). Dedicated to **radio astronomy**.
+3. **The Third Observatory — Arbor Mountains (Radio)**
+   - Built in the **Arbor Mountains** (Arbor Mountains, Harka/Elis border). Dedicated to **radio astronomy**.
    - **Abandoned.** Connected to the **Cloud Prison**.
 
 ## What the Party Knows
@@ -101,16 +102,16 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 - **Now the Keeper of Secret's headquarters.** Mira runs the organization from beneath the Navigation Archive. **Atlan's base** — the eternal flame, the diary, the Twin Shell Amulet — is in the basement.
 - **The second sigil** is in the basement.
 
-**3. The Third Observatory — Pegunungan Arbor (Radio)**
-- Built in the **Pegunungan Arbor** (Arbor Mountains, the border between Harka and Elis). The highest observatory. The most isolated.
+**3. The Third Observatory — Arbor Mountains (Radio)**
+- Built in the **Arbor Mountains** (Arbor Mountains, the border between Harka and Elis). The highest observatory. The most isolated.
 - Dedicated to **radio astronomy** — listening to the silence between stars. It could not see the Shell. It could not measure its effects. But it could **hear** it — the faint, impossible signal that leaked through the Gap.
 - **Abandoned.** The last researchers disappeared two centuries ago.
-- **Connected to the Cloud Prison.** The fog that traps the Cloud Colony is a **byproduct** of the Radio Observatory's experiments.
+- **Connected to the Cloud Prison.** The fog that traps the Cloud Colony is a **byproduct** of the Arbor's Observatorium's experiments.
 - **The third sigil** is still there.
 
 ### The Triangulation Network
 - The three Observatories were **connected**. Each one had a **Cycle Clan sigil** — a stone that resonated with the others. When all three were active, they could **triangulate** the Shell's position.
-- **The sigils are still there.** One is buried beneath Tarakita University of Heroism. One is in the basement of Juto Port City's Observatorium. One is in the Radio Observatory in Pegunungan Arbor.
+- **The sigils are still there.** One is buried beneath Tarakita University of Heroism. One is in the basement of Juto Port City's Observatorium. One is in the Arbor's Observatorium in Arbor Mountains.
 - **If the party finds all three sigils**, they can use them to **track the Shell** — to see where it is, where it is moving, and whether it is waking up.
 
 ### The Shell's Fall — Where Did It Happen?
@@ -136,7 +137,7 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 - **The cracked Gemheart fragment** is in the same cave. It can be fused with Emelanica to double its power.
 - **The Architect's echo** is in the same cave. It will answer one question truthfully.
 - **The first Cycle Clan sigil** is in the same cave.
-- **There are three Observatories.** The second is in Juto Port City. The third is in Pegunungan Arbor.
+- **There are three Observatories.** The second is in Juto Port City. The third is in Arbor Mountains.
 - **The three sigils form a triangulation network.** If the party finds all three, they can track the Shell.
 - **Shin's name was erased** from the Graduate Tower. Someone did not want him remembered.
 - **HVS-03** is in the Underground Library. It is the third shell. It was never filled.
@@ -144,7 +145,7 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 ### Season 3 Reveal Schedule
 - **Session 8–10** — The party learns about the three Observatories. They learn Danau Kuno is now Tarakita University of Heroism. They learn the Shell fell there.
 - **Session 11** — The party visits Tarakita University of Heroism. They find Wiseman's journal. They find the cracked Gemheart fragment. They find the Architect's echo. They find the first sigil. They meet Professor Rubi. They meet Kael. They find the Living Failures. They find HVS-03. They find Shin's erased name.
-- **Session 11** — The party may visit the Radio Observatory in Pegunungan Arbor. They find the original Cycle Clan records. They find the third sigil.
+- **Session 11** — The party may visit the Arbor's Observatorium in Arbor Mountains. They find the original Cycle Clan records. They find the third sigil.
 - **Endgame** — The party must decide what to do with the truth. They can expose the Cycle Clan. They can use the sigils to track the Shell. They can free the Cloud Colony. They can release the Living Failures. They can restore Shin's name. The choice is theirs.
 
 ### Corrections Applied
@@ -160,8 +161,8 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 
 ## Connections to Other Lore
 - `Juto's Observatorium.md` — the Second Observatory (Juto Port City)
-- `The Radio Observatory.md` — the Third Observatory (Pegunungan Arbor) (needs file)
-- `The Cloud Prison.md` — the colony connected to the Radio Observatory
+- `The Arbor's Observatorium.md` — the Third Observatory (Arbor Mountains) (needs file)
+- `The Cloud Prison.md` — the colony connected to the Arbor's Observatorium
 - `Guanik Wiseman.md` — the founder of the Cycle Clan, the Architect's vessel
 - `The Shell.md` — the video Wiseman recorded
 - `The Cycle Clan.md` — the organization Wiseman founded

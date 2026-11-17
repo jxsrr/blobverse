@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 ---
@@ -62,7 +63,7 @@ universe: Oversee
 - Some joined **Keeper of Secret** — founded by **Mira Nouveau**, dedicated to finding the truth about the Initial Six.
 - Some joined **Will of Grin** — founded by **Hildag Grin**, dedicated to fighting the corrupted Commonwealth.
 - Some went mad. Some hid. Some died.
-- **Rivan** is one of the fragments. He is an artist who drew the HVS schematics under Guanik's guidance. He lives in **Zundabun** — in the Half House. He has a copy of the Peta Bahtera and a fragment of the Edisi Law in his basement.
+- **Rivan** is one of the fragments. He is an artist who drew the HVS schematics under Guanik's guidance. He lives in **Zundabun** — in the Half House. He has a copy of the Map of the Ark and a fragment of the Edisi Law in his basement.
 - **Guanik Wiseman** is the last living founder. He is hidden. He is waiting. The Architect is inside him.
 
 ### No Four-Cipher Structure

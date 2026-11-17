@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Druid of the Initial Six, The Smiling Heir of Grin
 faction: The Initial Six / Will of Grin (deceased)

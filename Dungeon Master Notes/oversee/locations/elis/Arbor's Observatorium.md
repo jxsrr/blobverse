@@ -1,17 +1,18 @@
 ---
+publish: false
 type: Location
-parent_location: Pegunungan Arbor (Harka/Elis border) — foot of the mountain
+parent_location: Arbor Mountains (Harka/Elis border) — foot of the mountain
 universe: Oversee
 continent: elis
 title: "Arbor's Observatorium"
 ---
-<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Arbor's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Lake at the foot of Pegunungan Arbor</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">None (abandoned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Ruined. Partly submerged. Haunted by whispers.</div></div></div></div>
+<div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Arbor's Observatorium</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Lake at the foot of Arbor Mountains</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">None (abandoned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Ruined. Partly submerged. Haunted by whispers.</div></div></div></div>
 
 
 ## What Matters Here
-- A **lake of ancient water** at the foot of **Pegunungan Arbor**. Dark blue. Never moves. No wind touches it.
+- A **lake of ancient water** at the foot of **Arbor Mountains**. Dark blue. Never moves. No wind touches it.
 - In the center: a **half-sunken white stone tower** — the **Lakeside Listening Post**.
-- The Post was built by the Cycle Clan as a **satellite site** of the Third Observatory (Radio). It was never one of the three Observatories. It was a **relay** — a listening station that fed signals back to the Radio Observatory at the peak.
+- The Post was built by the Cycle Clan as a **satellite site** of the Third Observatory (Radio). It was never one of the three Observatories. It was a **relay** — a listening station that fed signals back to the Arbor's Observatorium at the peak.
 - The Post is in ruins. The lower levels are flooded. The upper levels are intact. The whispers are constant.
 - **The Lake of Whispers** — the water is **Ambitio-Ether-infused**. Drinking it causes visions. Immersing in it causes memory loss.
 - **The Archive Chamber** — the deepest level of the Post. It holds a copy of the Cycle Clan's radio-telescope logs — the **first recordings** of the signal the researchers heard.
@@ -20,7 +21,7 @@ title: "Arbor's Observatorium"
 ## What the Party Knows
 - They have not been here. They have never heard of the Lakeside Listening Post.
 - They may have heard rumors of "a haunted lake in the mountains" if they've talked to the right people in Harka.
-- They may have heard of the Third Observatory — the Radio Observatory at the peak of Pegunungan Arbor — but not the Lakeside Listening Post.
+- They may have heard of the Third Observatory — the Arbor's Observatorium at the peak of Arbor Mountains — but not the Lakeside Listening Post.
 
 ## Current State
 - Ruined. Flooded. Haunted. The whispers are the Overseer's signal, still bleeding through the lake.
@@ -28,8 +29,8 @@ title: "Arbor's Observatorium"
 %% DM SECRETS %%
 
 ### The Lakeside Listening Post — Full Canon
-- The **Lakeside Listening Post** is **not** one of the three Observatories. It is a **satellite site** — a relay station built by the Cycle Clan at the foot of Pegunungan Arbor to feed signals back to the Radio Observatory at the peak.
-- It was built **after** the Radio Observatory. It was a **convenience** — a closer place for the researchers to collect data, to rest, to listen without climbing the mountain.
+- The **Lakeside Listening Post** is **not** one of the three Observatories. It is a **satellite site** — a relay station built by the Cycle Clan at the foot of Arbor Mountains to feed signals back to the Arbor's Observatorium at the peak.
+- It was built **after** the Arbor's Observatorium. It was a **convenience** — a closer place for the researchers to collect data, to rest, to listen without climbing the mountain.
 - **The lake** — the Lake of Whispers — is not a natural lake. It is a **crater** left by a piece of the Shell that broke off during the Fall — the **same Fall** that created the Lake of Danau Kuno. The two lakes are fragments of the same impact event.
 - **The water is Ambitio-Ether-infused.** Drinking it causes visions. Immersing it causes memory loss. This is the same water as Danau Kuno — the Shell's residue.
 - **The whispers** are the Overseer's signal, bleeding through the water. The researchers heard it. The Post is still full of echoes.
@@ -39,9 +40,9 @@ title: "Arbor's Observatorium"
 - **The Lakeside Listening Post** — the **satellite site** of the Third Observatory (Radio). Built **centuries after** Danau Kuno. Where the Cycle Clan researchers first **heard** the signal. Where the radio-telescope logs are kept. Where the whispers started.
 - **They are not the same place.** They are two different lakes, two different ruins, two different parts of the Cycle Clan's history.
 
-### The Difference — Radio Observatory vs. the Lakeside Listening Post
-- **The Radio Observatory** — the Third Observatory. Built at the **peak** of Pegunungan Arbor. Dedicated to **radio astronomy** — listening to the silence between stars. Abandoned. Fog-locked. Connected to the **Cloud Prison**.
-- **The Lakeside Listening Post** — the **satellite site** of the Radio Observatory. Built at the **foot** of Pegunungan Arbor. Dedicated to **receiving and relaying** the signal the Radio Observatory heard. Ruined. Flooded. Whispering.
+### The Difference — Arbor's Observatorium vs. the Lakeside Listening Post
+- **The Arbor's Observatorium** — the Third Observatory. Built at the **peak** of Arbor Mountains. Dedicated to **radio astronomy** — listening to the silence between stars. Abandoned. Fog-locked. Connected to the **Cloud Prison**.
+- **The Lakeside Listening Post** — the **satellite site** of the Arbor's Observatorium. Built at the **foot** of Arbor Mountains. Dedicated to **receiving and relaying** the signal the Arbor's Observatorium heard. Ruined. Flooded. Whispering.
 - **They are not the same place.** The Post is below. The Observatory is above. The Post is ruined. The Observatory is fog-locked.
 
 ### The Archive Chamber
@@ -57,14 +58,14 @@ title: "Arbor's Observatorium"
 - **If the party's Paladin (Shin) immerses themselves in the Listening Pool**, they will hear something else — the voice of **Zargoth**, the father inside him, telling them to turn back. Zargoth does not want to hear the Overseer again. He has heard it before.
 
 ### What the Party Does NOT Know
-- The Listening Post is **not** one of the three Observatories. It is a **satellite site** of the Radio Observatory.
+- The Listening Post is **not** one of the three Observatories. It is a **satellite site** of the Arbor's Observatorium.
 - The Lake of Whispers is **not** the Lake of Danau Kuno. It is a **different crater** — a different piece of the same Shell fall.
 - The whispers are the Overseer's signal, still bleeding through the water.
 - The **Archive Chamber** holds a copy of the radio-telescope logs. If they retrieve it, they can give it to Professor Rubi.
 - The **Listening Pool** can let a character hear the Overseer directly. It is dangerous. It is also the only way to know what the Overseer sounds like.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party learns about the Lakeside Listening Post. They learn it is a satellite site of the Radio Observatory. They learn the Lake of Whispers is a different crater from Danau Kuno.
+- **Session 8–10** — The party learns about the Lakeside Listening Post. They learn it is a satellite site of the Arbor's Observatorium. They learn the Lake of Whispers is a different crater from Danau Kuno.
 - **Session 11** — The party visits the Listening Post. They find the ruins. They find the whispers. They find the Archive Chamber. They find the Listening Pool.
 - **Session 11** — The party must decide whether to immerse themselves in the Listening Pool. They must decide whether to retrieve the logs. They must decide what to do with the whispers. The choice is theirs.
 
@@ -82,8 +83,8 @@ title: "Arbor's Observatorium"
 ## Connections to Other Lore
 - `Tarakita University of Heroism.md` — the First Observatory (Danau Kuno) — where Wiseman saw the Shell, where his journal is
 - `Juto's Observatorium.md` — the Second Observatory (Juto Port City)
-- `Radio Observatory.md` — the Third Observatory (Pegunungan Arbor peak)
-- `The Cloud Prison.md` — the colony connected to the Radio Observatory
+- `Arbor's Observatorium.md` — the Third Observatory (Arbor Mountains peak)
+- `The Cloud Prison.md` — the colony connected to the Arbor's Observatorium
 - `Professor Rubi.md` — the former Cycle Clan member who can decode the logs
 - `Guanik Wiseman.md` — the founder of the Cycle Clan
 - `The Shell.md` — the entity the researchers were listening for

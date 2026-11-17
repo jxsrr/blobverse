@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Wakil Keadilan at the Time of the Initial Six
 faction: One Voice Commonwealth (original, corrupted)

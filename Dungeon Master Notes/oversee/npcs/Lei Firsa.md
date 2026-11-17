@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The True Founder of The Lei Clan, The Woman Who Forced Simon into the Valla Role
 faction: The Lei Clan (hidden)

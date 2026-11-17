@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Pak Basir's Brother, Dead Dockworker
 faction: Serikat Bongkar Muat (deceased)

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Unknown (regional guild master)
 attitude_to_party: friendly

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Livia Vane
 attitude_to_party: hostile (officially), uncertain (via Livia)

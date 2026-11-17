@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The First Grin, The Woman Who Married a Demon
 faction: Grin Kingdom (deceased)

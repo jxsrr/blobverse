@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Echo Gzirmo (as figurehead), Dr. Vektor (de facto)
 attitude_to_party: neutral

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 ---
@@ -116,13 +117,13 @@ universe: Oversee
 - Without any one of these, the override cannot be performed. The party must gather them all.
 
 ### The The Underground Ark
-- The The Underground Ark — the Underground Ark — is a massive structure built by the Cycle Clan beneath the **Pegunungan Arbor**.
+- The The Underground Ark — the Underground Ark — is a massive structure built by the Cycle Clan beneath the **Arbor Mountains**.
 - It is a **seed ship** — designed to preserve civilization if the Overseer ever consumed Oversee.
 - It contains:
   - **The original Edisi Law** — in the deepest chamber.
   - **Cryo-pods** with preserved Cycle Clan members from 1,000 years ago. They are still alive.
   - **Lei Alejandro** — alive, hiding, guarding the Law.
-- The entrance is hidden in the roots of Pegunungan Arbor. The party needs the **Peta Bahtera** — the Map of the Ark. **Rivan** has a copy in his basement.
+- The entrance is hidden in the roots of Arbor Mountains. The party needs the **Map of the Ark** — the Map of the Ark. **Rivan** has a copy in his basement.
 - The Ark is sealed. The door requires the **Twin Shell Amulet** — found in Atlan's hidden base in Juto Port City. Mira has it. She has not told the party it is a key.
 
 ### Lei Alejandro
@@ -164,7 +165,7 @@ universe: Oversee
 - `The Swan Trio.md` — the three relics required for the override
 - `The Six Legendary Weapons.md` — the six blades required for the override
 - `The Gemhearts.md` — the four stones required for the override
-- `Rivan.md` — holds a copy of the Peta Bahtera and a fragment of the Law
+- `Rivan.md` — holds a copy of the Map of the Ark and a fragment of the Law
 - `The Twin Shell Amulet.md` — the key to the Ark
 - `Mira Nouveau.md` — holds the Amulet, has not told the party
 - `Geldfre.md` — the Kanselir Agung at the time of the Initial Six

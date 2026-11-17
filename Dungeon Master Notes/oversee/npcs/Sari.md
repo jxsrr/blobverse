@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Lemonade Seller, Muangching Bay
 faction: Independent

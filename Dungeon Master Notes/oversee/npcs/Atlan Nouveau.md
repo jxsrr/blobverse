@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Oceanographer of the Initial Six, Mira's Father
 faction: The Initial Six (deceased)

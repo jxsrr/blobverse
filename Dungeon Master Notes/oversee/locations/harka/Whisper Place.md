@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: West Harka (remote)
 universe: Oversee

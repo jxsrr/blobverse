@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 ---
@@ -100,7 +101,7 @@ universe: Oversee
 - **CLARIFIED:** **Simon is still conscious.** He has been holding the seal for 700 years. He is still there.
 - **REMOVED:** "Simon is not the second Valla. He is the third. The second was a failed experiment — a mortal who volunteered and was destroyed by the Overseer within a year. The Cycle Clan covered it up. The failed Valla's name is Echo." — This was a false claim from an earlier draft. **There is no third Valla. There is no failed Valla named Echo.** Echo is a failed feeding ritual, not a failed Valla.
 - **REMOVED:** Any suggestion that there were dozens of Vallas, or a Valla replaced every few centuries. False. There have only ever been two.
-- **REMOVED:** "The failed Valla's name is Echo — and it is in the Cloud Colony, frozen in time." — This is **false**. Echo is not a Valla. Echo is the failed feeding ritual. The Cloud Colony is connected to the Radio Observatory, not to a failed Valla.
+- **REMOVED:** "The failed Valla's name is Echo — and it is in the Cloud Colony, frozen in time." — This is **false**. Echo is not a Valla. Echo is the failed feeding ritual. The Cloud Colony is connected to the Arbor's Observatorium, not to a failed Valla.
 
 ## Connections to Other Lore
 - `The Valla.md` — the current seal

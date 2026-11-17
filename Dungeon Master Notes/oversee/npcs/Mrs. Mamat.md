@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Warung Owner, Ghuffghuff
 faction: Independent

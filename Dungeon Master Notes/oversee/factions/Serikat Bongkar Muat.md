@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Faction
 leader: Pak Basir
 attitude_to_party: neutral (friendly if earned)

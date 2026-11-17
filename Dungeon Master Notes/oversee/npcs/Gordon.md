@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Husgus's Mentor, The Peacebringer of Harka
 faction: None (independent)

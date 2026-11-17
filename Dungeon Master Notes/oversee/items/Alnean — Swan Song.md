@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Item
 rarity: legendary
 current_holder: Kuo Lau King
@@ -111,7 +112,7 @@ aliases:
 | **Rayio** | Longsword | Hutan Garberro |
 | **Kkana** | Greatsword | <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
-| **Zenahhi** | Longsword | Ngarai Ratapan |
+| **Zenahhi** | Longsword | Canyon of Lament |
 | **Terrde** | Longsword | Ruins of the Rapture |
 
 ### Corrections Applied

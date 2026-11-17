@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Betrayer of the Initial Six, Guardian of the Edisi Law, Holder of Topaju
 faction: The Lei Clan (Wendigo line)

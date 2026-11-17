@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 era: Age of Nurturing
@@ -411,7 +412,7 @@ The "dozens of Vallas" story is **propaganda** invented by Lei Firsa's scribes a
 - **`Session 02 — The Wizard's City`** establishes that the Observatorium in **Juto Port City** (formerly Juto Port City) was built on top of **Atlan Nouveau's** base, which was itself built on Cycle Clan foundations.
 - **`Tarakita University of Heroism.md`** says Danau Kuno is now **Tarakita University of Heroism** — not Juto Port City.
 
-**Resolution: Danau Kuno is Tarakita University of Heroism.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Tarakita University of Heroism** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Juto Port City). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Pegunungan Arbor**.
+**Resolution: Danau Kuno is Tarakita University of Heroism.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Tarakita University of Heroism** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Juto Port City). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Arbor Mountains**.
 
 ### New NPCs Discovered
 

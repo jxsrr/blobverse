@@ -1,9 +1,10 @@
 ---
+publish: false
 type: Location
 parent_location: Rioquan East
 universe: Oversee
 aliases:
-  - Ngarai Ratapan
+  - Canyon of Lament
 continent: rioquan
 region: Utara
 title: Canyon of Lament

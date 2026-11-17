@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: The Sacrificed Grin, Simon's Best Friend
 faction: Grin Kingdom (deceased)

@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Location
 parent_location: Deep beneath the Elis Ocean
 universe: Oversee

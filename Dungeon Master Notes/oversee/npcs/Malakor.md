@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Gordon's Killer, Commonwealth Agent
 faction: The Commonwealth (deceased)
