@@ -15,10 +15,8 @@ title: Domido Forest
 - Dense, ancient forest. Home of **Gordon "The Noisy Rhino."**
 - Gordon's hut is here — a small, moss-covered cabin. Now empty.
 - **Gordon's grave** — a simple mound under an old tree. Husgus buried him here.
-- **Echo Sam Hurls** was defeated here (<a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>).
-- **The False Hydra's nest** was here. The creature is dead.
+- **Echo Sam Hurls** (manifesting as a False Hydra-like entity) was defeated here (<a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>).
 - The forest connects Ghuffghuff and Gudameng. It is a shortcut — but a dangerous one.
-- **Echo Olaf Guirela** is here. He waits near Gordon's grave.
 
 ## What Happened Here
 - Bud-eg the deaf old man lived here. He was killed by Agus.

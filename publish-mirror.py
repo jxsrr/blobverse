@@ -23,6 +23,49 @@ DM_SENTINEL_RE = re.compile(
     re.MULTILINE,
 )
 INLINE_COMMENT_RE = re.compile(r'%%.*?%%', re.DOTALL)
+
+SAFE_PLAYER_FRONTMATTER = {
+    "oversee/npcs/Reins.md": """---
+type: Oversee NPC
+role: Ama's Lost Friend, Atlan's Wife, Mira's Mother
+faction: Known through Atlan's Diary
+home: Unknown
+status: Unknown
+first_seen: Session 02 (via Atlan's Diary)
+universe: Oversee
+---
+""",
+    "oversee/npcs/Zargoth.md": """---
+type: Oversee NPC
+role: Ancient Demon Associated with the Gap
+faction: Unknown
+home: Unknown
+status: Associated with the curse affecting HVS
+first_seen: Session 06
+universe: Oversee
+---
+""",
+    "oversee/npcs/Olaf Guirela.md": """---
+type: Oversee NPC
+role: Ranger of the Initial Six, Gordon's Teacher
+faction: The Initial Six
+home: Whisper Place (formerly)
+status: Deceased; known through memory
+first_seen: Session 02 (mentioned), Session 05 (memory)
+universe: Oversee
+---
+""",
+}
+
+
+def apply_safe_player_frontmatter(rel_path, text):
+    safe_fm = SAFE_PLAYER_FRONTMATTER.get(rel_path)
+    if not safe_fm:
+        return text
+
+    _old_fm, body = split_frontmatter(text)
+    return safe_fm + body
+
 FM_RE = re.compile(r'^---\r?\n(.*?)\r?\n---\r?\n', re.DOTALL)
 
 
@@ -94,17 +137,36 @@ def strip_dm_content(text):
 def strip_mirror():
     mirror_path = Path(MIRROR)
     stripped = 0
+    removed = 0
     for root, _dirs, files in os.walk(mirror_path):
         for name in files:
             if not name.endswith(".md"):
                 continue
             path = Path(root) / name
             text = path.read_text(encoding="utf-8")
+            fm, body = split_frontmatter(text)
+            # Exclude files explicitly marked publish: false or oversee lore/entity files with zero ::pf blocks
+            rel_str = str(path.relative_to(mirror_path)).replace("\\", "/")
+            is_unpublished = bool(re.search(r"^publish\s*:\s*false\s*$", fm, flags=re.M))
+            is_gated_oversee_doc = (
+                rel_str.startswith(("oversee/canon/", "oversee/sessions/", "oversee/locations/", "oversee/npcs/", "oversee/items/", "oversee/factions/", "oversee/lore/"))
+                and "::pf" not in body
+            )
+            if is_unpublished or is_gated_oversee_doc:
+                path.unlink()
+                removed += 1
+                continue
             new_text = strip_dm_content(text)
+            new_text = apply_safe_player_frontmatter(rel_str, new_text)
             if new_text != text:
                 path.write_text(new_text, encoding="utf-8")
                 stripped += 1
-    print(f"Stripped DM content from {stripped} file(s).")
+    # Prune empty directories so hidden sections (like canon/ or rioquan/utara/) vanish from sidebar
+    for root, dirs, files in os.walk(mirror_path, topdown=False):
+        p = Path(root)
+        if p != mirror_path and not any(p.iterdir()):
+            p.rmdir()
+    print(f"Stripped DM content from {stripped} file(s); excluded {removed} non-canon/hidden file(s).")
 
 
 # ---- Main pipeline ----

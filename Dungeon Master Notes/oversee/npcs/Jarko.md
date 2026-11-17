@@ -19,10 +19,6 @@ universe: Oversee
 - His death ignited Vya's fire.
 - His mother Geneva has not recovered. His father Accarus does not speak of it.
 
-## What the Party Does NOT Know
-- Jarko was **not the True Heir**. Hildag and Accarus knew. They used him as a decoy.
-- Jarko did not know he was a decoy. He believed he was the True Heir. He believed he was the hope of the Grin.
-- Geneva did not know. She still believes he died a hero.
 ::/pf
 
 %% DM SECRETS %%

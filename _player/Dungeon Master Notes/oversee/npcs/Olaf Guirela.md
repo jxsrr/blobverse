@@ -1,23 +1,20 @@
 ---
 type: Oversee NPC
-role: The Ranger of the Initial Six, Gordon's Teacher
-faction: The Initial Six (deceased)
-home: Whisper Place (formerly) / Domido Forest (as Echo)
-status: Deceased (200 AV), Echo active near Gordon's grave
-first_seen: Session 05 (via Sam's memory), Echo not yet met
+role: Ranger of the Initial Six, Gordon's Teacher
+faction: The Initial Six
+home: Whisper Place (formerly)
+status: Deceased; known through memory
+first_seen: Session 02 (mentioned), Session 05 (memory)
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo active near gordon's grave</span></div><div class="bv-dossier-name">Olaf Guirela</div><div class="bv-dossier-epithet">The Ranger of the Initial Six, Gordon's Teacher</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Domido Forest (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Whisper Place (formerly) / Domido Forest (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (via Sam's memory), Echo not yet met</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased — known through memory</span></div><div class="bv-dossier-name">Olaf Guirela</div><div class="bv-dossier-epithet">Ranger of the Initial Six, Gordon's Teacher</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Whisper Place, formerly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02, through Gustaero's history; Session 05, through Sam's memory</div></div></div></div>
 
-## Living Form — The Ranger
-- One of the **Initial Six**. A half-orc. Old, gruff, scarred.
-- Believed in action over gods. Never trusted the divine — only trusted the people beside him.
-- Trained **<a href="/oversee/npcs/Gordon">Gordon</a> "The Noisy Rhino"** as a young ranger. Gave Gordon the **Gustaero** bow.
-- Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
-- His final words, recorded in the ritual memory: *"You coward, Lei! You don't have the guts to face death, so you steal our breath!"*
+## What the Party Knows
 
-## What the Party Knows (from Husgus)
-- He was the mentor of Gordon.
-- He carried the Gustaero bow before Gordon. It came from his grandfather **Gunnar Guirela** of Wind's Rest.
-- His philosophy — "the true guardian is not the one who seeks fame, but the one who protects the community" — was passed to Gordon, then to Husgus.
-- His atheism influenced Husgus's own atheism.
+- Olaf was a half-orc ranger and one of the **Initial Six**.
+- He was old, gruff, scarred, and carried a bow.
+- Olaf trained **<a href="/oversee/npcs/Gordon">Gordon</a>** as a ranger.
+- He once carried **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>**, which later passed to Gordon and then to **<a href="/oversee/pcs/Husgus">Husgus</a>**.
+- In Sam's memory, Olaf recognized that the Initial Six's ritual was a trap and confronted Lei Alejandro.
+- Olaf was betrayed and died during the ritual.
+- Later records identify Olaf as one of the known Echoes, but his current whereabouts are unknown.

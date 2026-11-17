@@ -16,9 +16,9 @@ universe: Oversee
 
 ## What Is Missing
 - The deep north of Pirizia. (The Spire of Whispering Ice.)
-- The deep canyons of Rioquan. (Ngarai Ratapan.)
+- The deep canyons of Rioquan. (Canyon of Lament.)
 - The jungles of Elis. (The First Tree, Chenalia, the Arleschia lands.)
-- The location of the **Bahtera Bawah Tanah**.
+- The location of the **Underground Ark**.
 - The **Gap-touched zones**.
 
 ## Hildag's Note (in the margin)
@@ -26,5 +26,5 @@ universe: Oversee
 ::/pf
 %% DM SECRETS %%
 - The blank areas are not blank because Hildag didn't have time. They are blank because **the Cycle Clan forbade mapping them**. These are the locations of the four Gemhearts (besides Emelanica).
-- If the party fills in the map, they will discover the **Bahtera Bawah Tanah** (beneath Pegunungan Arbor), the **Celah Keajaiban** (between Harka and the eastern lowlands), and the **Awan Penjara** (above Pegunungan Arbor).
+- If the party fills in the map, they will discover the **Underground Ark** (beneath Arbor Mountains), the **Miracle Cranny** (between Harka and the eastern lowlands), and the **Cloud Prison** (above Arbor Mountains).
 - Hildag will pay 1,000 gp for a completed map. She will also reveal the location of the **Underground Ark**.

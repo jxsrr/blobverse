@@ -15,9 +15,9 @@ universe: Oversee
 
 ## What Is Missing
 - The deep north of Pirizia. (The Spire of Whispering Ice.)
-- The deep canyons of Rioquan. (Ngarai Ratapan.)
+- The deep canyons of Rioquan. (Canyon of Lament.)
 - The jungles of Elis. (The First Tree, Chenalia, the Arleschia lands.)
-- The location of the **Bahtera Bawah Tanah**.
+- The location of the **Underground Ark**.
 - The **Gap-touched zones**.
 
 ## Hildag's Note (in the margin)

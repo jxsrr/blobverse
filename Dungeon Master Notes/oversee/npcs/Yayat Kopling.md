@@ -1,6 +1,6 @@
 ---
 type: Oversee NPC
-role: Vya's Adoptive Father, Dragonborn-Blooded Wanderer, Distant Relative of Gzirmo Kopling
+role: Vya's Adoptive Father, Dragonborn-Blooded Wanderer
 faction: None (independent)
 home: Chenalia (formerly) / Wandering
 status: alive (whereabouts unknown)
@@ -10,7 +10,7 @@ aliases:
   - Kopling
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (whereabouts unknown)</span></div><div class="bv-dossier-name">Yayat Kopling</div><div class="bv-dossier-epithet">Vya's Adoptive Father, Dragonborn-Blooded Wanderer, Distant Relative of Gzirmo Kopling</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Wandering (whereabouts unknown)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Chenalia (formerly) / Wandering</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned via Vya's backstory), not yet met</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (whereabouts unknown)</span></div><div class="bv-dossier-name">Yayat Kopling</div><div class="bv-dossier-epithet">Vya's Adoptive Father, Dragonborn-Blooded Wanderer</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Wandering (whereabouts unknown)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Chenalia (formerly) / Wandering</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned via Vya's backstory), not yet met</div></div></div></div>
 
 
 ## What the Party Knows
@@ -21,12 +21,6 @@ aliases:
 - Was the one who told Vya that her fire was not a curse — it was a gift. He did not know if that was true. He said it anyway.
 - Disappeared when Vya left to join the Guild. She does not know where he went.
 
-## What the Party Does NOT Know
-- Kopling is a **distant relative of Gzirmo Kopling** — the dragonborn tinker of the Initial Six.
-- He carries the same diluted blood, the same faint connection to the ancient dragons.
-- He knows more about the Vessel Shells than he lets on. He suspects. He has been watching. He has been waiting.
-- He made a **pact** with Vreina — a promise to protect Vya until she was old enough to choose her own path.
-- He is not a fighter. He is not a mage. He is a man who keeps his promises.
 ::/pf
 
 %% DM SECRETS %%
