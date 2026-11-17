@@ -20,12 +20,12 @@ universe: Oversee
 - **The Coral Gates** — the entrance to the city. Guarded by Kuo Lau sentinels. Only those who carry Kuo Lau blood — or who are escorted by a Kuo Lau — may pass.
 - **The Pearl Market** — the central square. Bioluminescent coral stalls. Trade in shells, pearls, and deep-sea relics. No surface coin.
 - **The King's Spire** — the tallest coral tower. The Kuo Lau King's throne room. Alnean is kept here.
-- **The Deep Tunnels** — the network of caves that connects the Kuo Lau Kingdom to the surface — specifically to the **Kuil Lautan** in Kota Juto. This is the path Babibubebo can lead the party through.
+- **The Deep Tunnels** — the network of caves that connects the Kuo Lau Kingdom to the surface — specifically to the **Kuil Lautan** in Juto Port City. This is the path Babibubebo can lead the party through.
 - **The Singing Reef** — a sacred grove of coral where the Kuo Lau sing to the deep. They believe the song keeps the pressure veil alive. They may be right.
 
 ## What the Party Knows
 - They have never been here.
-- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Kota Juto. They do not know he is from here.
+- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Juto Port City. They do not know he is from here.
 - They have never heard of Alnean.
 ::/pf
 
@@ -53,11 +53,11 @@ universe: Oversee
 - The **Singing Reef** is the key to the pressure veil. The Kuo Lau sing to the deep, and the deep sings back. The song keeps the veil alive. If the singing stops, the veil will fall.
 
 ### The Deep Tunnels
-- The Deep Tunnels connect the Kuo Lau Kingdom to the **Kuil Lautan** in Kota Juto.
+- The Deep Tunnels connect the Kuo Lau Kingdom to the **Kuil Lautan** in Juto Port City.
 - They are dark, cold, and long. They are guarded by **deep creatures** — not hostile, but territorial.
 - Only a Kuo Lau can navigate them. **Babibubebo** is the only Kuo Lau who knows the way — and even he does not remember it clearly.
 - The party will need **water-breathing magic** to survive the descent. Alnean would solve this — but they do not have Alnean yet. This is a chicken-and-egg problem. The DM must decide how the party survives the descent. Options:
-  - **Potions of Water Breathing** — expensive, but available in Kota Juto.
+  - **Potions of Water Breathing** — expensive, but available in Juto Port City.
   - **Syl's blood** — her blood is a universal cure. It might allow the party to breathe water. (DM decides if this works.)
   - **A favor from Vythrax** — the silver dragon can grant water-breathing for a short time.
   - **A Kuo Lau Pearl** — Babi might have one. He does not remember. If the party searches his belongings, they might find a small pearl that glows faintly. It is a Kuo Lau Pearl. It allows the bearer to breathe underwater for 1 hour per day.
@@ -86,7 +86,7 @@ universe: Oversee
 - `The Swan Trio.md` — Alnean is the breath of the swan
 - `Alnean — Swan Song.md` — the breathing relic, held by the Kuo Lau King
 - `Babibubebo.md` — the lost Kuo Lau prince, the key to Alnean
-- `Kuil Lautan.md` — the Sea Temple in Kota Juto, the entrance to the Deep Tunnels
+- `Kuil Lautan.md` — the Sea Temple in Juto Port City, the entrance to the Deep Tunnels
 - `Elis Ocean.md` — the ocean above the Kuo Lau Kingdom (needs file or section)
 - `The Endgame Paths.md` — the third path, which requires Alnean
 - `The Gemhearts.md` — the four stones (separate from the Swan Trio)

@@ -63,7 +63,7 @@ They walked together for twenty years.
 
 **~870 BV**
 
-Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Danau Kuno</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
+Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Ancient Lake</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
 
 Every night, when the other Cycle Clan members slept, he waited for the voice of **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">the Architect</a>** to speak.
 
@@ -97,7 +97,7 @@ Wiseman agreed. He built both shells. He waited.
 
 **~01 BV**
 
-Simon was in his forties when he arrived at **<a href="/Universitas%20Tarakita">Danau Kuno</a>** — the ancient lake where the First Observatory stood.
+Simon was in his forties when he arrived at **<a href="/Universitas%20Tarakita">Ancient Lake</a>** — the ancient lake where the First Observatory stood.
 
 He had been guided there by dreams. Not his own dreams — the dreams of the Architect, who had chosen him. The Cycle Clan received him. They explained to him the truth of the world: the Overseer, the Gap, the Gemhearts, the ritual.
 
@@ -219,7 +219,7 @@ But they did not stay empty.
 
 ## HVS-01 — The Golden-Cracked
 
-**Hundreds of years later — Hutan Domido**
+**Hundreds of years later — Domido Forest**
 
 A small child was found in the forest by an old dwarf named **<a href="/oversee/npcs/Gordon">Gordon</a>**. The child had no clothes, no memory, no name. He remembered only darkness, fire, and someone screaming.
 
@@ -298,9 +298,9 @@ These truths will come in **Season 3**.
 - **Misty Forest** — where Simon received Zenahhi
 - **Wind's Rest** — where Simon received Gustaero
 - **Dur-Khazim** — where Simon received Swaith
-- **<a href="/Universitas%20Tarakita">Danau Kuno</a>** — the ancient lake where the First Observatory stood
+- **<a href="/Universitas%20Tarakita">Ancient Lake</a>** — the ancient lake where the First Observatory stood
 - **The hidden laboratory** — where HVS-01 and HVS-02 were created
-- **<a href="/Hutan%20Domido">Hutan Domido</a>** — where Husgus was found
+- **<a href="/Hutan%20Domido">Domido Forest</a>** — where Husgus was found
 - **The Elis valley** — where HVS-02 was buried
 
 ## Sessions Chain
@@ -411,11 +411,11 @@ The "dozens of Vallas" story is **propaganda** invented by Lei Firsa's scribes a
 
 **Contradiction 3: Where Was the Observatorium? (Resolved)**
 
-- This document says the Cycle Clan met Simon at **Danau Kuno** — which "would later become **Kota Juto**."
-- **`Session 02 — The Wizard's City`** establishes that the Observatorium in **Juto Port City** (formerly Kota Juto) was built on top of **Atlan Nouveau's** base, which was itself built on Cycle Clan foundations.
-- **`Tarakita University of Heroism.md`** says Danau Kuno is now **Universitas Tarakita** — not Juto Port City.
+- This document says the Cycle Clan met Simon at **Ancient Lake** — which "would later become **Juto Port City**."
+- **`Session 02 — The Wizard's City`** establishes that the Observatorium in **Juto Port City** (formerly Juto Port City) was built on top of **Atlan Nouveau's** base, which was itself built on Cycle Clan foundations.
+- **`Tarakita University of Heroism.md`** says Ancient Lake is now **Universitas Tarakita** — not Juto Port City.
 
-**Resolution: Danau Kuno is Universitas Tarakita.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Universitas Tarakita** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Kota Juto). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Pegunungan Arbor**.
+**Resolution: Ancient Lake is Universitas Tarakita.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Universitas Tarakita** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Juto Port City). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Pegunungan Arbor**.
 
 ### New NPCs Discovered
 
@@ -477,5 +477,5 @@ The era ends when **Lei Firsa** declares the new calendar — year **1 AV** — 
 
 **Suggested edits to existing files:**- `The Valla's History.md` — confirm only two Vallas; remove "third" from DM secrets
 - `Timeline of Oversee.md` — confirm Simon born ~60 BV, ritual at ~44-45
-- `Tarakita University of Heroism.md` — confirm Danau Kuno = Universitas Tarakita
+- `Tarakita University of Heroism.md` — confirm Ancient Lake = Universitas Tarakita
 - `Grin Qain.md` — add the detail that her sacrifice was **not voluntary** (currently it might say "sacrificed by Lei Firsa" but doesn't make clear it was murder)

@@ -45,12 +45,12 @@ universe: Oversee
 - The **Shell** in the sky is a **20-kilometer humanoid skin** — a dead, hollow molting of the Architect's original body.
 - **It is shaped like an Inbu** — because the Architect's original body was Inbu-like. The Inbu were created in the Architect's image. The Shell is a giant, empty copy of the first race.
 - **The Shell is not connected to the First Trees.** The First Trees are from the Inbu era. The Shell is from the Architect's own body. They are different things.
-- **The Shell fell at Danau Kuno** — now Universitas Tarakita. The crater that became the lake was formed by its descent. The Shell in the sky is the main body. The thing that fell at Danau Kuno was a **piece** of it.
+- **The Shell fell at Ancient Lake** — now Universitas Tarakita. The crater that became the lake was formed by its descent. The Shell in the sky is the main body. The thing that fell at Ancient Lake was a **piece** of it.
 
 ### The Drained Tree — What Fed on It
 - **The Cycle Clan never found out what drained the First Tree.** They believed it was a **Gap-touched creature** — something that slipped through the Gap and fed on the tree's Ambitio-Ether.
-- **The Tinkers believed it was the Shell.** They thought the Shell fell on the tree and drained it. They were wrong. The Shell fell at Danau Kuno. The tree is in Elis. They are not the same place.
-- **The truth is open.** The DM can decide what drained the tree. It may have been a Gap-touched creature. It may have been a **Cycle Clan experiment gone wrong**. It may have been the **first Shell fragment** — a piece of the Shell that fell in Elis, not at Danau Kuno, and drained the tree before it died. The DM should choose what fits the campaign.
+- **The Tinkers believed it was the Shell.** They thought the Shell fell on the tree and drained it. They were wrong. The Shell fell at Ancient Lake. The tree is in Elis. They are not the same place.
+- **The truth is open.** The DM can decide what drained the tree. It may have been a Gap-touched creature. It may have been a **Cycle Clan experiment gone wrong**. It may have been the **first Shell fragment** — a piece of the Shell that fell in Elis, not at Ancient Lake, and drained the tree before it died. The DM should choose what fits the campaign.
 
 ### What the Party Does NOT Know
 - The First Tree in Elis is **one of the First Trees** — the primordial trees from the Inbu era.
@@ -67,7 +67,7 @@ universe: Oversee
 
 ### Corrections Applied
 - **REMOVED:** "The First Tree is the root system of the Shell." — No connection. The First Trees are from the Inbu era. The Shell is from the Architect's body.
-- **REMOVED:** "The Shell fell 10,000 years ago." — The Shell fell at **Danau Kuno** (now Universitas Tarakita). The First Tree died 10,000 years ago. These are separate events.
+- **REMOVED:** "The Shell fell 10,000 years ago." — The Shell fell at **Ancient Lake** (now Universitas Tarakita). The First Tree died 10,000 years ago. These are separate events.
 - **REMOVED:** "The life drained from the tree was used to build Arujaya." — The tree's **residual** Ambitio-Ether was used to power Arujaya. The tree was not drained **by** the Tinkers. It was drained by something else.
 - **CLARIFIED:** The First Tree in Elis is **one of the First Trees** — the primordial trees from the Inbu era.
 - **CLARIFIED:** There is a **second First Tree** — alive, hidden, guarded by Verdantus.

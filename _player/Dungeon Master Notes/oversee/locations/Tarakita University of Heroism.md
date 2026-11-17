@@ -9,7 +9,7 @@ aliases:
 
 ## What Matters Here
 - A **university** in Rioquan Timur Barat. Dedicated to arcane arts and history.
-- **Built on top of the ancient Observatory of Danau Kuno** — the First Observatory, the birthplace of the Cycle Clan.
+- **Built on top of the ancient Observatory of Ancient Lake** — the First Observatory, the birthplace of the Cycle Clan.
 - The lake was drained. The tower was excavated. The university was built on top of it.
 - **The Hall of Time** — a corridor of aging wooden lockers. Contains fragments of memory from former students.
   - **Locker #47 (Crest Muda)** — a blue Grace cloak, old notes, and a wooden sword inscribed "For my brother, Shin." Triggers an illusion of Crest training.
@@ -23,8 +23,8 @@ aliases:
 - **The Graduate Tower – Hall of Memories** — a tower with names of alumni. **Edra and Crest's names** are here. Shin's name is **missing**.
   - A **Sheath of Memory** — inscribed "S.V.H." — gives bonus against demons.
 
-## The Ancient Observatory (Danau Kuno) — Beneath the University
-- **The Lake of Danau Kuno** — a dark blue lake that never moves. No wind touches it. It is the **impact crater** of the Shell.
+## The Ancient Observatory (Ancient Lake) — Beneath the University
+- **The Lake of Ancient Lake** — a dark blue lake that never moves. No wind touches it. It is the **impact crater** of the Shell.
 - In the center: a **white stone tower** — the **First Observatory**, built by **Guanik Wiseman** in 1040 BV.
 - This is where Wiseman first saw the **Shell** in the sky. This is where he received his vision from the Architect. This is where the **Cycle Clan was founded**. This is where the original **Edisi Law** was signed.
 - The tower is half-sunken. The lower levels are flooded. The upper levels are intact.
@@ -38,13 +38,13 @@ aliases:
 ## The Three Observatories
 There are **three Observatories** built by the Cycle Clan, each with a different purpose:
 
-1. **The First Observatory — Danau Kuno (Optical/Stellar)**
+1. **The First Observatory — Ancient Lake (Optical/Stellar)**
    - Built by **Guanik Wiseman** in 1040 BV. Dedicated to studying the **stars** — the optical sky.
    - Where Wiseman recorded the Shell video. Where he received the Architect's vision. Where the Cycle Clan was founded.
    - **Ruined and forgotten.** Now the site of **Universitas Tarakita**.
 
-2. **The Second Observatory — Kota Juto (High-Energy Astrophysics)**
-   - Built centuries later in **Kota Juto** (Rioquan South). Dedicated to **high-energy astrophysics**.
+2. **The Second Observatory — Juto Port City (High-Energy Astrophysics)**
+   - Built centuries later in **Juto Port City** (Rioquan South). Dedicated to **high-energy astrophysics**.
    - Repurposed by **Atlan Nouveau** for **oceanographic research**.
    - Now the **current headquarters of the Keeper of Secret**.
 

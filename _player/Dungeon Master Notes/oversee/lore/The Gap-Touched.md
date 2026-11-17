@@ -14,7 +14,7 @@ universe: Oversee
 - **Magical Mutation:** Spells become wild. Magic becomes unreliable. Sometimes it works better. Sometimes it fails catastrophically.
 
 ## Known Gap-Touched Zones
-- **Hutan Garberro** — the forest where Rayio was thrown. Small Gap tears open and close. The Spirit King lives here.
+- **Garberro Forest** — the forest where Rayio was thrown. Small Gap tears open and close. The Spirit King lives here.
 - **The Depths of Arujaya** — the sludge is Ambitio-Ether. Syl saw the Overseer here.
 - **The Cloud Colony** — the fog is a permanent Gap-touched zone. It hides the colony from the Overseer — and from the world.
 - **The Rune of the Cycle** — a mild Gap-touched zone. It is warded, but the ward is weakening.

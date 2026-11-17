@@ -11,7 +11,7 @@ universe: Oversee
 - **Main Library** — public archives. Useless for deep research (the Commonwealth censors it).
 - **Navigation Archive** — locked. Contains old maps and star charts. The door is marked with a brass plaque: **"KANTOR KEPALA ARSIP"** (Head Archivist's Office).
 - **The Rotunda of Knowledge** — a mechanical model of the solar system rotates slowly in the center.
-- **Secret Basement** — beneath the Navigation Archive. Atlan's hidden base? No — that's in Kota Juto. This basement is **Donta's private collection**.
+- **Secret Basement** — beneath the Navigation Archive. Atlan's hidden base? No — that's in Juto Port City. This basement is **Donta's private collection**.
 
 ## What Happened Here
 - The party met Donta (<a href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial">Session 04</a>).

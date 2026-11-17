@@ -126,7 +126,7 @@ universe: Oversee
   - **Cryo-pods** with preserved Cycle Clan members from 1,000 years ago. They are still alive.
   - **Lei Alejandro** — alive, hiding, guarding the Law.
 - The entrance is hidden in the roots of Pegunungan Arbor. The party needs the **Peta Bahtera** — the Map of the Ark. **Rivan** has a copy in his basement.
-- The Ark is sealed. The door requires the **Twin Shell Amulet** — found in Atlan's hidden base in Kota Juto. Mira has it. She has not told the party it is a key.
+- The Ark is sealed. The door requires the **Twin Shell Amulet** — found in Atlan's hidden base in Juto Port City. Mira has it. She has not told the party it is a key.
 
 ### Lei Alejandro
 - **Lei Alejandro is alive.** He is hiding in the Bahtera Bawah Tanah.

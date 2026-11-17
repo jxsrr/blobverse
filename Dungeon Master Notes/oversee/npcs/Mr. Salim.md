@@ -21,7 +21,7 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- Pak Salim is **alive**. He fled Ghuffghuff before the worst of Echo Sam's song. He now lives in **Gudameng**.
+- Mr. Salim is **alive**. He fled Ghuffghuff before the worst of Echo Sam's song. He now lives in **Gudameng**.
 - He knows the secret of the **Gruffgud War** — he was the one who sold the spices to both sides. He knows the war was started by the Commonwealth.
 - He has a **hidden cache** under his old stall in Ghuffghuff. It contains a **letter from Gordon** and a **map of the Gunung Rayu tunnels**.
 - If the party finds him, he will tell them the truth.

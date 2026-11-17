@@ -13,7 +13,7 @@ universe: Oversee
 - **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
 - **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
 - **<a href="/oversee/npcs/Gzirmo%20Kopling">Gzirmo Kopling</a>** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
-- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Kota Juto.
+- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Juto Port City.
 - **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
 
 ## What We Learned in Sam's Memory
@@ -59,7 +59,7 @@ universe: Oversee
 - **Sam** became Echo Sam — the many-headed singer of Ghuffghuff. Released by Swaith in Session 03. At peace.
 - **Atreus** became Echo Atreus — the guardian of Chenalia. He is protecting a dead village. He does not know it is already dead.
 - **Olaf** became Echo Olaf — the guardian who waits near Gordon's grave. He is waiting for Husgus.
-- **Atlan** became Echo Atlan — the father who watches over Kota Juto. He is looking for Mira and Reins.
+- **Atlan** became Echo Atlan — the father who watches over Juto Port City. He is looking for Mira and Reins.
 - **Gzirmo** became Echo Gzirmo — the reactor guardian of Arujaya. He is slowly fading.
 - **Alejandro** did **not** become an Echo. He is **alive**. He has been hiding in the Bahtera Bawah Tanah for 500 years.
 
@@ -109,7 +109,7 @@ universe: Oversee
 - `Atreus Grin.md` — the druid, Echo in Chenalia
 - `Sam Hurls.md` — the bard, Echo released by Swaith
 - `Gzirmo Kopling.md` — the tinker, Echo in Arujaya
-- `Atlan Nouveau.md` — the oceanographer, Echo in Kota Juto
+- `Atlan Nouveau.md` — the oceanographer, Echo in Juto Port City
 - `Olaf Guirela.md` — the ranger, Echo near Gordon's grave
 - `The Echoes.md` — the fragments of the Six
 - `Swaith — The Soul-Thirsting Blade.md` — the blade that can free them

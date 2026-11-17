@@ -16,7 +16,7 @@ He had been showing symptoms since the escape from **<a href="/oversee/locations
 
 He needed **milk**.
 
-They searched the town. **<a href="/oversee/npcs/Ibu%20Sari">Ibu Sari</a>**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
+They searched the town. **<a href="/oversee/npcs/Mrs.%20Sari">Mrs. Sari</a>**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
 
 > *"Try **<a href="/oversee/locations/Nesia%20Town">Nesia</a>**. The rhino farmers. They sell it."*
 
@@ -275,7 +275,7 @@ And they climbed, for the first time, out of the earth.
 - The truth about **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Darvin</a>** and **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Valerius</a>**
 
 ## NPCs Encountered
-- **<a href="/oversee/npcs/Ibu%20Sari">Ibu Sari</a>** — lemonade seller in Muangching, no milk
+- **<a href="/oversee/npcs/Mrs.%20Sari">Mrs. Sari</a>** — lemonade seller in Muangching, no milk
 - **<a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a>** — the "madman" who found a lost city
 - **<a href="/oversee/npcs/Hora">Hora</a>** — the rhino dairy owner
 - **<a href="/oversee/npcs/Joni">Joni</a>** — Ama's adoptive father, betrayed him

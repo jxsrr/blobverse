@@ -22,7 +22,7 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- Bu Mamat was **eaten on the first night**, just after Yahanda. Her stall was empty the next morning.
+- Mrs. Mamat was **eaten on the first night**, just after Yahanda. Her stall was empty the next morning.
 - Her maps are still accurate — she drew them herself, from decades of walking the region.
 - **Her warung** is a small wooden cart, now overturned and abandoned in the Ghuffghuff market. If the party investigates, they will find:
   - A **half-finished map** with notations in her handwriting.

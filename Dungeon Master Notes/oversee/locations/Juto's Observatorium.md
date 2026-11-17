@@ -11,7 +11,7 @@ aliases:
 
 ## What Matters Here
 - A white stone tower in the center of **Juto Port City**. The "Center of Knowledge."
-- **The Second Observatory** — built by the Cycle Clan centuries after Danau Kuno. Dedicated to **high-energy astrophysics** — the study of invisible forces, mana flow, and cosmic radiation.
+- **The Second Observatory** — built by the Cycle Clan centuries after Ancient Lake. Dedicated to **high-energy astrophysics** — the study of invisible forces, mana flow, and cosmic radiation.
 - **Repurposed by Atlan Nouveau** — when Atlan joined the Initial Six, he turned the instruments toward the **sea**. He studied currents, tides, and the relationship between the moon and the waves.
 - **The Rotunda** — a model of the solar system rotates slowly in the center. Scholars work in silence.
 - **Public Archives** (right) — useless. Censored by the Commonwealth.
@@ -19,14 +19,14 @@ aliases:
 - **Secret Basement** — beneath the Navigation Archive. Atlan's abandoned base. Contains the eternal flame, the diary, the **Twin Shell Amulet**, and **the second Cycle Clan sigil**.
 
 ## The Second Observatory — Full History
-- **Built by the Cycle Clan** — centuries after Danau Kuno. Dedicated to **high-energy astrophysics**. It could not see the Shell directly, but it could measure its **effects** — the ripples in Ambitio-Ether, the fluctuations in mana, the strange weather patterns that followed it.
+- **Built by the Cycle Clan** — centuries after Ancient Lake. Dedicated to **high-energy astrophysics**. It could not see the Shell directly, but it could measure its **effects** — the ripples in Ambitio-Ether, the fluctuations in mana, the strange weather patterns that followed it.
 - **Repurposed by Atlan Nouveau.** When Atlan joined the Initial Six, he turned the instruments toward the **sea**. The high-energy instruments were repurposed for oceanographic research. He studied currents, tides, and the relationship between the moon and the waves.
 - **Now the Keeper of Secret's headquarters.** Mira runs the organization from beneath the Navigation Archive. **Atlan's base** — the eternal flame, the diary, the Twin Shell Amulet — is in the basement.
 
 ## The Three Observatories
 There are **three Observatories** built by the Cycle Clan:
 
-1. **The First Observatory — Danau Kuno (Optical/Stellar)**
+1. **The First Observatory — Ancient Lake (Optical/Stellar)**
    - Built by **Guanik Wiseman** in 1040 BV. Dedicated to the **stars**.
    - Ruined. Now the site of **Universitas Tarakita**.
 

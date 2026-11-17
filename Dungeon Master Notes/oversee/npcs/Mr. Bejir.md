@@ -27,7 +27,7 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- Pak Bejir was **eaten by Echo Sam** early in the Ghuffghuff incident. He is dead.
+- Mr. Bejir was **eaten by Echo Sam** early in the Ghuffghuff incident. He is dead.
 - The party did not know him well enough to notice his absence.
 - His inn is now a ruin. The photo is still there.
 - The photo is a **clue**: "650 CC" refers to the year 650 AV — when the Gruffgud War ended. The "Inter-Village Fried Rice Competition" was the **peace treaty signing ceremony**.

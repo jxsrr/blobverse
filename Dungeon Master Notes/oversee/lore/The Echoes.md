@@ -21,7 +21,7 @@ universe: Oversee
 ## Echoes We Have NOT Met
 - **Echo Atreus Grin** — likely in the burned ruins of Chenalia or the forests he protected.
 - **Echo Olaf Guirela** — likely near Gordon's grave in Domido Forest.
-- **Echo Atlan Nouveau** — likely in Kota Juto or at the Observatorium.
+- **Echo Atlan Nouveau** — likely in Juto Port City or at the Observatorium.
 - **Echo Gzirmo Kopling** — in Arujaya, the reactor guardian. (Already met — cooperative after Swaith.)
 - **Echo Lei Alejandro** — **does not exist**. Alejandro is alive. He is not an Echo.
 
@@ -46,7 +46,7 @@ universe: Oversee
 | **Echo Sam** | Ghuffghuff | **Released** by Swaith (Session 03) | Returned to Simon. At peace — or as close to peace as an Echo can be. |
 | **Echo Atreus** | Burned ruins of Chenalia | **Not yet met** | Protecting the village. Does not know it is already dead. Thinks the burning just happened. |
 | **Echo Olaf** | Near Gordon's grave (Domido Forest) | **Not yet met** | Waiting for Husgus. Testing him. Giving him a gift. |
-| **Echo Atlan** | Kota Juto / Observatorium | **Not yet met** | Wandering. Looking for Mira. Looking for Reins. |
+| **Echo Atlan** | Juto Port City / Observatorium | **Not yet met** | Wandering. Looking for Mira. Looking for Reins. |
 | **Echo Gzirmo** | Arujaya (reactor) | **Met** (Session 06) | Cooperative after Swaith. Slowly fading. |
 | **Echo Alejandro** | **Does not exist** | N/A | Alejandro is **alive**. He is not an Echo. He is hiding in the Bahtera Bawah Tanah. |
 
@@ -84,7 +84,7 @@ universe: Oversee
 - **Reveal schedule:** Echo Olaf will appear in Season 3, when Husgus visits Gordon's grave after learning about HVS-01.
 
 ### Echo Atlan — The Father Who Watches
-- Echo Atlan is in **Kota Juto** — near the Observatorium, or on the beach where he first found Reins.
+- Echo Atlan is in **Juto Port City** — near the Observatorium, or on the beach where he first found Reins.
 - He is **wandering**. He is **looking for Mira**. He is **looking for Reins**. He does not know Reins is alive — trapped in the Gap. He does not know Mira is the leader of the Keeper of Secret. He only knows he lost them both.
 - **Echo abilities** (if encountered):
   - **Echo of the Tide:** Can cast *Control Water* at will (DC 16).
@@ -120,7 +120,7 @@ universe: Oversee
 
 ### Season 3 Reveal Schedule
 - **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the Echoes. They learn about Alejandro. They learn he is alive.
-- **Session 11** — The party may encounter Echo Atreus (Chenalia), Echo Olaf (Domido Forest), Echo Atlan (Kota Juto), and Echo Gzirmo (Arujaya). They may release them with Swaith. They may give them peace.
+- **Session 11** — The party may encounter Echo Atreus (Chenalia), Echo Olaf (Domido Forest), Echo Atlan (Juto Port City), and Echo Gzirmo (Arujaya). They may release them with Swaith. They may give them peace.
 - **Endgame** — The party must decide what to do with the Echoes. Free them. Leave them. Use them. The choice is theirs.
 
 ### Corrections Applied
@@ -129,7 +129,7 @@ universe: Oversee
 - **CLARIFIED:** **Echo Alejandro does not exist.** Alejandro is alive. He is not an Echo.
 - **CLARIFIED:** Echo Atreus is in the **burned ruins of Chenalia** — not in the Grin ruins or forests. He is protecting a dead village.
 - **CLARIFIED:** Echo Olaf is **near Gordon's grave** in Domido Forest. He is waiting for Husgus.
-- **CLARIFIED:** Echo Atlan is in **Kota Juto** — near the Observatorium or the beach where he found Reins.
+- **CLARIFIED:** Echo Atlan is in **Juto Port City** — near the Observatorium or the beach where he found Reins.
 - **CLARIFIED:** Echo Gzirmo is **dying**. He is slowly fading.
 - **REMOVED:** "Echo Alejandro is the final boss of Season 3." — He is **not**. He is alive. He is not an Echo. He is a broken man who wants to help.
 - **REMOVED:** Any suggestion that Echo Sam was a monster. He was **hungry**. He was **lost**. He was **trying to finish his song**.

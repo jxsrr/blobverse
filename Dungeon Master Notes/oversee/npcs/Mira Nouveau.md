@@ -2,7 +2,7 @@
 type: Oversee NPC
 role: Founder of Keeper of Secret, Daughter of Atlan and Reins
 faction: Keeper of Secret
-home: Kota Juto (Observatorium)
+home: Juto Port City (Observatorium)
 status: alive
 first_seen: Session 02
 universe: Oversee
@@ -25,11 +25,11 @@ universe: Oversee
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Whereabouts</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Origin / Base</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">First Seen</div>
@@ -73,7 +73,7 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - Some former Cycle Clan members **joined** the Keeper after the Cycle Clan was shattered by Lei Firsa. But they did not found it. They joined it. They are members, not leaders.
 - Mira is the founder. Mira is the leader. Mira is the heart of the organization.
 - The Keeper is a network of scholars, spies, and witnesses. It does not fight. It remembers. It preserves the truth. It waits for the right moment to reveal it.
-- The Observatorium in **Kota Juto** is the headquarters. The public face is a center of knowledge. The secret face is the Keeper's archive. Beneath the Navigation Archive is **Atlan's abandoned base** — the eternal flame, the diary, the Twin Shell Amulet.
+- The Observatorium in **Juto Port City** is the headquarters. The public face is a center of knowledge. The secret face is the Keeper's archive. Beneath the Navigation Archive is **Atlan's abandoned base** — the eternal flame, the diary, the Twin Shell Amulet.
 
 ### What Mira Holds
 - **Emelanica** — the green Gemheart, the time stone. She took it from the party after Session 2. She did not ask. She did not tell them. She believes she is protecting them.
@@ -165,8 +165,8 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - `Kkana — The Stone Greatsword.md` — the blade she carries
 - `The Twin Shell Amulet.md` — the key to the Bahtera Bawah Tanah
 - `The Bahtera Bawah Tanah.md` — the place she is afraid to go
-- `Elara.md` — her agent in Kota Juto
-- `Ibu Ratna.md` — her courier
+- `Elara.md` — her agent in Juto Port City
+- `Mrs. Ratna.md` — her courier
 - `Junior.md` — her informant
 - `Rivan.md` — her contact in Zundabun
 - `Zure Ama.md` — the man from Aede, the connection she does not know

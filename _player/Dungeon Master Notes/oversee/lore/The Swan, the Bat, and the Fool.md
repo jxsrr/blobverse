@@ -36,7 +36,7 @@ universe: Oversee
 - **Kkana** — the **greatsword**. It stands firm. It anchors a position. It holds back collapsing reality.
 - **Zenahhi** — the **longsword**. It protects. It parries any attack. It deflects a blow meant for another.
 - **Purpose:** To **keep the Swan and the Bat in check**. To prevent them from destroying each other — and the world with them.
-- **Current holders:** Swaith — <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Ngarai Ratapan.
+- **Current holders:** Swaith — <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a>. Kkana — <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>. Zenahhi — lost in Canyon of Lament.
 - **The Fool is the walker.** It does not open doors. It does not close them. It **chooses** which door to open and which to close.
 
 ## The Fool and the Tarot
@@ -78,7 +78,7 @@ universe: Oversee
 ## What the Party Does NOT Know
 - The **six blades** are not ancient. They are a **later invention** — a **corruption** of the old legend.
 - The **Bat Trio** still exists. It is hidden. It is guarded by the **royal families of Oversee**.
-- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Ngarai Ratapan.
+- The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Canyon of Lament.
 - The **Swan and the Bat** are not enemies. They are **rivals** — two sides of the same coin.
 - The **Fool Trio** is the key. Without it, the Swan and the Bat would destroy each other — and the world with them.
 - **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan.

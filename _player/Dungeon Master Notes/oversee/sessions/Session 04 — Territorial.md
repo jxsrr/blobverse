@@ -65,7 +65,7 @@ It was built on a mesa — white granite walls, streets that glowed softly at ni
 
 The **Festival of the Great Lei** was underway. Ten days before the holy day of **Valla**. Banners everywhere. Crowds in every square.
 
-They parted from **<a href="/oversee/npcs/Mrs.%20Ratna">Pak Andreas's wife</a>** at the palace steps. She smiled, thanked them, and disappeared into the crowd with her crates.
+They parted from **<a href="/oversee/npcs/Mrs.%20Ratna">Mr. Andreas's wife</a>** at the palace steps. She smiled, thanked them, and disappeared into the crowd with her crates.
 
 The party pushed forward. They found a place in the crowd in front of the **Governor's Palace** — the starting point of the parade.
 
@@ -230,7 +230,7 @@ And the ship set sail for **Pirizia**.
 
 ## NPCs Encountered
 - **<a href="/oversee/npcs/Mr.%20Andreas">Mr. Andreas</a>** — blacksmith, hired them
-- **<a href="/oversee/npcs/Mrs.%20Ratna">Pak Andreas's Wife</a>** — the courier, later revealed as Keeper
+- **<a href="/oversee/npcs/Mrs.%20Ratna">Mr. Andreas's Wife</a>** — the courier, later revealed as Keeper
 - **<a href="/oversee/npcs/Dora">Dora</a>** — rhino stable owner
 - **Old Wabi** — the gravekeeper
 - **<a href="/oversee/npcs/Hanzel%20Lei%20Krow">Hanzel Lei Krow</a>** — Governor of West Harka

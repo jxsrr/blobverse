@@ -2,12 +2,12 @@
 type: Oversee NPC
 role: The Oceanographer of the Initial Six, Mira's Father
 faction: The Initial Six (deceased)
-home: Kota Juto (formerly) / Unknown
+home: Juto Port City (formerly) / Unknown
 status: Deceased (200 AV), Echo whereabouts unknown
 first_seen: Session 02 (via diary), not yet met in person
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kota Juto (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kota Juto (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Juto Port City (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Juto Port City (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
 
 ## Living Form — The Oceanographer
 - One of the **Initial Six**. A human man. No magic of his own — but the sharpest mind of the group.
@@ -18,7 +18,7 @@ universe: Oversee
 - His final words, recorded in the ritual memory: *"Tell Mira! This wasn't destiny — this was murder!"*
 
 ## What the Party Has Found
-- **Atlan's abandoned base** beneath the Observatorium in Kota Juto (Session 02).
+- **Atlan's abandoned base** beneath the Observatorium in Juto Port City (Session 02).
 - **Atlan's Diary** — four entries, revealing his origin from Aede, his love for Reins, and his pact with Keeper of Secret.
 - **Atlan's Compass** — a magical compass that points to lost things. Passed to Mira, then to the party.
 - **The eternal flame** in the base — a blue flame that never dies. Inscription: *"Burn here, forever in my heart, the one I love."*

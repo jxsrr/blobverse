@@ -32,7 +32,7 @@ aliases:
 - Alnean is one of the three ancient relics. **It is not related to the Architect.** Its origin is older, or separate, or simply unknown.
 - It was never carried by the Architect. It was never part of the Gemheart network.
 - It has been kept by the **Kuo Lau Kingdom** — the underwater kingdom — for as long as their records go back. The Kuo Lau King is its current guardian.
-- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Kota Juto (Session 02). Babi is an exile, a fragment of the Kuo Lau who was lost in the mortal world.
+- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Juto Port City (Session 02). Babi is an exile, a fragment of the Kuo Lau who was lost in the mortal world.
 - Alnean has never been recovered by anyone outside the Kuo Lau. The Cycle Clan knows it exists. They do not know where it is.
 - No one has ever seen the Kuo Lau Kingdom and returned to tell of it.
 
@@ -41,7 +41,7 @@ aliases:
 - They know there are three ancient relics, but they have only seen one — Gustaero.
 ::/pf
 %% DM SECRETS %%
-- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Kota Juto. They do not yet know he is connected to the Kuo Lau Kingdom, or to Alnean.
+- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Juto Port City. They do not yet know he is connected to the Kuo Lau Kingdom, or to Alnean.
 ::/pf
 
 
@@ -54,7 +54,7 @@ aliases:
 ### Where It Is
 - Alnean is kept in the **Kuo Lau Kingdom** — an underwater kingdom deep beneath the ocean, far from any shore the party has walked.
 - It is in the possession of the **Kuo Lau King** — the ruler of the underwater kingdom.
-- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Kota Juto. Babi was separated from his people and washed up in the mortal world. He does not know the way home. He does not know what his people guard.
+- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Juto Port City. Babi was separated from his people and washed up in the mortal world. He does not know the way home. He does not know what his people guard.
 - The Kuo Lau do not trade with the surface. They do not welcome visitors. They do not trust air-breathers. The party will have to earn their trust.
 
 ### The Kuo Lau Kingdom
@@ -72,7 +72,7 @@ aliases:
 
 ### How to Get It
 - The party must find the **Kuo Lau Kingdom**. The only one who knows the way is **Babibubebo** — and he does not remember. He was too young when he was lost.
-- The party must help Babi remember. They must take him to the **Kuil Lautan** in Kota Juto — the Sea Temple — and let him swim deep. The temple's underwater caves connect to the Kuo Lau's outer tunnels.
+- The party must help Babi remember. They must take him to the **Kuil Lautan** in Juto Port City — the Sea Temple — and let him swim deep. The temple's underwater caves connect to the Kuo Lau's outer tunnels.
 - Babi will lead them down. He will remember the way as he swims. The party will need **water-breathing magic** — or they will need to find a way to survive the deep. (Alnean is not the only solution — but it is the best one. If they already have Alnean, they would not need to find it. This is a chicken-and-egg problem. The DM must decide how the party survives the descent. Options: potions, spells, Syl's blood, or a favor from Vythrax.)
 - The party must bring **Babibubebo home**. The Kuo Lau King will weep when he sees him. He will not give Alnean immediately — he will ask the party to prove they are worthy.
 - The test is not combat. The test is a **question**: *"Why do you want to breathe where you were not meant to breathe?"*
@@ -111,10 +111,10 @@ aliases:
 | Blade | Type | Current Holder |
 | :--- | :--- | :--- |
 | **Swaith** | Dagger | <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a> |
-| **Rayio** | Longsword | Hutan Garberro |
+| **Rayio** | Longsword | Garberro Forest |
 | **Kkana** | Greatsword | <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
-| **Zenahhi** | Longsword | Ngarai Ratapan |
+| **Zenahhi** | Longsword | Canyon of Lament |
 | **Terrde** | Longsword | Ruins of the Rapture |
 
 ### Corrections Applied

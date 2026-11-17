@@ -54,7 +54,7 @@ When the last question was answered, the room released them.
 
 And in the center of the room, a small object appeared: the **Meal Key**.
 
-## Part 3: Arrival in Kota Juto
+## Part 3: Arrival in Juto Port City
 
 They ate.
 
@@ -80,7 +80,7 @@ They had no money, no lodging, and no plan.
 
 They needed a place to sleep.
 
-Their first stop was the **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
+Their first stop was the **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Juto Port City. They thought it might have information about where they were, or what had happened to them.
 
 But the Observatorium was closed for the evening.
 
@@ -120,7 +120,7 @@ At dawn, a scream.
 
 > *"Someone... something... came in the night!"*
 
-The party's emerald and ruby — the gem from Greyland and the gem from Pulau Dima — were gone.
+The party's emerald and ruby — the gem from Greyland and the gem from Dima Island — were gone.
 
 **<a href="/oversee/items/Atlan%27s%20Compass">Atlan's Compass</a>** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
 

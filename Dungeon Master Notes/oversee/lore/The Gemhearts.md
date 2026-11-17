@@ -56,7 +56,7 @@ universe: Oversee
 - **Darvin Thorne does NOT carry Topaju.** Darvin carries the **bloodline claim** to Lei Roiga and Topaju. He is the True Heir by blood, but the stone itself is in Alejandro's hands. Valerius hunts Darvin because killing the True Heir may transfer the claim — or because Valerius wants the claim legitimized by Darvin's death.
 
 ### Corrections Applied
-- **Removed:** "Valerius took a fragment of Topaju from Observatorium Danau Kuno in 699 AV." This never happened. Danau Kuno is retconned to be the ancient site that became **Universitas Tarakita** (see `Timeline of Oversee.md` and `Danau Kuno` location). Valerius did not obtain Topaju.
+- **Removed:** "Valerius took a fragment of Topaju from Observatorium Ancient Lake in 699 AV." This never happened. Ancient Lake is retconned to be the ancient site that became **Universitas Tarakita** (see `Timeline of Oversee.md` and `Ancient Lake` location). Valerius did not obtain Topaju.
 - **Removed:** "Darvin carries Topaju inside him." Darvin carries the **claim**, not the stone.
 - **Removed:** "Accarus carried Rubion." Accarus never carried Rubion. He carried **Gustaero**, which he gave to **Husgus** after the Frosthaven mission.
 

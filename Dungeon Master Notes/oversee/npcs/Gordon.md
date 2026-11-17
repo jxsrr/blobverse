@@ -2,18 +2,18 @@
 type: Oversee NPC
 role: Husgus's Mentor, The Peacebringer of Harka
 faction: None (independent)
-home: Hutan Domido (deceased)
+home: Domido Forest (deceased)
 status: Deceased (695 AV)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-deceased">Deceased (695 av)</span></div><div class="bv-dossier-name">Gordon</div><div class="bv-dossier-epithet">Husgus's Mentor, The Peacebringer of Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Hutan Domido (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-deceased">Deceased (695 av)</span></div><div class="bv-dossier-name">Gordon</div><div class="bv-dossier-epithet">Husgus's Mentor, The Peacebringer of Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Domido Forest</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Domido Forest (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
 ## What the Party Knows (from Husgus)
 - A dwarf ranger. Thick white beard. Big axe. Viking hat.
-- Lived alone in Hutan Domido for centuries — his lifespan was extended by the Gustaero bow.
+- Lived alone in Domido Forest for centuries — his lifespan was extended by the Gustaero bow.
 - Raised Husgus from childhood. Taught him to hunt, to track, to survive.
 - **Ended the Gruffgud War** by convincing both sides to make peace. He was called **"Badak Berisik"** (Noisy Rhino) because he never stopped yelling about the truth.
 - Was **killed by Malakor** in 695 AV. Husgus buried him under the old tree in Domido Forest.
@@ -26,7 +26,7 @@ universe: Oversee
 - **Husgus** — his greatest legacy.
 
 ## Current State
-- Dead. Buried in Hutan Domido.
+- Dead. Buried in Domido Forest.
 ::/pf
 %% DM SECRETS %%
 
@@ -40,7 +40,7 @@ universe: Oversee
 
 ### The Childhood — Olaf and Sam
 - When Gordon was about **ten years old** — around **190 AV** — his parents died in a hunting accident. He was left alone in the forest, living in a rundown hut, surviving on roots and berries and whatever he could catch.
-- **Olaf Guirela** and **Sam Hurls** found him. They were traveling together — not for a great adventure, but for a moment of peace from the noise of the world. They arrived at **Hutan Domido**, found the hut, found the boy.
+- **Olaf Guirela** and **Sam Hurls** found him. They were traveling together — not for a great adventure, but for a moment of peace from the noise of the world. They arrived at **Domido Forest**, found the hut, found the boy.
 - **Olaf** taught Gordon how to hunt, how to read animal tracks, how to set traps. He taught him his philosophy of life: **true strength does not come from magic or magical weapons, but from relentless training, discipline that never slackens, and a clean heart.** He also taught Gordon to be **skeptical of gods and rulers** — because they often had their own interests, interests that were not always good for the common people.
 - **Sam** taught Gordon about **lighter things**. He taught him music. He taught him a particular melody — notes that were cheerful yet slightly melancholic, which were said to be able to open doors between dimensions. Sam laughed as he taught it, saying that if Gordon ever found himself in trouble, he could sing the melody and maybe someone would hear — even Sam himself, from wherever he was.
 - **Gordon memorized the melody.** He sang it every night before sleep. He sang it when he was lonely. He sang it when he was afraid. He sang it when he was happy. He never forgot it.
@@ -49,7 +49,7 @@ universe: Oversee
 - **Olaf and Sam left.** They never returned. Gordon never saw them again.
 
 ### The Gruffgud War — The Truth He Tried to Tell
-- Gordon lived in Hutan Domido for centuries. He watched the villages of **Ghuffghuff** and **Gudameng** grow. He watched them fight. He watched them die.
+- Gordon lived in Domido Forest for centuries. He watched the villages of **Ghuffghuff** and **Gudameng** grow. He watched them fight. He watched them die.
 - The **Gruffgud War** — the centuries-long conflict between the two villages — was a lie. It was not about fried rice vs. fried noodles. It was not about food. It was about **Gunung Rayu**.
 - The **Commonwealth** was secretly excavating beneath the mountain. They were digging into an **ancient underground city** — a pre-Rapture ruin. They were looking for something — artifacts, knowledge, power. They did not want anyone to know.
 - They used the Gruffgud War as a distraction. They funded both sides. They kept the war going for centuries. They made sure the villages were too busy killing each other to notice what was happening at the mountain.
@@ -60,13 +60,13 @@ universe: Oversee
 ### The End of the War — 650 AV
 - In **650 AV**, after nearly four centuries of bloodshed, the two villages finally ran out of strength. A new generation had been born and died without ever knowing what life without war felt like. The elders who remained were tired old people who no longer remembered why they were fighting.
 - **Gordon descended from the mountain one final time.** His body was ancient. His hair was completely white. His beard hung to his chest. But his eyes still burned. And his voice still rumbled like thunder.
-- He gathered the elders of both villages at the old fortress in the middle of **Hutan Domido** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
+- He gathered the elders of both villages at the old fortress in the middle of **Domido Forest** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
 - **He spoke.** He told them the truth — about the Commonwealth, about Gunung Rayu, about the war they had been fighting for centuries. He told them they were puppets. He told them it was time to cut their strings.
 - The meeting lasted three days and three nights. No one recorded it. No one wrote its history. But in the end, the elders signed a peace treaty. **The Gruffgud War ended.**
 - **Gordon returned to his hut.** He did not stay to celebrate. He did not want to be a hero. He just wanted to be left alone. He had done what he could. He had ended the war. He had told the truth. He had kept his promise to Olaf and Sam — to be a guardian, not a conqueror.
 
 ### Husgus — The Child He Found
-- **~690 AV.** Forty years after the war ended, Gordon was still living in his hut in Hutan Domido. He was ancient — his age approaching five centuries. His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody Sam had taught him.
+- **~690 AV.** Forty years after the war ended, Gordon was still living in his hut in Domido Forest. He was ancient — his age approaching five centuries. His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody Sam had taught him.
 - One morning, when fog still covered the trees, Gordon saw something strange. Beneath the old tree where he usually sat, **a small body lay**.
 - The figure was a **small child without clothes**. A tiny body, perhaps eight or nine years old, with pale skin and thin hair. No wounds. No signs of violence. The child simply lay there — as if just fallen from the sky.
 - **Gordon dragged the child into his hut.** He was too old and weak to carry him. For days he cared for him — changing compresses, giving him water and finely mashed food. The child had no fever, no illness. He only slept deeply, like a statue.
@@ -101,7 +101,7 @@ universe: Oversee
 - For a moment, Malakor saw something that made him stagger back in terror — not a small child, but **something else**. Something that should not exist.
 - Husgus fell to his knees, body trembling. He felt something **changing** inside him — not pain, but **transformation**. His bones cracked. His muscles contracted. His body **shrank** — smaller, lighter.
 - When the light faded, he was still a child — but **smaller than before**. He was a **halfling**.
-- In the chaos, **Husgus grabbed Gordon's body** and fled into the forest. Malakor and his men chased. But **Hutan Domido was Husgus's home**. He knew every hollow, every hiding place, every secret path. He vanished like a ghost.
+- In the chaos, **Husgus grabbed Gordon's body** and fled into the forest. Malakor and his men chased. But **Domido Forest was Husgus's home**. He knew every hollow, every hiding place, every secret path. He vanished like a ghost.
 - Beneath the old tree where he had first been found, **Husgus buried Gordon**. His teacher's body felt heavy, though he was only a small child. With his own hands he dug the grave, tears falling. When the grave was finished, he sat beside it all night.
 - In his hands, the **Gustaero bow** felt warm — as if the bow knew its owner had left, and was now **waiting for a new owner**.
 - The next day, he began **tracking Malakor**. He found him in his tower. He killed him with Gordon's bow. He burned the tower. He walked away, leaving the ruins behind, heading toward a wider world.
@@ -109,7 +109,7 @@ universe: Oversee
   > *"Here lies Gordon, the Noisy Rhino. He saw the truth, and the world thought him mad. But he never stopped shouting. I will not forget you."*
 
 ### Gordon's Grave
-- **Gordon's grave** is in **Hutan Domido** — beneath the old tree where Husgus first found him. It is a simple mound, marked by the **Gustaero bow** planted in the ground like a headstone.
+- **Gordon's grave** is in **Domido Forest** — beneath the old tree where Husgus first found him. It is a simple mound, marked by the **Gustaero bow** planted in the ground like a headstone.
 - The grave is **not just a grave**. It is a **Cycle Clan marker** — a ward against the Gap. Gordon knew what he was doing when he chose that spot. He chose it because it was a weak point in the veil. He chose it because he wanted to protect the forest even in death.
 - **If the party ever visits the grave**, they will find a **hidden message** carved into the underside of the stone: *"The truth is in the Ark. The key is in the smile."*
 - **The message is a clue.** It points to the **Bahtera Bawah Tanah** — the Underground Ark. It points to the **Grin** — the people with the eternal smile. It points to the truth that Gordon never stopped trying to tell.
@@ -145,7 +145,7 @@ universe: Oversee
 - `Olaf Guirela.md` — the ranger who found him, the man who gave him the bow
 - `Sam Hurls.md` — the bard who taught him the melody
 - `Malakor.md` — the man who killed him
-- `Hutan Domido.md` — the forest where he lived and died
+- `Domido Forest.md` — the forest where he lived and died
 - `Gunung Rayu.md` — the secret excavation he tried to expose
 - `The Cycle Clan.md` — the organization he left
 - `The Gruffgud War.md` — the war he ended
@@ -154,7 +154,7 @@ universe: Oversee
 
 ## What the Party Knows (from Husgus)
 - A dwarf ranger. Thick white beard. Big axe. Viking hat.
-- Lived alone in Hutan Domido for centuries (his lifespan was extended by the Gustaero bow).
+- Lived alone in Domido Forest for centuries (his lifespan was extended by the Gustaero bow).
 - Raised Husgus from childhood.
 - **Ended the Gruffgud War** by convincing both sides to make peace. He was called "Badak Berisik" (Noisy Rhino) because he never stopped yelling about the truth.
 - Was **killed by Malakor** in 695 AV. Husgus buried him under the old tree.
@@ -166,7 +166,7 @@ universe: Oversee
 - **Husgus** — his greatest legacy.
 
 ## Current State
-- Dead. Buried in Hutan Domido.
+- Dead. Buried in Domido Forest.
 
 %% DM SECRETS %%
 - Gordon was **over 500 years old** when he died. He was kept alive by the Gustaero bow (a side effect no one understood).

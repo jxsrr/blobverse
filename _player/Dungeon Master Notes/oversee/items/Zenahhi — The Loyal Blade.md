@@ -1,12 +1,12 @@
 ---
 type: Oversee Item
 rarity: legendary
-current_holder: Lost (Ngarai Ratapan)
+current_holder: Lost (Canyon of Lament)
 universe: Oversee
 aliases:
   - Zenahhi
 ---
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Zenahhi — The Loyal Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Ngarai Ratapan (Rioquan East)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Zenahhi — The Loyal Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Canyon of Lament (Rioquan East)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex. Magical.
@@ -16,7 +16,7 @@ aliases:
 
 ## History
 - One of six legendary weapons.
-- Thrown into Ngarai Ratapan by Lei Firsa.
+- Thrown into Canyon of Lament by Lei Firsa.
 - **Not yet recovered.** It is at the bottom of the deepest canyon in Oversee.
 
 ## What the Party Knows

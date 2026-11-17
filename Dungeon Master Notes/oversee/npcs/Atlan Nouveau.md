@@ -2,13 +2,13 @@
 type: Oversee NPC
 role: The Oceanographer of the Initial Six, Mira's Father
 faction: The Initial Six (deceased)
-home: Kota Juto (formerly) / Unknown
+home: Juto Port City (formerly) / Unknown
 status: Deceased (200 AV), Echo whereabouts unknown
 first_seen: Session 02 (via diary), not yet met in person
 universe: Oversee
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Kota Juto (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kota Juto (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo whereabouts unknown</span></div><div class="bv-dossier-name">Atlan Nouveau</div><div class="bv-dossier-epithet">The Oceanographer of the Initial Six, Mira's Father</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Juto Port City (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Juto Port City (formerly) / Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via diary), not yet met in person</div></div></div></div>
 
 
 ## Living Form — The Oceanographer
@@ -20,7 +20,7 @@ universe: Oversee
 - His final words, recorded in the ritual memory: *"Tell Mira! This wasn't destiny — this was murder!"*
 
 ## What the Party Has Found
-- **Atlan's abandoned base** beneath the Observatorium in Kota Juto (Session 02).
+- **Atlan's abandoned base** beneath the Observatorium in Juto Port City (Session 02).
 - **Atlan's Diary** — four entries, revealing his origin from Aede, his love for Reins, and his pact with Keeper of Secret.
 - **Atlan's Compass** — a magical compass that points to lost things. Passed to Mira, then to the party.
 - **The eternal flame** in the base — a blue flame that never dies. Inscription: *"Burn here, forever in my heart, the one I love."*
@@ -41,7 +41,7 @@ universe: Oversee
 - **He was from Oversee** — born and raised in **Rioquan**, in a coastal city always swept by sea winds. He was not from another world. **Reins was.** He was the one who found her on the beach. He was the one who loved her. He was the one who married her. He was the one who had a daughter with her.
 
 ### Atlan and Reins
-- **Reins** fell into Oversee hundreds of years before Ama. She landed on the beach below the Observatorium in **Kota Juto**. Atlan found her — wet, confused, speaking a language no one recognized.
+- **Reins** fell into Oversee hundreds of years before Ama. She landed on the beach below the Observatorium in **Juto Port City**. Atlan found her — wet, confused, speaking a language no one recognized.
 - **He took her in.** He gave her dry clothes. He taught her the Rioquan language. He showed her the beauty of this world — the waves, the stars, the warm laughter of fishermen in the port tavern.
 - **They fell in love.** She chose to stay in Oversee. She chose Atlan over destiny. She chose love over duty. She knew she was abandoning Aede. She knew the Destroyer God was still out there. She did not care.
 - **They married** in a small ceremony on the beach, attended by fishermen and Atlan's colleagues from the Observatorium. Years later, **Mira** was born — a child with her father's brown eyes and her mother's mysterious smile.
@@ -65,7 +65,7 @@ universe: Oversee
 - **His last thought** was of Reins. He did not know she was already trapped in the Gap. He did not know she had been watching him from a distance for years. He only knew he loved her. He only knew he would never see her again.
 
 ### Echo Atlan — The Father Who Watches
-- **Echo Atlan** has not been met by the party. He is in **Kota Juto** — near the Observatorium, or on the beach where he first found Reins.
+- **Echo Atlan** has not been met by the party. He is in **Juto Port City** — near the Observatorium, or on the beach where he first found Reins.
 - He is **wandering**. He is **looking for Mira**. He is **looking for Reins**. He does not know Reins is alive — trapped in the Gap. He does not know Mira is the leader of the Keeper of Secret. He only knows he lost them both.
 - **He is not hostile.** He is not dangerous. He is **lost**. He is **grieving**. He is trying to find the family he lost.
 - **Echo abilities** (if encountered):
@@ -92,27 +92,27 @@ universe: Oversee
 ### What the Party Does NOT Know
 - Atlan was **uneasy from the start**. He felt the mana reverse. He warned the others. He tried to stop the ritual. He died screaming for Mira.
 - **He was right about everything.** He was the fourth one to see through Alejandro.
-- **Echo Atlan is in Kota Juto** — near the Observatorium or the beach where he found Reins. He is looking for Mira. He is looking for Reins.
+- **Echo Atlan is in Juto Port City** — near the Observatorium or the beach where he found Reins. He is looking for Mira. He is looking for Reins.
 - **He does not know Reins is alive.** He does not know she is trapped in the Gap.
 - **He does not know Mira is the leader of the Keeper of Secret.** He only knows he lost her.
 - **His final words** — recorded in the ritual memory — were: *"Tell Mira! This wasn't destiny — this was murder!"*
 
 ### Season 3 Reveal Schedule
 - **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Atlan. They learn he was uneasy from the start. They learn he tried to stop the ritual.
-- **Session 11** — The party may encounter Echo Atlan in Kota Juto. They may release him with Swaith. They may bring him to Mira. They may give him peace.
+- **Session 11** — The party may encounter Echo Atlan in Juto Port City. They may release him with Swaith. They may bring him to Mira. They may give him peace.
 - **Endgame** — The party carries Atlan's memory into the final battle. They carry his maps. They carry his compass. They carry his love.
 
 ### Corrections Applied
 - **MERGED:** `Echo Atlan` is now part of `Atlan Nouveau.md`. There is no separate Echo Atlan file.
 - **CLARIFIED:** Atlan was **uneasy from the start**. He felt the mana reverse. He warned the others. He tried to stop the ritual. He died screaming for Mira.
-- **CLARIFIED:** **Echo Atlan is in Kota Juto** — near the Observatorium or the beach where he found Reins.
+- **CLARIFIED:** **Echo Atlan is in Juto Port City** — near the Observatorium or the beach where he found Reins.
 - **CLARIFIED:** **He does not know Reins is alive.** He does not know she is trapped in the Gap.
 - **CLARIFIED:** **He does not know Mira is the leader of the Keeper of Secret.**
 - **CLARIFIED:** **His final words** — *"Tell Mira! This wasn't destiny — this was murder!"* — were recorded in the ritual memory.
 - **CLARIFIED:** **The Twin Shell Amulet** — the key to the Bahtera Bawah Tanah — is in Atlan's base. Mira holds it. She has not told the party.
 - **REMOVED:** Any suggestion that Echo Atlan is hostile. He is **lost**. He is **grieving**. He is looking for his family.
 - **REMOVED:** Any suggestion that Atlan was "just an oceanographer." He was **the oceanographer**. He was the one who mapped the world. He was the one who loved Reins. He was the one who died screaming for Mira.
-- **REMOVED:** Any suggestion that Atlan's Echo is in the Bahtera Bawah Tanah. He is in **Kota Juto** — near the Observatorium or the beach.
+- **REMOVED:** Any suggestion that Atlan's Echo is in the Bahtera Bawah Tanah. He is in **Juto Port City** — near the Observatorium or the beach.
 
 ## Connections to Other Lore
 - `Mira Nouveau.md` — his daughter, the leader of the Keeper of Secret
@@ -124,5 +124,5 @@ universe: Oversee
 - `Atlan's Diary.md` — the diary the party found in Session 02
 - `The Twin Shell Amulet.md` — the key to the Bahtera Bawah Tanah
 - `The Bahtera Bawah Tanah.md` — where the override clause is hidden
-- `Kota Juto.md` — the city where his Echo waits
+- `Juto Port City.md` — the city where his Echo waits
 - `The Endgame Paths.md` — the third path, the Architect's Mercy

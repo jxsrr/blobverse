@@ -11,7 +11,7 @@ aliases:
 
 ## What Matters Here
 - A **university** in Rioquan Timur Barat. Dedicated to arcane arts and history.
-- **Built on top of the ancient Observatory of Danau Kuno** — the First Observatory, the birthplace of the Cycle Clan.
+- **Built on top of the ancient Observatory of Ancient Lake** — the First Observatory, the birthplace of the Cycle Clan.
 - The lake was drained. The tower was excavated. The university was built on top of it.
 - **The Hall of Time** — a corridor of aging wooden lockers. Contains fragments of memory from former students.
   - **Locker #47 (Crest Muda)** — a blue Grace cloak, old notes, and a wooden sword inscribed "For my brother, Shin." Triggers an illusion of Crest training.
@@ -25,8 +25,8 @@ aliases:
 - **The Graduate Tower – Hall of Memories** — a tower with names of alumni. **Edra and Crest's names** are here. Shin's name is **missing**.
   - A **Sheath of Memory** — inscribed "S.V.H." — gives bonus against demons.
 
-## The Ancient Observatory (Danau Kuno) — Beneath the University
-- **The Lake of Danau Kuno** — a dark blue lake that never moves. No wind touches it. It is the **impact crater** of the Shell.
+## The Ancient Observatory (Ancient Lake) — Beneath the University
+- **The Lake of Ancient Lake** — a dark blue lake that never moves. No wind touches it. It is the **impact crater** of the Shell.
 - In the center: a **white stone tower** — the **First Observatory**, built by **Guanik Wiseman** in 1040 BV.
 - This is where Wiseman first saw the **Shell** in the sky. This is where he received his vision from the Architect. This is where the **Cycle Clan was founded**. This is where the original **Edisi Law** was signed.
 - The tower is half-sunken. The lower levels are flooded. The upper levels are intact.
@@ -40,13 +40,13 @@ aliases:
 ## The Three Observatories
 There are **three Observatories** built by the Cycle Clan, each with a different purpose:
 
-1. **The First Observatory — Danau Kuno (Optical/Stellar)**
+1. **The First Observatory — Ancient Lake (Optical/Stellar)**
    - Built by **Guanik Wiseman** in 1040 BV. Dedicated to studying the **stars** — the optical sky.
    - Where Wiseman recorded the Shell video. Where he received the Architect's vision. Where the Cycle Clan was founded.
    - **Ruined and forgotten.** Now the site of **Universitas Tarakita**.
 
-2. **The Second Observatory — Kota Juto (High-Energy Astrophysics)**
-   - Built centuries later in **Kota Juto** (Rioquan South). Dedicated to **high-energy astrophysics**.
+2. **The Second Observatory — Juto Port City (High-Energy Astrophysics)**
+   - Built centuries later in **Juto Port City** (Rioquan South). Dedicated to **high-energy astrophysics**.
    - Repurposed by **Atlan Nouveau** for **oceanographic research**.
    - Now the **current headquarters of the Keeper of Secret**.
 
@@ -60,10 +60,10 @@ There are **three Observatories** built by the Cycle Clan, each with a different
 ::/pf
 %% DM SECRETS %%
 - It is a **Season 3 emotional dungeon** for Shin.
-- They have heard of Danau Kuno from the Cycle Clan files — but they do not know it is now Universitas Tarakita.
+- They have heard of Ancient Lake from the Cycle Clan files — but they do not know it is now Universitas Tarakita.
 
 ## What the Party Does NOT Know
-- **Danau Kuno is Universitas Tarakita.** The university was built on top of the ancient observatory.
+- **Ancient Lake is Universitas Tarakita.** The university was built on top of the ancient observatory.
 - **The Shell fell here.** The lake is the impact crater.
 - **The three Observatories formed a triangulation network.** The sigils are still there.
 - **Wiseman's journal** is in the submerged cave beneath the university.
@@ -76,14 +76,14 @@ There are **three Observatories** built by the Cycle Clan, each with a different
 
 
 ### The University Built on Ruins
-- **Universitas Tarakita** was built on top of **Danau Kuno** — the First Observatory, the birthplace of the Cycle Clan. The lake was drained. The tower was excavated. The university was built on top.
+- **Universitas Tarakita** was built on top of **Ancient Lake** — the First Observatory, the birthplace of the Cycle Clan. The lake was drained. The tower was excavated. The university was built on top.
 - The **underground levels** — the submerged cave, the Well of the Lake, the Altar of the Lake — are still there. They are sealed. The university does not know what is beneath it.
 - **Professor Rubi** knows. She is a former Cycle Clan member. She has been guarding the secret for centuries.
 
 ### The Three Observatories — Full Canon
 The Cycle Clan built **three Observatories**, each with a different method of watching the sky. Together, they formed a **triangulation network** — the only way to track the Shell as it moved.
 
-**1. The First Observatory — Danau Kuno (Optical)**
+**1. The First Observatory — Ancient Lake (Optical)**
 - Built by **Guanik Wiseman** in **1040 BV**. The oldest. The most sacred.
 - Dedicated to **optical astronomy** — the study of visible light. Stars, comets, the movement of the sky.
 - Where Wiseman first saw the Shell descend. Where he recorded the video. Where he received the Architect's vision. Where the Cycle Clan was founded. Where the original Edisi Law was signed.
@@ -94,8 +94,8 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 - **The Architect's echo** is in the same cave. It will answer one question truthfully.
 - **The first sigil** is in the same cave.
 
-**2. The Second Observatory — Kota Juto (High-Energy Astrophysics)**
-- Built centuries later — after the Cycle Clan had spread across Oversee. Located in **Kota Juto** (Rioquan South) on the coast.
+**2. The Second Observatory — Juto Port City (High-Energy Astrophysics)**
+- Built centuries later — after the Cycle Clan had spread across Oversee. Located in **Juto Port City** (Rioquan South) on the coast.
 - Dedicated to **high-energy astrophysics** — the study of invisible forces, mana flow, and cosmic radiation. It could not see the Shell directly, but it could measure its **effects** — the ripples in Ambitio-Ether.
 - **Repurposed by Atlan Nouveau.** When Atlan joined the Initial Six, he turned the instruments toward the **sea**. He studied currents, tides, and the relationship between the moon and the waves.
 - **Now the Keeper of Secret's headquarters.** Mira runs the organization from beneath the Navigation Archive. **Atlan's base** — the eternal flame, the diary, the Twin Shell Amulet — is in the basement.
@@ -110,13 +110,13 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 
 ### The Triangulation Network
 - The three Observatories were **connected**. Each one had a **Cycle Clan sigil** — a stone that resonated with the others. When all three were active, they could **triangulate** the Shell's position.
-- **The sigils are still there.** One is buried beneath Universitas Tarakita. One is in the basement of Kota Juto's Observatorium. One is in the Radio Observatory in Pegunungan Arbor.
+- **The sigils are still there.** One is buried beneath Universitas Tarakita. One is in the basement of Juto Port City's Observatorium. One is in the Radio Observatory in Pegunungan Arbor.
 - **If the party finds all three sigils**, they can use them to **track the Shell** — to see where it is, where it is moving, and whether it is waking up.
 
 ### The Shell's Fall — Where Did It Happen?
-- **The Shell fell at Danau Kuno.** The crater that became the lake was formed by its descent. The lake is the impact point.
-- **The Shell is still in the sky.** The thing that fell at Danau Kuno was a **piece** of the Shell — a fragment that broke off during the descent. The main body is still up there, hollow, waiting.
-- **The Cult of the Giant Humanoid** was founded at Danau Kuno. The first worshippers saw the fragment fall and believed it was a god.
+- **The Shell fell at Ancient Lake.** The crater that became the lake was formed by its descent. The lake is the impact point.
+- **The Shell is still in the sky.** The thing that fell at Ancient Lake was a **piece** of the Shell — a fragment that broke off during the descent. The main body is still up there, hollow, waiting.
+- **The Cult of the Giant Humanoid** was founded at Ancient Lake. The first worshippers saw the fragment fall and believed it was a god.
 - **Wiseman saw both** — the fragment in the lake and the Shell in the sky. He understood they were the same thing.
 
 ### The University — Shin's Story
@@ -130,36 +130,36 @@ The Cycle Clan built **three Observatories**, each with a different method of wa
 - **HVS-03** — an empty, cracked shell tube in the Underground Library. It is the third shell. It was never filled. It was never named. It is waiting.
 
 ### What the Party Does NOT Know
-- **Danau Kuno is Universitas Tarakita.** The university was built on top of the ancient observatory.
+- **Ancient Lake is Universitas Tarakita.** The university was built on top of the ancient observatory.
 - **The Shell fell here.** The lake is the impact crater.
 - **Wiseman's journal** is in the submerged cave beneath the university.
 - **The cracked Gemheart fragment** is in the same cave. It can be fused with Emelanica to double its power.
 - **The Architect's echo** is in the same cave. It will answer one question truthfully.
 - **The first Cycle Clan sigil** is in the same cave.
-- **There are three Observatories.** The second is in Kota Juto. The third is in Pegunungan Arbor.
+- **There are three Observatories.** The second is in Juto Port City. The third is in Pegunungan Arbor.
 - **The three sigils form a triangulation network.** If the party finds all three, they can track the Shell.
 - **Shin's name was erased** from the Graduate Tower. Someone did not want him remembered.
 - **HVS-03** is in the Underground Library. It is the third shell. It was never filled.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party learns about the three Observatories. They learn Danau Kuno is now Universitas Tarakita. They learn the Shell fell there.
+- **Session 8–10** — The party learns about the three Observatories. They learn Ancient Lake is now Universitas Tarakita. They learn the Shell fell there.
 - **Session 11** — The party visits Universitas Tarakita. They find Wiseman's journal. They find the cracked Gemheart fragment. They find the Architect's echo. They find the first sigil. They meet Professor Rubi. They meet Kael. They find the Living Failures. They find HVS-03. They find Shin's erased name.
 - **Session 11** — The party may visit the Radio Observatory in Pegunungan Arbor. They find the original Cycle Clan records. They find the third sigil.
 - **Endgame** — The party must decide what to do with the truth. They can expose the Cycle Clan. They can use the sigils to track the Shell. They can free the Cloud Colony. They can release the Living Failures. They can restore Shin's name. The choice is theirs.
 
 ### Corrections Applied
-- **MERGED:** The previous `07 Locations/Observatorium Danau Kuno.md` is now **part of this file**. There is no separate Danau Kuno file.
-- **CLARIFIED:** Universitas Tarakita is built on top of Danau Kuno.
+- **MERGED:** The previous `07 Locations/Observatorium Ancient Lake.md` is now **part of this file**. There is no separate Ancient Lake file.
+- **CLARIFIED:** Universitas Tarakita is built on top of Ancient Lake.
 - **CLARIFIED:** There are **three Observatories**, not one.
-- **CLARIFIED:** The Shell fell at **Danau Kuno** — the lake is the impact crater.
+- **CLARIFIED:** The Shell fell at **Ancient Lake** — the lake is the impact crater.
 - **CLARIFIED:** The three Observatories formed a **triangulation network**. The sigils are still there.
 - **CLARIFIED:** **Shin's name was erased** from the Graduate Tower.
 - **CLARIFIED:** **HVS-03** is in the Underground Library.
-- **REMOVED:** "Danau Kuno would later become Kota Juto." — False. Danau Kuno became **Universitas Tarakita**. Kota Juto is a **separate** location.
-- **REMOVED:** Any suggestion that the Second Observatory is "Observatorium Rioquan Utara." The Second Observatory is in **Kota Juto**.
+- **REMOVED:** "Ancient Lake would later become Juto Port City." — False. Ancient Lake became **Universitas Tarakita**. Juto Port City is a **separate** location.
+- **REMOVED:** Any suggestion that the Second Observatory is "Observatorium Rioquan Utara." The Second Observatory is in **Juto Port City**.
 
 ## Connections to Other Lore
-- `Juto's Observatorium.md` — the Second Observatory (Kota Juto)
+- `Juto's Observatorium.md` — the Second Observatory (Juto Port City)
 - `The Radio Observatory.md` — the Third Observatory (Pegunungan Arbor) (needs file)
 - `The Cloud Prison.md` — the colony connected to the Radio Observatory
 - `Guanik Wiseman.md` — the founder of the Cycle Clan, the Architect's vessel

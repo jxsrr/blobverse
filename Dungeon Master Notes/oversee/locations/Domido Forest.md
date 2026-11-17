@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: West Harka
 universe: Oversee
 aliases:
-  - Hutan Domido
+  - Domido Forest
 ---
 ::pf
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Domido Forest</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">West Harka (between Ghuffghuff and Gudameng)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val">Gordon (deceased), Husgus (raised here)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Wild, quiet, haunted</div></div></div></div>

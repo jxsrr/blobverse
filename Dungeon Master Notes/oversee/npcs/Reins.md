@@ -14,7 +14,7 @@ universe: Oversee
 ## What the Party Knows
 - Ama's best friend from their home world, **Aede**. Short pink hair. Moon-shaped staff. Purple robes.
 - Empathetic, calm, wise — the one who understood people's emotions best.
-- **Fell into Oversee** hundreds of years before Ama, near a lighthouse in Kota Juto.
+- **Fell into Oversee** hundreds of years before Ama, near a lighthouse in Juto Port City.
 - Met **Atlan Nouveau**. They fell in love. Had a daughter, **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**.
 - Chose to stay in Oversee instead of returning to Aede to fight the Destroyer God.
 - Her fate after Atlan's disappearance is unknown.
@@ -29,7 +29,7 @@ universe: Oversee
 
 ### Who Reins Is
 - **Reins** is a woman from **Aede** — another world, another dimension, another story. She was Ama's best friend. She was empathetic, calm, wise — the one who understood people's emotions best. She was the one who kept Ama grounded. She was the one who believed in him.
-- She fell into **Oversee** hundreds of years before Ama — near a lighthouse in **Kota Juto**. She did not know how. She did not know why. She only knew she was far from home, far from Ama, far from everything she had ever known.
+- She fell into **Oversee** hundreds of years before Ama — near a lighthouse in **Juto Port City**. She did not know how. She did not know why. She only knew she was far from home, far from Ama, far from everything she had ever known.
 - She met **Atlan Nouveau** — the oceanographer, the scholar, the man who loved the sea. They fell in love. They married. They had a daughter — **Mira Nouveau**.
 - She chose to stay in Oversee. She chose Atlan over destiny. She chose love over duty. She knew she was abandoning Aede. She knew the Destroyer God was still out there. She did not care. She loved Atlan more than she loved the mission.
 - **She is not dead.** She is trapped in the **Gap** — kept alive by a fragment of **Safayer** she swallowed on the day she fell. She has been there for 500 years. She has been watching. She has been waiting.

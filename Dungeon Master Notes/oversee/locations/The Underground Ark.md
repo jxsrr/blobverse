@@ -34,7 +34,7 @@ universe: Oversee
 - **The first Cycle Clan sigil** is NOT here. It is in the submerged cave beneath Universitas Tarakita.
 - **The third Cycle Clan sigil** is NOT here. It is in the Radio Observatory in Pegunungan Arbor.
 - **The Bat Trio** is NOT here. It is hidden with the royal families of Oversee.
-- **The Fool Trio** is NOT here. Swaith is with Shin. Kkana is with Mira. Zenahhi is lost in Ngarai Ratapan.
+- **The Fool Trio** is NOT here. Swaith is with Shin. Kkana is with Mira. Zenahhi is lost in Canyon of Lament.
 - The Ark contains:
   - The original Edisi Law
   - The Cycle Clan archives

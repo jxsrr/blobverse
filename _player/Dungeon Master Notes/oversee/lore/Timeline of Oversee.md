@@ -23,7 +23,7 @@ universe: Oversee
 - Only the **magic-deaf** survive. The cycle repeats.
 
 ## Age of Knowledge (19XX – 10XX BV)
-- **~1040 BV** — **Guanik Wiseman** sees the **Shell** descend from the sky from the First Observatory at **Danau Kuno**. He records the video. He receives a vision from the Architect — **the Architect is inside him**.
+- **~1040 BV** — **Guanik Wiseman** sees the **Shell** descend from the sky from the First Observatory at **Ancient Lake**. He records the video. He receives a vision from the Architect — **the Architect is inside him**.
 - **~1040 BV** — Wiseman founds **The Cycle Clan**. He becomes the **first Kanselir Agung** of the **One Voice Commonwealth**.
 - **~104X BV** — The Cycle Clan excavates the **Gemhearts**. The original **Edisi Law** is signed by Guanik — the promise.
 - **~10XX BV** — The **maintenance rituals** for the Architect are established. The Valla is **not** replaced. The Architect is maintained.
@@ -55,7 +55,7 @@ universe: Oversee
 ## Initial Six Era (180 – 200 AV)
 - **~180 AV** — **Gordon** is born in the mountains of Harka.
 - **~180 AV** — **Gunnar Guirela** finds **Gustaero** in his fishing net in Wind's Rest.
-- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Hutan Domido. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
+- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Domido Forest. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
 - **~190 AV** — **Lei Alejandro** falls in love with **Ratu Ghaniba** (goblin queen). She dies in childbirth. He gives **Emelanica** to the goblins.
 - **200 AV** — **The Great Disappearance**. Lei Alejandro sacrifices the Initial Six to feed Simon. The **Echoes** are born. **Mira Nouveau** witnesses it. **Keeper of Secret** is founded.
 
@@ -67,10 +67,10 @@ universe: Oversee
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
 - **10 AV** — **The Grace** falls. Shin's order is destroyed by **Zargoyle**. He wakes 690 years later — in **700 AV**.
-- **690 AV** — **Gordon** finds **Husgus** in Hutan Domido. He raises him.
+- **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.
-- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Danau Kuno. This never happened. Topaju is with **Lei Alejandro**.
+- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Ancient Lake. This never happened. Topaju is with **Lei Alejandro**.
 
 ## The Campaign (700 AV)
 - **0700-06-01** — The Five Sticks form at The Yawning Guild. Session 1 begins.

@@ -60,10 +60,10 @@ aliases:
 | Blade | Type | Current Holder |
 | :--- | :--- | :--- |
 | **Swaith** | Dagger | <a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a> |
-| **Rayio** | Longsword | Hutan Garberro |
+| **Rayio** | Longsword | Garberro Forest |
 | **Kkana** | Greatsword | <a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a> |
 | **Frostfang** | Greataxe | Spire of Whispering Ice |
-| **Zenahhi** | Longsword | Ngarai Ratapan |
+| **Zenahhi** | Longsword | Canyon of Lament |
 | **Terrde** | Longsword | Ruins of the Rapture |
 
 ### Corrections Applied

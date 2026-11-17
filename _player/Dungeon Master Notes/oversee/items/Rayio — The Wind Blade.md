@@ -6,7 +6,7 @@ universe: Oversee
 aliases:
   - Rayio
 ---
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Rayio — The Wind Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Hutan Garberro (Pirizia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Rayio — The Wind Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Longsword</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Garberro Forest (Pirizia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## Stat Block
 - +1 longsword. 1d8 + Str/Dex (finesse). Magical.
@@ -17,7 +17,7 @@ aliases:
 
 ## History
 - One of six legendary weapons collected by Simon Greenbottle.
-- Thrown into Hutan Garberro by Lei Firsa.
+- Thrown into Garberro Forest by Lei Firsa.
 - **Not yet recovered.**
 
 ## What the Party Knows

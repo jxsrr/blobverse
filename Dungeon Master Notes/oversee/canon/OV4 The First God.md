@@ -17,7 +17,7 @@ aliases:
 
 The year **1 AV** — *After Valla* — began in silence.
 
-**<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** stood at the altar of **<a href="/Universitas%20Tarakita">Danau Kuno</a>**. **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
+**<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** stood at the altar of **<a href="/Universitas%20Tarakita">Ancient Lake</a>**. **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
 
 He was the **<a href="/oversee/lore/The%20Valla">Valla</a>** now. His soul stretched across the world, holding back the hunger of the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**. He would hold that burden for as long as he could. And when he finally broke, someone else would take his place.
 
@@ -117,7 +117,7 @@ Lei Firsa entered the deepest underground chamber, among shelves of moldy books 
 
 ## The Rewritten History
 
-With the six blades and the Swan Bow scattered, Lei Firsa returned to **<a href="/Universitas%20Tarakita">Danau Kuno</a>**.
+With the six blades and the Swan Bow scattered, Lei Firsa returned to **<a href="/Universitas%20Tarakita">Ancient Lake</a>**.
 
 Simon's body still sat on the altar — not moving, not breathing. Lei Firsa looked at him one last time. Not with love. With satisfaction.
 
@@ -442,8 +442,8 @@ The party will have to decide how much of the official history to trust.
 - **`The Spire of Whispering Ice.md`** — Vythrax's lair
 - **`Frosthaven Peak.md`** — the mountain of Klan Frostscale
 - **`Wind's Rest.md`** — where Gustaero was found
-- **`Hutan Garberro.md`** — where Rayio was thrown
-- **`Ngarai Ratapan.md`** — where Zenahhi was thrown
+- **`Garberro Forest.md`** — where Rayio was thrown
+- **`Canyon of Lament.md`** — where Zenahhi was thrown
 - **`Dur-Khazim.md`** — where Swaith and Terrde were found
 
 ## Timeline Note

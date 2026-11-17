@@ -18,10 +18,10 @@ universe: Oversee
 - **The Coral Gates** — the entrance to the city. Guarded by Kuo Lau sentinels. Only those who carry Kuo Lau blood — or who are escorted by a Kuo Lau — may pass.
 - **The Pearl Market** — the central square. Bioluminescent coral stalls. Trade in shells, pearls, and deep-sea relics. No surface coin.
 - **The King's Spire** — the tallest coral tower. The Kuo Lau King's throne room. Alnean is kept here.
-- **The Deep Tunnels** — the network of caves that connects the Kuo Lau Kingdom to the surface — specifically to the **Kuil Lautan** in Kota Juto. This is the path Babibubebo can lead the party through.
+- **The Deep Tunnels** — the network of caves that connects the Kuo Lau Kingdom to the surface — specifically to the **Kuil Lautan** in Juto Port City. This is the path Babibubebo can lead the party through.
 - **The Singing Reef** — a sacred grove of coral where the Kuo Lau sing to the deep. They believe the song keeps the pressure veil alive. They may be right.
 
 ## What the Party Knows
 - They have never been here.
-- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Kota Juto. They do not know he is from here.
+- They met **Babibubebo** — a small fish-man who lives in the Kuil Lautan in Juto Port City. They do not know he is from here.
 - They have never heard of Alnean.

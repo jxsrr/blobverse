@@ -8,7 +8,7 @@ showToc: true
 
 ## Part 1: The Body of a Bard
 
-They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima">Pulau Dima</a>** to **<a href="/Kota%20Juto">Kota Juto</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
+They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima">Dima Island</a>** to **<a href="/Kota%20Juto">Juto Port City</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
 
 **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** was with them. So was the body of **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
 
@@ -27,10 +27,10 @@ The party had two of these. They needed the other two.
 Later, they asked about the legendary weapons — the six blades of Simon Greenbottle's legacy. Accarus answered:
 
 - **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — Accarus carried it
-- **<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** — lost in **<a href="/Hutan%20Garberro">Hutan Garberro</a>**
+- **<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** — lost in **<a href="/Hutan%20Garberro">Garberro Forest</a>**
 - **<a href="/oversee/items/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana</a>** — carried by **<a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>**
 - **<a href="/oversee/items/Frostfang%20%E2%80%94%20The%20Ice%20Fang">Frostfang</a>** — lost in **<a href="/oversee/locations/Frosthaven%20Peak">Frosthaven Peak</a>**
-- **<a href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade">Zenahhi</a>** — lost in **<a href="/Ngarai%20Ratapan">Ngarai Ratapan</a>**
+- **<a href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade">Zenahhi</a>** — lost in **<a href="/Ngarai%20Ratapan">Canyon of Lament</a>**
 - **<a href="/oversee/items/Terrde%20%E2%80%94%20The%20Patient%20Blade">Terrde</a>** — lost in the ruins of the Rapture
 - **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — in **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>**'s hand
 

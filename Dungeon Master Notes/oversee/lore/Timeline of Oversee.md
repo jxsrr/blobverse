@@ -24,7 +24,7 @@ universe: Oversee
 - Only the **magic-deaf** survive. The cycle repeats.
 
 ## Age of Knowledge (19XX – 10XX BV)
-- **~1040 BV** — **Guanik Wiseman** sees the **Shell** descend from the sky from the First Observatory at **Danau Kuno**. He records the video. He receives a vision from the Architect — **the Architect is inside him**.
+- **~1040 BV** — **Guanik Wiseman** sees the **Shell** descend from the sky from the First Observatory at **Ancient Lake**. He records the video. He receives a vision from the Architect — **the Architect is inside him**.
 - **~1040 BV** — Wiseman founds **The Cycle Clan**. He becomes the **first Kanselir Agung** of the **One Voice Commonwealth**.
 - **~104X BV** — The Cycle Clan excavates the **Gemhearts**. The original **Edisi Law** is signed by Guanik — the promise.
 - **~10XX BV** — The **maintenance rituals** for the Architect are established. The Valla is **not** replaced. The Architect is maintained.
@@ -56,7 +56,7 @@ universe: Oversee
 ## Initial Six Era (180 – 200 AV)
 - **~180 AV** — **Gordon** is born in the mountains of Harka.
 - **~180 AV** — **Gunnar Guirela** finds **Gustaero** in his fishing net in Wind's Rest.
-- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Hutan Domido. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
+- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Domido Forest. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
 - **~190 AV** — **Lei Alejandro** falls in love with **Ratu Ghaniba** (goblin queen). She dies in childbirth. He gives **Emelanica** to the goblins.
 - **200 AV** — **The Great Disappearance**. Lei Alejandro sacrifices the Initial Six to feed Simon. The **Echoes** are born. **Mira Nouveau** witnesses it. **Keeper of Secret** is founded.
 
@@ -68,10 +68,10 @@ universe: Oversee
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
 - **10 AV** — **The Grace** falls. Shin's order is destroyed by **Zargoyle**. He wakes 690 years later — in **700 AV**.
-- **690 AV** — **Gordon** finds **Husgus** in Hutan Domido. He raises him.
+- **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.
-- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Danau Kuno. This never happened. Topaju is with **Lei Alejandro**.
+- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Ancient Lake. This never happened. Topaju is with **Lei Alejandro**.
 
 ## The Campaign (700 AV)
 - **0700-06-01** — The Five Sticks form at The Yawning Guild. Session 1 begins.
@@ -101,13 +101,13 @@ universe: Oversee
 - **CLARIFIED:** Simon was born **~45 BV**, not ~30 BV. He was **44 at the ritual** in 01 BV.
 - **CLARIFIED:** **Gustaero** is not one of the six blades. It is one of the three Swan relics. It was found by Gunnar Guirela, passed to Olaf, then Gordon, then Husgus.
 - **CLARIFIED:** **Swaith** is one of the six blades — but in the older canon. In the **current canon**, Swaith is one of the **Fool Trio** — not a blade of the Swan. It was magically delivered to Shin — not found as loot.
-- **CLARIFIED:** **Topaju** is with **Lei Alejandro**. The "Valerius took a fragment from Danau Kuno in 699 AV" entry is **removed**. It never happened.
-- **CLARIFIED:** **Danau Kuno** is now **Universitas Tarakita** — not Juto Port City.
+- **CLARIFIED:** **Topaju** is with **Lei Alejandro**. The "Valerius took a fragment from Ancient Lake in 699 AV" entry is **removed**. It never happened.
+- **CLARIFIED:** **Ancient Lake** is now **Universitas Tarakita** — not Juto Port City.
 - **CLARIFIED:** **The Grace** was destroyed in **10 AV** by **Zargoyle** — not in 690 AV, not by Shin, not by Lei Firsa. Shin was a victim. He woke up **690 years later** — in **700 AV**.
 - **CLARIFIED:** **The Valla has only been replaced once** — Simon. "Dozens of Vallas" is propaganda.
 - **CLARIFIED:** **Lei Firsa's current status is ambiguous.** She may be alive, dead, or something else. The DM decides.
 - **CLARIFIED:** **The Great Strike** separated the twins — but only Antrem was swept away. Accarus survived in a cellar.
-- **REMOVED:** "Valerius took a fragment of Topaju from Observatorium Danau Kuno in 699 AV." — This never happened. Topaju is with Lei Alejandro.
+- **REMOVED:** "Valerius took a fragment of Topaju from Observatorium Ancient Lake in 699 AV." — This never happened. Topaju is with Lei Alejandro.
 - **REMOVED:** "The four-Cipher structure." — There are no Ciphers. Rivan is the main Cycle Clan contact.
 - **REMOVED:** "Lei Firsa is the final antagonist." — Her status is ambiguous. The DM decides.
 - **REMOVED:** "Simon is the third Valla." — He is the **second** Valla. The Architect was first. There is no Echo Valla.

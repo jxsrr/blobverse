@@ -2,7 +2,7 @@
 type: Oversee NPC
 role: Founder of Keeper of Secret, Daughter of Atlan and Reins
 faction: Keeper of Secret
-home: Kota Juto (Observatorium)
+home: Juto Port City (Observatorium)
 status: alive
 first_seen: Session 02
 universe: Oversee
@@ -24,11 +24,11 @@ universe: Oversee
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Whereabouts</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Origin / Base</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">First Seen</div>

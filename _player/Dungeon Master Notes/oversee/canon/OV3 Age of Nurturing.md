@@ -62,7 +62,7 @@ They walked together for twenty years.
 
 **~870 BV**
 
-Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Danau Kuno</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
+Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Ancient Lake</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
 
 Every night, when the other Cycle Clan members slept, he waited for the voice of **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">the Architect</a>** to speak.
 
@@ -96,7 +96,7 @@ Wiseman agreed. He built both shells. He waited.
 
 **~01 BV**
 
-Simon was in his forties when he arrived at **<a href="/Universitas%20Tarakita">Danau Kuno</a>** — the ancient lake where the First Observatory stood.
+Simon was in his forties when he arrived at **<a href="/Universitas%20Tarakita">Ancient Lake</a>** — the ancient lake where the First Observatory stood.
 
 He had been guided there by dreams. Not his own dreams — the dreams of the Architect, who had chosen him. The Cycle Clan received him. They explained to him the truth of the world: the Overseer, the Gap, the Gemhearts, the ritual.
 
@@ -218,7 +218,7 @@ But they did not stay empty.
 
 ## HVS-01 — The Golden-Cracked
 
-**Hundreds of years later — Hutan Domido**
+**Hundreds of years later — Domido Forest**
 
 A small child was found in the forest by an old dwarf named **<a href="/oversee/npcs/Gordon">Gordon</a>**. The child had no clothes, no memory, no name. He remembered only darkness, fire, and someone screaming.
 

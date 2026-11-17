@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Rioquan East
 universe: Oversee
 aliases:
-  - Ngarai Ratapan
+  - Canyon of Lament
 ---
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">Canyon of Lament</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Rioquan East</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Unexplored</div></div></div></div>
 

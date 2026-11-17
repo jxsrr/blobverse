@@ -66,7 +66,7 @@ His brown hair, always parted down the middle, his wary eyes, and his habit of c
 
 Since childhood, Atlan had spent more time at the docks than at home. He learned to read from old maps discarded by sailors, learned to write by copying the logbooks of ships at anchor, learned mathematics from counting tides and currents.
 
-As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Kota Juto</a>**.
+As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Juto Port City</a>**.
 
 The Observatorium became his second home. A white stone tower on the edge of a cliff, with a basement that extended down to the shoreline, where he installed tide gauges, water thermometers, and current traps of his own design. At the top of the tower, he installed a great telescope — used not only to observe the stars, but to study the relationship between the moon's phases and the waves.
 

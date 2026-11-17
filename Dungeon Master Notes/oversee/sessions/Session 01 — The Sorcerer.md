@@ -79,7 +79,7 @@ The party won. They took the gem. And because they did not know what the gem tru
 
 The party woke on a small fishing boat, coughing seawater, surrounded by the smell of fish.
 
-An old dwarf fisherman named **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>** had pulled them from the wreckage. He brought them to his home on **<a href="/Pulau%20Dima">Pulau Dima</a>** — a tropical island with white sand and coconut trees — where he lived with his wife **<a href="/oversee/npcs/Janja">Janja</a>** and their three children: **<a href="/Dontol">Dontol</a>** (the eldest), **<a href="/Huan">Huan</a>** and **<a href="/Nila">Nila</a>**.
+An old dwarf fisherman named **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>** had pulled them from the wreckage. He brought them to his home on **<a href="/Pulau%20Dima">Dima Island</a>** — a tropical island with white sand and coconut trees — where he lived with his wife **<a href="/oversee/npcs/Janja">Janja</a>** and their three children: **<a href="/Dontol">Dontol</a>** (the eldest), **<a href="/Huan">Huan</a>** and **<a href="/Nila">Nila</a>**.
 
 At first, it was peace. Recovery. A warm home. Guanik told them stories about the sea. His wife made tea. The children showed the party their shell collection.
 
@@ -95,7 +95,7 @@ The party did not understand what they had stolen. But someone else did.
 
 ## Part 6: The Will of Grin
 
-The taking of the green gem from its anti-magic chest had awakened something sleeping. A group known as **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** arrived at Pulau Dima while the party was away.
+The taking of the green gem from its anti-magic chest had awakened something sleeping. A group known as **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** arrived at Dima Island while the party was away.
 
 They burned everything. They killed Guanik. They killed Janja. They scattered the children.
 
@@ -145,8 +145,8 @@ The ship did not need a crew. It moved on its own. It had a destination already 
 %% DM SECRETS %%
 - **The carving at Greyland Castle** was written by Lei Alejandro **after** the Great Disappearance — after his betrayal. He was hiding the Gemhearts. He was protecting secrets he already knew would be misunderstood.
 - **Grolnok knew Alejandro personally.** His daughter Ratu Ghaniba married Alejandro. She died in childbirth with a stillborn child. The gem was meant for goblin heirs. This is why Grolnok refused to give it up.
-- **The gem was stored in an anti-magic chest.** Taking it from the chest sent a signal to Will of Grin. Their arrival at Pulau Dima was not coincidental — it was a response.
-- **Pulau Dima was the party's first failure.** Guanik and Janja died because the party took the gem. This moment will echo through the campaign. **Dontol** — the eldest son — will carry this loss into Season 3.
-- **The divine touch on Pulau Dima** was the first time the Overseer noticed the party. They have not yet realized that "divine" does not mean "benevolent."
+- **The gem was stored in an anti-magic chest.** Taking it from the chest sent a signal to Will of Grin. Their arrival at Dima Island was not coincidental — it was a response.
+- **Dima Island was the party's first failure.** Guanik and Janja died because the party took the gem. This moment will echo through the campaign. **Dontol** — the eldest son — will carry this loss into Season 3.
+- **The divine touch on Dima Island** was the first time the Overseer noticed the party. They have not yet realized that "divine" does not mean "benevolent."
 - **The Will of Grin ship** was designed to return to the Maw Desert basecamp in Pirizia. The party did not know this. When they boarded, they became prisoners without realizing it.
 - **Session 01 setup:** Everything that follows is set in motion by **taking the gem from the anti-magic chest**. The party thought they were solving a simple retrieval quest. They were actually unraveling a 500-year-old secret.

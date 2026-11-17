@@ -13,7 +13,7 @@ years: 201 – 699 AV
 
 ## Gordon — The Hunter of Domido
 
-**~240 AV — Hutan Domido**
+**~240 AV — Domido Forest**
 
 Years passed. **<a href="/oversee/npcs/Gordon">Gordon</a>** grew into a strong young man — a hunter of rare skill, known throughout the **<a href="/Hutan%20Domido">Domido Forest</a>** for his tracking, his patience, and his uncanny ability to read the land.
 
@@ -107,7 +107,7 @@ He was arrested, interrogated, and nearly lynched by a mob. But one wiser elder 
 
 Gordon was **exiled**.
 
-He returned to his hut in **Hutan Domido**, and from a distance, he watched the fires of war begin to burn.
+He returned to his hut in **Domido Forest**, and from a distance, he watched the fires of war begin to burn.
 
 The two villages that had once been peaceful now killed each other. The young men he had taught to hunt died on the battlefield. The mothers who had given him food wept for their dead children.
 
@@ -141,7 +141,7 @@ Other cities in Harka — **<a href="/oversee/locations/Nesia%20Town">Nesia Town
 
 When refugees occasionally came with stories of the horrors of war, they were given a little food and sent away. The world kept turning, and the absurd war kept burning without anyone truly caring.
 
-Meanwhile, in **Hutan Domido**, **Gordon aged**.
+Meanwhile, in **Domido Forest**, **Gordon aged**.
 
 His age somehow moved slowly — perhaps because of the **Gustaero bow**, perhaps because of a curse, perhaps because he was **too stubborn to die**.
 
@@ -249,7 +249,7 @@ A new generation had been born and died without ever knowing what life without w
 
 His body was ancient. His hair was completely white. His beard hung to his chest. But his eyes still burned. And his voice still rumbled like thunder.
 
-He gathered the elders of both villages at the old fortress in the middle of **<a href="/Hutan%20Domido">Hutan Domido</a>** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
+He gathered the elders of both villages at the old fortress in the middle of **<a href="/Hutan%20Domido">Domido Forest</a>** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
 
 Gordon stood in the center of the room. The elders sat around him — some with skeptical expressions, some with curiosity, some with hope that had almost burned out.
 
@@ -269,7 +269,7 @@ No one recorded it. No one wrote its history.
 
 But in the end, the elders signed a peace treaty. **The Gruffgud War ended.**
 
-Gordon did not stay to celebrate. He returned to his hut in **Hutan Domido**, alone.
+Gordon did not stay to celebrate. He returned to his hut in **Domido Forest**, alone.
 
 He knew this peace was fragile. He knew the real enemy — **the Commonwealth** — was still out there, watching.
 
@@ -631,7 +631,7 @@ Other Echoes might also be waiting in other places.
 
 - **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
 - **<a href="/oversee/npcs/Gzirmo%20Kopling">Gzirmo Kopling</a>** might echo in the mountains of **Elis**, near the clan he left behind.
-- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** might echo in the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Kota Juto</a>**, or on the shore where he first found **<a href="/oversee/npcs/Reins">Reins</a>**.
+- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** might echo in the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Juto Port City</a>**, or on the shore where he first found **<a href="/oversee/npcs/Reins">Reins</a>**.
 - **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** might echo in the villages he once protected, or within **<a href="/oversee/npcs/Gordon">Gordon</a>** and later **<a href="/oversee/pcs/Husgus">Husgus</a>**, who inherited his teachings without knowing where they came from.
 
 They wait, these Echoes. Waiting for the moment to speak again — to finish what was interrupted at that altar.
@@ -642,7 +642,7 @@ And **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>** �
 
 **~690 AV**
 
-Forty years after the war ended, **<a href="/oversee/npcs/Gordon">Gordon</a>** — now ancient, his age approaching five centuries — still lived in his hut in **<a href="/Hutan%20Domido">Hutan Domido</a>**.
+Forty years after the war ended, **<a href="/oversee/npcs/Gordon">Gordon</a>** — now ancient, his age approaching five centuries — still lived in his hut in **<a href="/Hutan%20Domido">Domido Forest</a>**.
 
 His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** had taught him.
 
@@ -722,7 +722,7 @@ During the war, Malakor had watched how Gordon nearly exposed all their plans. H
 
 Though the evidence had been destroyed and the witnesses silenced, Malakor knew: **Gordon was still alive, still knew, and as long as Gordon lived, the truth could never truly die**.
 
-After the war ended, Malakor secluded himself in an old tower at the edge of **Hutan Domido**, near the ruins of the old fortress. He gathered his followers — former warriors from both sides who could not return to normal life, who still held grudges, who could be bought with promises of power or revenge.
+After the war ended, Malakor secluded himself in an old tower at the edge of **Domido Forest**, near the ruins of the old fortress. He gathered his followers — former warriors from both sides who could not return to normal life, who still held grudges, who could be bought with promises of power or revenge.
 
 And he waited for the right moment.
 
@@ -776,7 +776,7 @@ When the light faded, he was still a child — but **smaller than before**.
 
 In the chaos, **Husgus grabbed Gordon's body** and fled into the forest.
 
-Malakor and his men chased. But **Hutan Domido was Husgus's home**. He knew every hollow, every hiding place, every secret path.
+Malakor and his men chased. But **Domido Forest was Husgus's home**. He knew every hollow, every hiding place, every secret path.
 
 He vanished like a ghost.
 
@@ -848,7 +848,7 @@ On the grip of Gordon's bow, he carved simple words:
 
 > *"Here lies Gordon, the Noisy Rhino. He saw the truth, and the world thought him mad. But he never stopped shouting. I will not forget you."*
 
-After leaving **Hutan Domido**, **Husgus wandered without purpose**, searching for answers about who he was. His small body was both a burden and an advantage — he could slip into places ordinary people could not enter, but he also had to face a world that looked down on halflings.
+After leaving **Domido Forest**, **Husgus wandered without purpose**, searching for answers about who he was. His small body was both a burden and an advantage — he could slip into places ordinary people could not enter, but he also had to face a world that looked down on halflings.
 
 ## Aftermath
 
@@ -866,7 +866,7 @@ At **<a href="/Gunung%20Rayu">Gunung Rayu</a>**, the **secret project of the Com
 
 What they dug up in the ancient underground city, what artifacts they found — **no one knew**. Because the war they had created had successfully distracted everyone.
 
-In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
+In **Domido Forest**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
 
 But the fire of his struggle **continued to burn** — in **<a href="/oversee/pcs/Husgus">Husgus</a>**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 
@@ -896,7 +896,7 @@ Not just "encouraged" — **engineered**. The Commonwealth agents who started th
 
 **Gordon was right about everything.**
 
-He was not mad. He was not demented. He was **the only person in the region who saw the truth** — and he was silenced, exiled, and mocked for it. His grave is still in Hutan Domido. His bow still stands as a marker. And his voice — the voice of the **Noisy Rhino** — still echoes in the memory of anyone who ever heard him.
+He was not mad. He was not demented. He was **the only person in the region who saw the truth** — and he was silenced, exiled, and mocked for it. His grave is still in Domido Forest. His bow still stands as a marker. And his voice — the voice of the **Noisy Rhino** — still echoes in the memory of anyone who ever heard him.
 
 **Malakor was not acting alone.**
 
@@ -1033,7 +1033,7 @@ The party will have to decide how much of the Keeper's version to trust.
 - **`Malakor.md`** — Gordon's killer
 - **`Kopling.md`** — Vya's adoptive father
 - **`Gunung Rayu.md`** — the secret excavation site
-- **`Hutan Domido.md`** — the forest where Gordon lived and died
+- **`Domido Forest.md`** — the forest where Gordon lived and died
 - **`Ghuffghuff.md`** — the village of fried rice
 - **`Gudameng Town.md`** — the village of fried noodles
 - **`Maw Desert.md`** — Will of Grin headquarters

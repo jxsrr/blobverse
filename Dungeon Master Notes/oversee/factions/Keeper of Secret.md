@@ -5,13 +5,13 @@ attitude_to_party: friendly
 universe: Oversee
 ---
 ::pf
-<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Keeper of Secret</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Friendly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium, Kota Juto</div></div></div></div>
+<div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Keeper of Secret</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Friendly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium, Juto Port City</div></div></div></div>
 
 
 ## What We Know
 - Secret organization dedicated to finding the truth about the Initial Six.
 - Founded by **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>** — daughter of **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** and **<a href="/oversee/npcs/Reins">Reins</a>**.
-- Operates from the Observatorium in Kota Juto. Has cells in most major cities.
+- Operates from the Observatorium in Juto Port City. Has cells in most major cities.
 - Wants to expose **Lei Alejandro's** betrayal.
 - Knows about the Gemhearts. Knows about the Echoes.
 - They are hunted by the Commonwealth.
@@ -39,7 +39,7 @@ Find Gustaero. Collect the Gemhearts. Expose the truth. Protect the world from t
 ### The Structure
 - **Mira Nouveau** — the founder and leader. She is the heart of the organization.
 - **The Observatorium** — the headquarters. The public face is a center of knowledge. The secret face is the Keeper's archive.
-- **The Network** — cells in most major cities. **Elara** runs the cell in Kota Juto. **Pak Andreas's wife** (Ibu Ratna) is a courier. **Junior** is an informant. **Rivan** is a contact — not a Cipher, not a leader, just a man who remembers.
+- **The Network** — cells in most major cities. **Elara** runs the cell in Juto Port City. **Mr. Andreas's wife** (Mrs. Ratna) is a courier. **Junior** is an informant. **Rivan** is a contact — not a Cipher, not a leader, just a man who remembers.
 - **The Inner Circle** — a handful of people Mira trusts completely. They know the full truth about the Initial Six. They know about the Echoes. They know about the plan to expose Alejandro.
 - **The Outer Circle** — the majority of the Keeper's members. They know the Commonwealth is corrupt. They know the Initial Six were betrayed. They do not know the full truth about the Echoes, the Valla, or the Gap. Mira protects them from the worst of it.
 
@@ -109,8 +109,8 @@ Find Gustaero. Collect the Gemhearts. Expose the truth. Protect the world from t
 - `Rubion.md` — the Gemheart she holds
 - `The Twin Shell Amulet.md` — the key to the Bahtera Bawah Tanah
 - `The Bahtera Bawah Tanah.md` — the place she is afraid to go
-- `Elara.md` — her agent in Kota Juto
-- `Ibu Ratna.md` — her courier
+- `Elara.md` — her agent in Juto Port City
+- `Mrs. Ratna.md` — her courier
 - `Junior.md` — her informant
 - `Rivan.md` — her contact in Zundabun
 - `The Endgame Paths.md` — the third path, the Architect's Mercy

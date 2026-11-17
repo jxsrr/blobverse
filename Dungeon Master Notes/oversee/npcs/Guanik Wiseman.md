@@ -3,13 +3,13 @@ publish: false
 type: Oversee NPC
 role: Founder of the Cycle Clan, First Witness of the Shell
 faction: Cycle Clan (deceased)
-home: Observatorium Danau Kuno
+home: Observatorium Ancient Lake
 status: Deceased (1020 BV)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased (1020 bv)</span></div><div class="bv-dossier-name">Guanik Wiseman</div><div class="bv-dossier-epithet">Founder of the Cycle Clan, First Witness of the Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown. Hidden. Alive.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium Danau Kuno</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased (1020 bv)</span></div><div class="bv-dossier-name">Guanik Wiseman</div><div class="bv-dossier-epithet">Founder of the Cycle Clan, First Witness of the Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown. Hidden. Alive.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium Ancient Lake</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
 ## What the Party Knows
@@ -109,7 +109,7 @@ universe: Oversee
 - **CLARIFIED:** Guanik is **alive** in the present era. He is hidden. He is waiting.
 - **CLARIFIED:** The original Garda Mawar was a group of scholars and witnesses. The original Garda Besi was a group of volunteers. The current versions are Firsa's corrupted versions.
 - **REMOVED:** Any mention of the Golem Hukum.
-- **REMOVED:** "His full journal is in the Observatorium Danau Kuno. It contains instructions for the third path." — The third path is now defined by the Edisi Law and the Swan Trio, not by Wiseman's journal.
+- **REMOVED:** "His full journal is in the Observatorium Ancient Lake. It contains instructions for the third path." — The third path is now defined by the Edisi Law and the Swan Trio, not by Wiseman's journal.
 - **REMOVED:** "He created the first two HVS shells (HVS-01 and HVS-02)." — The HVS shells are now canonically created by the Cycle Clan under Wiseman's guidance, but Wiseman himself is not the sole creator. This is a Season 3 reveal.
 
 ## Connections to Other Lore

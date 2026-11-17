@@ -11,7 +11,7 @@ showToc: true
 
 The party left **<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>** with a mission from **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**: find **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** in **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff Town</a>**. Their guide was **<a href="/oversee/npcs/Agus">Agus</a>** — the same fighter they had met at Mutiara.
 
-They sailed from the docks of Kota Juto to **<a href="/oversee/locations/Javan%20Town">Javan Town</a>**, then took a rhino cart inland. The journey would take days.
+They sailed from the docks of Juto Port City to **<a href="/oversee/locations/Javan%20Town">Javan Town</a>**, then took a rhino cart inland. The journey would take days.
 
 The cart carried more than the party. Along for the ride were:
 
@@ -69,7 +69,7 @@ Morning.
 
 The party learned that **<a href="/oversee/npcs/Yahanda">Yahanda</a>** was missing. No one remembered him. Not the innkeeper, not the drivers, not the villagers.
 
-They bought maps from **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>**'s warung and went into **<a href="/Hutan%20Domido">Hutan Domido</a>** — the forest between Ghuffghuff and Gudameng.
+They bought maps from **<a href="/oversee/npcs/Mrs.%20Mamat">Mrs. Mamat</a>**'s warung and went into **<a href="/Hutan%20Domido">Domido Forest</a>** — the forest between Ghuffghuff and Gudameng.
 
 There, they found the old deaf man again. This time, he was trying to communicate. His hands moved urgently. His face was frightened.
 
@@ -129,7 +129,7 @@ At eight in the evening, **<a href="/oversee/npcs/Agus">Agus</a>** stood. His ey
 
 **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** followed. Something invisible struck him — he swung, missed.
 
-The party woke. They chased Agus into **<a href="/Hutan%20Domido">Hutan Domido</a>**.
+The party woke. They chased Agus into **<a href="/Hutan%20Domido">Domido Forest</a>**.
 
 There, in the moonlight, they found it.
 
@@ -217,7 +217,7 @@ Then he walked into the dark and was gone.
 - **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** — co-leader of Will of Grin, first appearance
 - **<a href="/Cindy">Cindy</a>** — orphaned survivor of the Mektol family
 - **<a href="/oversee/npcs/Memeng">Memeng</a>** — the cook, saved
-- **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>** — warung owner, killed early in the haunting
+- **<a href="/oversee/npcs/Mrs.%20Mamat">Mrs. Mamat</a>** — warung owner, killed early in the haunting
 
 ## Locations Visited
 - **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff Town</a>** — the village of the singing
