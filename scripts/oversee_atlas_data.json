@@ -5,60 +5,50 @@
   "aspectRatio": "2388 / 1668",
   "locations": [
     {
-      "name": "The Spire of Whispering Ice",
-      "slug": "The Spire of Whispering Ice",
-      "x": 31.0,
-      "y": 12.2,
-      "category": "Landmark",
-      "region": "Pirizia",
-      "status": "Visited",
-      "summary": "A towering glacial spire rising from Pirizia's northern coast."
-    },
-    {
-      "name": "Frosthaven Peak",
-      "slug": "Frosthaven Peak",
-      "x": 33.5,
-      "y": 17.5,
-      "category": "Landmark",
-      "region": "Pirizia",
+      "name": "Juto Port City",
+      "slug": "Juto Port City",
+      "x": 50.06,
+      "y": 42.23,
+      "category": "Settlement",
+      "region": "Rioquan",
       "status": "Charted",
-      "summary": "High alpine ridge and settlement along the northern frostline of Pirizia."
+      "summary": "Island port straddling the central sea lanes between Pirizia, Rioquan, and Harka."
     },
     {
-      "name": "Maw Desert",
-      "slug": "Maw Desert",
-      "x": 42.8,
-      "y": 19.5,
+      "name": "Juto's Observatorium",
+      "slug": "Juto's Observatorium",
+      "x": 50.83,
+      "y": 43.17,
+      "category": "Landmark",
+      "region": "Rioquan",
+      "status": "Charted",
+      "summary": "Astronomical observatory overlooking the southern ridge of Juto Island."
+    },
+    {
+      "name": "Dima Island",
+      "slug": "Dima Island",
+      "x": 47.02,
+      "y": 48.12,
       "category": "Region",
-      "region": "Pirizia",
-      "status": "Charted",
-      "summary": "Arid eastern expanse of Pirizia overlooking the northern strait."
+      "region": "Rioquan",
+      "status": "Visited",
+      "summary": "Quiet fishing isle south of Juto and ancestral home of the Guanik family."
     },
     {
-      "name": "Zundabun Borough",
-      "slug": "Zundabun Borough",
-      "x": 57.5,
-      "y": 12.0,
+      "name": "Javan Town",
+      "slug": "Javan Town",
+      "x": 58.16,
+      "y": 57.33,
       "category": "Settlement",
-      "region": "Rioquan",
-      "status": "Charted",
-      "summary": "Northern district anchoring the upper coast of Rioquan."
-    },
-    {
-      "name": "Thainarv Port City",
-      "slug": "Thainarv Port City",
-      "x": 53.0,
-      "y": 21.0,
-      "category": "Settlement",
-      "region": "Rioquan",
-      "status": "Charted",
-      "summary": "Western maritime harbor linking Rioquan to the Pirizian crossing."
+      "region": "Harka",
+      "status": "Visited",
+      "summary": "Bustling western dockyard town on Harka's central coast."
     },
     {
       "name": "Tarakita University of Heroism",
       "slug": "Tarakita University of Heroism",
-      "x": 59.2,
-      "y": 19.5,
+      "x": 58.28,
+      "y": 21.5,
       "category": "Institution",
       "region": "Rioquan",
       "status": "Charted",
@@ -67,48 +57,78 @@
     {
       "name": "Graen City",
       "slug": "Graen City",
-      "x": 58.2,
-      "y": 27.5,
+      "x": 57.03,
+      "y": 27.39,
       "category": "Settlement",
       "region": "Rioquan",
       "status": "Charted",
       "summary": "Southern coastal city overlooking the central Rioquan strait."
     },
     {
-      "name": "Juto Port City",
-      "slug": "Juto Port City",
-      "x": 50.5,
-      "y": 41.5,
+      "name": "Thainarv Port City",
+      "slug": "Thainarv Port City",
+      "x": 52.26,
+      "y": 21.5,
       "category": "Settlement",
       "region": "Rioquan",
       "status": "Charted",
-      "summary": "Island port straddling the sea lanes between Pirizia, Rioquan, and Harka."
+      "summary": "Western maritime harbor linking Rioquan to the Pirizian crossing."
     },
     {
-      "name": "Dima Island",
-      "slug": "Dima Island",
-      "x": 47.0,
-      "y": 50.0,
-      "category": "Region",
+      "name": "Zundabun Borough",
+      "slug": "Zundabun Borough",
+      "x": 55.9,
+      "y": 13.74,
+      "category": "Settlement",
       "region": "Rioquan",
-      "status": "Visited",
-      "summary": "Quiet fishing isle south of Juto and home to the Guanik family."
+      "status": "Charted",
+      "summary": "Northern district anchoring the upper coast of Rioquan."
     },
     {
-      "name": "Greyland Castle",
-      "slug": "Greyland Castle",
-      "x": 66.5,
-      "y": 30.5,
-      "category": "Fortress",
+      "name": "Frosthaven Peak",
+      "slug": "Frosthaven Peak",
+      "x": 32.72,
+      "y": 15.1,
+      "category": "Landmark",
+      "region": "Pirizia",
+      "status": "Charted",
+      "summary": "High alpine ridge and settlement along the northern frostline of Pirizia."
+    },
+    {
+      "name": "Chenalia Town",
+      "slug": "Chenalia Town",
+      "x": 48.39,
+      "y": 58.7,
+      "category": "Settlement",
+      "region": "Elis",
+      "status": "Charted",
+      "summary": "Northeastern port cape of the southern continent of Elis."
+    },
+    {
+      "name": "Jestnut Valley",
+      "slug": "Jestnut Valley",
+      "x": 23.9,
+      "y": 90.27,
+      "category": "Region",
+      "region": "Elis",
+      "status": "Charted",
+      "summary": "Southwestern island valley off the coast of Elis."
+    },
+    {
+      "name": "Muangching Bay",
+      "slug": "Muangching Bay",
+      "x": 74.43,
+      "y": 20.39,
+      "category": "Region",
       "region": "Harka",
-      "status": "Visited",
-      "summary": "Ancient stone stronghold guarding the northwestern mountain pass of Harka."
+      "status": "Charted",
+      "summary": "Northern sheltered bay along the upper coast of Harka."
     },
     {
       "name": "Yawning Town",
       "slug": "Yawning Town",
-      "x": 72.5,
-      "y": 27.0,
+      "x": 71.57,
+      "y": 27.39,
       "category": "Settlement",
       "region": "Harka",
       "status": "Visited",
@@ -117,58 +137,28 @@
     {
       "name": "Nesia Town",
       "slug": "Nesia Town",
-      "x": 71.8,
-      "y": 34.5,
+      "x": 72.53,
+      "y": 33.27,
       "category": "Settlement",
       "region": "Harka",
       "status": "Visited",
       "summary": "Crossroads settlement south of the Yawning valley."
     },
     {
-      "name": "Harka",
-      "slug": "Harka",
-      "x": 60.5,
-      "y": 48.0,
-      "category": "Region",
-      "region": "Harka",
-      "status": "Visited",
-      "summary": "The vast eastern continent dominated by the One Voice Commonwealth."
-    },
-    {
-      "name": "Javan Town",
-      "slug": "Javan Town",
-      "x": 58.0,
-      "y": 54.0,
-      "category": "Settlement",
-      "region": "Harka",
-      "status": "Visited",
-      "summary": "Bustling western dockyard town on Harka's central coast."
-    },
-    {
       "name": "Padre Megalopolis",
       "slug": "Padre Megalopolis",
-      "x": 70.5,
-      "y": 54.5,
+      "x": 70.74,
+      "y": 53.84,
       "category": "Settlement",
       "region": "Harka",
       "status": "Charted",
       "summary": "Monumental concentric-walled capital at the heart of Harka."
     },
     {
-      "name": "Wind's Rest",
-      "slug": "Wind's Rest",
-      "x": 58.2,
-      "y": 67.5,
-      "category": "Settlement",
-      "region": "Harka",
-      "status": "Charted",
-      "summary": "Coastal outpost on Harka's southwestern peninsula."
-    },
-    {
       "name": "Ghuffghuff Town",
       "slug": "Ghuffghuff Town",
-      "x": 67.2,
-      "y": 72.5,
+      "x": 66.98,
+      "y": 70.05,
       "category": "Settlement",
       "region": "Harka",
       "status": "Visited",
@@ -177,62 +167,102 @@
     {
       "name": "Gudameng Town",
       "slug": "Gudameng Town",
-      "x": 76.5,
-      "y": 80.5,
+      "x": 74.37,
+      "y": 78.92,
       "category": "Settlement",
       "region": "Harka",
       "status": "Charted",
       "summary": "Southernmost port town of Harka."
     },
     {
-      "name": "Chenalia Town",
-      "slug": "Chenalia Town",
-      "x": 46.8,
-      "y": 62.5,
-      "category": "Settlement",
-      "region": "Elis",
-      "status": "Charted",
-      "summary": "Northeastern port cape of the southern continent of Elis."
-    },
-    {
-      "name": "Arbor's Observatorium",
-      "slug": "Arbor's Observatorium",
-      "x": 27.5,
-      "y": 80.0,
-      "category": "Landmark",
-      "region": "Elis",
-      "status": "Charted",
-      "summary": "Ancient observatory standing across the southern plains of Padang Arbore."
-    },
-    {
-      "name": "Arujaya Metropolis",
-      "slug": "Arujaya Metropolis",
-      "x": 34.0,
-      "y": 75.5,
-      "category": "Settlement",
-      "region": "Elis",
-      "status": "Visited",
-      "summary": "Subterranean metropolis of scrap, steam, and neon hidden beneath Elis."
-    },
-    {
       "name": "Elis",
       "slug": "Elis",
-      "x": 40.0,
-      "y": 83.5,
+      "x": 40.41,
+      "y": 81.05,
       "category": "Region",
       "region": "Elis",
       "status": "Visited",
       "summary": "The southern continent and archipelago bordering the open ocean."
     },
     {
-      "name": "Jestnut Valley",
-      "slug": "Jestnut Valley",
-      "x": 23.8,
-      "y": 90.8,
+      "name": "Harka",
+      "slug": "Harka",
+      "x": 60.37,
+      "y": 49.66,
       "category": "Region",
+      "region": "Harka",
+      "status": "Visited",
+      "summary": "The vast eastern continent dominated by the One Voice Commonwealth."
+    },
+    {
+      "name": "The Spire of Whispering Ice",
+      "slug": "The Spire of Whispering Ice",
+      "x": 31.76,
+      "y": 10.58,
+      "category": "Landmark",
+      "region": "Pirizia",
+      "status": "Visited",
+      "summary": "A towering glacial spire rising from Pirizia's northern coast."
+    },
+    {
+      "name": "Maw Desert",
+      "slug": "Maw Desert",
+      "x": 42.67,
+      "y": 20.31,
+      "category": "Region",
+      "region": "Pirizia",
+      "status": "Charted",
+      "summary": "Arid eastern expanse of Pirizia overlooking the northern strait."
+    },
+    {
+      "name": "Arujaya Metropolis",
+      "slug": "Arujaya Metropolis",
+      "x": 31.76,
+      "y": 73.37,
+      "category": "Settlement",
+      "region": "Elis",
+      "status": "Visited",
+      "summary": "Subterranean metropolis of scrap, steam, and neon hidden beneath Elis."
+    },
+    {
+      "name": "Arbor's Observatorium",
+      "slug": "Arbor's Observatorium",
+      "x": 19.25,
+      "y": 75.51,
+      "category": "Landmark",
       "region": "Elis",
       "status": "Charted",
-      "summary": "Southwestern island valley off the coast of Elis."
+      "summary": "Ancient observatory standing across the western plains of Elis."
+    },
+    {
+      "name": "Lyceum University of Arcane Arts",
+      "slug": "Lyceum University of Arcane Arts",
+      "x": 71.81,
+      "y": 55.03,
+      "category": "Institution",
+      "region": "Harka",
+      "status": "Charted",
+      "summary": "Premier arcane academy situated within the rings of Padre Megalopolis."
+    },
+    {
+      "name": "Rune of the Cycle",
+      "slug": "Rune of the Cycle",
+      "x": 39.57,
+      "y": 75.59,
+      "category": "Landmark",
+      "region": "Elis",
+      "status": "Charted",
+      "summary": "Ancient planar monument etched into the heartlands of Elis."
+    },
+    {
+      "name": "The First Tree",
+      "slug": "The First Tree",
+      "x": 24.43,
+      "y": 65.01,
+      "category": "Landmark",
+      "region": "Elis",
+      "status": "Charted",
+      "summary": "Colossal primordial world-tree towering over western Elis."
     }
   ]
 }
