@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee Lore
 universe: Oversee
 era: Age of Knowledge

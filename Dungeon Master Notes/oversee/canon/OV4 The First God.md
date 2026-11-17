@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Overseer Lore
 universe: Oversee
 era: The First God
