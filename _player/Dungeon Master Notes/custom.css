@@ -932,3 +932,67 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
 .bv-atlas-stage { position: relative; display: block; width: 100%; line-height: 0; }
 .bv-atlas-stage > img { display: block; width: 100% !important; height: auto !important; margin: 0 !important; }
 .bv-atlas-stage p { display: contents; }
+
+/* === Vertical Editorial Timeline (/oversee/canon) === */
+.bv-timeline {
+  position: relative;
+  margin: var(--sp-4) 0 var(--sp-5);
+  padding-left: 1.75rem;
+  border-left: 2px solid color-mix(in srgb, var(--bv-secondary-accent) 55%, var(--bv-border-strong));
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.bv-tl-item { position: relative; }
+.bv-tl-marker {
+  position: absolute;
+  left: -2.18rem;
+  top: 0.35rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--bv-surface);
+  border: 2.5px solid var(--bv-secondary-accent);
+  box-shadow: 0 0 0 3px var(--bv-bg);
+}
+.bv-tl-now .bv-tl-marker {
+  background: var(--bv-accent);
+  border-color: var(--bv-accent);
+  transform: scale(1.2);
+}
+.bv-tl-date {
+  font-family: var(--font-family-monospace);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--bv-secondary-accent);
+  margin-bottom: 0.3rem;
+}
+.bv-tl-now .bv-tl-date { color: var(--bv-accent); }
+.bv-tl-card {
+  background: var(--bv-surface);
+  border: 1px solid var(--bv-border);
+  border-left: 3px solid var(--bv-border-strong);
+  border-radius: var(--bv-radius);
+  padding: 0.85rem 1.05rem;
+}
+.bv-tl-now .bv-tl-card { border-left-color: var(--bv-accent); }
+.bv-tl-source {
+  font-family: var(--font-family-monospace);
+  font-size: 0.7rem;
+  color: var(--bv-text-sub);
+  margin-bottom: 0.2rem;
+}
+.bv-tl-title {
+  font-family: var(--font-family-heading);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--bv-text);
+  margin-bottom: 0.25rem;
+}
+.bv-tl-desc {
+  font-size: var(--text-sm);
+  color: var(--bv-text-sub);
+  line-height: 1.55;
+}
