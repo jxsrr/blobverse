@@ -786,17 +786,18 @@ html.dark .bv-status-captive { color: #deb25b; }
 
 /* Cartographic Pins */
 .bv-pin {
-  position: absolute; left: var(--x); top: var(--y); transform: translate(-50%, -50%);
-  z-index: 2; display: inline-flex; align-items: center; gap: 0.32rem;
-  padding: 0.25rem; text-decoration: none !important; background: none !important; border: none !important;
+  position: absolute; left: var(--x); top: var(--y); width: 0; height: 0;
+  z-index: 2; text-decoration: none !important; background: none !important; border: none !important;
 }
 .bv-pin-dot {
+  position: absolute; left: 0; top: 0; transform: translate(-50%, -50%);
   width: 11px; height: 11px; border-radius: 50%;
   background: var(--bv-accent); border: 2px solid #faf9f6;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
   transition: transform var(--t-hover) var(--ease-out), background-color var(--t-hover) var(--ease-out);
 }
 .bv-pin-label {
+  position: absolute; left: 9px; top: 0; transform: translateY(-50%);
   font-family: var(--font-family-body); font-size: 0.72rem; font-weight: 600;
   color: #1c1a17; background: rgba(250, 249, 246, 0.92);
   padding: 0.08rem 0.38rem; border-radius: 3px; border: 1px solid rgba(28, 26, 23, 0.22);
@@ -805,7 +806,7 @@ html.dark .bv-status-captive { color: #deb25b; }
 }
 .bv-pin:hover, .bv-pin:focus-visible { z-index: 20; }
 .bv-pin:hover .bv-pin-dot, .bv-pin:focus-visible .bv-pin-dot {
-  transform: scale(1.4); background: var(--bv-secondary-accent);
+  transform: translate(-50%, -50%) scale(1.4); background: var(--bv-secondary-accent);
 }
 .bv-pin:hover .bv-pin-label, .bv-pin:focus-visible .bv-pin-label {
   background: var(--bv-accent); color: #faf9f6; border-color: var(--bv-accent);
