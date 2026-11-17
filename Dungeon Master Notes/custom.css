@@ -1064,23 +1064,23 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
   display: block;
 }
 
-/* === World-Specific UI Color Themes === */
+/* === World-Specific UI Color Themes (Matched to Logo Palettes) === */
 body:has(a[href="/oversee"]),
 article:has(a[href="/oversee"]) {
-  --bv-accent: #523d73;
-  --bv-secondary-accent: #9a7438;
+  --bv-accent: #85181A;
+  --bv-secondary-accent: #D94E34;
 }
 
 body:has(a[href="/aede"]),
 article:has(a[href="/aede"]) {
-  --bv-accent: #16655c;
-  --bv-secondary-accent: #c27828;
+  --bv-accent: #C83E88;
+  --bv-secondary-accent: #6772C8;
 }
 
 body:has(a[href="/sonstige"]),
 article:has(a[href="/sonstige"]) {
-  --bv-accent: #9b2c3d;
-  --bv-secondary-accent: #2b5b84;
+  --bv-accent: #C96A10;
+  --bv-secondary-accent: #B87A14;
 }
 
 /* === Large Clickable Typography Logos Across All Worlds === */
