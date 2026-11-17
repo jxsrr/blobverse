@@ -854,3 +854,59 @@ html.dark .bv-status-captive { color: #deb25b; }
 
 article:has(.bv-atlas-full) { max-width: 1320px; }
 .bv-atlas-full { margin: var(--sp-2) 0 var(--sp-4); border: 1px solid var(--bv-border-strong); border-radius: var(--bv-radius); overflow: hidden; }
+
+/* === Enhanced Editorial Cartography Frame & Category Markers === */
+.bv-atlas-full {
+  position: relative;
+  padding: 10px;
+  background: linear-gradient(145deg, var(--bv-surface), var(--bv-bg-sub));
+  border: 1px solid var(--bv-border-strong);
+  box-shadow: 0 14px 36px rgba(20, 16, 12, 0.12), inset 0 0 0 1px color-mix(in srgb, var(--bv-secondary-accent) 28%, transparent);
+}
+.bv-atlas-full .bv-atlas-canvas {
+  border: 1px solid color-mix(in srgb, var(--bv-secondary-accent) 45%, var(--bv-border-strong));
+  border-radius: 3px;
+  overflow: visible;
+}
+.bv-atlas-full img { border-radius: 2px; }
+
+/* Ornamen Sudut Bingkai */
+.bv-atlas-corner {
+  position: absolute; width: 16px; height: 16px; pointer-events: none; z-index: 4;
+  border-color: var(--bv-secondary-accent); border-style: solid;
+}
+.bv-c-tl { top: 4px; left: 4px; border-width: 2px 0 0 2px; }
+.bv-c-tr { top: 4px; right: 4px; border-width: 2px 2px 0 0; }
+.bv-c-bl { bottom: 4px; left: 4px; border-width: 0 0 2px 2px; }
+.bv-c-br { bottom: 4px; right: 4px; border-width: 0 2px 2px 0; }
+
+/* Medali Ikon Terpusat Presisi (0x0 Anchor) */
+.bv-pin-marker {
+  position: absolute; left: 0; top: 0; transform: translate(-50%, -50%);
+  width: 22px; height: 22px; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: #faf9f6; color: var(--bv-accent);
+  border: 1.5px solid var(--bv-accent);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.36);
+  transition: transform var(--t-hover) var(--ease-out), background-color var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out), border-color var(--t-hover) var(--ease-out);
+}
+.bv-pin-marker svg { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+/* Warna Pembeda Halus per Kategori */
+.bv-pin[data-cat="settlement"] .bv-pin-marker { color: #523d73; border-color: #523d73; }
+.bv-pin[data-cat="landmark"] .bv-pin-marker { color: #8f6e38; border-color: #8f6e38; }
+.bv-pin[data-cat="region"] .bv-pin-marker { color: #155e63; border-color: #155e63; }
+.bv-pin[data-cat="institution"] .bv-pin-marker { color: #235347; border-color: #235347; }
+.bv-pin[data-cat="fortress"] .bv-pin-marker { color: #7a2e3b; border-color: #7a2e3b; }
+
+.bv-pin:hover .bv-pin-marker, .bv-pin:focus-visible .bv-pin-marker {
+  transform: translate(-50%, -50%) scale(1.28);
+  background: var(--bv-accent); color: #faf9f6; border-color: #faf9f6;
+}
+.bv-pin-label { left: 15px; }
+
+@media (max-width: 720px) {
+  .bv-atlas-full { padding: 6px; }
+  .bv-pin-marker { width: 18px; height: 18px; }
+  .bv-pin-marker svg { width: 10px; height: 10px; }
+}
