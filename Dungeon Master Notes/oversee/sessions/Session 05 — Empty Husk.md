@@ -166,13 +166,13 @@ Wild snow snakes ambushed them halfway up. One nearly killed **<a href="/oversee
 
 At the top: **<a href="/Frostheart%20Village">Frostheart</a>** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
 
-Syl had arrived first. She stood at the edge of the village and remembered.
+Syl had arrived first. He stood at the edge of the village and remembered.
 
 She remembered the children throwing stones. She remembered the word *"anak haram"* — bastard child. She remembered the way the elders had looked at her when she had asked about her mother.
 
 She lost her hope.
 
-The party was lost without her — she was the only one who spoke **Dragonborn**. But **Accarus** spoke it too, and he gave Syl a **Will of Grin** helm and cloak — enough to hide her face and her wings. Enough to walk through the village unrecognized.
+The party was lost without him — he was the only one who spoke **Dragonborn**. But **Accarus** spoke it too, and he gave Syl a **Will of Grin** helm and cloak — enough to hide his face and his wings. Enough to walk through the village unrecognized.
 
 They entered.
 
@@ -185,7 +185,7 @@ They sought information. The villagers said Syl had been raised by "a merchant" 
 
 They found him at the edge of the market.
 
-When Syl revealed herself, the old cabbage merchant **wept**.
+When Syl revealed himself, the old cabbage merchant **wept**.
 
 He held her hands. He touched her face. He said *"my little ice shard"* and could not stop crying. He told her that the real Breathstone was in the **Temple of Vythrax**.
 
@@ -223,7 +223,7 @@ The party improvised. **<a href="/oversee/items/Renal">Renal</a>** — Ama's Imp
 
 Vythrax drank.
 
-The purple veins faded. Her eyes cleared. She looked at Syl and **saw her**.
+The purple veins faded. Her eyes cleared. She looked at Syl and **saw him**.
 
 She wrapped herself around her daughter — a coil of silver and love — and pulled **Safayer** from her own tongue. Then she coughed up **Renal**, wet and indignant, and set him down carefully.
 
@@ -297,7 +297,7 @@ Each of them changed.
 
 - **<a href="/oversee/pcs/Husgus">Husgus</a>** trained in stealth. He learned to move without sound, without trace. He became a rogue. And his body began to **crack** — faint golden lines appearing across his skin, as if something inside him was pushing out.
 - **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** began to worship **Valla**. He had been saved so many times — by luck, by fate, by something — that he could no longer deny it. He became a **paladin**.
-- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** learned to heal. She studied the sacred texts of Vythrax's clan and became a **cleric**.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** learned to heal. He studied the sacred texts of Vythrax's clan and became a **cleric**.
 - **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** felt something burning in her chest — ever since Jarko's death. A fire that had always been dormant, and was now awake.
 - **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** carried the weight of everything. His arm. His failures. His debts.
 
@@ -360,7 +360,7 @@ She had finished translating.
 - **Hildag realized Vya is the True Heir** — not Jarko. In the chaos of Iron Gort's attack, she made the cold calculation: leave Jarko to die as a decoy, save Vya as the hope of the revolution. **Accarus agreed.** They teleported away with an emergency scroll. **They never told Vya.**
 - **Jarko had no "Spark."** He was a fire mage, but not a True Heir. His death was **calculated** — a sacrifice for the greater good. This is the darkest secret Will of Grin carries.
 - **Vythrax is still weak.** Safayer was poisoning her for 300 years. She can fight if called, but it will cost her.
-- **Syl's blood now contains traces of Safayer** — she is a universal antidote, and she is slowly dying.
+- **Syl's blood now contains traces of Safayer** — he is a universal antidote, and he is slowly dying.
 - **The "wandering demon"** that rescues Syl in Session 7 (from The Depths) is likely **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — the fragment of the Grin father inside HVS. The party does not know this yet.
 - **HVS's collapse at the Ruin of Cycle** was caused by his own body reacting to the truth. He is HVS-02. The Ruin was designed for him. **Husgus is HVS-01.** The party will discover this in Season 3.
 - **Session 05 stakes:** The party learned the truth of the Initial Six — the betrayal, the murder, the sacrifice. They chose to fight on. They lost Jarko. They gained a dragon. They lost their innocence.

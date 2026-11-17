@@ -165,13 +165,13 @@ Wild snow snakes ambushed them halfway up. One nearly killed **<a href="/oversee
 
 At the top: **<a href="/Frostheart%20Village">Frostheart</a>** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
 
-Syl had arrived first. She stood at the edge of the village and remembered.
+Syl had arrived first. He stood at the edge of the village and remembered.
 
 She remembered the children throwing stones. She remembered the word *"anak haram"* — bastard child. She remembered the way the elders had looked at her when she had asked about her mother.
 
 She lost her hope.
 
-The party was lost without her — she was the only one who spoke **Dragonborn**. But **Accarus** spoke it too, and he gave Syl a **Will of Grin** helm and cloak — enough to hide her face and her wings. Enough to walk through the village unrecognized.
+The party was lost without him — he was the only one who spoke **Dragonborn**. But **Accarus** spoke it too, and he gave Syl a **Will of Grin** helm and cloak — enough to hide his face and his wings. Enough to walk through the village unrecognized.
 
 They entered.
 
@@ -184,7 +184,7 @@ They sought information. The villagers said Syl had been raised by "a merchant" 
 
 They found him at the edge of the market.
 
-When Syl revealed herself, the old cabbage merchant **wept**.
+When Syl revealed himself, the old cabbage merchant **wept**.
 
 He held her hands. He touched her face. He said *"my little ice shard"* and could not stop crying. He told her that the real Breathstone was in the **Temple of Vythrax**.
 
@@ -222,7 +222,7 @@ The party improvised. **<a href="/oversee/items/Renal">Renal</a>** — Ama's Imp
 
 Vythrax drank.
 
-The purple veins faded. Her eyes cleared. She looked at Syl and **saw her**.
+The purple veins faded. Her eyes cleared. She looked at Syl and **saw him**.
 
 She wrapped herself around her daughter — a coil of silver and love — and pulled **Safayer** from her own tongue. Then she coughed up **Renal**, wet and indignant, and set him down carefully.
 
@@ -296,7 +296,7 @@ Each of them changed.
 
 - **<a href="/oversee/pcs/Husgus">Husgus</a>** trained in stealth. He learned to move without sound, without trace. He became a rogue. And his body began to **crack** — faint golden lines appearing across his skin, as if something inside him was pushing out.
 - **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** began to worship **Valla**. He had been saved so many times — by luck, by fate, by something — that he could no longer deny it. He became a **paladin**.
-- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** learned to heal. She studied the sacred texts of Vythrax's clan and became a **cleric**.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** learned to heal. He studied the sacred texts of Vythrax's clan and became a **cleric**.
 - **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** felt something burning in her chest — ever since Jarko's death. A fire that had always been dormant, and was now awake.
 - **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** carried the weight of everything. His arm. His failures. His debts.
 

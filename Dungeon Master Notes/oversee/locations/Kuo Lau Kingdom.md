@@ -59,7 +59,7 @@ universe: Oversee
 - Only a Kuo Lau can navigate them. **Babibubebo** is the only Kuo Lau who knows the way — and even he does not remember it clearly.
 - The party will need **water-breathing magic** to survive the descent. Alnean would solve this — but they do not have Alnean yet. This is a chicken-and-egg problem. The DM must decide how the party survives the descent. Options:
   - **Potions of Water Breathing** — expensive, but available in Juto Port City.
-  - **Syl's blood** — her blood is a universal cure. It might allow the party to breathe water. (DM decides if this works.)
+  - **Syl's blood** — his blood is a universal cure. It might allow the party to breathe water. (DM decides if this works.)
   - **A favor from Vythrax** — the silver dragon can grant water-breathing for a short time.
   - **A Kuo Lau Pearl** — Babi might have one. He does not remember. If the party searches his belongings, they might find a small pearl that glows faintly. It is a Kuo Lau Pearl. It allows the bearer to breathe underwater for 1 hour per day.
 

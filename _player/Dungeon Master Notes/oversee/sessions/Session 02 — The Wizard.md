@@ -46,7 +46,7 @@ Each of the Five Sticks was asked three questions by the others. The room would 
 
 - **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>** was asked about **Reins**. He spoke, for the first time without defending himself, about the friend he had lost. About the guilt that had driven him across worlds.
 - **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was asked about his gloves. About the Curse Mark. About **Zargoyle**. He spoke, and the room listened.
-- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** was asked why her magic was self-taught. Why her clan had never accepted her. She answered.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** was asked why his magic was self-taught. Why his clan had never accepted him. He answered.
 - **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** was asked about the burning of her village. About **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**. About the nightmares she could not explain.
 - **<a href="/oversee/pcs/Husgus">Husgus</a>** was asked about **<a href="/oversee/npcs/Gordon">Gordon</a>**'s last words. About the spell that had turned him from a boy into a halfling. About the curse that had made him what he was.
 

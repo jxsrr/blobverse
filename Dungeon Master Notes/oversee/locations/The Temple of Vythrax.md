@@ -30,4 +30,4 @@ universe: Oversee
 - The Frozen Legion statues are **alive**. They are ancient dragonborn who were frozen in battle. They will thaw if <a href="/oversee/npcs/Vythrax">Vythrax</a> dies.
 - The Nest of Whispers is a **Gap-touched zone**. The meditating dragonborn sometimes hear the Overseer's voice. They call it "the whisper of <a href="/oversee/npcs/Vythrax">Vythrax</a>" but it is not.
 - The temple's foundations are built on a **Cycle Clan ruin**. The clan does not know this.
-- Elder Jarl knows. He has been guarding the ruin for centuries. He will show it to Syl when she is ready.
+- Elder Jarl knows. He has been guarding the ruin for centuries. He will show it to Syl when he is ready.

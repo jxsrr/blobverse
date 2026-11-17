@@ -52,7 +52,7 @@ Nothing happened.
 
 The blade did not drink. The Shell did not react. It was not dead. It was not alive. It was simply **there**.
 
-**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** pressed her hand against it. She felt **cold**. Not the cold of ice. The cold of something that had never been warm.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** pressed his hand against it. He felt **cold**. Not the cold of ice. The cold of something that had never been warm.
 
 They left.
 
@@ -106,7 +106,7 @@ She lost consciousness.
 
 ## Part 6: The Wandering Demon
 
-When Syl woke, she was back at the edge of the Depths.
+When Syl woke, he was back at the edge of the Depths.
 
 She did not remember what she had seen. But something had changed. There was a **presence** nearby — a silhouette that vanished when she tried to focus on it. A **wandering demon**, perhaps. Something that had pulled her out.
 
@@ -136,7 +136,7 @@ He walked into the Depths.
 
 The sludge **parted** before him. The smog **cleared**. Renal's arm ate it, filtered it, consumed it.
 
-Ama found Syl near the crack. She was alive. She was confused. She did not remember what she had seen.
+Ama found Syl near the crack. He was alive. He was confused. He did not remember what he had seen.
 
 They left together.
 
@@ -174,7 +174,7 @@ No one spoke.
 
 **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** — whose arm was now half-Imp, half-human — said nothing.
 
-**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — whose blood was slowly killing her — said nothing.
+**<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — whose blood was slowly killing him — said nothing.
 
 **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** — whose fire was waking up, whose family had lied to her, whose cousin had been sacrificed — said nothing.
 
