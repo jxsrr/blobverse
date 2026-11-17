@@ -4,6 +4,8 @@ leader: Mr. Basir
 attitude_to_party: neutral (friendly if earned)
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Dockworkers' Union</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Mr. Basir</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Neutral (friendly if earned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Javan Town Docks</div></div></div></div>
 
 ## What We Know

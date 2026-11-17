@@ -4,6 +4,8 @@ session_number: 6
 universe: Oversee
 showToc: true
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 06 · OVERSEE</div><div class="bv-ep-heading">Session 06 — Ethical Choices</div><p class="bv-ep-synopsis">Betrayed by family, hunted by the Commonwealth, the party fled to a city beneath the earth.</p></div>
 
 ## Part 1: Muangching, Milk, and a Madman

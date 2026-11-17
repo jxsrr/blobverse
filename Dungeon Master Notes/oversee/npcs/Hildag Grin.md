@@ -8,6 +8,8 @@ first_seen: Session 05
 universe: Oversee
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Will of Grin</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Hildag Grin</div><div class="bv-dossier-epithet">The Weaver, Wakil Pertahanan at the Time of the Initial Six, Mother of Accarus and Antrem</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Will of Grin</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Maw Desert</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Maw Desert</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
 
 

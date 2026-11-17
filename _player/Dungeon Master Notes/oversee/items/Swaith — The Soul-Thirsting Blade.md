@@ -7,6 +7,8 @@ universe: Oversee
 aliases:
   - Swaith
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Swaith — The Soul-Thirsting Blade</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Dagger</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary (cursed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Six Blades</div></div></div></div>
 
 ## Stat Block

@@ -7,6 +7,8 @@ status: Alive
 first_seen: Not yet met
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kael</div><div class="bv-world-sub">Student at Tarakita University, Secret Cycle Clan Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Cycle Clan (secretly) / Universitas Tarakita (officially)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
 
 ## Overview

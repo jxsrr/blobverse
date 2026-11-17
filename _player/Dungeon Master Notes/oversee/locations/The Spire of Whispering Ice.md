@@ -3,6 +3,8 @@ type: Oversee Location
 parent_location: Frosthaven Peak
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Spire of Whispering Ice</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">Frosthaven Peak</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/oversee/npcs/Vythrax">Vythrax</a></div></div></div></div>
 
 ## What Matters Here

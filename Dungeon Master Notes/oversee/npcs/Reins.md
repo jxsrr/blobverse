@@ -8,6 +8,8 @@ first_seen: Session 02 (via Atlan's Diary)
 universe: Oversee
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Regalia</span></div><span class="bv-status bv-status-alive">Alive (trapped in the gap)</span></div><div class="bv-dossier-name">Reins</div><div class="bv-dossier-epithet">Ama's Lost Friend, Atlan's Wife, Mira's Mother, The Woman in the Gap</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Regalia (Aede) / Keeper of Secret (aligned)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The Gap (trapped)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Aede (originally) / The Gap (currently)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 02 (via Atlan's Diary)</div></div></div></div>
 
 

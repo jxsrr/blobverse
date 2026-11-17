@@ -5,6 +5,8 @@ universe: Oversee
 showToc: true
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 07 · OVERSEE</div><div class="bv-ep-heading">Session 07 — Opressed</div><p class="bv-ep-synopsis">Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.</p></div>
 
 ## Part 1: The Recovery Ward

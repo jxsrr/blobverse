@@ -4,6 +4,8 @@ session_number: 3
 universe: Oversee
 showToc: true
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 03 · OVERSEE</div><div class="bv-ep-heading">Session 03 — The Bard</div><p class="bv-ep-synopsis">A village sang. A priest vanished. A deaf man knew the truth. A bard's echo waited at the end.</p></div>
 
 ## Part 1: The Road to Ghuffghuff

@@ -9,6 +9,8 @@ first_seen: Not yet met (in history and inside Shin)
 universe: Oversee
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Gap</span></div><span class="bv-status bv-status-alive">Contained (by zargoth) — not destroyed, not gone</span></div><div class="bv-dossier-name">Zargoyle</div><div class="bv-dossier-epithet">The Predator, The Possessor of Shin, The Destroyer of The Grace</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Gap (hostile) / None</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Originally the Gap. Now: contained by Zargoth, inside Shin's curse mark.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally) / The Curse Mark inside Shin (residual)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history and inside Shin)</div></div></div></div>
 
 

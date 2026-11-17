@@ -5,6 +5,8 @@ universe: Oversee
 era: Primordial
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 01 OF 07</div><div class="bv-world-title">OV0 Before Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Primordial</div></div></div></div>
 
 > [!info] Before the World

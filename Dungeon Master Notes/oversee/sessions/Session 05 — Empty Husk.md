@@ -5,6 +5,8 @@ universe: Oversee
 showToc: true
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 05 · OVERSEE</div><div class="bv-ep-heading">Session 05 — Empty Husk</div><p class="bv-ep-synopsis">The party lived the last moments of the Initial Six. A dragon was healed. A cousin was killed. And a shell cracked open.</p></div>
 
 ## Part 1: The Body of a Bard

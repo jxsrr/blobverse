@@ -4,6 +4,8 @@ session_number: 2
 universe: Oversee
 showToc: true
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 02 · OVERSEE</div><div class="bv-ep-heading">Session 02 — The Wizard</div><p class="bv-ep-synopsis">Trapped on an automated ship, the party dreamed of fate and arrived in a vertical city of coral and steam.</p></div>
 
 ## Part 1: The Dream of Fate

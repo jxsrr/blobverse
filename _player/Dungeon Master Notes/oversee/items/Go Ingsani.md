@@ -4,6 +4,8 @@ item_type: Vehicle (Submarine)
 faction: Will of Grin (formerly)
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Go Ingsani</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Retrofitted Submarine</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Origin</div><div class="bv-stat-val">Former <a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a> vessel</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Repainted black for camouflage; discovered without fuel in <a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a></div></div></div></div>
 
 ## What Matters Here

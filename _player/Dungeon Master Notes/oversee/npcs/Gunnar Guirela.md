@@ -7,6 +7,8 @@ status: Deceased (long before Session 01)
 first_seen: Session 05 (mentioned via Olaf's backstory)
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Deceased (long before session 01)</span></div><div class="bv-dossier-name">Gunnar Guirela</div><div class="bv-dossier-epithet">Olaf's Grandfather, Finder of Gustaero</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Wind's Rest (fishing village, South Harka)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Wind's Rest (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (mentioned via Olaf's backstory)</div></div></div></div>
 
 ## What the Party Knows

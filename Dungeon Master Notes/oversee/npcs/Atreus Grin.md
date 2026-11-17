@@ -8,6 +8,8 @@ first_seen: Session 05 (via Sam's memory), Echo not yet met
 universe: Oversee
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six / Will of Grin</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo active in chenalia</span></div><div class="bv-dossier-name">Atreus Grin</div><div class="bv-dossier-epithet">The Druid of the Initial Six, The Smiling Heir of Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six / Will of Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kerajaan Grin (formerly) / Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (via Sam's memory), Echo not yet met</div></div></div></div>
 
 

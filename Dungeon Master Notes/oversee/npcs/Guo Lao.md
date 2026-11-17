@@ -8,6 +8,8 @@ first_seen: Session 03 (mentioned), not yet met directly
 universe: Oversee
 ---
 ::pf
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Guo Family</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Guo Lao</div><div class="bv-dossier-epithet">Elder of the Guo Family, Guardian of the Recipe Library</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Guo Family</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Legendary Noodle Temple, Gudameng</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Gudameng</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03 (mentioned), not yet met directly</div></div></div></div>
 
 

@@ -3,6 +3,8 @@ title: Canon
 showSidebar: false
 showToc: false
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · SESSION-VERIFIED CHRONOLOGY</div><div class="bv-sec-title">Player-Known Timeline</div><p class="bv-sec-sub">Strict chronology of dates, eras, and historical events actually uncovered in Sessions 01–07 (Before Valla &amp; After Valla).</p></div>
 
 <div class="bv-timeline">

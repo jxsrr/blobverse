@@ -7,6 +7,8 @@ universe: Oversee
 aliases:
   - Alnean
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Alnean — Swan Song</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Breathing Relic</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Kuo Lau Kingdom (underwater)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Three Ancient Relics (The Swan — Breath)</div></div></div></div>
 
 ## What It Does

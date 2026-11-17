@@ -7,6 +7,8 @@ status: unknown
 first_seen: Not yet met (mentioned only)
 universe: Oversee
 ---
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Chenalia</span></div><span class="bv-status bv-status-alive">Unknown</span></div><div class="bv-dossier-name">Vreina Arleschia</div><div class="bv-dossier-epithet">Vya's Mother, Arleschia Noble, Prisoner of the Commonwealth</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Chenalia (formerly) / Secret Commonwealth Facility (Elis)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown — presumed missing</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Chenalia (formerly)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (mentioned only)</div></div></div></div>
 
 ## What the Party Knows
