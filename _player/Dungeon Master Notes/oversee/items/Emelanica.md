@@ -9,7 +9,7 @@ universe: Oversee
 ## What It Does
 - One of the four Gemhearts. Green.
 - Connected to **time and absolute mana flow**.
-- Part of the seal that protects the world from the Overseer.
+- Part of the seal that protects the world from the Blob.
 - Can modulate temporal flow at the center of the seal.
 - Slows the burning of the Valla's soul.
 

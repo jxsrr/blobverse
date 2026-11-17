@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Caretaker of the Last Behemoth
 faction: None (independent)

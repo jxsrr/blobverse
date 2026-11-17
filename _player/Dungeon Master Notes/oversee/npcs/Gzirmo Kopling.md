@@ -15,7 +15,7 @@ aliases:
 - One of the **Initial Six**. A dragonborn of orange-gold scales. A mechanical genius.
 - Built constructs, weapons, and machines that blended technology with magic.
 - Kept his clan's sadness to himself. Never spoke of his past.
-- Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
+- Was **betrayed by Lei Alejandro** in 200 AV. during the Initial Six's ritual.
 - Became an **Echo** — not purified.
 - His final words, recorded in the ritual memory: *"System failure... Brotherhood protocol... betrayed. Lei, you didn't account for... the variable... of conscience."*
 

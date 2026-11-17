@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Cycle Clan Researcher, Instructor at Tarakita University
 faction: Cycle Clan (secretly) / Tarakita University of Heroism (officially)

@@ -5,7 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 07 · OVERSEE</div><div class="bv-ep-heading">Session 07 — Opressed</div><p class="bv-ep-synopsis">Syl saw the Overseer. The party escaped with a hostage. And the truth about the twins was laid bare.</p></div>
+<div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 07 · OVERSEE</div><div class="bv-ep-heading">Session 07 — Opressed</div><p class="bv-ep-synopsis">Syl saw the Blob. The party escaped with a hostage. And the truth about the twins was laid bare.</p></div>
 
 ## Part 1: The Recovery Ward
 
@@ -25,7 +25,7 @@ While Ama recovered, the party explored.
 
 **<a href="/oversee/npcs/Adam%20Findias">Adam Findias</a>** — the first boy they had met in Arujaya — found them near the clinic. He was small, sharp-eyed, and nervous. He had a mechanical heart that clicked when he ran.
 
-> *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **<a href="/Besik">Besik</a>** is not… normal."*
+> *"You are asking about the Cult of the Cycle? The Mnemonic Archive has what you need. But you should be careful. **<a href="/oversee/npcs/Besik%20Findias">Besik</a>** is not… normal."*
 
 They went to the archive.
 
@@ -41,7 +41,7 @@ Besik said yes.
 
 ## Part 3: The Shell
 
-They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **<a href="/oversee/locations/The%20First%20Tree">First Tree</a>**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
+They descended into a place that should not exist — a chamber deep beneath Arujaya, where the **<a href="/oversee/locations/elis/The%20First%20Tree">First Tree</a>**'s roots met the city's foundations. And there, embedded in the rock, was a fragment of the Shell.
 
 A piece of the 20-kilometer skin that had fallen from the sky 1,000 years ago.
 
@@ -99,7 +99,7 @@ She ran. She jumped. She climbed past gravity itself.
 
 And above her, she saw:
 
-**The Overseer.**
+**The Blob.**
 
 Not a god. Not a demon. A **presence**. Blob-like entities with tentacles, drifting in a space that was not space. And beyond them — **something vast**.
 
@@ -111,7 +111,7 @@ When Syl woke, she was back at the edge of the Depths.
 
 She did not remember what she had seen. But something had changed. There was a **presence** nearby — a silhouette that vanished when she tried to focus on it. A **wandering demon**, perhaps. Something that had pulled her out.
 
-Later, **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** would say: *"The demons of the Gap fear water. They will not follow you if you are wet. You were wet, weren't you?"*
+Later, **<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** would say: *"The demons of the Gap fear water. They will not follow you if you are wet. You were wet, weren't you?"*
 
 She had been.
 
@@ -131,7 +131,7 @@ He **spat on it**.
 
 The Imp woke.
 
-**<a href="/oversee/items/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Overseer discarded.
+**<a href="/oversee/items/Renal">Renal</a>** — the servant bound to Ama by the **Devil** Fate Card — stirred. The arm hardened. The jelly became **bone**. Ama flexed it, and felt **power** — the power of a creature that could eat what the Blob discarded.
 
 He walked into the Depths.
 
@@ -157,7 +157,7 @@ They walked.
 
 ## Part 9: The Rune of the Cycle
 
-They stopped at the **<a href="/oversee/locations/Rune%20of%20the%20Cycle">Rune of the Cycle</a>** — a stone circle in the desert, warded against scrying. A safe place.
+They stopped at the **Rune of the Cycle** — a stone circle in the desert, warded against scrying. A safe place.
 
 They rested.
 
@@ -223,21 +223,20 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 
 ## NPCs Encountered
 - **<a href="/Adam">Adam</a>** — the local boy with a mechanical heart
-- **<a href="/Besik">Besik</a>** — the Mnemonic Archive keeper
+- **<a href="/oversee/npcs/Besik%20Findias">Besik</a>** — the Mnemonic Archive keeper
 - **<a href="/oversee/npcs/Fidale">Fidale</a>** — the old woman at the edge of the Depths
-- **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, now fully cooperative
+- **<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, now fully cooperative
 - **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** — the surgeon, now fully open about his grief
 - **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — captured, terrified of Valerius, a twin who should have died
 
 ## Locations Visited
-- **<a href="/Arujaya">Arujaya</a>** — now a memory behind them
-- **The Depths of Arujaya** — where Syl saw the Overseer
-- **<a href="/The%20Rune%20of%20the%20Cycle">The Rune of the Cycle</a>** — the desert stone circle, safe from scrying
+- **<a href="/oversee/locations/elis/Arujaya%20Metropolis">Arujaya</a>** — now a memory behind them
+- **The Depths of Arujaya** — where Syl saw the Blob
+- **The Rune of the Cycle** — the desert stone circle, safe from scrying
 - **The First Tree** — where the Shell fragment was hidden
 
 ## Sessions Chain
-- **Previous:** <a href="/Session%2006%20%E2%80%94%20The%20Underground%20%28Full%20Recap%29">Session 06</a>
-- **Next:** <a href="/Session%2008%20%E2%80%94%20The%20Reckoning">Session 08</a>
+- **Previous:** <a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 06 — Ethical Choices</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><div></div></div>
 ::/pf

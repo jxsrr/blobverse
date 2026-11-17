@@ -13,7 +13,7 @@ universe: Oversee
 - Connected to **purification of souls and memories**.
 - Can strip a soul of ego, trauma, and identity — turning it into "tasteless" energy.
 - Part of the seal that protects the world.
-- Prevents the Overseer from tasting the soul of the world.
+- Prevents the Blob from tasting the soul of the world.
 
 ## History
 - Swallowed by **<a href="/oversee/npcs/Vythrax">Vythrax</a>** to protect Syl's egg (300 years ago).
@@ -82,7 +82,7 @@ universe: Oversee
 - **CLARIFIED:** **Safayer can free the Echoes.** If used on an Echo, it can purify the fragment and release it.
 - **CLARIFIED:** **Safayer is required for the override.** Without it, the third path is impossible.
 - **CLARIFIED:** **Safayer is required for the third path.** If the party chooses to pierce the Gap, they will need it to purify the souls they encounter.
-- **REMOVED:** "Prevents the Overseer from tasting the soul of the world." — This is still true, but it is now framed as Safayer's purification function, not just a vague protective effect.
+- **REMOVED:** "Prevents the Blob from tasting the soul of the world." — This is still true, but it is now framed as Safayer's purification function, not just a vague protective effect.
 - **REMOVED:** "It is the reason Echoes exist. Lei Alejandro did not use it during the ritual." — This is still true, but it is now framed as Safayer's **absence** being the reason the Echoes exist, not Safayer itself being evil.
 - **REMOVED:** Any suggestion that Safayer is "dangerous" or "cursed." It is **not**. It is a tool. It is a piece of a god. It can be used for good. It can be used for evil. The choice is the party's.
 

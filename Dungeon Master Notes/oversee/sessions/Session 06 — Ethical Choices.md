@@ -9,17 +9,17 @@ showToc: true
 
 ## Part 1: Muangching, Milk, and a Madman
 
-**<a href="/oversee/locations/Muangching%20Bay">Muangching Bay</a>** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
+**<a href="/oversee/locations/harka/Muangching%20Bay">Muangching Bay</a>** was a fishing town at the northern edge of **Harka** — wooden houses, thatched roofs, coconut palms, and the smell of salt and fish. It was a good place to hide from the Commonwealth. It was not a good place to find milk.
 
 **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was not well.
 
-He had been showing symptoms since the escape from **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **<a href="/oversee/npcs/Zargoth">Zargoth</a>**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
+He had been showing symptoms since the escape from **Maw Desert** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **<a href="/oversee/npcs/Zargoth">Zargoth</a>**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
 
 He needed **milk**.
 
 They searched the town. **<a href="/oversee/npcs/Ibu%20Sari">Ibu Sari</a>**, the lemonade seller, shook her head. No milk. Not here. Not in a fishing town.
 
-> *"Try **<a href="/oversee/locations/Nesia%20Town">Nesia</a>**. The rhino farmers. They sell it."*
+> *"Try **<a href="/oversee/locations/harka/Nesia%20Town">Nesia</a>**. The rhino farmers. They sell it."*
 
 They crossed the rice paddies.
 
@@ -55,7 +55,7 @@ They got the milk anyway — poured into a wooden bucket, transferred to emptied
 
 They needed shelter.
 
-**<a href="/oversee/locations/The%20Golden%20Sheaf">The Golden Sheaf</a>** was a small inn in **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** — run by **<a href="/oversee/npcs/Joni">Joni</a>** and **<a href="/oversee/npcs/Siti">Siti</a>**, **<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
+**<a href="/oversee/locations/harka/Nesia%20Town/The%20Golden%20Sheaf">The Golden Sheaf</a>** was a small inn in **<a href="/oversee/locations/harka/Nesia%20Town">Nesia Town</a>** — run by **<a href="/oversee/npcs/Joni">Joni</a>** and **<a href="/oversee/npcs/Siti">Siti</a>**, **<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s adoptive parents. The people who had taken him in when he first fell into Oversee. The people who had taught him to farm. The people who had loved him like a son.
 
 They went to the door and knocked.
 
@@ -91,7 +91,7 @@ Ama did not speak for hours. When he did, his voice was very quiet.
 
 They landed on the coast of **Elis** — hidden cove, black sand, salt in the air.
 
-It was **<a href="/Chenalia">Chenalia</a>**.
+It was **Chenalia**.
 
 The village where **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** had been born. The village that had burned. The village where she had lost her parents. The village where she had lost everything.
 
@@ -131,7 +131,7 @@ The animals were too large. There were birds with human proportions. There were 
 
 They found the tree.
 
-**<a href="/oversee/locations/The%20First%20Tree">The First Tree</a>**.
+**<a href="/oversee/locations/elis/The%20First%20Tree">The First Tree</a>**.
 
 It was not a tree. It was a **petrified root** — a fragment of something older than the world. Its bark was scaly. Its trunk was wider than a castle. Its branches were dead, and had been dead for **10,000 years**.
 
@@ -169,7 +169,7 @@ They descended.
 
 ## Part 7: Arujaya
 
-**<a href="/Arujaya">Arujaya</a>** was not a city. It was a **contradiction**.
+**<a href="/oversee/locations/elis/Arujaya%20Metropolis">Arujaya</a>** was not a city. It was a **contradiction**.
 
 It was scrap metal and neon and steam and LCD screens. It was people — short, dirty, defensive people — who stared at the party like they were aliens. It was markets and workshops and something that looked, impossibly, like **a data network**.
 
@@ -191,7 +191,7 @@ While Ama recovered, the others explored.
 
 They found the **reactor** — a towering structure at the heart of Arujaya, pulsing with energy. It was guarded by something that was not quite a person.
 
-**<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>**.
+**<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>**.
 
 A cyborg. A dragonborn chassis made of scrap and wire. Orange-gold scales replaced by rusted plating. Eyes glowing with residual energy.
 
@@ -231,7 +231,7 @@ It was not a creature. It was a **shell**. A shed skin. Something enormous had o
 
 The video ended.
 
-**<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** did not say anything for a long moment.
+**<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** did not say anything for a long moment.
 
 Then he said:
 
@@ -249,7 +249,7 @@ Seven days passed.
 
 **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** emerged from the Modification Parlor with a new arm — soft, jelly-like, glowing faintly where the Imp's tissue met his own. He was alive. He was in debt. And he was changed.
 
-**<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** took the party aside. He told them about his daughter, **<a href="/Dr.%20Kristine">Kristine</a>**, who had died in a mining accident. He told them about the **<a href="/oversee/locations/The%20First%20Tree">First Tree</a>**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
+**<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** took the party aside. He told them about his daughter, **Kristine**, who had died in a mining accident. He told them about the **<a href="/oversee/locations/elis/The%20First%20Tree">First Tree</a>**, and how he believed it held the secret of immortality. He told them he had preserved her body in a stasis tube, waiting for the day he could bring her back.
 
 He did not ask them for help. He did not have to.
 
@@ -257,7 +257,7 @@ The party understood.
 
 They gathered their things. They prepared to leave Arujaya.
 
-But **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** stopped them at the gate.
+But **<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** stopped them at the gate.
 
 > *"Do not trust the surface. The Commonwealth knows you are here. They will be waiting."*
 
@@ -284,19 +284,19 @@ And they climbed, for the first time, out of the earth.
 - **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** — the Chancellor, revealed as Darvin's twin
 - **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — the Justice Deputy, amputated Ama's arm
 - **<a href="/oversee/npcs/Dr.%20Vektor">Dr. Vektor</a>** — the cybernetic surgeon, saved Ama's life
-- **<a href="/Echo%20Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, showed the Shell video
+- **<a href="/oversee/npcs/Gzirmo%20Kopling">Echo Gzirmo</a>** — the reactor guardian, showed the Shell video
 
 ## Locations Visited
-- **<a href="/oversee/locations/Muangching%20Bay">Muangching Bay</a>** — the fishing town with no milk
-- **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** — the rhino dairy town
+- **<a href="/oversee/locations/harka/Muangching%20Bay">Muangching Bay</a>** — the fishing town with no milk
+- **<a href="/oversee/locations/harka/Nesia%20Town">Nesia Town</a>** — the rhino dairy town
 - **The Golden Sheaf** — the inn that betrayed Ama
-- **<a href="/Chenalia">Chenalia</a>** — Vya's burned village, now under reconstruction
-- **<a href="/oversee/locations/The%20First%20Tree">The First Tree</a>** — the 10,000-year-old dead root
-- **<a href="/Arujaya">Arujaya</a>** — the underground cyberpunk city
+- **Chenalia** — Vya's burned village, now under reconstruction
+- **<a href="/oversee/locations/elis/The%20First%20Tree">The First Tree</a>** — the 10,000-year-old dead root
+- **<a href="/oversee/locations/elis/Arujaya%20Metropolis">Arujaya</a>** — the underground cyberpunk city
 
 ## Sessions Chain
-- **Previous:** <a href="/Session%2005%20%E2%80%94%20The%20Shell%20%28Full%20Recap%29">Session 05</a>
-- **Next:** <a href="/Session%2007%20%E2%80%94%20The%20Depths%20%28Full%20Recap%29">Session 07</a>
+- **Previous:** <a href="/oversee/sessions/Session%2005%20%E2%80%94%20Empty%20Husk">Session 05</a>
+- **Next:** <a href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed">Session 07</a>
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2005%20%E2%80%94%20Empty%20Husk"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 05 — Empty Husk</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2007%20%E2%80%94%20Opressed"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 07 — Opressed</span></a></div>
 ::/pf

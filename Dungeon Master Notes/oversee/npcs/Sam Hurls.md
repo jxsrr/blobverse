@@ -15,8 +15,8 @@ universe: Oversee
 - One of the **Initial Six**. A chubby human man with wavy black hair, purple and red clothing embroidered with gold.
 - Carried a lute. Played music that could open doors between dimensions.
 - Collected stories from every corner of Oversee. Never finished his last song.
-- Was **betrayed by Lei Alejandro** in 200 AV. His soul was fed to the Valla.
-- Without **Safayer** (the blue Gemheart), his soul was not purified. He became an **Echo**.
+- Was **betrayed by Lei Alejandro** in 200 AV. during the Initial Six's ritual.
+- His trapped soul lingered as an **Echo** in Ghuffghuff.
 
 ## Echo Form — The Many-Headed Singer
 - A pale, bloated creature. Multiple human heads rotate around a central mass. Each head is a fragment of someone Sam met in his travels.

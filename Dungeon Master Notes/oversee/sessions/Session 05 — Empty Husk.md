@@ -9,13 +9,13 @@ showToc: true
 
 ## Part 1: The Body of a Bard
 
-They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima">Dima Island</a>** to **<a href="/Kota%20Juto">Juto Port City</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
+They sailed on the same ship that had carried them from **<a href="/oversee/locations/harka/Dima%20Island">Dima Island</a>** to **<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City">Juto Port City</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
 
 **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** was with them. So was the body of **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
 
 During the voyage, **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — who had spent long nights with the **Cycle Clan Research File** at the Lyceum — finally understood what the four gems were.
 
-> *"They are not separate treasures. They are organs of a single being — the Architect. Together, they are called the **Gemhearts**."*
+> *"They are not separate treasures. They are organs of a single ancient being. Together, they are called the **Gemhearts**."*
 
 She named them:
 - **<a href="/oversee/items/Emelanica">Emelanica</a>** — green, time and mana flow
@@ -25,13 +25,13 @@ She named them:
 
 The party had two of these. They needed the other two.
 
-Later, they asked about the legendary weapons — the six blades of Simon Greenbottle's legacy. Accarus answered:
+Later, they asked about the legendary weapons — the six legendary blades of Oversee. Accarus answered:
 
 - **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — Accarus carried it
-- **<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** — lost in **<a href="/Hutan%20Garberro">Hutan Garberro</a>**
+- **<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** — lost in **Garberro Forest**
 - **<a href="/oversee/items/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana</a>** — carried by **<a href="/oversee/npcs/Mira%20Nouveau">Mira Nouveau</a>**
-- **<a href="/oversee/items/Frostfang%20%E2%80%94%20The%20Ice%20Fang">Frostfang</a>** — lost in **<a href="/oversee/locations/Frosthaven%20Peak">Frosthaven Peak</a>**
-- **<a href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade">Zenahhi</a>** — lost in **<a href="/Ngarai%20Ratapan">Ngarai Ratapan</a>**
+- **<a href="/oversee/items/Frostfang%20%E2%80%94%20The%20Ice%20Fang">Frostfang</a>** — lost in **Frosthaven Peak**
+- **<a href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade">Zenahhi</a>** — lost in **Canyon of Lament**
 - **<a href="/oversee/items/Terrde%20%E2%80%94%20The%20Patient%20Blade">Terrde</a>** — lost in the ruins of the Rapture
 - **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — in **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>**'s hand
 
@@ -97,7 +97,7 @@ Sam's face was peaceful. But they knew now that he had not died in peace.
 
 ## Part 3: The Smiling Heirs
 
-They arrived at **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>** — the Will of Grin's underground base, three basement floors deep beneath the sand and stone.
+They arrived at **Maw Desert** — the Will of Grin's underground base, three basement floors deep beneath the sand and stone.
 
 They met the Grin family:
 - **<a href="/oversee/npcs/Geneva%20Grin">Geneva Grin</a>** — Accarus's wife, kind but hard
@@ -150,7 +150,7 @@ Two mysteries remained:
 
 A new mission arrived.
 
-**Retrieve Safayer** from the belly of the silver dragon **<a href="/oversee/npcs/Vythrax">Vythrax</a>** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **<a href="/oversee/locations/Frosthaven%20Peak">Frosthaven Peak</a>**, in the village of **<a href="/Frostheart%20Village">Frostheart</a>** — **<a href="/oversee/pcs/Syl%20Frost">Syl</a>**'s birthplace.
+**Retrieve Safayer** from the belly of the silver dragon **<a href="/oversee/npcs/Vythrax">Vythrax</a>** — who had swallowed it three centuries ago to protect her egg. The dragon lived at **Frosthaven Peak**, in the village of **Frostheart** — **<a href="/oversee/pcs/Syl%20Frost">Syl</a>**'s birthplace.
 
 Accarus equipped them with anti-freeze gear, potions, and heavy cloaks. **<a href="/oversee/pcs/Husgus">Husgus</a>** asked for **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — the bow Accarus carried, the bow that had belonged to **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>**, then **<a href="/oversee/npcs/Gordon">Gordon</a>**, then Husgus. Accarus said he would give it to him after the mission.
 
@@ -164,7 +164,7 @@ The climb began.
 
 Wild snow snakes ambushed them halfway up. One nearly killed **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** with a bite to the throat. **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** froze it before it could strike again.
 
-At the top: **<a href="/Frostheart%20Village">Frostheart</a>** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
+At the top: **Frostheart** — carved into the cliffside, igloos and ice-brick homes, the wind never stopping.
 
 Syl had arrived first. She stood at the edge of the village and remembered.
 
@@ -229,7 +229,7 @@ She wrapped herself around her daughter — a coil of silver and love — and pu
 
 She spoke telepathically — not in words, but in feeling. Gratitude. Love. Apology.
 
-Then she flew back to the **<a href="/oversee/locations/The%20Spire%20of%20Whispering%20Ice">Spire of Whispering Ice</a>**.
+Then she flew back to the **<a href="/oversee/locations/pirizia/Frosthaven%20Peak/The%20Spire%20of%20Whispering%20Ice">Spire of Whispering Ice</a>**.
 
 From the village, the entire **The Frostscale Clan** had watched.
 
@@ -341,15 +341,15 @@ She had finished translating.
 - **<a href="/oversee/npcs/Lei%20Iron%20Gort">Lei Iron Gort</a>** — Wakil Pertahanan, killed Jarko
 
 ## Locations Visited
-- **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>** — the Will of Grin headquarters
-- **<a href="/oversee/locations/Frosthaven%20Peak">Frosthaven Peak</a>** — the mountain of the silver dragon
-- **<a href="/Frostheart%20Village">Frostheart</a>** — Syl's birthplace
-- **<a href="/oversee/locations/The%20Temple%20of%20Vythrax">The Temple of Vythrax</a>** — the holy shrine
+- **Maw Desert** — the Will of Grin headquarters
+- **Frosthaven Peak** — the mountain of the silver dragon
+- **Frostheart** — Syl's birthplace
+- **<a href="/oversee/locations/pirizia/Frosthaven%20Peak/The%20Temple%20of%20Vythrax">The Temple of Vythrax</a>** — the holy shrine
 - **The Ruin of Cycle** — the Cycle Clan ruin
 
 ## Sessions Chain
-- **Previous:** <a href="/Session%2004%20%E2%80%94%20The%20Festival%20%28Full%20Recap%29">Session 04</a>
-- **Next:** <a href="/Session%2006%20%E2%80%94%20The%20Underground%20%28Full%20Recap%29">Session 06</a>
+- **Previous:** <a href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial">Session 04</a>
+- **Next:** <a href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices">Session 06</a>
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/sessions/Session%2004%20%E2%80%94%20Territorial"><span class="bv-ep-nav-dir">← Previous</span><span class="bv-ep-nav-name">Session 04 — Territorial</span></a><a class="bv-ep-nav-center" href="/oversee/sessions">All Sessions</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/sessions/Session%2006%20%E2%80%94%20Ethical%20Choices"><span class="bv-ep-nav-dir">Next →</span><span class="bv-ep-nav-name">Session 06 — Ethical Choices</span></a></div>
 ::/pf

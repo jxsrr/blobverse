@@ -1,4 +1,5 @@
 ---
+publish: false
 type: Oversee NPC
 role: Student at Tarakita University, Secret Cycle Clan Agent
 faction: Cycle Clan (secretly) / Tarakita University of Heroism (officially)

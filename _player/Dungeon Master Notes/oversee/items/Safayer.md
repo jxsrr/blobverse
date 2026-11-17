@@ -11,7 +11,7 @@ universe: Oversee
 - Connected to **purification of souls and memories**.
 - Can strip a soul of ego, trauma, and identity — turning it into "tasteless" energy.
 - Part of the seal that protects the world.
-- Prevents the Overseer from tasting the soul of the world.
+- Prevents the Blob from tasting the soul of the world.
 
 ## History
 - Swallowed by **<a href="/oversee/npcs/Vythrax">Vythrax</a>** to protect Syl's egg (300 years ago).

@@ -25,7 +25,7 @@ aliases:
 
 ## History
 - Swaith is **one of the six blades** — not an ancient relic.
-- It is a **shadow fragment of Safayer** — a piece of the purification Gemheart that was forged into a dagger by the Architect.
+- Its true origin and creator remain unknown.
 - It was found in **Dur-Khazim** by **Simon Greenbottle**. He gave it to **Grin Qain**.
 - After Lei Firsa scattered the six, **Swaith was magically delivered to Shin Van Hel**. It was not found as loot. It was **sent** to him.
 - Shin has carried it ever since.
