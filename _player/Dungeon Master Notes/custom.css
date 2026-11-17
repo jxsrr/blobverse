@@ -1035,3 +1035,31 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
   font-size: 0.75rem;
   color: var(--bv-accent);
 }
+
+/* === Oversee Typography Logo Styling === */
+.bv-oversee-home {
+  padding: 0.25rem 0.6rem;
+  border-radius: var(--bv-radius);
+}
+.bv-oversee-home img {
+  width: auto !important;
+  height: 24px !important;
+  border-radius: 0 !important;
+  object-fit: contain;
+}
+.bv-logo-hero {
+  height: 64px !important;
+  width: auto !important;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 0 var(--sp-2) !important;
+  display: block;
+}
+.bv-logo-selector {
+  height: 44px !important;
+  width: auto !important;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 0 var(--sp-1) !important;
+  display: block;
+}

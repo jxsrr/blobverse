@@ -3,7 +3,7 @@ type: Oversee Location
 parent_location: Nesia Town
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
 
 <div class="bv-world bv-world-location"><div class="bv-world-kicker">OVERSEE · LOCATION ARCHIVE</div><div class="bv-world-title">The Golden Sheaf</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Small Countryside Inn</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Where</div><div class="bv-stat-val"><a href="/oversee/locations/Nesia%20Town">Nesia Town</a></div></div><div class="bv-stat-cell"><div class="bv-stat-label">Notable People</div><div class="bv-stat-val"><a href="/oversee/npcs/Joni">Joni</a>, <a href="/oversee/npcs/Siti">Siti</a>, <a href="/oversee/pcs/Zure%20Ama">Zure Ama</a></div></div></div></div>
 

@@ -5,7 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 04 · OVERSEE</div><div class="bv-ep-heading">Session 04 — Territorial</div><p class="bv-ep-synopsis">A festival, three leaders, one dead professor, and a choice between two factions.</p></div>
 

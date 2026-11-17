@@ -5,7 +5,7 @@ universe: Oversee
 showToc: true
 ---
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
 
 <div class="bv-ep-header"><div class="bv-ep-kicker">EPISODE 01 · OVERSEE</div><div class="bv-ep-heading">Session 01 — The Sorcerer</div><p class="bv-ep-synopsis">Five strangers met in a tavern. They found a gem, lost a castle, and gained a family.</p></div>
 

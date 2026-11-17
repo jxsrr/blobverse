@@ -5,7 +5,7 @@ showToc: false
 ---
 
 ::pf
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · RELICS & ARTIFACTS (18 ENTRIES)</div><div class="bv-sec-title">Oversee — Items</div><p class="bv-sec-sub">Weapons, curiosities, and named items uncovered in play.</p></div>
 

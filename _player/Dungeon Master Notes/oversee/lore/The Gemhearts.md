@@ -3,7 +3,7 @@ publish: false
 type: Oversee Lore
 universe: Oversee
 ---
-<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee Logo"><span>Oversee</span><span class="bv-oversee-home-arrow">← Hub</span></a>
+<a class="bv-oversee-home" href="/oversee" aria-label="Back to Oversee"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-oversee-home-arrow">← Hub</span></a>
 
 <div class="bv-relic"><div class="bv-relic-kicker">CORE LORE · ARCHITECT ARTIFACT</div><div class="bv-relic-title">The Gemhearts</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">The Four Stones</div><div class="bv-stat-val">Emelanica · Safayer · Rubion · Topaju</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Origin</div><div class="bv-stat-val">Organs of the Architect</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Discovered</div><div class="bv-stat-val">Session 05 (Cycle Clan Archive)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Scattered / Active</div></div></div></div>
 
