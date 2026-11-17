@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-relic"><div class="bv-relic-kicker">CORE LORE · ARCHITECT ARTIFACT</div><div class="bv-relic-title">The Gemhearts</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">The Four Stones</div><div class="bv-stat-val">Emelanica · Safayer · Rubion · Topaju</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Origin</div><div class="bv-stat-val">Organs of the Architect</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Discovered</div><div class="bv-stat-val">Session 05 (Cycle Clan Archive)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Scattered / Active</div></div></div></div>
 
 > [!info] The Four Stones
@@ -39,7 +38,6 @@ universe: Oversee
 - Where **Lei Alejandro** is. He is alive. He holds Topaju. He is hiding.
 - What **Topaju** can do if fully awakened.
 - What happens if all four are brought together.
-::/pf
 
 %% DM SECRETS %%
 - The Gemhearts are alive. They pulse. They remember.
@@ -55,7 +53,7 @@ universe: Oversee
 - **Darvin Thorne does NOT carry Topaju.** Darvin carries the **bloodline claim** to Lei Roiga and Topaju. He is the True Heir by blood, but the stone itself is in Alejandro's hands. Valerius hunts Darvin because killing the True Heir may transfer the claim — or because Valerius wants the claim legitimized by Darvin's death.
 
 ### Corrections Applied
-- **Removed:** "Valerius took a fragment of Topaju from Observatorium Danau Kuno in 699 AV." This never happened. Danau Kuno is retconned to be the ancient site that became **Universitas Tarakita** (see `Timeline of Oversee.md` and `Danau Kuno` location). Valerius did not obtain Topaju.
+- **Removed:** "Valerius took a fragment of Topaju from Arbor's Observatorium in 699 AV." This never happened. Danau Kuno is retconned to be the ancient site that became **Tarakita University of Heroism** (see `Timeline of Oversee.md` and `Danau Kuno` location). Valerius did not obtain Topaju.
 - **Removed:** "Darvin carries Topaju inside him." Darvin carries the **claim**, not the stone.
 - **Removed:** "Accarus carried Rubion." Accarus never carried Rubion. He carried **Gustaero**, which he gave to **Husgus** after the Frosthaven mission.
 
@@ -70,6 +68,6 @@ universe: Oversee
 
 ### Reveal Schedule
 - **Session 6** — Party learns the Gemhearts are organs of a cosmic entity (via the Shell video).
-- **Session 8–10** — Party reaches the **Bahtera Bawah Tanah** and reads the original `Edisi Law`. They learn the override clause exists.
+- **Session 8–10** — Party reaches the **The Underground Ark** and reads the original `Edisi Law`. They learn the override clause exists.
 - **Session 11** — **Lei Alejandro** appears. He reveals he holds Topaju. He offers it to the party — if they can prove they are worthy.
 - **Endgame** — The party must unite all four Gemhearts to pursue the **third path**.

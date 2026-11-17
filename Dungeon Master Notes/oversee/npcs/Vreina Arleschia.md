@@ -81,7 +81,7 @@ Survive. Find Vya. Warn her about the fire.
 - She does **not** know about the twin tradition, the True Heir, or Hildag's magnum opus. She only knows her daughter is in danger.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the Commonwealth's secret facility in Elis. They learn Vreina is there.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the Commonwealth's secret facility in Elis. They learn Vreina is there.
 - **Session 11** — The party must rescue Vreina. They must infiltrate the facility. They must free her. They must bring her back to Vya.
 - **Endgame** — The reunion of Vreina and Vya. It will be one of the most emotional moments of the campaign. They will weep. They will hold each other. They will not speak. They will not need to.
 

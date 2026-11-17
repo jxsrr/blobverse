@@ -4,7 +4,6 @@ universe: Oversee
 era: Age of Nurturing
 years: 9XX – 01 BV
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 04 OF 07</div><div class="bv-world-title">OV3 Age of Nurturing</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Age of Nurturing</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">9XX – 01 BV</div></div></div></div>
 
 > [!info] The Age of the Guardian
@@ -12,7 +11,7 @@ years: 9XX – 01 BV
 
 ## The Fragmentary Record
 
-What follows is assembled from the **Berkas Penelitian Cycle Clan**, from oral histories preserved by the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**, and from fragments of the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>** that the party has recovered. It is incomplete. It is sanitized. The Cycle Clan's official record was written by the victors — and the victors did not want the truth remembered.
+What follows is assembled from the **Cycle Clan Research File**, from oral histories preserved by the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**, and from fragments of the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>** that the party has recovered. It is incomplete. It is sanitized. The Cycle Clan's official record was written by the victors — and the victors did not want the truth remembered.
 
 This is the story as the Cycle Clan wants it told.
 
@@ -52,7 +51,7 @@ Simon did not travel alone.
 
 The first companion was **Lei Firsa** — a human woman in her twenties, a ranger from the border forests. She was skilled with bow and blade, and she had a sharpness to her that Simon lacked. She saw his kindness and decided to walk beside him.
 
-The second was **<a href="/oversee/npcs/Grin%20Qain">Grin Qain</a>** — an elf from the **<a href="/oversee/locations/Kerajaan%20Grin">Grin Kingdom</a>**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
+The second was **<a href="/oversee/npcs/Grin%20Qain">Grin Qain</a>** — an elf from the **<a href="/oversee/locations/pirizia/Kerajaan%20Grin">Grin Kingdom</a>**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
 
 Three companions. Simon with Zenahhi at his hip. Lei Firsa with a bow on her back. Grin Qain with her eternal smile that never faded, even when her heart was breaking.
 
@@ -62,7 +61,7 @@ They walked together for twenty years.
 
 **~870 BV**
 
-Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Danau Kuno</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
+Deep beneath the **<a href="/oversee/locations/rioquan/utara/Observatorium%20Danau%20Kuno">Arbor's Observatorium</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
 
 Every night, when the other Cycle Clan members slept, he waited for the voice of **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">the Architect</a>** to speak.
 
@@ -78,7 +77,7 @@ There was a long silence. And then — for the first time in his life — Wisema
 
 The voice told him this was a new idea. It had never been tried. But it was possible. If a body could be built from the blueprint of the greatest biological creation — **<a href="/The%20Inbu">the Inbu</a>** — it might hold the Architect's consciousness without shattering.
 
-Wiseman spent decades studying the ancient records of the Inbu. He learned how their cells stored energy, how their tissue channeled **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, how their organs functioned for thousands of years without decay. He wrote it all down — a series of manuscripts that became known as the **Berkas Penelitian Cycle Clan**: the Cycle Clan Research File.
+Wiseman spent decades studying the ancient records of the Inbu. He learned how their cells stored energy, how their tissue channeled **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, how their organs functioned for thousands of years without decay. He wrote it all down — a series of manuscripts that became known as the **Cycle Clan Research File**: the Cycle Clan Research File.
 
 And then he built the **shells**.
 
@@ -108,7 +107,7 @@ Simon agreed. He did not hesitate. He was too kind to refuse.
 
 ## The Marriage
 
-The Cycle Clan records do not describe the marriage of Simon and Lei Firsa. The official record is silent. But the **Berkas Penelitian Cycle Clan** contains a fragment: a note in Wiseman's hand, dated roughly two years before the ritual.
+The Cycle Clan records do not describe the marriage of Simon and Lei Firsa. The official record is silent. But the **Cycle Clan Research File** contains a fragment: a note in Wiseman's hand, dated roughly two years before the ritual.
 
 > *"The Halfling has been manipulated. I should have seen it. He is too good to see what she is doing. I am too old to stop her. Forgive me."*
 
@@ -188,7 +187,7 @@ The world was told a different story.
 
 The world was told that **Lei the Great** — a male wizard, a great hero, a man of wisdom and sacrifice — had become the Valla to protect the world from cosmic hunger. The story was written into every history book. The statues were raised in every city.
 
-**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **<a href="/Klan%20Lei">Klan Lei</a>** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
+**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **<a href="/Klan%20Lei">The Lei Clan</a>** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
 
 And **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** — the Halfling shepherd who gave everything — was forgotten.
 
@@ -218,7 +217,7 @@ But they did not stay empty.
 
 ## HVS-01 — The Golden-Cracked
 
-**Hundreds of years later — Hutan Domido**
+**Hundreds of years later — Domido Forest**
 
 A small child was found in the forest by an old dwarf named **<a href="/oversee/npcs/Gordon">Gordon</a>**. The child had no clothes, no memory, no name. He remembered only darkness, fire, and someone screaming.
 
@@ -262,7 +261,6 @@ The party has learned:
 - The **six legendary blades** were collected by Simon, scattered by someone, and are now scattered again.
 - The **Cycle Clan** performed a ritual — but they do not yet know the details.
 - **<a href="/oversee/pcs/Husgus">Husgus</a>** and **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** are connected to something called "Human Vessel Shell" — but they do not know what it means.
-::/pf
 %% DM SECRETS %%
 They do not yet know:
 - Whether Lei Firsa is alive or dead.
@@ -282,7 +280,7 @@ These truths will come in **Season 3**.
 - **The Cycle Clan Research File** — the fragments of Wiseman's notes
 
 ## NPCs in This Era
-- **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** — the true founder of Klan Lei. The woman who made Simon the Valla.
+- **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** — the true founder of The Lei Clan. The woman who made Simon the Valla.
 - **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** — the Halfling shepherd who became the Valla.
 - **<a href="/oversee/npcs/Grin%20Qain">Grin Qain</a>** — the sacrificed Grin. Simon's best friend.
 - **<a href="/oversee/npcs/Ksatrian">Ksatrian</a>** — the dying knight who gave Simon Zenahhi and Terrde.
@@ -299,7 +297,7 @@ These truths will come in **Season 3**.
 - **Dur-Khazim** — where Simon received Swaith
 - **<a href="/Universitas%20Tarakita">Danau Kuno</a>** — the ancient lake where the First Observatory stood
 - **The hidden laboratory** — where HVS-01 and HVS-02 were created
-- **<a href="/Hutan%20Domido">Hutan Domido</a>** — where Husgus was found
+- **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** — where Husgus was found
 - **The Elis valley** — where HVS-02 was buried
 
 ## Sessions Chain
@@ -309,18 +307,17 @@ These truths will come in **Season 3**.
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV4 The First God</span></a></div>
 
-::/pf
 
 
 ## The Truth Beyond the Player-Facing Text
 
-The player-facing text above is **what the party could reconstruct** from the Berkas Penelitian Cycle Clan, Keeper of Secret oral histories, and the Edisi Law fragments. It is accurate in its broad strokes but **sanitized** — it does not contain the darkest details.
+The player-facing text above is **what the party could reconstruct** from the Cycle Clan Research File, Keeper of Secret oral histories, and the Edisi Law fragments. It is accurate in its broad strokes but **sanitized** — it does not contain the darkest details.
 
 ### What the Party Does Not Know Yet
 
 **Lei Firsa's status is ambiguous.**
 
-The Cycle Clan records say "Lei the Great" ascended to godhood. The truth is that **Lei Firsa may or may not be alive**. She may have used the Gemhearts and forbidden rituals to extend her life for 700 years — or she may have died centuries ago, leaving her legacy (Klan Lei, the Triase, the Commonwealth) to carry on her work. She may be something between a lich and a god — or she may be a memory, a name that still pulls strings.
+The Cycle Clan records say "Lei the Great" ascended to godhood. The truth is that **Lei Firsa may or may not be alive**. She may have used the Gemhearts and forbidden rituals to extend her life for 700 years — or she may have died centuries ago, leaving her legacy (The Lei Clan, the Triase, the Commonwealth) to carry on her work. She may be something between a lich and a god — or she may be a memory, a name that still pulls strings.
 
 **The DM must decide before Season 3.** The choice shapes the final arc:
 - **If she is alive** — she is the final boss. The party must find her, confront her, and decide what to do with her.
@@ -365,7 +362,7 @@ The records say he "could not stop her." The truth is that Lei Firsa had him kil
 
 She rewrote the Cycle Clan's records. She changed the date of the calendar. She rewrote Simon's story — turning a Halfling shepherd into a male wizard named "Lei the Great." She erased Grin Qain's name. She erased Wiseman's name.
 
-She built **<a href="/Klan%20Lei">Klan Lei</a>** on the lie. The four bloodlines, the four Gemhearts, the four elements — they were not gifts from the Architect. They were **stolen** by a woman who wanted to control the world.
+She built **<a href="/Klan%20Lei">The Lei Clan</a>** on the lie. The four bloodlines, the four Gemhearts, the four elements — they were not gifts from the Architect. They were **stolen** by a woman who wanted to control the world.
 
 **The HVS shells were never used.**
 
@@ -381,11 +378,11 @@ Simon is still conscious. He is still aware. He hears the Echoes. He knows what 
 
 The **<a href="/oversee/lore/The%20Echoes">Echoes</a>** — Sam, Gzirmo, Atreus, Atlan, and Olaf — are the result of **Lei Alejandro's** incomplete feeding ritual in 200 AV. Without **<a href="/oversee/items/Safayer">Safayer</a>**'s purification, their souls were not erased cleanly. They became fragments — trapped between worlds.
 
-**Alejandro is not an Echo.** He is alive. He is hiding in the Bahtera Bawah Tanah. He is guarding the Edisi Law. He is waiting for someone worthy.
+**Alejandro is not an Echo.** He is alive. He is hiding in the The Underground Ark. He is guarding the Edisi Law. He is waiting for someone worthy.
 
 **The "Puppeteer" in Atreus's Letter.**
 
-Atreus's letter — found in Session 5 — refers to the "Puppeteer." The party assumes it is **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>**. It is not. It is **Lei Firsa** — or her legacy. Whether she is alive, dead, or something else, her design is still being carried out. The Klan Lei, the Triase, the Commonwealth — they are her will made manifest.
+Atreus's letter — found in Session 5 — refers to the "Puppeteer." The party assumes it is **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>**. It is not. It is **Lei Firsa** — or her legacy. Whether she is alive, dead, or something else, her design is still being carried out. The The Lei Clan, the Triase, the Commonwealth — they are her will made manifest.
 
 ### The Major Contradictions — Resolved
 
@@ -410,11 +407,11 @@ The "dozens of Vallas" story is **propaganda** invented by Lei Firsa's scribes a
 
 **Contradiction 3: Where Was the Observatorium? (Resolved)**
 
-- This document says the Cycle Clan met Simon at **Danau Kuno** — which "would later become **Kota Juto**."
-- **`Session 02 — The Wizard's City`** establishes that the Observatorium in **Juto Port City** (formerly Kota Juto) was built on top of **Atlan Nouveau's** base, which was itself built on Cycle Clan foundations.
-- **`Tarakita University of Heroism.md`** says Danau Kuno is now **Universitas Tarakita** — not Juto Port City.
+- This document says the Cycle Clan met Simon at **Danau Kuno** — which "would later become **Juto Port City**."
+- **`Session 02 — The Wizard's City`** establishes that the Observatorium in **Juto Port City** (formerly Juto Port City) was built on top of **Atlan Nouveau's** base, which was itself built on Cycle Clan foundations.
+- **`Tarakita University of Heroism.md`** says Danau Kuno is now **Tarakita University of Heroism** — not Juto Port City.
 
-**Resolution: Danau Kuno is Universitas Tarakita.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Universitas Tarakita** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Kota Juto). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Pegunungan Arbor**.
+**Resolution: Danau Kuno is Tarakita University of Heroism.** The First Observatory — the optical observatory — was built by Guanik Wiseman in 1040 BV. It was abandoned. The lake was drained. The tower was excavated. **Tarakita University of Heroism** was built on top of it. The **Second Observatory** — the high-energy astrophysics observatory — was built centuries later in **Juto Port City** (formerly Juto Port City). Atlan Nouveau repurposed it for oceanography. The **Third Observatory** — the radio observatory — was built in the **Pegunungan Arbor**.
 
 ### New NPCs Discovered
 
@@ -428,7 +425,7 @@ All three are historical figures the party has not met and probably never will.
 
 ### When the Party Learns the Truth
 
-- **Session 8–10** — The **Bahtera Bawah Tanah**. The party finds the original **Edisi Law** and the Cycle Clan's true records. They learn about Lei Firsa's crimes.
+- **Session 8–10** — The **The Underground Ark**. The party finds the original **Edisi Law** and the Cycle Clan's true records. They learn about Lei Firsa's crimes.
 - **Session 11** — **Lei Firsa** appears — or her legacy does. The party learns the truth about Simon, about Grin Qain, about the HVS shells. They must decide what to do.
 - **Endgame** — The party decides the fate of the Valla, the Gemhearts, and the world.
 
@@ -445,7 +442,7 @@ The party will have to decide how much of the Cycle Clan's version to trust.
 - **`Age of Knowledge.md`** — the previous era
 - **`Before Oversee.md`** — the primordial era
 - **`Beginning of Time.md`** — the first age
-- **`Lei Firsa.md`** — the ambiguous founder of Klan Lei
+- **`Lei Firsa.md`** — the ambiguous founder of The Lei Clan
 - **`Simon Greenbottle.md`** — the current Valla
 - **`Grin Qain.md`** — the sacrificed Grin
 - **`Guanik Wiseman.md`** — the founder of the Cycle Clan
@@ -455,11 +452,11 @@ The party will have to decide how much of the Cycle Clan's version to trust.
 - **`The Gemhearts.md`** — the organs of the Architect
 - **`The Valla.md`** — the living seal
 - **`The Echoes.md`** — the fragments left by the incomplete feeding
-- **`Klan Lei.md`** — the dynasty Lei Firsa built
+- **`The Lei Clan.md`** — the dynasty Lei Firsa built
 - **`The Twin Tradition.md`** — invented by Lei Firsa 50 years later
 - **`Husgus.md`** — HVS-01
 - **`Shin Van Hel.md`** — HVS-02
-- **`The Bahtera Bawah Tanah.md`** — where the Edisi Law is hidden
+- **`The The Underground Ark.md`** — where the Edisi Law is hidden
 - **`The Swan, the Bat, and the Fool.md`** — the three trios
 
 ## Timeline Note
@@ -470,11 +467,10 @@ The era ends when **Lei Firsa** declares the new calendar — year **1 AV** — 
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV4%20The%20First%20God"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV4 The First God</span></a></div>
 
-::/pf
 
 %% DM SECRETS %%
 
 **Suggested edits to existing files:**- `The Valla's History.md` — confirm only two Vallas; remove "third" from DM secrets
 - `Timeline of Oversee.md` — confirm Simon born ~60 BV, ritual at ~44-45
-- `Tarakita University of Heroism.md` — confirm Danau Kuno = Universitas Tarakita
+- `Tarakita University of Heroism.md` — confirm Danau Kuno = Tarakita University of Heroism
 - `Grin Qain.md` — add the detail that her sacrifice was **not voluntary** (currently it might say "sacrificed by Lei Firsa" but doesn't make clear it was murder)

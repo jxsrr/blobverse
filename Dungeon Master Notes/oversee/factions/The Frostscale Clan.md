@@ -71,7 +71,7 @@ universe: Oversee
 ### The Frozen Legion — The Protectors Who Wait
 - The **Frozen Legion** is a line of hundreds of ice statues lining the path to the Spire of Whispering Ice. They look like dragonborn warriors — armor, weapons, horns.
 - They are **alive**. They are not dead. They are frozen in time, not in death. They move when no one is looking. They only point in one direction: toward Frosthaven.
-- They are the **original protectors** of Klan Frostscale. They fought an ancient threat — a Gap invasion — and were frozen by **Vythrax** to save them. They have been waiting for 1,000 years.
+- They are the **original protectors** of The Frostscale Clan. They fought an ancient threat — a Gap invasion — and were frozen by **Vythrax** to save them. They have been waiting for 1,000 years.
 - **They will thaw when Vythrax dies** or when **the Gap opens**. They will be confused. They will be angry. They will not recognize the modern clan.
 - **If the party can communicate with them** — using Dragonborn language, or Syl's connection to Vythrax, or the truth about the assault — they can recruit them as allies. They are 1,000 strong. They are all CR 3. They are enough to turn the tide of a battle.
 - **The Legion is a Season 3 optional quest.** The party can choose to thaw them or leave them frozen. If they thaw them, they will have powerful allies — but they will also have to deal with the chaos of a thousand ancient warriors waking up in a world they do not understand.

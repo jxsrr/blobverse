@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Ambitio-Ether</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Field That Runs Through Everything
@@ -17,7 +16,7 @@ universe: Oversee
 - **Sorcerers** — born with an innate connection. Always tied to the **Lei bloodline**. They do not need to learn; they shape instinctively.
 - **Wizards** — learn to tap into the field through study and discipline. Anyone can learn, if they have the patience.
 - **Warlocks** — gain access through a pact or a curse. The field flows through the bond they have made.
-- **Amagis (non-magic users)** — cannot shape the field. But they are not silent. They **ripple**. Their bloodlines carried magic before the Klan Lei rose — the potential is still there, suppressed. They leave a faint trace in the field, like a ripple on still water.
+- **Amagis (non-magic users)** — cannot shape the field. But they are not silent. They **ripple**. Their bloodlines carried magic before the The Lei Clan rose — the potential is still there, suppressed. They leave a faint trace in the field, like a ripple on still water.
 
 ## The Bloodline That Is Invisible
 - **The Grin** — the devil-blooded. They are **invisible to the field**. They do not ripple. They cannot shape Ambitio-Ether. They cannot be detected by it.
@@ -45,7 +44,6 @@ universe: Oversee
 - Using magic leaves invisible residue.
 - Renal feeds on residue.
 - The sludge is not residue — and it is toxic.
-::/pf
 
 %% DM SECRETS %%
 - **Ambitio-Ether is the food of the Overseer.** The Valla filters it so the Overseer does not taste the world.
@@ -56,4 +54,4 @@ universe: Oversee
 - **When the Valla fails, the Echoes happen** — unfiltered pain, trapped.
 - **The Amagis' ripple is a remnant of pre-Lei magic.** Before Simon became the Valla, other bloodlines had sorcerers and wizards. Lei Firsa suppressed them. The potential did not vanish — it went quiet.
 - **The Grin are invisible to the field because of their devil heritage.** Zargoth's blood makes them deaf to Ambitio-Ether — they cannot shape it, and they cannot be tasted by the Overseer. This is their curse and their shield.
-- **Reveal schedule:** Party learns the truth about the Overseer, the Valla, and the sludge in Session 10–11 (Bahtera Bawah Tanah, Edisi Law, or Lei Firsa).
+- **Reveal schedule:** Party learns the truth about the Overseer, the Valla, and the sludge in Session 10–11 (The Underground Ark, Edisi Law, or Lei Firsa).

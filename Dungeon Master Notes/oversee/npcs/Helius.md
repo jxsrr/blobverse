@@ -69,7 +69,7 @@ universe: Oversee
 - **Helius's grave** is still in Elis. No one has visited it in 690 years. Shin has never gone back. He has been afraid. He has been ashamed. He has been running.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about HVS-02. They learn Shin is a shell. They learn about Helius — the man who raised him, the man who knew.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about HVS-02. They learn Shin is a shell. They learn about Helius — the man who raised him, the man who knew.
 - **Session 11** — Shin learns the truth about Helius. He learns Helius knew. He learns Helius never told him. He learns Helius was trying to protect him. He breaks. He weeps. He smiles. He always smiles.
 - **Session 11** — Shin visits Helius's grave. He kneels. He weeps. He says: *"I am sorry I left. I am sorry I was not there. I am sorry I did not say goodbye."* He stays for hours. He does not speak. He simply sits in silence — the silence Helius taught him to love.
 - **Endgame** — Shin carries Helius's memory into the final battle. He carries his words. He carries his love. He carries his silence.

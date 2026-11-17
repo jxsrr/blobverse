@@ -1,13 +1,13 @@
 ---
 type: Oversee NPC
 role: Governor of West Harka
-faction: The Commonwealth / Klan Lei (Lei Wendigo)
+faction: The Commonwealth / The Lei Clan (Lei Wendigo)
 home: Padre City / Yawning Town
 status: alive
 first_seen: Session 04
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth / Klan Lei</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Hanzel Lei Krow</div><div class="bv-dossier-epithet">Governor of West Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth / Klan Lei (Lei Wendigo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Padre City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City / Yawning Town</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth / The Lei Clan</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Hanzel Lei Krow</div><div class="bv-dossier-epithet">Governor of West Harka</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth / The Lei Clan (Lei Wendigo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Padre City</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City / Yawning Town</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
 
 ## What the Party Knows
 - Direct descendant of **Lei Wendigo** (wind element).

@@ -12,7 +12,7 @@ universe: Oversee
 - Ruling government of Oversee. Based in Padre City.
 - Led by the **Triase**: Chancellor, Justice, Defense.
 - **Garda Mawar** (Rose Guard) — Justice. Led by <a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>.
-- **Garda Besi** (Iron Guard) — Defense. Led by <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>.
+- **The Iron Guard** (Iron Guard) — Defense. Led by <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>.
 - Controls most of Harka, Pirizia, and Rioquan.
 - Wants to control all magic. Suppresses technology.
 - We are **wanted criminals**.
@@ -28,35 +28,35 @@ Capture. Execute. Erase.
 - It was **not** originally a government. It was a **search** — a group of people sworn to find the next shepherd, the next Valla, the next person willing to hold the seal.
 - It was a **promise** — Guanik's promise to the Architect that he would find a way to save Oversee, to find a shepherd, to make one voice.
 - The original **Garda Mawar** was a group of scholars, historians, and witnesses — not law enforcement. They remembered the truth and preserved it.
-- The original **Garda Besi** was a group of volunteers — not a military. They protected the search.
+- The original **The Iron Guard** was a group of volunteers — not a military. They protected the search.
 - The original Commonwealth was **good**. It was not perfect. But it was honest. It was searching for a shepherd.
 
 ### The Corruption — Lei Firsa
-- **Lei Firsa** arrived in 01 BV. She corrupted the Commonwealth. She turned the search for a shepherd into a dynasty. She turned the promise into a lie. She turned the Commonwealth into the Klan Lei's throne.
-- She was not alone — she had help from the Lei bloodline, from the Triase, from the Klan Lei descendants she placed in key positions over centuries.
+- **Lei Firsa** arrived in 01 BV. She corrupted the Commonwealth. She turned the search for a shepherd into a dynasty. She turned the promise into a lie. She turned the Commonwealth into the The Lei Clan's throne.
+- She was not alone — she had help from the Lei bloodline, from the Triase, from the The Lei Clan descendants she placed in key positions over centuries.
 - **At the time of the Initial Six (200 AV), Geldfre was the Kanselir Agung.** He was the last Kanselir Agung who remembered the original promise. He welcomed the Six. He trusted Lei Alejandro. He watched them disappear.
 - After the Great Disappearance (200 AV), the Commonwealth began to change. **Lei Firsa** had been pulling strings for centuries. She had been placing her descendants in key positions. She had been rewriting history.
 - **Geldfre was the last Kanselir Agung who remembered the original promise.** After him, the Commonwealth became the Triase's Commonwealth — and the Triase became Lei Firsa's.
 
 ### The Triase — The Corrupted Structure
-- The **Triase** was not the original structure. It was created by Lei Firsa to consolidate Klan Lei power.
+- The **Triase** was not the original structure. It was created by Lei Firsa to consolidate The Lei Clan power.
 - **Kanselir Agung** — the Chancellor. Wisdom, long-term vision, unity. Currently Valerius Thorne.
 - **Wakil Keadilan** — the Justice. Law, courts, internal affairs. Currently Livia Vane. Leads the Garda Mawar.
-- **Wakil Pertahanan** — the Defense. Military, defense, intelligence. Currently Iron Gort. Leads the Garda Besi.
-- **The original Garda Mawar and Garda Besi are not the current ones.** The current versions are Firsa's versions. The original institutions died with the original Commonwealth.
+- **Wakil Pertahanan** — the Defense. Military, defense, intelligence. Currently Iron Gort. Leads the The Iron Guard.
+- **The original Garda Mawar and The Iron Guard are not the current ones.** The current versions are Firsa's versions. The original institutions died with the original Commonwealth.
 
 ### The Original Garda Mawar — The Rose Guard
 - **Not law enforcement.** A group of scholars, historians, and witnesses.
 - Their role: remember the truth, preserve it, keep the promise.
-- They were the ones who wrote the original Edisi Law. They were the ones who guarded the Bahtera Bawah Tanah.
+- They were the ones who wrote the original Edisi Law. They were the ones who guarded the The Underground Ark.
 - They were the ones who knew Guanik's promise.
 - **They are gone.** Lei Firsa killed them, silenced them, or erased them. The current Garda Mawar is a corrupted version — law enforcement, courts, internal affairs.
 
-### The Original Garda Besi — The Iron Guard
+### The Original The Iron Guard — The Iron Guard
 - **Not a military.** A group of volunteers — the ones who protected the search, the ones who kept the promise safe.
 - Their role: protect the Cycle Clan, protect the search for the shepherd, protect the truth.
 - They were the ones who guarded the Gemhearts. They were the ones who guarded the rituals.
-- **They are gone.** Lei Firsa killed them, silenced them, or erased them. The current Garda Besi is a corrupted version — military, defense, intelligence.
+- **They are gone.** Lei Firsa killed them, silenced them, or erased them. The current The Iron Guard is a corrupted version — military, defense, intelligence.
 
 ### The Current Triase — Firsa's Legacy
 - **Valerius Thorne** — Kanselir Agung. He is not the final antagonist. He is a pawn. He is ambitious, dangerous, and smart — but he is not the one pulling the strings.
@@ -72,30 +72,30 @@ Capture. Execute. Erase.
 
 ### What the Party Does NOT Know
 - The One Voice Commonwealth was **originally good**. It was founded by Guanik. It was corrupted by Firsa.
-- The original Garda Mawar was a group of scholars. The original Garda Besi was a group of volunteers. The current versions are Firsa's versions.
+- The original Garda Mawar was a group of scholars. The original The Iron Guard was a group of volunteers. The current versions are Firsa's versions.
 - **Geldfre** was the last Kanselir Agung who remembered the original promise.
 - **Guanik Wiseman is alive.** He is the first Kanselir Agung. He has been waiting for someone to come and fulfill the promise.
 - **Lei Firsa** is the one who corrupted the Commonwealth. She is the one who placed her descendants in key positions. She is the one who rewrote history. She is the one who killed the original members.
 - The current Triase is **not** the original Commonwealth. It is Firsa's Commonwealth.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Guanik and the original Commonwealth. They learn about the corruption.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Guanik and the original Commonwealth. They learn about the corruption.
 - **Session 11** — The party meets Guanik. He asks them: *"Is the promise kept?"* They must answer truthfully.
 - **Endgame** — The party must decide what to do with the Commonwealth. Restore it? Destroy it? Replace it? The choice is theirs.
 
 ### The Commonwealth's Role in the Endgame
-- If the party restores the original Commonwealth, they will need to find new leaders — people who remember the promise, people who are not corrupted by Klan Lei.
+- If the party restores the original Commonwealth, they will need to find new leaders — people who remember the promise, people who are not corrupted by The Lei Clan.
 - If the party destroys the Commonwealth, they will create a power vacuum. The world will descend into chaos. They will need to find a way to fill it.
 - If the party replaces the Commonwealth, they will need to create a new structure — one that is not a dynasty, not a lie, not a corruption.
 - **The choice is theirs.** The DM should present all three options clearly and let the party decide.
 
 ### Corrections Applied
 - **CLARIFIED:** The One Voice Commonwealth was founded by **Guanik Wiseman**. It was originally a **search**, not a government.
-- **CLARIFIED:** The original Garda Mawar was a group of scholars and witnesses. The original Garda Besi was a group of volunteers. The current versions are Firsa's corrupted versions.
+- **CLARIFIED:** The original Garda Mawar was a group of scholars and witnesses. The original The Iron Guard was a group of volunteers. The current versions are Firsa's corrupted versions.
 - **CLARIFIED:** **Geldfre** was the Kanselir Agung at the time of the Initial Six (200 AV). He was the last one who remembered the original promise.
-- **CLARIFIED:** The Triase was created by Lei Firsa to consolidate Klan Lei power. It is not the original structure.
+- **CLARIFIED:** The Triase was created by Lei Firsa to consolidate The Lei Clan power. It is not the original structure.
 - **REMOVED:** Any mention of the Golem Hukum.
-- **REMOVED:** "Most high positions are held by Klan Lei descendants." — This is still true, but it is now framed as **Firsa's corruption**, not the original structure.
+- **REMOVED:** "Most high positions are held by The Lei Clan descendants." — This is still true, but it is now framed as **Firsa's corruption**, not the original structure.
 - **REMOVED:** The implication that the Commonwealth was always corrupt. It was **good at first**. It was corrupted by Firsa.
 
 ## Connections to Other Lore

@@ -11,7 +11,7 @@ years: 9XX – 01 BV
 
 ## The Fragmentary Record
 
-What follows is assembled from the **Berkas Penelitian Cycle Clan**, from oral histories preserved by the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**, and from fragments of the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>** that the party has recovered. It is incomplete. It is sanitized. The Cycle Clan's official record was written by the victors — and the victors did not want the truth remembered.
+What follows is assembled from the **Cycle Clan Research File**, from oral histories preserved by the **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>**, and from fragments of the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>** that the party has recovered. It is incomplete. It is sanitized. The Cycle Clan's official record was written by the victors — and the victors did not want the truth remembered.
 
 This is the story as the Cycle Clan wants it told.
 
@@ -51,7 +51,7 @@ Simon did not travel alone.
 
 The first companion was **Lei Firsa** — a human woman in her twenties, a ranger from the border forests. She was skilled with bow and blade, and she had a sharpness to her that Simon lacked. She saw his kindness and decided to walk beside him.
 
-The second was **<a href="/oversee/npcs/Grin%20Qain">Grin Qain</a>** — an elf from the **<a href="/oversee/locations/Kerajaan%20Grin">Grin Kingdom</a>**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
+The second was **<a href="/oversee/npcs/Grin%20Qain">Grin Qain</a>** — an elf from the **<a href="/oversee/locations/pirizia/Kerajaan%20Grin">Grin Kingdom</a>**, a rogue who had fled her homeland to seek something that could break her family's curse. She carried the **eternal smile** of the Grin bloodline. She carried **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** — Simon gave it to her, saying that a rogue should carry a blade, and a friend should be allowed to protect herself.
 
 Three companions. Simon with Zenahhi at his hip. Lei Firsa with a bow on her back. Grin Qain with her eternal smile that never faded, even when her heart was breaking.
 
@@ -61,7 +61,7 @@ They walked together for twenty years.
 
 **~870 BV**
 
-Deep beneath the **<a href="/oversee/locations/Observatorium%20Danau%20Kuno">Observatorium Danau Kuno</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
+Deep beneath the **<a href="/oversee/locations/rioquan/utara/Observatorium%20Danau%20Kuno">Arbor's Observatorium</a>**, in a chamber that had never seen sunlight, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** sat alone.
 
 Every night, when the other Cycle Clan members slept, he waited for the voice of **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">the Architect</a>** to speak.
 
@@ -77,7 +77,7 @@ There was a long silence. And then — for the first time in his life — Wisema
 
 The voice told him this was a new idea. It had never been tried. But it was possible. If a body could be built from the blueprint of the greatest biological creation — **<a href="/The%20Inbu">the Inbu</a>** — it might hold the Architect's consciousness without shattering.
 
-Wiseman spent decades studying the ancient records of the Inbu. He learned how their cells stored energy, how their tissue channeled **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, how their organs functioned for thousands of years without decay. He wrote it all down — a series of manuscripts that became known as the **Berkas Penelitian Cycle Clan**: the Cycle Clan Research File.
+Wiseman spent decades studying the ancient records of the Inbu. He learned how their cells stored energy, how their tissue channeled **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, how their organs functioned for thousands of years without decay. He wrote it all down — a series of manuscripts that became known as the **Cycle Clan Research File**: the Cycle Clan Research File.
 
 And then he built the **shells**.
 
@@ -107,7 +107,7 @@ Simon agreed. He did not hesitate. He was too kind to refuse.
 
 ## The Marriage
 
-The Cycle Clan records do not describe the marriage of Simon and Lei Firsa. The official record is silent. But the **Berkas Penelitian Cycle Clan** contains a fragment: a note in Wiseman's hand, dated roughly two years before the ritual.
+The Cycle Clan records do not describe the marriage of Simon and Lei Firsa. The official record is silent. But the **Cycle Clan Research File** contains a fragment: a note in Wiseman's hand, dated roughly two years before the ritual.
 
 > *"The Halfling has been manipulated. I should have seen it. He is too good to see what she is doing. I am too old to stop her. Forgive me."*
 
@@ -187,7 +187,7 @@ The world was told a different story.
 
 The world was told that **Lei the Great** — a male wizard, a great hero, a man of wisdom and sacrifice — had become the Valla to protect the world from cosmic hunger. The story was written into every history book. The statues were raised in every city.
 
-**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **<a href="/Klan%20Lei">Klan Lei</a>** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
+**Lei Firsa** erased herself from the record. She became "Lei," the legendary wizard. She became the founder of **<a href="/Klan%20Lei">The Lei Clan</a>** — the four bloodlines, the four elements, the four Gemhearts. She used the Gemhearts to create her dynasty.
 
 And **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** — the Halfling shepherd who gave everything — was forgotten.
 
@@ -217,7 +217,7 @@ But they did not stay empty.
 
 ## HVS-01 — The Golden-Cracked
 
-**Hundreds of years later — Hutan Domido**
+**Hundreds of years later — Domido Forest**
 
 A small child was found in the forest by an old dwarf named **<a href="/oversee/npcs/Gordon">Gordon</a>**. The child had no clothes, no memory, no name. He remembered only darkness, fire, and someone screaming.
 

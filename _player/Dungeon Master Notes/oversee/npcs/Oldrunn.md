@@ -1,13 +1,13 @@
 ---
 type: Oversee NPC
 role: Syl's Adoptive Mother, Cabbage Merchant of Frostheart
-faction: Klan Frostscale (former)
+faction: The Frostscale Clan (former)
 home: Frostheart Village
 status: alive
 first_seen: Session 05
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Frostscale</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Oldrunn</div><div class="bv-dossier-epithet">Syl's Adoptive Mother, Cabbage Merchant of Frostheart</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Frostscale (former)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Frostheart Village market</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Frostscale Clan</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Oldrunn</div><div class="bv-dossier-epithet">Syl's Adoptive Mother, Cabbage Merchant of Frostheart</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Frostscale Clan (former)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Frostheart Village market</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
 
 ## What the Party Knows
 - An old dragonborn woman named **Oldrunn**. Runs a cabbage stall in Frostheart.

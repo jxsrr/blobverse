@@ -13,7 +13,7 @@ years: 180 – 200 AV
 
 **~180 AV — Wind's Rest, East Harka**
 
-On the eastern coast of Harka, in a small fishing village called **<a href="/oversee/locations/Wind%27s%20Rest">Wind's Rest</a>**, there lived an old man named **<a href="/oversee/npcs/Gunnar%20Guirela">Gunnar Guirela</a>**.
+On the eastern coast of Harka, in a small fishing village called **<a href="/oversee/locations/harka/Wind%27s%20Rest">Wind's Rest</a>**, there lived an old man named **<a href="/oversee/npcs/Gunnar%20Guirela">Gunnar Guirela</a>**.
 
 He was a simple fisherman. Every day he went to sea, pulled his nets, and sold his catch at the market. He had no treasure, no magic, no ambition. He had only an old boat and a sagging hut by the shore.
 
@@ -23,7 +23,7 @@ A **bow**.
 
 A longbow with pale wood, almost transparent. Its curve was perfect. Its string was invisible — like air compressed into a line. The bow was neither wet nor dry, and it was **warm to the touch**.
 
-Gunnar did not know that this bow was **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — one of the six legendary weapons once collected by **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>**. He did not know that the bow had been thrown into the sea by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**, the mother of **<a href="/Klan%20Lei">Klan Lei</a>**, to erase every trace of Simon from the world.
+Gunnar did not know that this bow was **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — one of the six legendary weapons once collected by **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>**. He did not know that the bow had been thrown into the sea by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**, the mother of **<a href="/Klan%20Lei">The Lei Clan</a>**, to erase every trace of Simon from the world.
 
 He only knew the bow was special. And he had to keep it safe.
 
@@ -65,7 +65,7 @@ His brown hair, always parted down the middle, his wary eyes, and his habit of c
 
 Since childhood, Atlan had spent more time at the docks than at home. He learned to read from old maps discarded by sailors, learned to write by copying the logbooks of ships at anchor, learned mathematics from counting tides and currents.
 
-As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Kota Juto</a>**.
+As a teenager, he worked as a dockworker, then as a navigator's assistant on a small merchant vessel — and finally, after saving a ship from a storm with his accurate current calculations, he was hired as a marine expert at the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Juto Port City</a>**.
 
 The Observatorium became his second home. A white stone tower on the edge of a cliff, with a basement that extended down to the shoreline, where he installed tide gauges, water thermometers, and current traps of his own design. At the top of the tower, he installed a great telescope — used not only to observe the stars, but to study the relationship between the moon's phases and the waves.
 
@@ -93,7 +93,7 @@ Atlan built a swing beneath the Observatorium, taught Mira the names of stars an
 
 ## Atreus Grin
 
-**<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** was a prince of the **<a href="/oversee/locations/Kerajaan%20Grin">Grin Kingdom</a>** — the land of those who carried the **eternal smile** that never faded.
+**<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** was a prince of the **<a href="/oversee/locations/pirizia/Kerajaan%20Grin">Grin Kingdom</a>** — the land of those who carried the **eternal smile** that never faded.
 
 Contrary to common misunderstanding, the Grin Kingdom was not inhabited by a single race with a particular skin color. Humans, elves, dwarves, halflings, and many other races lived side by side — united not by blood or lineage, but by the same curse: **the eternal smile carved into their faces from birth**.
 
@@ -121,7 +121,7 @@ As a **bard**, Sam was a collector of stories. He had wandered farther than anyo
 
 He knew every story had two sides, and that the truth was often hidden between the notes that were never played.
 
-His meeting with **<a href="/oversee/pcs">The Five Sticks</a>** — centuries after his death — would happen in **<a href="/Ghuffghuff">Ghuffghuff</a>**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
+His meeting with **<a href="/oversee/pcs">The Five Sticks</a>** — centuries after his death — would happen in **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>**, in a horrifying form. But in his own time, Sam was only a wandering minstrel caught up in the greatest adventure in history. He joined because he heard that this adventure would produce the best song he had ever written.
 
 And he was right. He would write that song. But it would not be a song of victory — it would be a **quiet requiem** creeping from behind the stars.
 
@@ -143,7 +143,7 @@ In The Initial Six, Olaf was the voice of reason. His old eyes had seen too much
 
 He came from a dragonborn clan in the highest mountains, near the lair of the **<a href="/oversee/lore/The%20Three%20Surviving%20Dragons">ancient dragons</a>**. From his ancestors, he inherited extraordinary physical strength and a deep understanding of **mechanisms** — how wheels turn, how pressure works, how energy flows.
 
-Among The Initial Six, Gzirmo was the quietest. He did not talk much about his past or the family he had left behind in **<a href="/oversee/locations/Elis">Elis</a>**. But in his sharp eyes lay the sorrow of a warrior who had seen too many battles and too little peace.
+Among The Initial Six, Gzirmo was the quietest. He did not talk much about his past or the family he had left behind in **<a href="/oversee/locations/elis">Elis</a>**. But in his sharp eyes lay the sorrow of a warrior who had seen too many battles and too little peace.
 
 He joined because he believed in the mission: **to find a new Valla to save the world.** Nothing more, nothing less. His descendants would stay in Elis, scattered across the continent, waiting for the time to play their role in an unwritten history.
 
@@ -155,7 +155,7 @@ In the years before the **Great Disappearance** — when The Initial Six was sti
 
 Not for a great adventure. They wanted a moment of peace from the noise of the world.
 
-They arrived at **<a href="/Hutan%20Domido">Domido Forest</a>** — a quiet region in the interior of **Harka**, far from the great cities and political intrigue. On the edge of the forest, near the border of two villages — **<a href="/Ghuffghuff">Ghuffghuff</a>** to the north and **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** to the south — they found a **rundown hut**.
+They arrived at **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** — a quiet region in the interior of **Harka**, far from the great cities and political intrigue. On the edge of the forest, near the border of two villages — **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** to the north and **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** to the south — they found a **rundown hut**.
 
 Inside it, a **boy named <a href="/oversee/npcs/Gordon">Gordon</a>** lived alone. He was about ten years old. His parents had died in a hunting accident years before.
 
@@ -209,7 +209,7 @@ The **six heroes** gathered at the prepared altar.
 
 **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** — the old half-orc with the bow on his back — stood with an alertness that never faded, though age had long since claimed him.
 
-They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **<a href="/oversee/npcs/Simon%20Greenbottle">Simon</a>**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**. No one doubted the words of a descendant of **<a href="/Klan%20Lei">Klan Lei</a>** — a respected hero, a man who had lost his wife and child in tragic circumstances.
+They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **<a href="/oversee/npcs/Simon%20Greenbottle">Simon</a>**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**. No one doubted the words of a descendant of **<a href="/Klan%20Lei">The Lei Clan</a>** — a respected hero, a man who had lost his wife and child in tragic circumstances.
 
 **The ritual began.**
 

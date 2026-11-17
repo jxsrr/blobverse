@@ -2,7 +2,7 @@
 type: Oversee Lore
 universe: Oversee
 aliases:
-  - Klan Lei
+  - The Lei Clan
 ---
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Lei Bloodline</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
@@ -33,7 +33,7 @@ aliases:
 ## The Twin Tradition — The Darkest Rule
 - Invented by **Lei Firsa** around **50 AV** — not ancient, not natural. A deliberate policy to concentrate magical power in her bloodline.
 - Every twin born to a Lei mother since then has been separated — one kept, one killed.
-- The **surviving twin absorbs the power** of the dead twin's soul. This is the real reason the Klan Lei is so strong. It is not just inheritance — it is **accumulated sacrifice**.
+- The **surviving twin absorbs the power** of the dead twin's soul. This is the real reason the The Lei Clan is so strong. It is not just inheritance — it is **accumulated sacrifice**.
 - **Livia Vane** is **not** a twin. She was alone from the start and was adopted by an old man revealed to be **Lei Alejandro**.
 - **Accarus** and **Antrem** are the exception — twins who were **not killed**. They are the sons of **Hildag Grin** and a **Lei Firage descendant**. Their survival was accidental. Their existence is a secret.
 
@@ -45,7 +45,7 @@ aliases:
 
 ## What We Know
 - The Klan is the true power behind the Commonwealth.
-- Most high-ranking officials are Klan Lei descendants.
+- Most high-ranking officials are The Lei Clan descendants.
 - They believe their power comes from their blood. **It does not.** It comes from **Simon** — the Valla. Every Lei descendant carries a drop of his sacrifice.
-- If Simon is freed, the Klan Lei will lose their power. They will do anything to prevent this.
+- If Simon is freed, the The Lei Clan will lose their power. They will do anything to prevent this.
 - **The "Lei Firsa declared herself the first Valla" story is a rumor.** No one outside the Cycle Clan knows Simon is the Valla. The public believes Lei Firsa / "Lei the Great" ascended. This lie is the foundation of the Klan's legitimacy.

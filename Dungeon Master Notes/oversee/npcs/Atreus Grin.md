@@ -2,13 +2,12 @@
 type: Oversee NPC
 role: The Druid of the Initial Six, The Smiling Heir of Grin
 faction: The Initial Six / Will of Grin (deceased)
-home: Kerajaan Grin (formerly) / Chenalia (as Echo)
+home: Grin Kingdom (formerly) / Chenalia (as Echo)
 status: Deceased (200 AV), Echo active in Chenalia
 first_seen: Session 05 (via Sam's memory), Echo not yet met
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six / Will of Grin</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo active in chenalia</span></div><div class="bv-dossier-name">Atreus Grin</div><div class="bv-dossier-epithet">The Druid of the Initial Six, The Smiling Heir of Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six / Will of Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Kerajaan Grin (formerly) / Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (via Sam's memory), Echo not yet met</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Initial Six / Will of Grin</span></div><span class="bv-status bv-status-deceased">Deceased (200 av), echo active in chenalia</span></div><div class="bv-dossier-name">Atreus Grin</div><div class="bv-dossier-epithet">The Druid of the Initial Six, The Smiling Heir of Grin</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Initial Six / Will of Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Grin Kingdom (formerly) / Chenalia (as Echo)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05 (via Sam's memory), Echo not yet met</div></div></div></div>
 
 
 ## Living Form — The Druid
@@ -28,7 +27,7 @@ universe: Oversee
 - He was the first Grin to be accepted by the wider world.
 - His disappearance is why the Grin Kingdom fell.
 - His letter is the reason **Will of Grin** searches for the Gemhearts.
-::/pf
+
 
 %% DM SECRETS %%
 
@@ -98,7 +97,7 @@ universe: Oversee
 - **His final words** — recorded in the ritual memory — were: *"You think you win, Lei? This smile... this curse... will haunt you! Let history remember me as a monster — but I am the one who laughs last!"*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Atreus. They learn he was uneasy from the start. They learn he tried to stop the ritual.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Atreus. They learn he was uneasy from the start. They learn he tried to stop the ritual.
 - **Session 11** — The party returns to Chenalia to find Vreina. They encounter Echo Atreus. They learn he is protecting a dead village. They may release him with Swaith. They may give him peace.
 - **Endgame** — The party carries Atreus's memory into the final battle. They carry his smile. They carry his laughter. They carry his last show.
 

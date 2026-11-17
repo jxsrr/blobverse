@@ -2,12 +2,12 @@
 type: Oversee NPC
 role: Deaf Old Man, Hermit of Domido
 faction: Independent
-home: Hutan Domido
+home: Domido Forest
 status: Deceased (Session 03)
 first_seen: Session 03
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Deceased (session 03)</span></div><div class="bv-dossier-name">Bud-eg</div><div class="bv-dossier-epithet">Deaf Old Man, Hermit of Domido</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Deceased (session 03)</span></div><div class="bv-dossier-name">Bud-eg</div><div class="bv-dossier-epithet">Deaf Old Man, Hermit of Domido</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in Domido Forest</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Domido Forest</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
 
 ## What the Party Knows
 - A strange old man. Filthy. Smelly. **Deaf.**

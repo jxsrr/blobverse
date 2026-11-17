@@ -15,7 +15,7 @@ Seven days to decide: join **<a href="/oversee/factions/Will%20of%20Grin">Will o
 
 They did not decide yet.
 
-Instead, they went to **<a href="/oversee/locations/Javan%20Town">Javan Town</a>** — the port town where Accarus's ship waited, and where **<a href="/oversee/npcs/Grilnax">Grilnax</a>** had a Keeper contact who could take them back to **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**.
+Instead, they went to **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>** — the port town where Accarus's ship waited, and where **<a href="/oversee/npcs/Grilnax">Grilnax</a>** had a Keeper contact who could take them back to **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**.
 
 Both paths began here.
 
@@ -24,9 +24,9 @@ They spent the day in the market, trying to sell a gold ring at **Mata Elang** �
 They visited the standard stops:
 - **Ransel Penuh** — adventuring gear
 - **Debu Peri** — alchemy
-- **Baja Hitam** — the blacksmith
+- **Black Steel** — the blacksmith
 
-At **Baja Hitam**, they met **<a href="/oversee/npcs/Mr.%20Andreas">Mr. Andreas</a>** — a soot-stained man with kind eyes and a wife who needed an escort.
+At **Black Steel**, they met **<a href="/oversee/npcs/Mr.%20Andreas">Mr. Andreas</a>** — a soot-stained man with kind eyes and a wife who needed an escort.
 
 > *"Two hundred gold. She has an event in the capital — West Harka. Tomorrow at dawn. Do we have a deal?"*
 
@@ -34,7 +34,7 @@ They did.
 
 ## Part 2: A Night in the Cemetery
 
-That evening, instead of an inn, the party went to **Pemakaman Jiopa** — the cemetery of Javan Town.
+That evening, instead of an inn, the party went to **Jiopa Cemetery** — the cemetery of Javan Town.
 
 They wandered among the graves. Read names. Accidentally frightened the elderly gravekeeper — **Old Wabi** — who nearly collapsed when they emerged from between the headstones.
 
@@ -56,11 +56,11 @@ The party lied. Fluently.
 
 They claimed they had never met Agus. They claimed they were ordinary adventurers. And while lying, they **pumped the soldiers for information** — learning about the **<a href="/oversee/lore/The%20Triase">Triase</a>**, the three-pillar leadership of the **<a href="/oversee/factions/One%20Voice%20Commonwealth">Commonwealth</a>**.
 
-The soldiers left before they could be questioned further — a report had come in about bodies found in **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff Town</a>**.
+The soldiers left before they could be questioned further — a report had come in about bodies found in **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff Town</a>**.
 
 ## Part 4: Padre City
 
-They reached **<a href="/oversee/locations/Padre%20Megalopolis">Padre Megalopolis</a>** by midday.
+They reached **<a href="/oversee/locations/harka/Padre%20Megalopolis">Padre Megalopolis</a>** by midday.
 
 It was built on a mesa — white granite walls, streets that glowed softly at night, a sense of order so complete it felt like a warning.
 
@@ -78,7 +78,7 @@ The first was **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** 
 
 The crowd applauded politely, but there was fear in it.
 
-The second was **<a href="/oversee/npcs/Lei%20Iron%20Gort">Lei Iron Gort</a>** — Wakil Pertahanan, leader of the **<a href="/oversee/factions/The%20Iron%20Guard">Garda Besi</a>**. He rode on a massive iron war-cart pulled by four armored rhinos. His soldiers did not march — they swaggered. They drank. They laughed.
+The second was **<a href="/oversee/npcs/Lei%20Iron%20Gort">Lei Iron Gort</a>** — Wakil Pertahanan, leader of the **<a href="/oversee/factions/The%20Iron%20Guard">The Iron Guard</a>**. He rode on a massive iron war-cart pulled by four armored rhinos. His soldiers did not march — they swaggered. They drank. They laughed.
 
 Gort, spotting the crowd, threw a half-empty bottle of ale into the nearest group.
 
@@ -102,7 +102,7 @@ When the parade ended, the party went in search of information.
 
 They knew the names now: **The Initial Six**. They had one painting's worth of truth. They needed more.
 
-The **<a href="/oversee/locations/Lyceum%20University%20of%20Arcane%20Arts">Lyceum University of Arcane Arts</a>** stood in the middle ring of the city. They found their way to the **rector's office** — and to **<a href="/oversee/npcs/Professor%20Alistair%20Donta">Professor Alistair Donta</a>**, the oldest priest of Valla in Oversee.
+The **<a href="/oversee/locations/harka/Padre%20Megalopolis/Lyceum%20University%20of%20Arcane%20Arts">Lyceum University of Arcane Arts</a>** stood in the middle ring of the city. They found their way to the **rector's office** — and to **<a href="/oversee/npcs/Professor%20Alistair%20Donta">Professor Alistair Donta</a>**, the oldest priest of Valla in Oversee.
 
 He was tired. He was clearly afraid of something he would not name. But he was willing to help.
 
@@ -131,7 +131,7 @@ They searched the house. In the corner, a **cockroach** — enormous and unsettl
 
 The cockroach led them to a hidden drawer.
 
-Inside: a folder. **"Berkas Penelitian Cycle Clan"** — the Cycle Clan Research File.
+Inside: a folder. **"Cycle Clan Research File"** — the Cycle Clan Research File.
 
 They took it.
 
@@ -153,7 +153,7 @@ He was pale. His hands shook. He could not meet their eyes.
 
 The party did not believe him.
 
-They pressed. They accused. They said the words out loud: that the **Triase** or **Klan Lei** had killed Howdy because of what he had learned — that they would kill Donta too.
+They pressed. They accused. They said the words out loud: that the **Triase** or **The Lei Clan** had killed Howdy because of what he had learned — that they would kill Donta too.
 
 And then, without warning, Donta stood.
 
@@ -189,13 +189,13 @@ But something inside the party changed that day. Something about how far they we
 
 That afternoon, they went looking for more answers.
 
-At **The Mana Dreg** — a bar in the Outer Circle — the bartender, **Selow**, told them about **Klan Lei**. The four branches. The four elements. The aristocratic families who had ruled Oversee since the founding.
+At **The Mana Dreg** — a bar in the Outer Circle — the bartender, **Selow**, told them about **The Lei Clan**. The four branches. The four elements. The aristocratic families who had ruled Oversee since the founding.
 
 > *"They live in the Inner Circle. They don't mix with us. They think their blood is purer than ours. Maybe it is. But that doesn't make them better."*
 
 Later, they visited **Yunao University of Agriculture** and met **<a href="/oversee/npcs/Joni">Joni</a>** — **<a href="/oversee/pcs/Zure%20Ama">Ama</a>**'s adoptive father, now a professor of wheat and grain.
 
-He explained the four Klan Lei bloodlines:
+He explained the four The Lei Clan bloodlines:
 - **Lei Wendigo** — Wind
 - **Lei Firage** — Fire
 - **Lei Watigi** — Water
@@ -209,7 +209,7 @@ Ama listened in silence. His father — the man who raised him — spoke of thes
 
 By the sixth day, they were broke.
 
-They washed dishes in a tavern for silver. They slept in **<a href="/oversee/npcs/Cindy%20Mektol">Cindy Mektol</a>**'s temple — the Legendary Noodle Temple in **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** — because **<a href="/oversee/npcs/Guo%20Lao">Guo Lao</a>** would not turn them away.
+They washed dishes in a tavern for silver. They slept in **<a href="/oversee/npcs/Cindy%20Mektol">Cindy Mektol</a>**'s temple — the Legendary Noodle Temple in **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** — because **<a href="/oversee/npcs/Guo%20Lao">Guo Lao</a>** would not turn them away.
 
 And on the seventh day, they made their choice.
 
@@ -224,8 +224,8 @@ They boarded Accarus's ship.
 And the ship set sail for **Pirizia**.
 
 ## Loot & Rewards
-- **Berkas Penelitian Cycle Clan** — the Cycle Clan Research File
-- Knowledge of the four Klan Lei branches
+- **Cycle Clan Research File** — the Cycle Clan Research File
+- Knowledge of the four The Lei Clan branches
 - **Gort's respect** — the ale catch that earned it
 - A decision: **Will of Grin** over **Keeper of Secret**
 
@@ -244,12 +244,12 @@ And the ship set sail for **Pirizia**.
 - **<a href="/oversee/npcs/Joni">Joni</a>** — Ama's adoptive father, professor of grain
 
 ## Locations Visited
-- **<a href="/oversee/locations/Javan%20Town">Javan Town</a>** — market, cemetery, docks
-- **<a href="/oversee/locations/Padre%20Megalopolis">Padre Megalopolis</a>** — capital of West Harka
-- **<a href="/oversee/locations/Lyceum%20University%20of%20Arcane%20Arts">Lyceum University of Arcane Arts</a>** — where Donta died
+- **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>** — market, cemetery, docks
+- **<a href="/oversee/locations/harka/Padre%20Megalopolis">Padre Megalopolis</a>** — capital of West Harka
+- **<a href="/oversee/locations/harka/Padre%20Megalopolis/Lyceum%20University%20of%20Arcane%20Arts">Lyceum University of Arcane Arts</a>** — where Donta died
 - **The Mana Dreg** — the Outer Circle bar
 - **Yunao University of Agriculture** — where Joni teaches
-- **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** — where they slept
+- **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** — where they slept
 
 ## Sessions Chain
 - **Previous:** <a href="/oversee/sessions/Session%2003%20%E2%80%94%20The%20Bard">Session 03</a>
@@ -259,7 +259,7 @@ And the ship set sail for **Pirizia**.
 ::/pf
 
 %% DM SECRETS %%
-- **Howdy was killed by the Garda Besi** on Valerius's orders. His research was too close to the truth. His "heart attack" was staged.
+- **Howdy was killed by the The Iron Guard** on Valerius's orders. His research was too close to the truth. His "heart attack" was staged.
 - **Donta was forced to suicide** by a slow-acting compulsion spell — triggered when he spoke Howdy's name. The spell was placed on him weeks earlier, by a Commonwealth agent he trusted.
 - **Donta was a Keeper of Secret informant.** He had been in contact with **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>** for years. His personal collection (hidden in the Lyceum archives) contains fragments of the Edisi Law and a letter from Mira dated 12 years ago.
 - **The Cycle Clan Research File** contains the truth about the Gemhearts, the HVS project, and the Ritual of Replacement. The party has not read all of it yet.

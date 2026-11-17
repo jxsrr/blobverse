@@ -14,7 +14,7 @@ aliases:
 - **Color:** Silver. **Element:** Cold.
 - **Location:** Spire of Whispering Ice (Frosthaven Peak).
 - **Status:** Alive, weakened by Safayer poison.
-- **Role:** Syl's mother. Patron of Klan Frostscale.
+- **Role:** Syl's mother. Patron of The Frostscale Clan.
 - **Personality:** Protective. Loyal. Broken by what was done to her.
 
 ## Verdantus — The Green Shadow

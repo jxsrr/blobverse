@@ -2,18 +2,17 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Initial Six</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] What We Know
 > Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**.
 
 ## The Six
-- **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the Bahtera Bawah Tanah.
+- **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** — Leader. Wind mage. Descendant of Lei Wendigo. Betrayed the others. **Alive** — hiding in the The Underground Ark.
 - **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** — Druid. Eternal smile curse. Wanted to prove Grin weren't monsters. **Deceased** — Echo in Chenalia.
 - **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — Bard. Collector of stories. Lute player. Never finished his last song. **Deceased** — Echo released by Swaith.
 - **<a href="/oversee/npcs/Gzirmo%20Kopling">Gzirmo Kopling</a>** — Dragonborn. Mechanical genius. Kept his clan's sadness to himself. **Deceased** — Echo in Arujaya, slowly fading.
-- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Kota Juto.
+- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** — Human. Oceanographer. Loved Reins. Father of <a href="/oversee/npcs/Mira%20Nouveau">Mira</a>. **Deceased** — Echo in Juto Port City.
 - **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** — Half-orc. Ranger. Believed in action over gods. Taught Gordon. **Deceased** — Echo near Gordon's grave.
 
 ## What We Learned in Sam's Memory
@@ -27,12 +26,12 @@ universe: Oversee
 > — A.G.
 
 ## What the Party Does NOT Know
-- **Lei Alejandro is alive.** He is hiding in the Bahtera Bawah Tanah. He is guarding the Edisi Law. He is waiting for someone worthy.
+- **Lei Alejandro is alive.** He is hiding in the The Underground Ark. He is guarding the Edisi Law. He is waiting for someone worthy.
 - **The "Puppeteer" in Atreus's letter is Lei Firsa** — not Alejandro. The ambiguity is intentional.
 - **All six members of the Initial Six are Echoes** — except Alejandro. He is alive.
 - **The Echoes can be freed** with Swaith or Safayer.
 - **The true reason for the ritual** was not to summon a new Valla — it was to **feed** Simon. Alejandro did not use Safayer. He did not purify the souls. He did not care.
-::/pf
+
 
 %% DM SECRETS %%
 
@@ -59,12 +58,12 @@ universe: Oversee
 - **Sam** became Echo Sam — the many-headed singer of Ghuffghuff. Released by Swaith in Session 03. At peace.
 - **Atreus** became Echo Atreus — the guardian of Chenalia. He is protecting a dead village. He does not know it is already dead.
 - **Olaf** became Echo Olaf — the guardian who waits near Gordon's grave. He is waiting for Husgus.
-- **Atlan** became Echo Atlan — the father who watches over Kota Juto. He is looking for Mira and Reins.
+- **Atlan** became Echo Atlan — the father who watches over Juto Port City. He is looking for Mira and Reins.
 - **Gzirmo** became Echo Gzirmo — the reactor guardian of Arujaya. He is slowly fading.
-- **Alejandro** did **not** become an Echo. He is **alive**. He has been hiding in the Bahtera Bawah Tanah for 500 years.
+- **Alejandro** did **not** become an Echo. He is **alive**. He has been hiding in the The Underground Ark for 500 years.
 
 ### Alejandro — The Betrayer Who Repented
-- **Lei Alejandro is alive.** He has been hiding in the Bahtera Bawah Tanah for 500 years. He has been punishing himself. He has been guarding the Edisi Law. He has been waiting for someone worthy.
+- **Lei Alejandro is alive.** He has been hiding in the The Underground Ark for 500 years. He has been punishing himself. He has been guarding the Edisi Law. He has been waiting for someone worthy.
 - **He holds Topaju.** He found it centuries ago in the ruins of a Lei Roiga temple. He has kept it safe. He will give it to the party if they prove they are worthy.
 - **He adopted Livia Vane.** He found her as a child. He raised her. He lied to her about her origin — told her she was a twin who should have died. He did it to protect her. He did it to give her purpose. He was wrong.
 - **He is not the final antagonist.** He is a broken man who wants to help. He will offer the party everything he has — if they can prove they are worthy.
@@ -80,7 +79,7 @@ universe: Oversee
 - *"Laugh for me. I will perform my last show"* — Atreus knew he would die. He wanted the party to laugh. He wanted them to remember him smiling.
 
 ### What the Party Does NOT Know
-- **Lei Alejandro is alive.** He is hiding in the Bahtera Bawah Tanah.
+- **Lei Alejandro is alive.** He is hiding in the The Underground Ark.
 - **The "Puppeteer" in Atreus's letter is Lei Firsa** — not Alejandro.
 - **All six members of the Initial Six are Echoes** — except Alejandro. He is alive.
 - **The Echoes can be freed** with Swaith or Safayer.
@@ -89,34 +88,34 @@ universe: Oversee
 - **Alejandro holds Topaju.** He will give it to the party if they prove they are worthy.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They find Alejandro. They learn the truth about the ritual. They learn he is alive.
+- **Session 8–10** — The party reaches the The Underground Ark. They find Alejandro. They learn the truth about the ritual. They learn he is alive.
 - **Session 11** — Alejandro reveals the truth about Livia, Topaju, and the Edisi Law. The party must decide what to do with him.
 - **Endgame** — The party must decide the fate of the Echoes. Free them. Leave them. Use them. The choice is theirs.
 
 ### Corrections Applied
-- **CLARIFIED:** **Lei Alejandro is alive.** He is not an Echo. He is hiding in the Bahtera Bawah Tanah. He is guarding the Edisi Law. He is waiting for someone worthy.
+- **CLARIFIED:** **Lei Alejandro is alive.** He is not an Echo. He is hiding in the The Underground Ark. He is guarding the Edisi Law. He is waiting for someone worthy.
 - **CLARIFIED:** **The "Puppeteer" in Atreus's letter is Lei Firsa** — not Alejandro. The ambiguity is intentional.
 - **CLARIFIED:** **All six members of the Initial Six are Echoes** — except Alejandro. He is alive.
 - **CLARIFIED:** **The true reason for the ritual** was to **feed** Simon, not to replace him. Alejandro did not use Safayer. He did not purify the souls.
 - **CLARIFIED:** **Alejandro adopted Livia Vane.** He lied to her about her origin.
 - **CLARIFIED:** **Alejandro holds Topaju.**
-- **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the Bahtera Bawah Tanah.
+- **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the The Underground Ark.
 - **REMOVED:** "Echo Alejandro is the final boss of Season 3." — He is **not**. He is alive and penitent.
 - **REMOVED:** Any suggestion that Alejandro was the mastermind. He was a pawn. He was manipulated by Lei Firsa.
 
 ## Connections to Other Lore
-- `Lei Alejandro.md` — the betrayer who repented, alive in the Bahtera Bawah Tanah
+- `Lei Alejandro.md` — the betrayer who repented, alive in the The Underground Ark
 - `Atreus Grin.md` — the druid, Echo in Chenalia
 - `Sam Hurls.md` — the bard, Echo released by Swaith
 - `Gzirmo Kopling.md` — the tinker, Echo in Arujaya
-- `Atlan Nouveau.md` — the oceanographer, Echo in Kota Juto
+- `Atlan Nouveau.md` — the oceanographer, Echo in Juto Port City
 - `Olaf Guirela.md` — the ranger, Echo near Gordon's grave
 - `The Echoes.md` — the fragments of the Six
 - `Swaith — The Soul-Thirsting Blade.md` — the blade that can free them
 - `Safayer.md` — the Gemheart that can purify them
 - `Emelanica.md` — the Gemheart that holds the key
 - `Lei Firsa.md` — the true Puppeteer
-- `The Bahtera Bawah Tanah.md` — where Alejandro is hiding
+- `The The Underground Ark.md` — where Alejandro is hiding
 - `Topaju.md` — the Gemheart Alejandro holds
 - `Livia Vane.md` — the woman Alejandro adopted
 - `The Edisi Law.md` — the promise Alejandro guards

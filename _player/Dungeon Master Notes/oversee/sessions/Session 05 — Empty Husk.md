@@ -8,11 +8,11 @@ showToc: true
 
 ## Part 1: The Body of a Bard
 
-They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima">Pulau Dima</a>** to **<a href="/Kota%20Juto">Kota Juto</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
+They sailed on the same ship that had carried them from **<a href="/Pulau%20Dima">Dima Island</a>** to **<a href="/Kota%20Juto">Juto Port City</a>** — but now it belonged to **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
 
 **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** was with them. So was the body of **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — wrapped in cloth, laid in a small cabin, preserved by something none of them understood.
 
-During the voyage, **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — who had spent long nights with the **Berkas Penelitian Cycle Clan** at the Lyceum — finally understood what the four gems were.
+During the voyage, **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** — who had spent long nights with the **Cycle Clan Research File** at the Lyceum — finally understood what the four gems were.
 
 > *"They are not separate treasures. They are organs of a single being — the Architect. Together, they are called the **Gemhearts**."*
 
@@ -230,7 +230,7 @@ She spoke telepathically — not in words, but in feeling. Gratitude. Love. Apol
 
 Then she flew back to the **<a href="/oversee/locations/The%20Spire%20of%20Whispering%20Ice">Spire of Whispering Ice</a>**.
 
-From the village, the entire **Klan Frostscale** had watched.
+From the village, the entire **The Frostscale Clan** had watched.
 
 They knelt.
 
@@ -250,7 +250,7 @@ Accarus, Antrem, Geneva, and Hildag were **not in the building**.
 
 The party prepared to fight. **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** led the way to Basement 2.
 
-Four **Garda Besi** soldiers met him.
+Four **The Iron Guard** soldiers met him.
 
 Ama fell. The other four fought — and won.
 
@@ -280,7 +280,7 @@ Brains scattered. Blood pooled.
 
 Something inside her — something she had never felt before — **woke up**.
 
-**Husgus** — barely able to breathe — held up the **Berkas Penelitian Cycle Clan**. Gort took it. Husgus **snatched it back** and ran.
+**Husgus** — barely able to breathe — held up the **Cycle Clan Research File**. Gort took it. Husgus **snatched it back** and ran.
 
 They climbed the stairs. They broke through the upper doors. They reached the docks. They stole the Will of Grin ship for the **third time**.
 
@@ -336,7 +336,7 @@ She had finished translating.
 - **<a href="/oversee/npcs/Antrem%20Klaus">Antrem Klaus</a>** — Vya's father, the simple twin
 - **<a href="/oversee/npcs/Vythrax">Vythrax</a>** — the silver dragon, Syl's mother
 - **The Cabbage Merchant** — Syl's adoptive parent
-- **<a href="/oversee/npcs/Elder%20Jarl">Elder Jarl</a>** — leader of the Klan Frostscale elders
+- **<a href="/oversee/npcs/Elder%20Jarl">Elder Jarl</a>** — leader of the The Frostscale Clan elders
 - **<a href="/oversee/npcs/Lei%20Iron%20Gort">Lei Iron Gort</a>** — Wakil Pertahanan, killed Jarko
 
 ## Locations Visited

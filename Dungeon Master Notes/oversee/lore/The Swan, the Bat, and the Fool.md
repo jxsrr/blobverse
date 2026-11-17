@@ -2,14 +2,13 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Swan, the Bat, and the Fool</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Swan, the Bat, and the Fool
 > Nine ancient weapons. Three trios. One story. The royal families of Oversee have passed down this legend for centuries — but only the Crown remembers the whole of it.
 
 ## The Legend
-- Long ago — before the Commonwealth, before the Klan Lei, before the names were written down — there were **nine ancient weapons**.
+- Long ago — before the Commonwealth, before the The Lei Clan, before the names were written down — there were **nine ancient weapons**.
 - They were not forged. They were **found** — pulled from the ruins of the world before the Rapture. They were already old when the first kingdoms were young.
 - The old kings divided them into **three trios**:
   - **The Swan Trio** — the **passage** tools. They open doors. They allow travel between worlds.
@@ -54,13 +53,13 @@ universe: Oversee
 
 ## The Royal Families — The Keepers of the Legend
 - The legend of the Swan, the Bat, and the Fool is **not known to commoners**. It is **not taught in temples**. It is **not written in the Edisi Law**.
-- It is passed down through the **royal families of Oversee** — the old bloodlines who ruled before the Commonwealth. They are not the Klan Lei. They are older. They are the **original kings and queens** — the ones who were already old when the Commonwealth was young.
+- It is passed down through the **royal families of Oversee** — the old bloodlines who ruled before the Commonwealth. They are not the The Lei Clan. They are older. They are the **original kings and queens** — the ones who were already old when the Commonwealth was young.
 - The royal families know the legend. They know the Bat Trio exists. They know the Fool Trio is the key. They have been waiting for the right moment — the moment when the Swan and the Bat would be needed again.
 - **They are waiting for the party.** They have been waiting for centuries.
 
 ## The Six Blades — A Later Invention
 - The "six blades" are **not ancient**. They are a **later invention** — a **corruption** of the old legend.
-- They were forged by the **Klan Lei** — specifically by **Lei Firsa** — to **replace** the old legend. She wanted to erase the Bat and the Fool from history, and to make the Swan look like the only true set.
+- They were forged by the **The Lei Clan** — specifically by **Lei Firsa** — to **replace** the old legend. She wanted to erase the Bat and the Fool from history, and to make the Swan look like the only true set.
 - **The six blades are the tools of the Swan — not the Swan itself.** They are the "arrows" the swan carries — the cutting tools that clear the path.
 - The six blades are: Swaith, Rayio, Kkana, Frostfang, Zenahhi, Terrde.
 - **But three of them are not blades at all.** Swaith is a dagger. Kkana is a greatsword. Zenahhi is a longsword. They are the **Fool Trio** — not blades of the Swan.
@@ -84,7 +83,6 @@ universe: Oversee
 - **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan.
 - The **royal families** have been waiting for someone to expose this lie.
 - The **Fool Trio** is tied to the Tarot of the Architect — the same tarot the party drew from in Session 02.
-::/pf
 %% DM SECRETS %%
 
 ### The Nine Ancient Weapons — Full Canon
@@ -107,7 +105,7 @@ The nine ancient weapons are divided into **three trios**, not six blades and th
 
 ### The Six Blades — A Corruption of the Legend
 - The "six blades" are **not ancient**. They are a **later invention** — a **corruption** of the old legend.
-- They were forged by the **Klan Lei** — specifically by **Lei Firsa** — to **replace** the old legend. She wanted to erase the Bat and the Fool from history, and to make the Swan look like the only true set.
+- They were forged by the **The Lei Clan** — specifically by **Lei Firsa** — to **replace** the old legend. She wanted to erase the Bat and the Fool from history, and to make the Swan look like the only true set.
 - **The six blades are the tools of the Swan — not the Swan itself.** They are the "arrows" the swan carries — the cutting tools that clear the path.
 - The six blades are: Swaith, Rayio, Kkana, Frostfang, Zenahhi, Terrde.
 - **But three of them are not blades at all.** Swaith is a dagger. Kkana is a greatsword. Zenahhi is a longsword. They are the **Fool Trio** — not blades of the Swan.
@@ -132,7 +130,7 @@ The nine ancient weapons are divided into **three trios**, not six blades and th
 - **The Fool Trio is tied to the Tarot of the Architect.** The Fool is the first card — the beginning, the journey, the walker between worlds. The Fool Trio is the living embodiment of the Fool card.
 
 ### The Royal Families — The Keepers
-- The royal families are **not the Klan Lei**. They are older. They are the **original kings and queens** of Oversee — the ones who were already old when the Commonwealth was young.
+- The royal families are **not the The Lei Clan**. They are older. They are the **original kings and queens** of Oversee — the ones who were already old when the Commonwealth was young.
 - They know the legend of the Swan, the Bat, and the Fool. They have passed it down for generations.
 - They know the Bat Trio is hidden. They know the Fool Trio is scattered. They know the Swan Trio is needed.
 - They have been waiting for someone to come — someone who can unite the three trios and save the world.

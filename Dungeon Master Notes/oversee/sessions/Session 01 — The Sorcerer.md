@@ -11,11 +11,11 @@ showToc: true
 
 The story begins in the memory of a young girl named **Vya**, called V by those who love her — a child watching from the hillside as a ship arrived carrying soldiers whose faces were carved into permanent smiles.
 
-Years later, grown and raised by her adoptive father **<a href="/Kopling">Kopling</a>**, V set out to find her own path. She arrived at a village called **<a href="/oversee/locations/Yawning%20Town">Yawning Town</a>** — the starting point for new adventurers — and registered for her **SIP** (Adventurer's Permit) at the Guild.
+Years later, grown and raised by her adoptive father **Kopling**, V set out to find her own path. She arrived at a village called **<a href="/oversee/locations/harka/Yawning%20Town">Yawning Town</a>** — the starting point for new adventurers — and registered for her **SIP** (Adventurer's Permit) at the Guild.
 
 There she met **<a href="/oversee/npcs/Grilnax">Grilnax</a>**, the tired goblin clerk, and four other would-be adventurers: **<a href="/oversee/pcs/Husgus">Husgus</a>**, **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>**, **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>**, and **<a href="/oversee/pcs/Syl%20Frost">Syl Frost</a>**. Grilnax grouped them into a single party and registered them under the name **The Five Sticks**.
 
-Their first assignment was simple: retrieve a relic from the long-abandoned **<a href="/oversee/locations/Greyland%20Castle">Greyland Castle</a>**.
+Their first assignment was simple: retrieve a relic from the long-abandoned **<a href="/oversee/locations/harka/Greyland%20Castle">Greyland Castle</a>**.
 
 Before leaving, they shopped for supplies at **<a href="/oversee/npcs/Senta">Senta</a>**'s store. V bought a flower — the first thing she had ever purchased with her own coin.
 
@@ -67,7 +67,7 @@ And then the party mentioned **Lei Alejandro**.
 
 Everything changed.
 
-Grolnok knew Alejandro. He knew him well. His daughter — **<a href="/Ratu%20Ghaniba">Ratu Ghaniba</a>** — had married Alejandro. She had died in childbirth, and the child had been stillborn. The gem was not treasure. It was **inheritance**. It was meant for goblin heirs. It was meant for the children of a daughter who never lived long enough to see them.
+Grolnok knew Alejandro. He knew him well. His daughter — **Ratu Ghaniba** — had married Alejandro. She had died in childbirth, and the child had been stillborn. The gem was not treasure. It was **inheritance**. It was meant for goblin heirs. It was meant for the children of a daughter who never lived long enough to see them.
 
 The revelation that Alejandro — the revered ancestor, the honored name — had loved a goblin queen shattered everything the party thought they knew about the world's history.
 
@@ -79,7 +79,7 @@ The party won. They took the gem. And because they did not know what the gem tru
 
 The party woke on a small fishing boat, coughing seawater, surrounded by the smell of fish.
 
-An old dwarf fisherman named **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>** had pulled them from the wreckage. He brought them to his home on **<a href="/Pulau%20Dima">Pulau Dima</a>** — a tropical island with white sand and coconut trees — where he lived with his wife **<a href="/oversee/npcs/Janja">Janja</a>** and their three children: **<a href="/Dontol">Dontol</a>** (the eldest), **<a href="/Huan">Huan</a>** and **<a href="/Nila">Nila</a>**.
+An old dwarf fisherman named **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>** had pulled them from the wreckage. He brought them to his home on **Dima Island** — a tropical island with white sand and coconut trees — where he lived with his wife **<a href="/oversee/npcs/Janja">Janja</a>** and their three children: **Dontol** (the eldest), **Huan** and **Nila**.
 
 At first, it was peace. Recovery. A warm home. Guanik told them stories about the sea. His wife made tea. The children showed the party their shell collection.
 
@@ -95,7 +95,7 @@ The party did not understand what they had stolen. But someone else did.
 
 ## Part 6: The Will of Grin
 
-The taking of the green gem from its anti-magic chest had awakened something sleeping. A group known as **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** arrived at Pulau Dima while the party was away.
+The taking of the green gem from its anti-magic chest had awakened something sleeping. A group known as **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** arrived at Dima Island while the party was away.
 
 They burned everything. They killed Guanik. They killed Janja. They scattered the children.
 
@@ -132,9 +132,9 @@ The ship did not need a crew. It moved on its own. It had a destination already 
 - **<a href="/oversee/npcs/Guanik%20Dontol">Guanik Dontol</a>**, **<a href="/oversee/npcs/Guanik%20Huan">Guanik Huan</a>**, **<a href="/oversee/npcs/Guanik%20Nila">Guanik Nila</a>** — Guanik's children
 
 ## Locations Visited
-- **<a href="/oversee/locations/Yawning%20Town">Yawning Town</a>** — where the party formed
-- **<a href="/oversee/locations/Greyland%20Castle">Greyland Castle</a>** — now sunk beneath the sea
-- **<a href="/oversee/locations/Dima%20Island">Dima Island</a>** — the island where everything went wrong
+- **<a href="/oversee/locations/harka/Yawning%20Town">Yawning Town</a>** — where the party formed
+- **<a href="/oversee/locations/harka/Greyland%20Castle">Greyland Castle</a>** — now sunk beneath the sea
+- **<a href="/oversee/locations/harka/Dima%20Island">Dima Island</a>** — the island where everything went wrong
 
 ## Sessions Chain
 - **Next:** <a href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>
@@ -145,8 +145,8 @@ The ship did not need a crew. It moved on its own. It had a destination already 
 %% DM SECRETS %%
 - **The carving at Greyland Castle** was written by Lei Alejandro **after** the Great Disappearance — after his betrayal. He was hiding the Gemhearts. He was protecting secrets he already knew would be misunderstood.
 - **Grolnok knew Alejandro personally.** His daughter Ratu Ghaniba married Alejandro. She died in childbirth with a stillborn child. The gem was meant for goblin heirs. This is why Grolnok refused to give it up.
-- **The gem was stored in an anti-magic chest.** Taking it from the chest sent a signal to Will of Grin. Their arrival at Pulau Dima was not coincidental — it was a response.
-- **Pulau Dima was the party's first failure.** Guanik and Janja died because the party took the gem. This moment will echo through the campaign. **Dontol** — the eldest son — will carry this loss into Season 3.
-- **The divine touch on Pulau Dima** was the first time the Overseer noticed the party. They have not yet realized that "divine" does not mean "benevolent."
+- **The gem was stored in an anti-magic chest.** Taking it from the chest sent a signal to Will of Grin. Their arrival at Dima Island was not coincidental — it was a response.
+- **Dima Island was the party's first failure.** Guanik and Janja died because the party took the gem. This moment will echo through the campaign. **Dontol** — the eldest son — will carry this loss into Season 3.
+- **The divine touch on Dima Island** was the first time the Overseer noticed the party. They have not yet realized that "divine" does not mean "benevolent."
 - **The Will of Grin ship** was designed to return to the Maw Desert basecamp in Pirizia. The party did not know this. When they boarded, they became prisoners without realizing it.
 - **Session 01 setup:** Everything that follows is set in motion by **taking the gem from the anti-magic chest**. The party thought they were solving a simple retrieval quest. They were actually unraveling a 500-year-old secret.

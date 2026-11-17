@@ -98,7 +98,7 @@ aliases:
 - **His final words** — recorded in the ritual memory — were: *"System failure... Brotherhood protocol... betrayed. Lei, you didn't account for... the variable... of conscience."*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Gzirmo. They learn he was uneasy from the start. They learn he tried to stop the ritual.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Gzirmo. They learn he was uneasy from the start. They learn he tried to stop the ritual.
 - **Session 11** — The party returns to Arujaya. They find Echo Gzirmo fading. They may release him with Swaith. They may save the city. They may say goodbye.
 - **Session 11** — Kopling meets Echo Gzirmo. The reunion. The weeping. The recognition.
 - **Endgame** — The party carries Gzirmo's memory into the final battle. They carry his machines. They carry his data. They carry his conscience.

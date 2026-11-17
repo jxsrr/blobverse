@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Rapture</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The End of the High Magic Age
@@ -33,7 +32,6 @@ universe: Oversee
 ## What the Party Knows
 - The Rapture is a legend. Most people believe it is a myth.
 - The ruins of ancient cities are proof that it happened.
-::/pf
 
 %% DM SECRETS %%
 
@@ -56,30 +54,30 @@ universe: Oversee
 - **The Silent Rapture is the default.** The Devourer Comet is the **emergency valve** — what happens when the Valla fails, when the seal weakens, when the Overseer notices the world too directly. The Silent Rapture is what happens when the Valla works — when the Overseer feeds slowly, invisibly, without ever noticing what it is eating.
 - **The Grin are immune to both.** They are magic-deaf. They are invisible to the Oversight. They are the true survivors.
 
-### The Klan Lei's Role — The Darkest Secret
-- **The first Rapture was not an accident.** It was **engineered** by the earliest Klan Lei — the ancestors of Lei Firsa.
+### The The Lei Clan's Role — The Darkest Secret
+- **The first Rapture was not an accident.** It was **engineered** by the earliest The Lei Clan — the ancestors of Lei Firsa.
 - They knew the Overseer was real. They knew the Rapture was coming. They wanted to **survive** it — and they wanted to **eliminate their rivals**.
 - They deliberately pushed their rival bloodlines into producing too much Ambitio-Ether. They waited for the Devourer Comet. They hid in the **Grin Kingdom** — which they knew was immune. They survived. Their rivals did not.
-- **The Klan Lei engineered the first Rapture.** They have been hiding this fact for thousands of years. It is the darkest secret of the Klan.
-- **If the party exposes this truth**, the Klan Lei will collapse. The Commonwealth will fracture. The world will change.
+- **The The Lei Clan engineered the first Rapture.** They have been hiding this fact for thousands of years. It is the darkest secret of the Klan.
+- **If the party exposes this truth**, the The Lei Clan will collapse. The Commonwealth will fracture. The world will change.
 
 ### What the Party Does NOT Know
 - The Rapture is **not a natural event**. It is a feeding mechanism. The Overseer farms civilizations.
 - The **Devourer Comet is a fragment of the Shell** — a piece of the Architect's shed skin, reanimated by the Overseer.
 - The **Silent Rapture** is the same event as the Rapture — not a separate phenomenon.
-- **The first Rapture was engineered by the Klan Lei.** They deliberately pushed their rivals into producing too much Ambitio-Ether. They hid in the Grin Kingdom. They survived. Their rivals did not.
+- **The first Rapture was engineered by the The Lei Clan.** They deliberately pushed their rivals into producing too much Ambitio-Ether. They hid in the Grin Kingdom. They survived. Their rivals did not.
 - **The Rapture will happen again in 3 years** if the party does nothing.
 - **The party is living in a civilization that is approaching Rapture-level magic.** The clock is ticking.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn the truth about the Rapture. They learn it is a feeding mechanism. They learn the Devourer Comet is a fragment of the Shell.
-- **Session 11** — The party learns the Klan Lei engineered the first Rapture. They learn the truth about the Silent Rapture. They learn the clock is ticking.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn the truth about the Rapture. They learn it is a feeding mechanism. They learn the Devourer Comet is a fragment of the Shell.
+- **Session 11** — The party learns the The Lei Clan engineered the first Rapture. They learn the truth about the Silent Rapture. They learn the clock is ticking.
 - **Endgame** — The party must decide what to do with the truth. They can expose it. They can use it. They can bury it. The choice is theirs.
 
 ### Corrections Applied
 - **CLARIFIED:** The **Silent Rapture** is the **same event** as the Rapture — not a separate phenomenon. It is the quiet version. The Devourer Comet is the emergency valve.
 - **CLARIFIED:** The **Devourer Comet is a fragment of the Shell** — a piece of the Architect's shed skin, reanimated by the Overseer.
-- **CLARIFIED:** The **first Rapture was engineered by the Klan Lei.** They deliberately pushed their rivals into producing too much Ambitio-Ether. They hid in the Grin Kingdom. They survived. Their rivals did not.
+- **CLARIFIED:** The **first Rapture was engineered by the The Lei Clan.** They deliberately pushed their rivals into producing too much Ambitio-Ether. They hid in the Grin Kingdom. They survived. Their rivals did not.
 - **CLARIFIED:** **The Rapture will happen again in 3 years** if the party does nothing.
 - **REMOVED:** Any suggestion that the Silent Rapture is a separate phenomenon. It is the **same event** — just a different name.
 - **REMOVED:** Any suggestion that the Rapture is a natural event. It is a **feeding mechanism**.
@@ -92,6 +90,6 @@ universe: Oversee
 - `Ambitio-Ether.md` — the energy the Overseer consumes
 - `The Gap.md` — the barrier that hides the world
 - `The Grin Curse.md` — the curse that makes the Grin invisible to the Oversight
-- `Klan Lei.md` — the bloodline that engineered the first Rapture
+- `The Lei Clan.md` — the bloodline that engineered the first Rapture
 - `Lei Firsa.md` — the descendant of the engineers
 - `The Endgame Paths.md` — the four paths

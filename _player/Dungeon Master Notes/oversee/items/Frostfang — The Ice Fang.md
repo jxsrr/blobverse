@@ -20,5 +20,5 @@ aliases:
 - **Not yet recovered.** It is buried in <a href="/oversee/npcs/Vythrax">Vythrax</a>'s lair.
 
 ## What the Party Knows
-- The Klan Frostscale believe it is a sacred weapon.
+- The The Frostscale Clan believe it is a sacred weapon.
 - If Syl finds it, it may be her signature weapon.

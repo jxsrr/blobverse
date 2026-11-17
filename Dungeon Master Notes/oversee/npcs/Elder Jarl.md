@@ -1,14 +1,14 @@
 ---
 type: Oversee NPC
-role: Leader of the Council of Elders, Klan Frostscale
-faction: Klan Frostscale
+role: Leader of the Council of Elders, The Frostscale Clan
+faction: The Frostscale Clan
 home: Frostheart Village
 status: alive (dying)
 first_seen: Session 05
 universe: Oversee
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Frostscale</span></div><span class="bv-status bv-status-alive">Alive (dying)</span></div><div class="bv-dossier-name">Elder Jarl</div><div class="bv-dossier-epithet">Leader of the Council of Elders, Klan Frostscale</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Frostscale</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Temple of <a href="/oversee/npcs/Vythrax">Vythrax</a>, Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Frostscale Clan</span></div><span class="bv-status bv-status-alive">Alive (dying)</span></div><div class="bv-dossier-name">Elder Jarl</div><div class="bv-dossier-epithet">Leader of the Council of Elders, The Frostscale Clan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Frostscale Clan</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Temple of <a href="/oversee/npcs/Vythrax">Vythrax</a>, Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Frostheart Village</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
 
 
 ## What the Party Knows
@@ -27,7 +27,7 @@ Heal the clan. Protect Syl. Atone before he dies.
 
 ### Who Elder Jarl Is
 - **Elder Jarl** is the oldest dragonborn in Frostheart. His scales are nearly white and translucent — the color of ice that has been frozen for thousands of years. His horns spiral like a ram's. His voice is a whisper.
-- He has led the Council of Elders for **centuries**. He is not a warrior. He is not a mage. He is a keeper of tradition — a man who has spent his whole life preserving the rules, the rituals, the stories of Klan Frostscale.
+- He has led the Council of Elders for **centuries**. He is not a warrior. He is not a mage. He is a keeper of tradition — a man who has spent his whole life preserving the rules, the rituals, the stories of The Frostscale Clan.
 - He is **not guilty** of the original crime. He did not help Lei Watigi. He did not weaken Vythrax. He did not create the Breathstone lie. He inherited the lie. He believed it. He worshipped the egg. He did not know what it was.
 - But he **feels guilty**. He was the leader. He was responsible. He should have known. He should have questioned the Breathstone. He should have asked why the egg never hatched. He should have done something.
 - He has dedicated his remaining years to making it right.

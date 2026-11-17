@@ -9,7 +9,7 @@ universe: Oversee
 
 
 ## What We Know
-- The military arm of the Commonwealth. Officially called the **Garda Besi**.
+- The military arm of the Commonwealth. Officially called the **The Iron Guard**.
 - Led by **<a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>**. Composed of disciplined soldiers, war machines, and conscripts.
 - They are the ones who killed **<a href="/oversee/npcs/Jarko">Jarko</a>**. They are the ones who attacked the Maw Desert hideout.
 - They are the ones who are hunting the party.
@@ -26,14 +26,14 @@ universe: Oversee
 %% DM SECRETS %%
 
 ### The Original Iron Guard — Not a Military
-- The **original** Garda Besi was **not** a military. It was a group of **volunteers** — the ones who protected the search for the shepherd, the ones who kept the promise safe.
+- The **original** The Iron Guard was **not** a military. It was a group of **volunteers** — the ones who protected the search for the shepherd, the ones who kept the promise safe.
 - Their role was to **protect the Cycle Clan**, to protect the search, to protect the truth.
 - They were the ones who guarded the **Gemhearts**. They were the ones who guarded the **rituals**. They were the ones who stood outside the door while Guanik Wiseman spoke to the Architect.
 - They did not conquer. They did not invade. They **protected**.
 - **They are gone.** Lei Firsa killed them, silenced them, or erased them. Their oaths were broken. Their names were struck from history.
 
 ### The Current Iron Guard — Firsa's Version
-- The current Garda Besi is **not** the original. It is Lei Firsa's version — a corrupted institution built to enforce Klan Lei supremacy through force.
+- The current The Iron Guard is **not** the original. It is Lei Firsa's version — a corrupted institution built to enforce The Lei Clan supremacy through force.
 - It was created during Lei Firsa's consolidation of power, after the Initial Six disappeared (200 AV).
 - It is loyal to the **Triase** — not to the original promise.
 - It is **everywhere**. It has barracks in every major city. It has war machines on every road. It has conscripts in every village.
@@ -60,7 +60,7 @@ universe: Oversee
 - **The Conscripts** hate the Commonwealth. They can be turned — but they need a leader.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the original Iron Guard — the volunteers. They learn what it used to be.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the original Iron Guard — the volunteers. They learn what it used to be.
 - **Session 11** — The party confronts Gort. If they defeat him in single combat, he will listen. He will ask them: *"Why do you fight?"* If they answer truthfully, he will consider defecting.
 - **Endgame** — The party must decide what to do with the Iron Guard. Restore it to its original purpose? Destroy it? Replace it? The choice is theirs.
 
@@ -78,12 +78,12 @@ universe: Oversee
 
 ### Corrections Applied
 - **CLARIFIED:** The original Iron Guard was a group of **volunteers** — not a military.
-- **CLARIFIED:** The current Iron Guard is **Firsa's version** — a corrupted institution built to enforce Klan Lei supremacy through force.
+- **CLARIFIED:** The current Iron Guard is **Firsa's version** — a corrupted institution built to enforce The Lei Clan supremacy through force.
 - **CLARIFIED:** **Gort is not loyal to Valerius.** He is loyal to strength. He can be turned.
 - **CLARIFIED:** Gort's Warriors will follow him. Valerius's Loyalists will try to kill him. The Conscripts hate the Commonwealth.
 - **REMOVED:** Any mention of the **Golem Hukum**. The Iron Guard enforces the law directly — through soldiers, war machines, and conscripts. There are no constructs.
-- **REMOVED:** "The Garda Besi is not loyal to Valerius. They are loyal to Gort." — This is still true, but it is now framed as Gort's personal loyalty, not the institution's.
-- **REMOVED:** "The Garda Besi has three factions: Gort's Warriors, Valerius's Loyalists, and The Conscripts." — This is still true, but the Conscripts' origin is now explained.
+- **REMOVED:** "The The Iron Guard is not loyal to Valerius. They are loyal to Gort." — This is still true, but it is now framed as Gort's personal loyalty, not the institution's.
+- **REMOVED:** "The The Iron Guard has three factions: Gort's Warriors, Valerius's Loyalists, and The Conscripts." — This is still true, but the Conscripts' origin is now explained.
 
 ## Connections to Other Lore
 - `One Voice Commonwealth.md` — the government the Iron Guard serves

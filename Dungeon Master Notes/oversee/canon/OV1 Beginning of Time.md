@@ -4,7 +4,6 @@ universe: Oversee
 era: Beginning of Time
 years: 1XXXX – 20XX BV
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 02 OF 07</div><div class="bv-world-title">OV1 Beginning of Time</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Beginning of Time</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">1XXXX – 20XX BV</div></div></div></div>
 
 > [!info] The Making of the World
@@ -173,7 +172,6 @@ It always does.
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV0%20Before%20Oversee"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV0 Before Oversee</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV2%20Age%20of%20Knowledge"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV2 Age of Knowledge</span></a></div>
 
-::/pf
 
 %% DM SECRETS %%
 
@@ -185,11 +183,11 @@ The player-facing text above is the **Cycle Clan's version** of the beginning �
 
 - **The Inbu were the first failed Vessel.** The Architect did not create them to be a race. It created them to be a **container** — a race powerful enough to hold its consciousness. They were too powerful. They attracted the Overseer's attention. The Architect **scattered them into lesser races** to hide them from the Overseer. That is why every race has a fragment of Inbu DNA. That is why every race can use magic.
 
-- **The Gemhearts are not scattered randomly.** They were **hidden deliberately** by the Cycle Clan after the Architect became the Valla. Each one is in a place that only the Cycle Clan Ciphers know. The locations are encoded in the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>**, the **Bahtera Bawah Tanah**, and the memories of the four Ciphers.
+- **The Gemhearts are not scattered randomly.** They were **hidden deliberately** by the Cycle Clan after the Architect became the Valla. Each one is in a place that only the Cycle Clan Ciphers know. The locations are encoded in the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>**, the **The Underground Ark**, and the memories of the four Ciphers.
 
 - **The Rapture is not the Overseer's only method.** It is the most **visible** one. The Overseer has other, subtler ways of feeding — including through the **<a href="/oversee/lore/The%20Valla">Valla</a>**, which feeds it filtered energy, and through the **Gap**, which leaks raw Ambitio-Ether into the void. The Rapture is the **emergency valve** — what happens when the filter fails.
 
-- **The High Magic Societies were not foolish.** They did not "forget the balance." They were **deliberately misled** by the earliest Klan Lei — who already knew the truth about the Overseer and chose to hide it. The first Klan Lei Elders wanted the Rapture to happen, because each Rapture **killed the competing bloodlines** and left the Lei as the only survivors. The Lei **engineered** the first Rapture. This is the darkest secret of the Klan.
+- **The High Magic Societies were not foolish.** They did not "forget the balance." They were **deliberately misled** by the earliest The Lei Clan — who already knew the truth about the Overseer and chose to hide it. The first The Lei Clan Elders wanted the Rapture to happen, because each Rapture **killed the competing bloodlines** and left the Lei as the only survivors. The Lei **engineered** the first Rapture. This is the darkest secret of the Klan.
 
 - **The Devourer Comet is not just a shard of the Overseer.** It is a **fragment of the Shell** — a piece of the Architect's shed skin that the Overseer has **reanimated** and sent back. The Shell in the sky is not the only piece of the Architect's body. The comets are pieces of it, animated by the Overseer's hunger, used as tools.
 
@@ -198,13 +196,13 @@ The player-facing text above is the **Cycle Clan's version** of the beginning �
 ### When the Party Learns the Truth
 
 1. **Session 6** — The Shell video. The party learns the world is built on the remains of a cosmic entity.
-2. **Session 8–10** — The party reaches the **Bahtera Bawah Tanah** and reads the original **Edisi Law**. The truth about the Klan Lei's role in the first Rapture is revealed.
+2. **Session 8–10** — The party reaches the **The Underground Ark** and reads the original **Edisi Law**. The truth about the The Lei Clan's role in the first Rapture is revealed.
 3. **Session 11** — **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** reveals the truth about the Inbu and the Vessel project.
 4. **Endgame** — The party must decide what to do with this knowledge.
 
 ### What This Document Is
 
-This is **the Cycle Clan's archive entry** — the version they would allow an initiate to read. It is accurate in its broad strokes, but it **omits** the role of the Klan Lei, the true origin of the Inbu, and the truth about the comets.
+This is **the Cycle Clan's archive entry** — the version they would allow an initiate to read. It is accurate in its broad strokes, but it **omits** the role of the The Lei Clan, the true origin of the Inbu, and the truth about the comets.
 
 The truth is in the DM secrets.
 
@@ -222,7 +220,7 @@ The party will have to decide how much of the Cycle Clan's version to trust.
 - **<a href="/oversee/lore/The%20Three%20Surviving%20Dragons">The Three Surviving Dragons</a>** — the last of the Elder Dragons
 - **<a href="/oversee/lore/The%20Rapture">The Rapture</a>** — the feeding mechanism of the Overseer
 - **<a href="/oversee/lore/The%20Shell">The Shell</a>** — the Architect's shed skin
-- **<a href="/Klan%20Lei">Klan Lei</a>** — the bloodline that engineered the first Rapture
+- **<a href="/Klan%20Lei">The Lei Clan</a>** — the bloodline that engineered the first Rapture
 - **<a href="/oversee/lore/The%20Cycle%20Clan">The Cycle Clan</a>** — the organization that guards this truth
 - **<a href="/oversee/lore/The%20Rapture">The Devourer Comet</a>** — the Overseer's tool
 

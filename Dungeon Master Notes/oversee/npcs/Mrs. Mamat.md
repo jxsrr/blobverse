@@ -7,7 +7,6 @@ status: Unknown (presumed deceased)
 first_seen: Session 03
 universe: Oversee
 ---
-::pf
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-deceased">Unknown (presumed deceased)</span></div><div class="bv-dossier-name">Mrs. Mamat</div><div class="bv-dossier-epithet">Warung Owner, Ghuffghuff</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Ghuffghuff Market</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ghuffghuff</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 03</div></div></div></div>
 
 
@@ -19,12 +18,11 @@ universe: Oversee
 ## What the Party Remembers
 - She was kind. She charged less for the maps than the party expected.
 - She did not remember Yahanda when asked about him — she thought the party had come alone.
-::/pf
 
 %% DM SECRETS %%
 - Bu Mamat was **eaten on the first night**, just after Yahanda. Her stall was empty the next morning.
 - Her maps are still accurate — she drew them herself, from decades of walking the region.
-- **Her warung** is a small wooden cart, now overturned and abandoned in the Ghuffghuff market. If the party investigates, they will find:
+- **Her food stall** is a small wooden cart, now overturned and abandoned in the Ghuffghuff market. If the party investigates, they will find:
   - A **half-finished map** with notations in her handwriting.
   - A **small box** under the counter containing coins she had saved for her granddaughter.
   - A **letter** from her granddaughter, inviting her to move to **Javan Town** when she retires.

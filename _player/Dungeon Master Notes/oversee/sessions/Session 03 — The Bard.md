@@ -8,9 +8,9 @@ showToc: true
 
 ## Part 1: The Road to Ghuffghuff
 
-The party left **<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>** with a mission from **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**: find **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** in **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff Town</a>**. Their guide was **<a href="/oversee/npcs/Agus">Agus</a>** — the same fighter they had met at Mutiara.
+The party left **<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City">Juto Port City</a>** with a mission from **<a href="/oversee/npcs/Mira%20Nouveau">Mira</a>**: find **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** in **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff Town</a>**. Their guide was **<a href="/oversee/npcs/Agus">Agus</a>** — the same fighter they had met at Mutiara.
 
-They sailed from the docks of Kota Juto to **<a href="/oversee/locations/Javan%20Town">Javan Town</a>**, then took a rhino cart inland. The journey would take days.
+They sailed from the docks of Juto Port City to **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>**, then took a rhino cart inland. The journey would take days.
 
 The cart carried more than the party. Along for the ride were:
 
@@ -18,7 +18,7 @@ The cart carried more than the party. Along for the ride were:
 - **<a href="/oversee/npcs/Yahanda">Yahanda</a>** — a quiet priest assigned to teach at the new temple
 - **The Mektol family** — **<a href="/oversee/npcs/Herman%20Mektol">Herman Mektol</a>** (father), **<a href="/oversee/npcs/Faska%20Mektol">Faska Mektol</a>** (mother), and **<a href="/oversee/npcs/Cindy%20Mektol">Cindy Mektol</a>** (daughter), moving to Ghuffghuff to start a new life
 
-Along the road, **<a href="/oversee/npcs/Agus">Agus</a>** told them about the **Gruffgud War** — a centuries-long civil conflict between **<a href="/Ghuffghuff">Ghuffghuff</a>** and **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>**. The cause? A dispute over whether **fried rice** or **fried noodles** was the superior dish.
+Along the road, **<a href="/oversee/npcs/Agus">Agus</a>** told them about the **Gruffgud War** — a centuries-long civil conflict between **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** and **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>**. The cause? A dispute over whether **fried rice** or **fried noodles** was the superior dish.
 
 The party assumed this was a joke.
 
@@ -44,7 +44,7 @@ And then, faintly, they heard it.
 
 **Singing.**
 
-The village of **<a href="/Ghuffghuff">Ghuffghuff</a>** was close.
+The village of **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** was close.
 
 ## Part 3: Arrival at a Quiet Village
 
@@ -68,7 +68,7 @@ Morning.
 
 The party learned that **<a href="/oversee/npcs/Yahanda">Yahanda</a>** was missing. No one remembered him. Not the innkeeper, not the drivers, not the villagers.
 
-They bought maps from **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>**'s warung and went into **<a href="/Hutan%20Domido">Hutan Domido</a>** — the forest between Ghuffghuff and Gudameng.
+They bought maps from **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>**'s food stall and went into **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** — the forest between Ghuffghuff and Gudameng.
 
 There, they found the old deaf man again. This time, he was trying to communicate. His hands moved urgently. His face was frightened.
 
@@ -86,7 +86,7 @@ The party said nothing. But something between them had broken.
 
 Deeper in the forest, they found the ruins of an old fortress — a remnant of the Gruffgud War — and beside it, the **dried corpse of Yahanda**. His skin was tight across his bones. No blood. No wound.
 
-They went to **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** — the rival village — and slept. It felt normal there. Everyone remembered them.
+They went to **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** — the rival village — and slept. It felt normal there. Everyone remembered them.
 
 They returned to Ghuffghuff.
 
@@ -94,31 +94,31 @@ They returned to Ghuffghuff.
 
 At the new temple, the priests did not recognize **<a href="/oversee/npcs/Yahanda">Yahanda</a>**. They had never heard his name.
 
-At the Mektol house, only **<a href="/Cindy">Cindy</a>** was home. Her parents, she said, had gone to the market.
+At the Mektol house, only **Cindy** was home. Her parents, she said, had gone to the market.
 
 At the market, **<a href="/oversee/npcs/Memeng">Memeng</a>** — the cook — remembered that **ten people** had arrived in the cart. Not eleven. Not Yahanda.
 
 The party returned to the Mektol house.
 
-**<a href="/Herman">Herman</a>** appeared. His words were the same as Memeng's. *"Ten people arrived. Not eleven."*
+**Herman** appeared. His words were the same as Memeng's. *"Ten people arrived. Not eleven."*
 
 The party slept.
 
-In the morning, they returned. **<a href="/Herman">Herman</a>** did not remember his wife.
+In the morning, they returned. **Herman** did not remember his wife.
 
 > *"My wife? No. It's just me and my daughter. We came alone."*
 
-**<a href="/Faska">Faska</a>** was gone. And no one — not even her husband — remembered she had ever existed.
+**Faska** was gone. And no one — not even her husband — remembered she had ever existed.
 
-The party went back to the ruined fortress. This time, they found **two** bodies: **<a href="/oversee/npcs/Yahanda">Yahanda</a>** and **<a href="/Faska">Faska</a>**, side by side, dried and hollow.
+The party went back to the ruined fortress. This time, they found **two** bodies: **<a href="/oversee/npcs/Yahanda">Yahanda</a>** and **Faska**, side by side, dried and hollow.
 
 ## Part 6: The Night Watch
 
 They needed to protect the survivors.
 
 A plan:
-- **<a href="/oversee/pcs/Husgus">Husgus</a>** would watch **<a href="/Herman">Herman</a>**
-- **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** would watch **<a href="/Cindy">Cindy</a>**
+- **<a href="/oversee/pcs/Husgus">Husgus</a>** would watch **Herman**
+- **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** would watch **Cindy**
 - **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** and **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** would watch **<a href="/oversee/npcs/Memeng">Memeng</a>**
 - **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** and **<a href="/oversee/npcs/Agus">Agus</a>** would sleep together
 
@@ -128,7 +128,7 @@ At eight in the evening, **<a href="/oversee/npcs/Agus">Agus</a>** stood. His ey
 
 **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** followed. Something invisible struck him — he swung, missed.
 
-The party woke. They chased Agus into **<a href="/Hutan%20Domido">Hutan Domido</a>**.
+The party woke. They chased Agus into **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>**.
 
 There, in the moonlight, they found it.
 
@@ -148,16 +148,16 @@ The others — the ones who had heard the singing the night before — were stil
 
 The party realized the truth: **Hearing the song traps you in the illusion.** Those who covered their ears saw the real Ghuffghuff. Those who did not, stayed inside the dream.
 
-That night, they tested it. **<a href="/oversee/pcs/Syl%20Frost">Syl</a>**, **<a href="/HVS">HVS</a>**, and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** covered their ears. **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** and **<a href="/oversee/pcs/Husgus">Husgus</a>** did not.
+That night, they tested it. **<a href="/oversee/pcs/Syl%20Frost">Syl</a>**, **HVS**, and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** covered their ears. **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** and **<a href="/oversee/pcs/Husgus">Husgus</a>** did not.
 
-By morning, Ama and Husgus were free. They saw the ruined village. They saw the empty houses. They found **<a href="/Cindy">Cindy</a>** in the Mektol house, alone, crying, making her own food.
+By morning, Ama and Husgus were free. They saw the ruined village. They saw the empty houses. They found **Cindy** in the Mektol house, alone, crying, making her own food.
 
 ## Part 8: The Many-Headed Creature
 
 They planned the confrontation.
 
-- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** would take **<a href="/Cindy">Cindy</a>** and **<a href="/oversee/npcs/Memeng">Memeng</a>** to **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** — out of the illusion.
-- **<a href="/HVS">HVS</a>** and **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** would wait at the temple.
+- **<a href="/oversee/pcs/Syl%20Frost">Syl</a>** would take **Cindy** and **<a href="/oversee/npcs/Memeng">Memeng</a>** to **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** — out of the illusion.
+- **HVS** and **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** would wait at the temple.
 - **<a href="/oversee/pcs/Husgus">Husgus</a>** and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** would go to the **teater**.
 
 The plan: cover their ears when the singing started.
@@ -168,7 +168,7 @@ The party covered their ears and attacked.
 
 The battle was brutal. **<a href="/oversee/pcs/Zure%20Ama">Ama</a>** cut off a head — it grew back. **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** fired arrow after arrow — none of it mattered. The creature was not a living thing. It was a **grief made manifest**.
 
-**<a href="/HVS">HVS</a>** had been preparing. He drew **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** and stabbed himself, feeding the blade a Hit Die. Then he drove it into the creature's heart.
+**HVS** had been preparing. He drew **<a href="/oversee/items/Swaith%20%E2%80%94%20The%20Soul-Thirsting%20Blade">Swaith</a>** and stabbed himself, feeding the blade a Hit Die. Then he drove it into the creature's heart.
 
 Swaith **released**.
 
@@ -214,14 +214,14 @@ Then he walked into the dark and was gone.
 - **<a href="/oversee/npcs/Bud-eg">Bud-eg</a>** — the deaf old man who knew the truth, killed by Agus
 - **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** — the bard of the Initial Six, freed and then killed
 - **<a href="/oversee/npcs/Accarus%20Grin">Accarus</a>** — co-leader of Will of Grin, first appearance
-- **<a href="/Cindy">Cindy</a>** — orphaned survivor of the Mektol family
+- **Cindy** — orphaned survivor of the Mektol family
 - **<a href="/oversee/npcs/Memeng">Memeng</a>** — the cook, saved
-- **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>** — warung owner, killed early in the haunting
+- **<a href="/oversee/npcs/Bu%20Mamat">Bu Mamat</a>** — food stall owner, killed early in the haunting
 
 ## Locations Visited
-- **<a href="/oversee/locations/Ghuffghuff%20Town">Ghuffghuff Town</a>** — the village of the singing
-- **<a href="/oversee/locations/Domido%20Forest">Domido Forest</a>** — the forest where the dead were found
-- **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>** — the rival village, briefly safe
+- **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff Town</a>** — the village of the singing
+- **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** — the forest where the dead were found
+- **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>** — the rival village, briefly safe
 
 ## Sessions Chain
 - **Previous:** <a href="/oversee/sessions/Session%2002%20%E2%80%94%20The%20Wizard">Session 02</a>

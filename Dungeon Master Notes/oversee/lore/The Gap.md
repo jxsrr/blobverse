@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Gap</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Space Between
@@ -34,7 +33,6 @@ universe: Oversee
 - The Gap is not hell. It is a **crack in reality**.
 - iblis are not enemies. They are neighbors.
 - The Gap can be opened. It has been opened before.
-::/pf
 %% DM SECRETS %%
 - The Gap is the membrane between the world and the Overseer.
 - If the Gap is destroyed, the Overseer sees everything.

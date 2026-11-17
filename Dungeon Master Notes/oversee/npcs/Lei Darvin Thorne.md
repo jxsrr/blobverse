@@ -1,7 +1,7 @@
 ---
 type: Oversee NPC
 role: The Forgotten Twin, True Heir of Lei Roiga (by blood, not by stone)
-faction: None (formerly Klan Lei)
+faction: None (formerly The Lei Clan)
 home: Arujaya / Elis
 status: alive
 first_seen: Session 06
@@ -21,7 +21,7 @@ universe: Oversee
   <div class="bv-dossier-grid">
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Affiliation</div>
-      <div class="bv-stat-val">None (formerly Klan Lei)</div>
+      <div class="bv-stat-val">None (formerly The Lei Clan)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Whereabouts</div>
@@ -44,7 +44,7 @@ universe: Oversee
 - Appears senile, rambling about "Arumanehjaya" — a mechanical underground city with gears and automatic rifles.
 - Hired the party for 500 gold to excavate the city. The city was real — **Arujaya**.
 - Has genuine elemental earth magic. Much stronger than Valerius's.
-- Was hidden from the world for over a decade. Seen as "disabled" by Klan Lei standards.
+- Was hidden from the world for over a decade. Seen as "disabled" by The Lei Clan standards.
 - He is **not crazy**. He is connected to the earth in a way no one else is.
 
 ## Current Goal
@@ -96,7 +96,7 @@ Find his underground city. Survive. (He does not fully understand the danger he 
 
 ### Season 3 Reveal Schedule
 - **Session 8** — Valerius kills Darvin (original timeline). If the party saves him, this is a major branch.
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They meet Lei Alejandro. They learn Darvin was the True Heir — but not the holder.
+- **Session 8–10** — The party reaches the The Underground Ark. They meet Lei Alejandro. They learn Darvin was the True Heir — but not the holder.
 - **Session 11** — If Darvin survived, he meets Alejandro. He sees Topaju. He weeps. He says: *"I thought I was crazy. I was just listening."*
 - **Endgame** — If Darvin survived, he can join the party as a guide. He can sense the Gemhearts. He can lead them to the final battle.
 

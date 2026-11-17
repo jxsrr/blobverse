@@ -21,9 +21,9 @@ universe: Oversee
 
 ## Rioquan — The North
 - **Climate:** Tropical. Island. Divided.
-- **Terrain:** Vertical city (Kota Juto), canyons (Ngarai Ratapan), islands, the Silent Docks.
-- **Cities:** Kota Juto, Graen, Zundabun, Thainarv.
-- **Notable Features:** The Observatorium, the Well of Wonders (hidden), the Bahtera Bawah Tanah (under the mountains).
+- **Terrain:** Vertical city (Juto Port City), canyons (Ngarai Ratapan), islands, the Silent Docks.
+- **Cities:** Juto Port City, Graen, Zundabun, Thainarv.
+- **Notable Features:** The Observatorium, the Well of Wonders (hidden), the The Underground Ark (under the mountains).
 
 ## Elis — The South
 - **Climate:** Arid. Wild. Mysterious.

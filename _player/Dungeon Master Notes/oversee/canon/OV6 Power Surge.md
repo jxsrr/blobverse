@@ -11,13 +11,13 @@ years: 201 – 699 AV
 
 ## Gordon — The Hunter of Domido
 
-**~240 AV — Hutan Domido**
+**~240 AV — Domido Forest**
 
-Years passed. **<a href="/oversee/npcs/Gordon">Gordon</a>** grew into a strong young man — a hunter of rare skill, known throughout the **<a href="/Hutan%20Domido">Domido Forest</a>** for his tracking, his patience, and his uncanny ability to read the land.
+Years passed. **<a href="/oversee/npcs/Gordon">Gordon</a>** grew into a strong young man — a hunter of rare skill, known throughout the **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** for his tracking, his patience, and his uncanny ability to read the land.
 
 The **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero bow</a>** was always with him, though he rarely used it for hunting. He preferred a simple hunting bow. Gustaero was too special, too precious to use casually. He kept it wrapped in cloth, hidden in a hollow beneath the floorboards of his hut, and occasionally took it out just to hold it — to feel the warmth of the wood, to remember the old dwarf who had given it to him.
 
-He traveled often between **<a href="/Ghuffghuff">Ghuffghuff</a>** and **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
+He traveled often between **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** and **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>**, selling his catch at their markets. He knew the people of both villages well — the hunters, the farmers, the mothers selling cakes, the children running through the streets.
 
 He knew they had no real quarrel with each other. They differed only in cuisine — **fried rice versus fried noodles** — and that was not a reason for hatred, let alone war.
 
@@ -27,7 +27,7 @@ He knew they had no real quarrel with each other. They differed only in cuisine 
 
 Then, in the year 260 AV, something changed.
 
-Merchants from the great cities — **<a href="/Padre%20City">Padre City</a>**, **<a href="/oversee/locations/Javan%20Town">Javan Town</a>** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
+Merchants from the great cities — **<a href="/oversee/locations/harka/Padre%20Megalopolis">Padre City</a>**, **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>** — began appearing more frequently in both villages. They brought luxury goods, silk cloth, cheap jewelry — and weapons of a quality far too fine for remote villages.
 
 They also brought **rumors**. Whispers of the neighboring village's hostile intentions. Whispers of plans to steal secret recipes. Whispers of insults that Gordon had never heard before.
 
@@ -105,7 +105,7 @@ He was arrested, interrogated, and nearly lynched by a mob. But one wiser elder 
 
 Gordon was **exiled**.
 
-He returned to his hut in **Hutan Domido**, and from a distance, he watched the fires of war begin to burn.
+He returned to his hut in **Domido Forest**, and from a distance, he watched the fires of war begin to burn.
 
 The two villages that had once been peaceful now killed each other. The young men he had taught to hunt died on the battlefield. The mothers who had given him food wept for their dead children.
 
@@ -121,7 +121,7 @@ Because he kept making noise that no one wanted to hear. Because he kept shoutin
 
 The **Gruffgud War** lasted for centuries.
 
-For the people of the great cities of **<a href="/oversee/locations/Harka">Harka</a>** — **<a href="/oversee/locations/Yawning%20Town">Yawning Town</a>**, **<a href="/Padre%20City">Padre City</a>**, **<a href="/oversee/locations/Javan%20Town">Javan Town</a>** — this war was a joke.
+For the people of the great cities of **<a href="/oversee/locations/harka">Harka</a>** — **<a href="/oversee/locations/harka/Yawning%20Town">Yawning Town</a>**, **<a href="/oversee/locations/harka/Padre%20Megalopolis">Padre City</a>**, **<a href="/oversee/locations/harka/Javan%20Town">Javan Town</a>** — this war was a joke.
 
 Merchants passing through the region brought stories of two foolish villages fighting over food. Bards composed mocking songs about the *"Rice vs. Noodle War"* and sang them in port taverns. People laughed when they heard that the two villages were fighting over **fried rice**, joking that fried noodles were also delicious and perhaps they should fight too.
 
@@ -135,11 +135,11 @@ Some merchants who dared to pass through the conflict zone never returned. Some 
 
 But those reports were always dismissed by Commonwealth officials with sweet smiles, saying it was just two crazy villages killing each other and there was nothing to worry about.
 
-Other cities in Harka — **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** with its wheat fields, **<a href="/oversee/locations/Muangching%20Bay">Muangching Bay</a>** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
+Other cities in Harka — **<a href="/oversee/locations/harka/Nesia%20Town">Nesia Town</a>** with its wheat fields, **<a href="/oversee/locations/harka/Muangching%20Bay">Muangching Bay</a>** with its fishing harbor — heard only occasional news of the war. For them, Ghuffghuff and Gudameng were small dots on the map, too far to care about.
 
 When refugees occasionally came with stories of the horrors of war, they were given a little food and sent away. The world kept turning, and the absurd war kept burning without anyone truly caring.
 
-Meanwhile, in **Hutan Domido**, **Gordon aged**.
+Meanwhile, in **Domido Forest**, **Gordon aged**.
 
 His age somehow moved slowly — perhaps because of the **Gustaero bow**, perhaps because of a curse, perhaps because he was **too stubborn to die**.
 
@@ -159,7 +159,7 @@ Gordon did not care. He kept shouting, because he knew the truth — and he woul
 
 **~270 AV**
 
-Decades after **<a href="/oversee/lore/The%20Great%20Disappearance">The Great Disappearance</a>**, as the name **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** began to fade from public memory — just as he had faded from the world — the **<a href="/oversee/locations/Kerajaan%20Grin">Grin Kingdom</a>** slowly collapsed.
+Decades after **<a href="/oversee/lore/The%20Great%20Disappearance">The Great Disappearance</a>**, as the name **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** began to fade from public memory — just as he had faded from the world — the **<a href="/oversee/locations/pirizia/Kerajaan%20Grin">Grin Kingdom</a>** slowly collapsed.
 
 Without its charismatic leader — without the figure who had been living proof that the eternal smile was not a curse — the Grin people faced the same bitter reality again.
 
@@ -211,15 +211,15 @@ They called themselves **Pirizia** — a group of fighters fiercely solid, loyal
 
 Their organizational structure was designed for efficiency and secrecy.
 
-At the top of the hierarchy sat <a href="/oversee/npcs/Hildag%20Grin">The Weaver</a> — a position held by Hildag Grin, the founder of Will of Grin. She was not Geneva's mother. She was Accarus's mother — and Antrem's. She had hidden them from the Klan Lei. She had protected them. She had bred them. She was the Weaver. She was an old woman with a wrinkled but wide eternal smile, and eyes that had seen more history than anyone. Her nickname, **The Weaver**, was not without reason. Hildag was a master strategist who designed the fabric of Will of Grin's operations across the continent, like a weaver arranging threads into whole cloth. She never went into the field herself, but every movement of members in the field was part of the grand pattern she designed.
+At the top of the hierarchy sat <a href="/oversee/npcs/Hildag%20Grin">The Weaver</a> — a position held by Hildag Grin, the founder of Will of Grin. She was not Geneva's mother. She was Accarus's mother — and Antrem's. She had hidden them from the The Lei Clan. She had protected them. She had bred them. She was the Weaver. She was an old woman with a wrinkled but wide eternal smile, and eyes that had seen more history than anyone. Her nickname, **The Weaver**, was not without reason. Hildag was a master strategist who designed the fabric of Will of Grin's operations across the continent, like a weaver arranging threads into whole cloth. She never went into the field herself, but every movement of members in the field was part of the grand pattern she designed.
 
 Below her was **The Smiling Hand** — an executive position held by **Accarus** and **Geneva** themselves. The two were responsible for operations across the continent, leading important missions directly, and making tactical decisions in the field. Accarus — with grief for Atreus that never healed — was the organization's muscle: a tough fighter who never retreated from battle. Geneva was its brain: a visionary who saw the big picture in the midst of chaos.
 
 At the bottom layer stood the **Grinners** — the field troops who were the backbone of the organization. They were faceless soldiers, without names, without individuality. A Grinner had no personal ambition, no desire beyond the mission. They were trained to obey, to move as one unit, to sacrifice themselves without hesitation if necessary. To the outside world, they were just terrifying smiles emerging from the shadows, carrying out tasks, then vanishing again. But inside the organization, they were **family** — a large family united by the same curse, the same persecution, the same determination to change the world.
 
-In their underground headquarters in **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>**, Pirizia, **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **<a href="/oversee/lore/The%20Initial%20Six">The Initial Six</a>**.
+In their underground headquarters in **<a href="/oversee/locations/pirizia/Maw%20Desert">Maw Desert</a>**, Pirizia, **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** continued to work in silence. They gathered information, tracked the trail of Emelanica, kept the secret of what really happened to **<a href="/oversee/lore/The%20Initial%20Six">The Initial Six</a>**.
 
-They knew **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** was still alive somewhere. They knew **<a href="/Klan%20Lei">Klan Lei</a>** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
+They knew **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** was still alive somewhere. They knew **<a href="/Klan%20Lei">The Lei Clan</a>** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
 
 But they were not afraid. They were the descendants of **<a href="/Gavaevodata">Gavaevodata</a>** and **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
 
@@ -247,7 +247,7 @@ A new generation had been born and died without ever knowing what life without w
 
 His body was ancient. His hair was completely white. His beard hung to his chest. But his eyes still burned. And his voice still rumbled like thunder.
 
-He gathered the elders of both villages at the old fortress in the middle of **<a href="/Hutan%20Domido">Hutan Domido</a>** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
+He gathered the elders of both villages at the old fortress in the middle of **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>** — the same fortress where he had once seen the conspirators, where he had been wounded, where he had started all this. The fortress was weathered, its wood eaten by termites, its roof full of holes — but it still stood as a silent witness to history.
 
 Gordon stood in the center of the room. The elders sat around him — some with skeptical expressions, some with curiosity, some with hope that had almost burned out.
 
@@ -267,7 +267,7 @@ No one recorded it. No one wrote its history.
 
 But in the end, the elders signed a peace treaty. **The Gruffgud War ended.**
 
-Gordon did not stay to celebrate. He returned to his hut in **Hutan Domido**, alone.
+Gordon did not stay to celebrate. He returned to his hut in **Domido Forest**, alone.
 
 He knew this peace was fragile. He knew the real enemy — **the Commonwealth** — was still out there, watching.
 
@@ -293,9 +293,9 @@ But unlike their cousins who lived in the grand palaces of **West Harka**, these
 
 They could feel the warmth of fire at their fingertips. They could light a candle without a match. They could make a campfire burn brighter. But **nothing more**.
 
-To Klan Lei, which glorified purity of blood, they were **failures** — accidental traitors to the lineage they were supposed to be proud of.
+To The Lei Clan, which glorified purity of blood, they were **failures** — accidental traitors to the lineage they were supposed to be proud of.
 
-The two brothers lived in a small town in the central region of Rioquan — far from the bustle of the capital, far from the political intrigues of Klan Lei. They lived with a foster family — kind people who did not know their true bloodline — in a simple but sufficient life.
+The two brothers lived in a small town in the central region of Rioquan — far from the bustle of the capital, far from the political intrigues of The Lei Clan. They lived with a foster family — kind people who did not know their true bloodline — in a simple but sufficient life.
 
 **Accarus** — a few minutes older — was a clever and restless young man, always wondering about the world outside, always feeling that something greater was waiting for him.
 
@@ -353,7 +353,7 @@ He never looked back.
 
 ## The Will of Grin
 
-At the **Will of Grin** headquarters in **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>**, Pirizia, Accarus stayed and healed.
+At the **Will of Grin** headquarters in **<a href="/oversee/locations/pirizia/Maw%20Desert">Maw Desert</a>**, Pirizia, Accarus stayed and healed.
 
 He was surrounded by people with the same smile — humans, elves, dwarves, halflings, all races with one thing in common: **an eternal smile that never faded**.
 
@@ -415,7 +415,7 @@ Months passed. **Antrem finally stopped searching** — not because he had forgo
 
 With the remnants of money he earned from odd jobs, he bought a few sheep and started a new life as a **shepherd** on the slopes of the newly formed **South Rioquan**.
 
-He never again spoke of **Klan Lei**. Of the fire he should have inherited. Of his twin brother lost at sea.
+He never again spoke of **The Lei Clan**. Of the fire he should have inherited. Of his twin brother lost at sea.
 
 He simply became **Antrem** — a simple young man who worked hard from morning to night, who preferred the company of sheep to people, who never smiled too broadly because his smile was not eternal like the Grin — just ordinary.
 
@@ -573,7 +573,7 @@ She only knew that her father had gone to a far place, that her mother had staye
 
 **<a href="/oversee/pcs/Zure%20Ama">Zure Ama</a>** fell into **Oversee**.
 
-He landed in **<a href="/oversee/locations/Nesia%20Town">Nesia Town</a>** — a farming village in Harka. He was found by **<a href="/oversee/npcs/Joni">Joni</a>** and **<a href="/oversee/npcs/Siti">Siti</a>**, a kind couple who adopted him and taught him to farm.
+He landed in **<a href="/oversee/locations/harka/Nesia%20Town">Nesia Town</a>** — a farming village in Harka. He was found by **<a href="/oversee/npcs/Joni">Joni</a>** and **<a href="/oversee/npcs/Siti">Siti</a>**, a kind couple who adopted him and taught him to farm.
 
 He had no memory of how he had arrived. He only knew he was far from home — from **Aede**, from **Reins**, from everything he had lost.
 
@@ -593,7 +593,7 @@ When his soul was sucked into **<a href="/oversee/npcs/Simon%20Greenbottle">Simo
 
 Centuries after that ritual, **Echo Sam Hurls found his way out**.
 
-He was drawn to **<a href="/Ghuffghuff">Ghuffghuff</a>** — a place with a strong connection to **<a href="/oversee/npcs/Gordon">Gordon</a>**, the student of **<a href="/oversee/npcs/Olaf%20Guirela">Olaf</a>**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
+He was drawn to **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** — a place with a strong connection to **<a href="/oversee/npcs/Gordon">Gordon</a>**, the student of **<a href="/oversee/npcs/Olaf%20Guirela">Olaf</a>**, whose teachings he had heard in other Echoes inside Simon. Perhaps he was searching for something that reminded him of Olaf. Perhaps he was just looking for a place with enough emotional energy to make him "alive" again.
 
 In Ghuffghuff, **Echo Sam took a horrifying form**.
 
@@ -629,7 +629,7 @@ Other Echoes might also be waiting in other places.
 
 - **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>** might echo in the forests he once protected, or in the ruins of the fallen Grin Kingdom.
 - **<a href="/oversee/npcs/Gzirmo%20Kopling">Gzirmo Kopling</a>** might echo in the mountains of **Elis**, near the clan he left behind.
-- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** might echo in the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Kota Juto</a>**, or on the shore where he first found **<a href="/oversee/npcs/Reins">Reins</a>**.
+- **<a href="/oversee/npcs/Atlan%20Nouveau">Atlan Nouveau</a>** might echo in the **<a href="/The%20Observatorium">Observatorium</a>** of **<a href="/Kota%20Juto">Juto Port City</a>**, or on the shore where he first found **<a href="/oversee/npcs/Reins">Reins</a>**.
 - **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** might echo in the villages he once protected, or within **<a href="/oversee/npcs/Gordon">Gordon</a>** and later **<a href="/oversee/pcs/Husgus">Husgus</a>**, who inherited his teachings without knowing where they came from.
 
 They wait, these Echoes. Waiting for the moment to speak again — to finish what was interrupted at that altar.
@@ -640,7 +640,7 @@ And **<a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>** �
 
 **~690 AV**
 
-Forty years after the war ended, **<a href="/oversee/npcs/Gordon">Gordon</a>** — now ancient, his age approaching five centuries — still lived in his hut in **<a href="/Hutan%20Domido">Hutan Domido</a>**.
+Forty years after the war ended, **<a href="/oversee/npcs/Gordon">Gordon</a>** — now ancient, his age approaching five centuries — still lived in his hut in **<a href="/oversee/locations/harka/Domido%20Forest">Domido Forest</a>**.
 
 His body could barely move. But his eyes remained sharp. His days were spent sitting in front of the hut, watching the forest, occasionally singing the old melody **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** had taught him.
 
@@ -720,7 +720,7 @@ During the war, Malakor had watched how Gordon nearly exposed all their plans. H
 
 Though the evidence had been destroyed and the witnesses silenced, Malakor knew: **Gordon was still alive, still knew, and as long as Gordon lived, the truth could never truly die**.
 
-After the war ended, Malakor secluded himself in an old tower at the edge of **Hutan Domido**, near the ruins of the old fortress. He gathered his followers — former warriors from both sides who could not return to normal life, who still held grudges, who could be bought with promises of power or revenge.
+After the war ended, Malakor secluded himself in an old tower at the edge of **Domido Forest**, near the ruins of the old fortress. He gathered his followers — former warriors from both sides who could not return to normal life, who still held grudges, who could be bought with promises of power or revenge.
 
 And he waited for the right moment.
 
@@ -774,7 +774,7 @@ When the light faded, he was still a child — but **smaller than before**.
 
 In the chaos, **Husgus grabbed Gordon's body** and fled into the forest.
 
-Malakor and his men chased. But **Hutan Domido was Husgus's home**. He knew every hollow, every hiding place, every secret path.
+Malakor and his men chased. But **Domido Forest was Husgus's home**. He knew every hollow, every hiding place, every secret path.
 
 He vanished like a ghost.
 
@@ -846,11 +846,11 @@ On the grip of Gordon's bow, he carved simple words:
 
 > *"Here lies Gordon, the Noisy Rhino. He saw the truth, and the world thought him mad. But he never stopped shouting. I will not forget you."*
 
-After leaving **Hutan Domido**, **Husgus wandered without purpose**, searching for answers about who he was. His small body was both a burden and an advantage — he could slip into places ordinary people could not enter, but he also had to face a world that looked down on halflings.
+After leaving **Domido Forest**, **Husgus wandered without purpose**, searching for answers about who he was. His small body was both a burden and an advantage — he could slip into places ordinary people could not enter, but he also had to face a world that looked down on halflings.
 
 ## Aftermath
 
-Years later, in **<a href="/Ghuffghuff">Ghuffghuff</a>** and **<a href="/oversee/locations/Gudameng%20Town">Gudameng</a>**, the name **Gordon** was almost forgotten.
+Years later, in **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** and **<a href="/oversee/locations/harka/Gudameng%20Town">Gudameng</a>**, the name **Gordon** was almost forgotten.
 
 But the **melody** that **<a href="/oversee/npcs/Sam%20Hurls">Sam Hurls</a>** had taught Gordon — and Gordon had taught to the villagers — **lived on**.
 
@@ -858,13 +858,13 @@ Children sang it without knowing what it meant. Mothers hummed it while putting 
 
 The melody seeped into the soil, into the trees, into the air.
 
-**Centuries later**, when **<a href="/oversee/pcs">The Five Sticks</a>** came to **<a href="/Ghuffghuff">Ghuffghuff</a>**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
+**Centuries later**, when **<a href="/oversee/pcs">The Five Sticks</a>** came to **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>**, the melody would **call back Echo Sam Hurls** — Sam would appear in horrifying form, waiting for someone brave enough to listen to his unfinished song.
 
 At **<a href="/Gunung%20Rayu">Gunung Rayu</a>**, the **secret project of the Commonwealth continued for centuries**.
 
 What they dug up in the ancient underground city, what artifacts they found — **no one knew**. Because the war they had created had successfully distracted everyone.
 
-In **Hutan Domido**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
+In **Domido Forest**, beneath the old tree, **a bow stood planted in the ground** — a grave marker for a hero the world never acknowledged.
 
 But the fire of his struggle **continued to burn** — in **<a href="/oversee/pcs/Husgus">Husgus</a>**, in the melody that never died, and in the hearts of those who believed that the truth, though buried, would never truly be lost.
 

@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Tinkers' History</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The People Who Rejected Magic
@@ -33,7 +32,6 @@ universe: Oversee
 - Arujaya is a city of technology.
 - The Tinkers rejected magic.
 - They are not hostile, but they are not friendly.
-::/pf
 
 %% DM SECRETS %%
 - The Tinkers are not just engineers. They are the **last link** to the world before the Rapture.

@@ -4,11 +4,11 @@ universe: Oversee
 ---
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Twin Tradition</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
-> [!info] The Darkest Secret of Klan Lei
+> [!info] The Darkest Secret of The Lei Clan
 > When twins are born to the Klan, one must die. It is the law. It is the curse.
 
 ## What Is the Tradition?
-- When a Klan Lei mother gives birth to twins, the elder twin is kept. The younger twin is **taken**.
+- When a The Lei Clan mother gives birth to twins, the elder twin is kept. The younger twin is **taken**.
 - The younger twin is killed in a quiet ceremony. Their blood is offered to the Valla.
 - The Klan believes this **concentrates the power** in the surviving twin.
 - It has been practiced for roughly **650 years**.
@@ -19,7 +19,7 @@ universe: Oversee
 - The real reasons are:
   - **Control.** Twins are unpredictable. They can be more powerful than expected. They can challenge the hierarchy.
   - **Fuel.** Every killed twin's soul is drawn toward the Valla — and the Klan's matriarch has learned to skim that energy for herself. The tradition is not just eugenics. It is a **feeding mechanism**.
-  - **Weakness.** Twins are **weaker** than single-born heirs. Their power is split. Klan Lei could not afford weak children — not when their entire legitimacy rested on being the strongest.
+  - **Weakness.** Twins are **weaker** than single-born heirs. Their power is split. The Lei Clan could not afford weak children — not when their entire legitimacy rested on being the strongest.
 
 ## The Discovery — Lei Firsa's Research
 - Lei Firsa discovered the truth about twins through decades of experimentation. She tested every combination of Lei blood she could find. She bred children. She measured their magic. She documented their power.

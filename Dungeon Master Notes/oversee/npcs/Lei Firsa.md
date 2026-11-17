@@ -1,14 +1,13 @@
 ---
 type: Oversee NPC
-role: The True Founder of Klan Lei, The Woman Who Forced Simon into the Valla Role
-faction: Klan Lei (hidden)
+role: The True Founder of The Lei Clan, The Woman Who Forced Simon into the Valla Role
+faction: The Lei Clan (hidden)
 home: Unknown
 status: Ambiguous (may be alive, may be dead, may be something else)
 first_seen: Not yet met (mentioned in lore)
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Lei</span></div><span class="bv-status bv-status-deceased">Ambiguous (may be alive, may be dead, may be something else)</span></div><div class="bv-dossier-name">Lei Firsa</div><div class="bv-dossier-epithet">The True Founder of Klan Lei, The Woman Who Forced Simon into the Valla Role</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Lei (hidden)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (mentioned in lore)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Lei Clan</span></div><span class="bv-status bv-status-deceased">Ambiguous (may be alive, may be dead, may be something else)</span></div><div class="bv-dossier-name">Lei Firsa</div><div class="bv-dossier-epithet">The True Founder of The Lei Clan, The Woman Who Forced Simon into the Valla Role</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Lei Clan (hidden)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (mentioned in lore)</div></div></div></div>
 
 
 ## What the Party Knows (from Lore)
@@ -18,7 +17,7 @@ universe: Oversee
 - Sacrificed **Grin Qain** (her rival) to force Simon into the Valla role.
 - Scattered the six legendary blades across the world.
 - Rewrote history: Simon became "Lei the Great." She became a male wizard in official records.
-- Founded **Klan Lei** and corrupted the **One Voice Commonwealth**.
+- Founded **The Lei Clan** and corrupted the **One Voice Commonwealth**.
 - Invented the **twin-killing tradition**.
 - The world believes she was the first Valla. It is a lie. Simon is the Valla.
 
@@ -28,13 +27,13 @@ universe: Oversee
 - What she looks like now — if she is alive.
 - What she wants.
 - Whether she is still human.
-::/pf
+
 %% DM SECRETS %%
 
 ### The Ambiguity — A DM Choice
 - **Lei Firsa's current status is intentionally ambiguous.** She may be:
   - **Alive** — kept alive by the Gemhearts and forbidden rituals, hidden somewhere in Oversee.
-  - **Dead** — killed by her own ambition, by a rival, or by the consequences of her actions. Her legacy (Klan Lei, the Triase, the Commonwealth) is the antagonist.
+  - **Dead** — killed by her own ambition, by a rival, or by the consequences of her actions. Her legacy (The Lei Clan, the Triase, the Commonwealth) is the antagonist.
   - **Something else** — neither alive nor dead, neither human nor divine. A ghost. A lich. A memory. A name that still pulls strings.
 - **The DM must decide before Season 3.** The choice shapes the final arc:
   - **If she is alive** — she is the final boss. The party must find her, confront her, and decide what to do with her.
@@ -61,7 +60,7 @@ universe: Oversee
 
 ### The Corruption of the Commonwealth
 - Lei Firsa arrived at the **One Voice Commonwealth** in 01 BV. It was good then. It was a search — a search for the next shepherd, the next Valla.
-- She corrupted it. She turned the search into a dynasty. She turned the promise into a lie. She turned the Commonwealth into the Klan Lei's throne.
+- She corrupted it. She turned the search into a dynasty. She turned the promise into a lie. She turned the Commonwealth into the The Lei Clan's throne.
 - She created the **Triase** — the three-pillar structure that replaced the original single Kanselir Agung. She placed her descendants in key positions. She rewrote history.
 - She killed the original members of the Commonwealth — the ones who remembered Guanik's promise. She silenced them. She erased them.
 - **Geldfre** was the last Kanselir Agung who remembered the original promise. After him, the Commonwealth became Lei Firsa's.
@@ -70,19 +69,19 @@ universe: Oversee
 - Lei Firsa invented the **twin-killing tradition** around **50 AV**. It is not ancient. It is not natural. It is a deliberate policy.
 - She wanted to concentrate magical power in her bloodline. She wanted to feed on the twin sacrifices.
 - Every killed twin's soul is drawn toward the Valla — and Lei Firsa learned to skim that energy for herself. The tradition is not just eugenics. It is a **feeding mechanism**.
-- If the tradition is exposed, Klan Lei will collapse. If the tradition is stopped, Lei Firsa (or her legacy) will lose her power source.
+- If the tradition is exposed, The Lei Clan will collapse. If the tradition is stopped, Lei Firsa (or her legacy) will lose her power source.
 - This is the **key** to defeating her in Season 3.
 
 ### The Rumor of the First Valla
 - The world believes **Lei Firsa** was the first Valla — or that "Lei the Great" (a male wizard) ascended to godhood.
 - **This is a lie.** Simon Greenbottle is the Valla. He was forced into the role. He is still there, still suffering.
-- Lei Firsa encouraged the rumor without confirming it. She let the world believe what was convenient. No one knows Simon is the Valla. The Cycle Clan knows. The Klan Lei believes the rumor. This is the core deception.
-- If the party exposes the truth — that Simon is the Valla, that Lei Firsa forced him — the Klan Lei will lose its legitimacy. The Commonwealth will collapse.
+- Lei Firsa encouraged the rumor without confirming it. She let the world believe what was convenient. No one knows Simon is the Valla. The Cycle Clan knows. The The Lei Clan believes the rumor. This is the core deception.
+- If the party exposes the truth — that Simon is the Valla, that Lei Firsa forced him — the The Lei Clan will lose its legitimacy. The Commonwealth will collapse.
 
 ### What Lei Firsa Wants
 - If she is alive: She wants to stay alive. She wants to keep her power. She wants to prevent anyone from freeing Simon — because if Simon is freed, the seal will break, and she will lose everything.
 - She wants **Vya** — because Vya's fire can burn away the Grin curse and make the Grin visible to the Overseer. This would force the Overseer's attention back to Oversee. It is her escape plan: let the Overseer eat the Grin, and she will slip away in the chaos.
-- If she is dead: Her legacy wants the same things. The Klan Lei, the Triase, the Commonwealth — they all want to prevent Simon from being freed. They are her will made manifest.
+- If she is dead: Her legacy wants the same things. The The Lei Clan, the Triase, the Commonwealth — they all want to prevent Simon from being freed. They are her will made manifest.
 
 ### What the Party Does NOT Know
 - Whether Lei Firsa is alive or dead.
@@ -97,9 +96,9 @@ universe: Oversee
 - That the world's belief in "Lei the Great" is a lie. Simon is the Valla.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn the truth about Lei Firsa — her manipulation of Simon, her corruption of the Commonwealth, her invention of the twin tradition.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn the truth about Lei Firsa — her manipulation of Simon, her corruption of the Commonwealth, her invention of the twin tradition.
 - **Session 11** — The party confronts Lei Firsa (if she is alive) or her legacy (if she is dead). They must decide what to do with her.
-- **Endgame** — The party must decide the fate of the Klan Lei, the Commonwealth, and the world.
+- **Endgame** — The party must decide the fate of the The Lei Clan, the Commonwealth, and the world.
 
 ### Lei Firsa's Fate — The DM's Choice
 - **If she is alive:** She is the final boss. The party must find her hidden sanctuary, confront her, and decide whether to kill her, imprison her, or make a deal with her.
@@ -120,7 +119,7 @@ universe: Oversee
 - **REMOVED:** "She manipulated Simon into marriage through a false claim of pregnancy." — This was a **false claim** in an earlier draft. She **was** pregnant — but the pregnancy was manufactured from Simon's stolen essence. She used the real pregnancy as a weapon.
 - **REMOVED:** "She is the final antagonist of the campaign. Not Valerius. Not the Overseer. Her." — This is now conditional. She **may** be the final antagonist. The DM decides.
 - **REMOVED:** "She is not human anymore. She has used the Gemhearts and forbidden rituals to extend her life for 700 years. She is something between a lich and a god." — This is now one possible interpretation. The DM decides.
-- **REMOVED:** "She lives in a hidden sanctuary beneath the Bahtera Bawah Tanah." — This is now one possible location. The DM decides.
+- **REMOVED:** "She lives in a hidden sanctuary beneath the The Underground Ark." — This is now one possible location. The DM decides.
 - **REMOVED:** "She knows the party exists. She has been watching them through Hanzel Lei Krow's wind magic." — This is now one possible situation. The DM decides.
 - **REMOVED:** "She is the one who ordered the burning of Chenalia." — This is now ambiguous. It may have been her, it may have been Valerius, it may have been someone else. The DM decides.
 
@@ -129,7 +128,7 @@ universe: Oversee
 - `Grin Qain.md` — the woman she sacrificed
 - `The Valla.md` — the seal she corrupted
 - `The Cycle Clan.md` — the organization she seized
-- `Klan Lei.md` — the dynasty she founded
+- `The Lei Clan.md` — the dynasty she founded
 - `The Twin Tradition.md` — the tradition she invented
 - `One Voice Commonwealth.md` — the government she corrupted
 - `The Triase.md` — the structure she created

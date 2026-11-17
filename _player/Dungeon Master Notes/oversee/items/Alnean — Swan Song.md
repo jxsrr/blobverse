@@ -30,7 +30,7 @@ aliases:
 - Alnean is one of the three ancient relics. **It is not related to the Architect.** Its origin is older, or separate, or simply unknown.
 - It was never carried by the Architect. It was never part of the Gemheart network.
 - It has been kept by the **Kuo Lau Kingdom** — the underwater kingdom — for as long as their records go back. The Kuo Lau King is its current guardian.
-- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Kota Juto (Session 02). Babi is an exile, a fragment of the Kuo Lau who was lost in the mortal world.
+- The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Juto Port City (Session 02). Babi is an exile, a fragment of the Kuo Lau who was lost in the mortal world.
 - Alnean has never been recovered by anyone outside the Kuo Lau. The Cycle Clan knows it exists. They do not know where it is.
 - No one has ever seen the Kuo Lau Kingdom and returned to tell of it.
 

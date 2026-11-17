@@ -1,14 +1,13 @@
 ---
 type: Oversee NPC
 role: The Betrayer of the Initial Six, Guardian of the Edisi Law, Holder of Topaju
-faction: Klan Lei (Wendigo line)
+faction: The Lei Clan (Wendigo line)
 home: Unknown
 status: Unknown (presumed alive)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Lei</span></div><span class="bv-status bv-status-alive">Unknown (presumed alive)</span></div><div class="bv-dossier-name">Lei Alejandro</div><div class="bv-dossier-epithet">The Betrayer of the Initial Six, Guardian of the Edisi Law, Holder of Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Lei (Wendigo line)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Bahtera Bawah Tanah (Underground Ark)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Lei Clan</span></div><span class="bv-status bv-status-alive">Unknown (presumed alive)</span></div><div class="bv-dossier-name">Lei Alejandro</div><div class="bv-dossier-epithet">The Betrayer of the Initial Six, Guardian of the Edisi Law, Holder of Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Lei Clan (Wendigo line)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The Underground Ark (Underground Ark)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
 ## What the Party Knows (from Sam's Memory and Lore)
@@ -26,27 +25,27 @@ universe: Oversee
 - That he adopted **Livia Vane**.
 - That he holds **Topaju**.
 - That he has spent 500 years punishing himself.
-- That he is guarding the **Edisi Law** in the Bahtera Bawah Tanah.
+- That he is guarding the **Edisi Law** in the The Underground Ark.
 - That he is waiting for someone worthy to come.
 
 ## Current Goal
 Guard the Edisi Law. Wait for someone worthy. Atone.
-::/pf
+
 
 %% DM SECRETS %%
 
 ### Who Lei Alejandro Is
-- **Lei Alejandro** was born into the **Lei Wendigo** bloodline — the wind branch of Klan Lei. He was a prodigy. He was the strongest wind mage of his generation.
+- **Lei Alejandro** was born into the **Lei Wendigo** bloodline — the wind branch of The Lei Clan. He was a prodigy. He was the strongest wind mage of his generation.
 - He was chosen to lead the **Initial Six** — not because he was the most powerful, but because he was the most trusted. He was a hero. He was a descendant of Lei Firsa's line. He was supposed to be the one who saved the world.
-- He fell in love with **Ratu Ghaniba** — the goblin queen, the daughter of King Grolnok. It was a forbidden love. The Klan Lei condemned it. He did not care.
+- He fell in love with **Ratu Ghaniba** — the goblin queen, the daughter of King Grolnok. It was a forbidden love. The The Lei Clan condemned it. He did not care.
 - Ghaniba died in childbirth. Their child was stillborn. Alejandro was broken. He gave **Emelanica** to the goblins in her honor. He wrote the carving at Greyland Castle. He tried to move on.
 - He was manipulated by **Lei Firsa**. She told him that the only way to save the world was to feed the Valla. She told him that the Initial Six were strong enough to survive. She told him it was necessary.
 - He performed the ritual in 200 AV. He sacrificed the Initial Six to Simon. He did not use **Safayer** for purification — because he did not have it. The souls became **Echoes** instead of clean energy.
 - He has spent 500 years punishing himself. He did not become a hero. He became a hermit.
 
-### The Bahtera Bawah Tanah — His Prison and His Duty
+### The The Underground Ark — His Prison and His Duty
 - After the ritual, Alejandro fled. He could not face the world. He could not face what he had done.
-- He found the **Bahtera Bawah Tanah** — the Underground Ark. The Cycle Clan had built it as a seed ship. It was sealed. It was forgotten.
+- He found the **The Underground Ark** — the Underground Ark. The Cycle Clan had built it as a seed ship. It was sealed. It was forgotten.
 - He entered the Ark. He found the **original Edisi Law** — the promise Guanik Wiseman made to the Architect. He read it. He understood what he had done.
 - He has been guarding the Edisi Law ever since. He has been waiting for someone worthy to come. He has been waiting for a chance to atone.
 - He holds **Topaju** — the yellow Gemheart. He found it centuries ago. He has kept it safe. He does not want it. He wants to give it to someone who can use it.
@@ -77,7 +76,7 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - The ambiguity is intentional. The party will learn the truth in Season 3.
 
 ### What the Party Does NOT Know
-- Alejandro is **alive**. He is hiding in the Bahtera Bawah Tanah.
+- Alejandro is **alive**. He is hiding in the The Underground Ark.
 - He adopted **Livia Vane**. He is her father. He lied to her about her origin.
 - He holds **Topaju**. He will give it to them if they prove they are worthy.
 - He has been guarding the **Edisi Law** for 500 years.
@@ -86,7 +85,7 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - The **Puppeteer** in Atreus's letter is **Lei Firsa**, not Alejandro.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They find Alejandro. He does not attack them. He asks them: *"Do you know what I did?"*
+- **Session 8–10** — The party reaches the The Underground Ark. They find Alejandro. He does not attack them. He asks them: *"Do you know what I did?"*
 - **Session 11** — Alejandro reveals the truth about the ritual, about Livia, about the Edisi Law, about Topaju. The party must decide what to do with him.
 - **Endgame** — Alejandro offers them Topaju and the Edisi Law. He asks them to fulfill the promise. He asks them to atone for him.
 
@@ -97,7 +96,7 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - **The choice is theirs.** The DM should present all three options clearly and let the party decide.
 
 ### Corrections Applied
-- **CLARIFIED:** Alejandro is **alive**. He is hiding in the Bahtera Bawah Tanah. He is not an Echo. He is not dead.
+- **CLARIFIED:** Alejandro is **alive**. He is hiding in the The Underground Ark. He is not an Echo. He is not dead.
 - **CLARIFIED:** He adopted **Livia Vane**. She is not a twin. He lied to her about her origin.
 - **CLARIFIED:** He holds **Topaju**. He found it centuries ago. He will give it to the party if they prove they are worthy.
 - **CLARIFIED:** He has been guarding the **Edisi Law** for 500 years. He is waiting for someone worthy.
@@ -105,7 +104,7 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - **CLARIFIED:** He was manipulated by **Lei Firsa** and pressured by the **Lei bloodline**. He is not the mastermind. He is a pawn.
 - **CLARIFIED:** The **Puppeteer** in Atreus's letter is **Lei Firsa**, not Alejandro. The ambiguity is intentional.
 - **REMOVED:** "Echo Alejandro is the final boss of Season 3." He is not. He is alive and penitent.
-- **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the Bahtera Bawah Tanah.
+- **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the The Underground Ark.
 - **REMOVED:** "He is the final Cipher — the Cipher of Guilt." The Cipher system is removed from canon.
 - **REMOVED:** "He will not speak unless the party proves they are worthy." — He will speak. He will ask them: *"Do you know what I did?"* They must answer truthfully.
 
@@ -117,7 +116,7 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - `Atlan Nouveau.md` — the oceanographer he sacrificed
 - `Gzirmo Kopling.md` — the tinker he sacrificed
 - `The Echoes.md` — the result of his failed ritual
-- `The Bahtera Bawah Tanah.md` — where he is hiding
+- `The The Underground Ark.md` — where he is hiding
 - `The Edisi Law.md` — the promise he guards
 - `Topaju.md` — the Gemheart he holds
 - `Livia Vane.md` — his adopted daughter

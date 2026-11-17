@@ -30,5 +30,5 @@ Smuggle weapons. Protect his crew.
 - Sasimo's mechanical hand is a **Grin artifact**. It was made by <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> herself.
 - He lost his real hand in a Commonwealth raid. He was saved by <a href="/oversee/npcs/Accarus%20Grin">Accarus</a>.
 - He is fiercely loyal to <a href="/oversee/npcs/Accarus%20Grin">Accarus</a>. He would die for him.
-- He knows about the **Bahtera Bawah Tanah**. He has never been there, but he knows it exists.
+- He knows about the **The Underground Ark**. He has never been there, but he knows it exists.
 - If the party is sent by <a href="/oversee/npcs/Accarus%20Grin">Accarus</a>, he will give them a **hidden compartment** on his ship. It contains weapons, gold, and a **map to the Ark**.

@@ -18,7 +18,7 @@ universe: Oversee
 | **Beginning of Time** | 1XXXX - 20XX BV | The Architect creates Oversee. First Trees are born. The Inbu emerge. The Rapture destroys civilizations. |
 | **Age of Knowledge** | 19XX - 10XX BV | Survivors study magic. Guanik Wiseman sees the Shell. Cycle Clan founded. One Voice Commonwealth founded. Edisi Law signed. |
 | **Age of Nurturing** | 9XX - 01 BV | Lei Firsa rises. Simon is forced into the Valla role. The Cycle Clan falls. The HVS shells are lost. |
-| **The First God** | 01 - 70 AV | Lei Firsa rewrites history. Klan Lei is born. The twin tradition begins. |
+| **The First God** | 01 - 70 AV | Lei Firsa rewrites history. The Lei Clan is born. The twin tradition begins. |
 | **Initial Six Era** | 180 - 200 AV | The Initial Six are formed. They are betrayed. The Echoes are born. |
 | **Power Surge** | 201 - 699 AV | The Grin Kingdom falls. The Gruffgud War ends. The Great Strike. The Grace falls. The party is born. |
 | **The Campaign** | 700 AV | Now. |
@@ -38,5 +38,5 @@ universe: Oversee
 ## What the Party Does NOT Know
 - The calendar is a lie. Lei Firsa changed the year count to make herself the center of history.
 - The "real" year is closer to **1700 BV** — not 700 AV. The party is living in a rewritten timeline.
-- If the party ever restores the true calendar, it will destabilize the Commonwealth. The legitimacy of the Triase, the Klan Lei, and the entire One Voice Commonwealth rests on the lie that 1 AV was a holy year.
+- If the party ever restores the true calendar, it will destabilize the Commonwealth. The legitimacy of the Triase, the The Lei Clan, and the entire One Voice Commonwealth rests on the lie that 1 AV was a holy year.
 - The Tower of Time's backwards clock is counting down to something. No one knows what. **The DM should decide.** It may be counting down to the Rapture. It may be counting down to Lei Firsa's return. It may be counting down to the moment the seal finally breaks.

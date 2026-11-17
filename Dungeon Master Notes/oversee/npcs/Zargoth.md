@@ -30,7 +30,7 @@ universe: Oversee
 
 ### Who Zargoth Is
 - **Zargoth** is an ancient demon of the **Gap** — not a predator, not a monster, not a servant of the Overseer. He is one of the **first inhabitants** of the Gap — a creature born from the leftovers of the Overseer's failed digestion, shaped by the chaos of failed creation.
-- He is **old**. Older than the Cycle Clan. Older than the Commonwealth. Older than the Klan Lei. He has been alive since before the Rapture.
+- He is **old**. Older than the Cycle Clan. Older than the Commonwealth. Older than the The Lei Clan. He has been alive since before the Rapture.
 - He is **wise**. He has watched the mortal world from the Gap for millennia. He has seen civilizations rise and fall. He has seen the Rapture consume the proud and the powerful. He has seen the humble survive.
 - He is **kind**. He is not a predator. He is not a monster. He is a father. He fell in love with **Gavaevodata** — the elf princess who stepped into the Gap to save her people. He married her. He fathered the Grin bloodline. He loved his children. He still loves them.
 - He is **not evil**. He is not a villain. He is a father who has been separated from his children for 10,000 years. He wants to see them again. He wants to see them smile.
@@ -101,7 +101,7 @@ universe: Oversee
 - Zargoth wants to be **released**. He does not want to possess Shin. He wants to rest.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the HVS shells. They learn about Zargoth. They learn he is inside Shin.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the HVS shells. They learn about Zargoth. They learn he is inside Shin.
 - **Session 11** — Shin learns the truth about Zargoth. He learns Zargoth is a father, not a monster. He learns Zargoth has been protecting him. He learns Zargoth wants to meet Vya. He learns Zargoth wants to be released.
 - **Session 11** — Shin meets Zargoth. Not in person — in a vision, a dream, a moment of silence. Zargoth speaks to him. He says: *"I am sorry I could not protect you better. I am sorry I could not be there. I am your father. I have always been your father."*
 - **Endgame** — Shin must decide what to do with Zargoth. He can release him. He can keep him. He can use him. The choice is his.

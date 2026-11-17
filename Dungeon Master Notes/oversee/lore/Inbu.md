@@ -4,7 +4,6 @@ universe: Oversee
 aliases:
   - The Inbu
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Inbu</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Mother of All Races
@@ -33,7 +32,6 @@ aliases:
 ## What the Party Knows
 - The Inbu are a myth. Most people do not believe they existed.
 - Scholars debate whether they were real or a creation story.
-::/pf
 
 %% DM SECRETS %%
 
@@ -89,7 +87,7 @@ aliases:
 ### The Inbu and Magic
 - The Inbu were **powerful mages**. They could shape reality with their thoughts. They were the first to touch Ambitio-Ether — the first to shape it, to use it, to **become** it.
 - **Magic is not evenly distributed** in the races of Oversee. Some individuals have immense power. Some have none. Some Elven clans are entirely non-magical. Others carry deep traditions of magic. The same is true of Dragonborn, Humans, and all the rest.
-- **Magic follows bloodlines** — but not in the way the Klan Lei claims. It is not a pure lineage. It is a **connection** to the Valla — to Simon. Everyone with magic is connected to him. The Klan Lei has the strongest magic because they are **closest** to him. They share his blood. But the Inbu's legacy is in every race — not just the Klan.
+- **Magic follows bloodlines** — but not in the way the The Lei Clan claims. It is not a pure lineage. It is a **connection** to the Valla — to Simon. Everyone with magic is connected to him. The The Lei Clan has the strongest magic because they are **closest** to him. They share his blood. But the Inbu's legacy is in every race — not just the Klan.
 
 ### What the Party Does NOT Know
 - The Inbu were created from **part of the Architect itself**, in its image.
@@ -100,7 +98,7 @@ aliases:
 - **The First Trees are from the Inbu era.** They have no connection to the Shell.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn the truth about the Inbu. They learn they were created from the Architect's essence. They learn they were scattered to hide them from the Overseer.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn the truth about the Inbu. They learn they were created from the Architect's essence. They learn they were scattered to hide them from the Overseer.
 - **Session 11** — The party may find a seed of the First Trees. They may plant it. They may grow a new lung for the world.
 - **Endgame** — The party must decide what to do with the truth. They can restore the First Trees. They can leave them lost. They can use them. The choice is theirs.
 
@@ -124,6 +122,6 @@ aliases:
 - `The First Trees.md` — the many primordial trees (needs file or section)
 - `The Behemoths.md` — the last primordial giants
 - `The Three Surviving Dragons.md` — the last of the ancient dragons
-- `The Klan Lei.md` — the bloodline that claims purity
+- `The The Lei Clan.md` — the bloodline that claims purity
 - `The Grin Curse.md` — the curse that makes the Grin magic-deaf
 - `The Endgame Paths.md` — the four paths

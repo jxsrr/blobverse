@@ -2,13 +2,12 @@
 type: Oversee NPC
 role: Gordon's Killer, Commonwealth Agent
 faction: The Commonwealth (deceased)
-home: Near Hutan Domido
+home: Near Domido Forest
 status: Deceased (695 AV, killed by Husgus)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth</span></div><span class="bv-status bv-status-deceased">Deceased (695 av, killed by husgus)</span></div><div class="bv-dossier-name">Malakor</div><div class="bv-dossier-epithet">Gordon's Killer, Commonwealth Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in his tower near Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Near Hutan Domido</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth</span></div><span class="bv-status bv-status-deceased">Deceased (695 av, killed by husgus)</span></div><div class="bv-dossier-name">Malakor</div><div class="bv-dossier-epithet">Gordon's Killer, Commonwealth Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in his tower near Domido Forest</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Near Domido Forest</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
 ## What the Party Knows (from Husgus)
@@ -21,7 +20,6 @@ universe: Oversee
 - The truth about Gunung Rayu.
 - Husgus's transformation into a halfling.
 - The burning of his tower (which destroyed most of his research).
-::/pf
 
 %% DM SECRETS %%
 
@@ -42,18 +40,18 @@ universe: Oversee
 
 ### The Death of Gordon — 695 AV
 - **695 AV.** Forty years after the war ended, Malakor was still in the region. He had not been reassigned. He had not been promoted. He was still watching. Still waiting. Still reporting.
-- He learned that **Gordon was still alive**. He learned that the old dwarf was still in his hut in Hutan Domido. He learned that the old dwarf had found a child — a strange child, a child with golden cracks, a child who might be something more.
+- He learned that **Gordon was still alive**. He learned that the old dwarf was still in his hut in Domido Forest. He learned that the old dwarf had found a child — a strange child, a child with golden cracks, a child who might be something more.
 - **He panicked.** He knew Gordon had been investigating Gunung Rayu. He knew Gordon had been gathering evidence. He knew Gordon had been trying to expose the truth. As long as Gordon lived, the truth could never truly die. As long as Gordon lived, the Commonwealth's secret was at risk.
 - **He gathered his men.** Former warriors from both sides of the war — people who could not return to normal life, who still held grudges, who could be bought with promises of power or revenge. He told them Gordon was a traitor. He told them Gordon was a threat. He told them Gordon had to die.
 - **They attacked the hut.** Dozens of armed men. Gordon fought bravely — the Gustaero bow loosed arrow after arrow — but he was old, and there were too many. Malakor's dagger pierced his chest.
 - **Husgus arrived too late.** He saw Gordon fall. He saw Malakor standing over him. He screamed — not with fear, but with **rage**. He grabbed the bow. He loosed an arrow at Malakor. The arrow struck the wizard's shoulder.
 - **Malakor cast a spell at Husgus.** The spell hit the child. And then **something happened**. Husgus's body **shone gold**. His body **shrank**. He became a **halfling**.
 - For a moment, Malakor saw something that made him stagger back in terror — not a small child, but **something else**. Something that should not exist. He did not know what it was. He did not know what it meant. He only knew he had to kill it.
-- **He did not get the chance.** Husgus grabbed Gordon's body and fled into the forest. Malakor and his men chased. But Hutan Domido was Husgus's home. He knew every hollow, every hiding place, every secret path. He vanished.
+- **He did not get the chance.** Husgus grabbed Gordon's body and fled into the forest. Malakor and his men chased. But Domido Forest was Husgus's home. He knew every hollow, every hiding place, every secret path. He vanished.
 
 ### The Death of Malakor — 695 AV
 - **Husgus did not forget.** He buried Gordon. He mourned. And then he **hunted**.
-- He tracked Malakor to his tower — a tall, crooked spire at the edge of Hutan Domido, near the ruins of the old fortress. The tower was surrounded by corpses — Malakor's followers who had failed in their tasks, or victims of the wizard's mad rituals. The stench stung Husgus's nose, but he did not flinch.
+- He tracked Malakor to his tower — a tall, crooked spire at the edge of Domido Forest, near the ruins of the old fortress. The tower was surrounded by corpses — Malakor's followers who had failed in their tasks, or victims of the wizard's mad rituals. The stench stung Husgus's nose, but he did not flinch.
 - **He slipped in through a crack in the stone wall.** He climbed the stairs. He found Malakor at the top — performing a ritual, surrounded by black candles, a book with a human skin cover open on a lectern.
 - **Husgus drew Gordon's bow.** He aimed at Malakor's heart. But before he could release, the wizard turned. He laughed. He said: *"You are just a child. A tiny child. You cannot defeat me."*
 - **Husgus loosed the arrow.** It flew straight into Malakor's chest — piercing his heart.
@@ -64,7 +62,7 @@ universe: Oversee
 ### The Tower — What Survived
 - **Husgus burned the tower.** But he did not burn everything. The fire consumed the upper levels — Malakor's quarters, his ritual chamber, his library. But the **lower levels survived**. The stone was too thick. The fire could not reach the basement.
 - **The basement still holds Malakor's research.** His notes on Gunung Rayu. His reports to Valerius. His records of the Gruffgud War. His **spellbook** — a tome of dark magic, including a spell that can **detect HVS shells**.
-- **The party can find the tower** — or what is left of it — in Season 3. It is a ruined spire at the edge of Hutan Domido. The upper levels are ash. The lower levels are intact. The basement is a treasure trove of information — and a dangerous place. Malakor's wards may still be active. His traps may still be armed. His notes may still be guarded by something that should not exist.
+- **The party can find the tower** — or what is left of it — in Season 3. It is a ruined spire at the edge of Domido Forest. The upper levels are ash. The lower levels are intact. The basement is a treasure trove of information — and a dangerous place. Malakor's wards may still be active. His traps may still be armed. His notes may still be guarded by something that should not exist.
 - **Malakor's spellbook** is the most important item in the tower. It contains a spell that can **detect HVS shells** — the same spell Malakor used to sense that Husgus was different. If the party finds it, they can use it to find other shells — or to protect Shin. But using the spell may attract attention. It may attract **Valerius**. It may attract **Lei Firsa**. It may attract things that should not be attracted.
 
 ### Malakor and Valerius
@@ -76,7 +74,7 @@ universe: Oversee
 ### What the Party Does NOT Know
 - Malakor was **Valerius's agent**. He was not the mastermind. He was a tool.
 - **Valerius ordered Gordon's death.** He gave the order: *"Kill the old dwarf. Burn the hut. Destroy every trace."*
-- **Malakor's tower** still stands — a ruined spire at the edge of Hutan Domido. The upper levels are ash. The lower levels are intact.
+- **Malakor's tower** still stands — a ruined spire at the edge of Domido Forest. The upper levels are ash. The lower levels are intact.
 - **Malakor's notes** — his reports to Valerius, his research on Gunung Rayu, his records of the Gruffgud War — are still in the tower's basement.
 - **Malakor's spellbook** — a tome of dark magic, including a spell that can detect HVS shells — is still in the tower's basement.
 - **The spellbook is dangerous.** Using it may attract attention. It may attract Valerius. It may attract Lei Firsa. It may attract things that should not be attracted.
@@ -91,7 +89,7 @@ universe: Oversee
 ### Corrections Applied
 - **CLARIFIED:** Malakor was a **Commonwealth agent** — a tool of Valerius, not the mastermind.
 - **CLARIFIED:** **Valerius ordered Gordon's death.** He gave the order: *"Kill the old dwarf. Burn the hut. Destroy every trace."*
-- **CLARIFIED:** Malakor's tower **still stands** — a ruined spire at the edge of Hutan Domido. The upper levels are ash. The lower levels are intact.
+- **CLARIFIED:** Malakor's tower **still stands** — a ruined spire at the edge of Domido Forest. The upper levels are ash. The lower levels are intact.
 - **CLARIFIED:** Malakor's **notes**, **reports**, and **spellbook** are still in the tower's basement.
 - **CLARIFIED:** The **spellbook** contains a spell that can **detect HVS shells**. It is dangerous to use. It may attract attention.
 - **CLARIFIED:** Malakor's **death was not the end**. Valerius learned of the failure. He began to watch for the child.
@@ -103,7 +101,7 @@ universe: Oversee
 - `Gordon.md` — the man he killed
 - `Husgus.md` — the child who killed him
 - `Valerius Thorne.md` — his handler, the man who ordered Gordon's death
-- `Hutan Domido.md` — the forest where he lived and died
+- `Domido Forest.md` — the forest where he lived and died
 - `Gunung Rayu.md` — the secret excavation he was assigned to protect
 - `The Gruffgud War.md` — the war he helped prolong
 - `Malakor's Tower.md` — the ruined spire where his notes remain (needs file or section)

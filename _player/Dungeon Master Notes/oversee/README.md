@@ -23,7 +23,7 @@ showToc: false
 <div class="bv-news-list">
   <div class="bv-news-item">
     <span class="bv-news-tag">SESSION 07</span>
-    <span>The Five Sticks escaped <a href="/oversee/locations/Arujaya%20Metropolis">Arujaya Metropolis</a> with <a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a> as hostage.</span>
+    <span>The Five Sticks escaped <a href="/oversee/locations/elis/Arujaya%20Metropolis">Arujaya Metropolis</a> with <a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a> as hostage.</span>
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">REVELATION</span>
@@ -41,7 +41,7 @@ showToc: false
 </div>
 
 <div class="bv-intro-box">
-  <p>Five strangers registered together at the Adventurer's Guild in <a href="/oversee/locations/Yawning%20Town">Yawning Town</a> under the name <strong>The Five Sticks</strong>. What began as a simple relic retrieval in <a href="/oversee/locations/Greyland%20Castle">Greyland Castle</a> spiraled into a continent-spanning conflict between the <a href="/oversee/factions/One%20Voice%20Commonwealth">One Voice Commonwealth</a>, the <a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>, and the <a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>.</p>
+  <p>Five strangers registered together at the Adventurer's Guild in <a href="/oversee/locations/harka/Yawning%20Town">Yawning Town</a> under the name <strong>The Five Sticks</strong>. What began as a simple relic retrieval in <a href="/oversee/locations/harka/Greyland%20Castle">Greyland Castle</a> spiraled into a continent-spanning conflict between the <a href="/oversee/factions/One%20Voice%20Commonwealth">One Voice Commonwealth</a>, the <a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>, and the <a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>.</p>
   <p>Across the four continents of Harka, Pirizia, Rioquan, and Elis, ancient seals are cracking — and the truth behind the Gemhearts and the Human Vessel Shell project is coming to light.</p>
 </div>
 

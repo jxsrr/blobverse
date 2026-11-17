@@ -54,13 +54,13 @@ When the last question was answered, the room released them.
 
 And in the center of the room, a small object appeared: the **Meal Key**.
 
-## Part 3: Arrival in Kota Juto
+## Part 3: Arrival in Juto Port City
 
 They ate.
 
 And then — without knowing how — the ship's course changed.
 
-**<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>**.
+**<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City">Juto Port City</a>**.
 
 A city of coral and steel. A city that climbed cliffs on pillars of ancient reef. A city built vertically, where the poor lived in the tidal districts and the wealthy lived above the floods.
 
@@ -80,7 +80,7 @@ They had no money, no lodging, and no plan.
 
 They needed a place to sleep.
 
-Their first stop was the **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Kota Juto. They thought it might have information about where they were, or what had happened to them.
+Their first stop was the **<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City/Juto%27s%20Observatorium">Juto's Observatorium</a>** — the Center of Knowledge that had, over centuries, become the heart of Juto Port City. They thought it might have information about where they were, or what had happened to them.
 
 But the Observatorium was closed for the evening.
 
@@ -108,7 +108,7 @@ But Pops remembered. He remembered a name — **<a href="/oversee/npcs/Atlan%20N
 
 They did not understand the significance yet.
 
-That night, they found **<a href="/Nenek%20Elara">Karang Tidur</a>** — a former private residence of a Juto mayor, now a free guesthouse for adventurers. It was old, and small, and smelled of salt and coral.
+That night, they found **Karang Tidur** — a former private residence of a Juto mayor, now a free guesthouse for adventurers. It was old, and small, and smelled of salt and coral.
 
 They slept.
 
@@ -120,7 +120,7 @@ At dawn, a scream.
 
 > *"Someone... something... came in the night!"*
 
-The party's emerald and ruby — the gem from Greyland and the gem from Pulau Dima — were gone.
+The party's emerald and ruby — the gem from Greyland and the gem from Dima Island — were gone.
 
 **<a href="/oversee/items/Atlan%27s%20Compass">Atlan's Compass</a>** vibrated in **Ama**'s pocket. It had been silent for days. Now it was alive.
 
@@ -136,7 +136,7 @@ Not the gems. Just food.
 
 He was not the thief. He was simply hungry.
 
-The party realized the compass was pointing at the same location — but at a different layer. Directly **above** the Sea Temple, carved into the same cliff, was the **<a href="/The%20Observatorium">Observatorium</a>**.
+The party realized the compass was pointing at the same location — but at a different layer. Directly **above** the Sea Temple, carved into the same cliff, was the **Observatorium**.
 
 ## Part 7: The Hidden Base
 
@@ -183,7 +183,7 @@ They wrote them.
 
 The door opened.
 
-Behind it stood a woman — half-elf, sharp-eyed, carrying a sword that glowed faintly with ancient magic. Beside her, **<a href="/Nenek%20Elara">Elara</a>**, holding the green gem and the red gem in her hands.
+Behind it stood a woman — half-elf, sharp-eyed, carrying a sword that glowed faintly with ancient magic. Beside her, **Elara**, holding the green gem and the red gem in her hands.
 
 The woman spoke.
 
@@ -201,7 +201,7 @@ She also told them something else: **<a href="/oversee/items/Safayer">Safayer</a
 
 To face a dragon, they would need **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** — the legendary bow once carried by **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>**, then passed to **<a href="/oversee/npcs/Gordon">Gordon</a>**, then to **<a href="/oversee/pcs/Husgus">Husgus</a>**.
 
-And that bow, she believed, was in **<a href="/Ghuffghuff">Ghuffghuff</a>** — the village of fried rice, deep in Harka.
+And that bow, she believed, was in **<a href="/oversee/locations/harka/Ghuffghuff%20Town">Ghuffghuff</a>** — the village of fried rice, deep in Harka.
 
 She assigned **<a href="/oversee/npcs/Agus">Agus</a>** to travel with them.
 
@@ -222,8 +222,8 @@ And they did not know — not yet — that Agus was already working for someone 
 - **<a href="/oversee/npcs/Agus">Agus</a>** — assigned guide, secretly compromised
 
 ## Locations Visited
-- **<a href="/oversee/locations/Juto%20Port%20City">Juto Port City</a>** — the vertical city
-- **<a href="/oversee/locations/Juto%27s%20Observatorium">Juto's Observatorium</a>** — Center of Knowledge
+- **<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City">Juto Port City</a>** — the vertical city
+- **<a href="/oversee/locations/rioquan/selatan/Juto%20Port%20City/Juto%27s%20Observatorium">Juto's Observatorium</a>** — Center of Knowledge
 - **Kuil Lautan** — the Sea Temple
 - **Karang Tidur** — the inn that became their home base
 

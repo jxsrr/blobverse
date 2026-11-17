@@ -4,7 +4,6 @@ leader: Livia Vane
 attitude_to_party: hostile (officially), uncertain (via Livia)
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Rose Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a> (Wakil Keadilan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile (officially), uncertain (via Livia)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div></div></div>
 
 
@@ -12,7 +11,7 @@ universe: Oversee
 - The law enforcement arm of the Commonwealth. Officially called the **Garda Mawar**.
 - Led by **<a href="/oversee/npcs/Lei%20Livia%20Vane">Livia</a>**. Composed of disciplined soldiers, mages, and spies.
 - They enforce the **Edisi Law**. They suppress dissent. They hunt "terrorists."
-- They are the ones who arrested the party in Kota Juto. They are the ones who burned Chenalia.
+- They are the ones who arrested the party in Juto Port City. They are the ones who burned Chenalia.
 - They are **everywhere**.
 
 ## Their Tactics
@@ -22,19 +21,19 @@ universe: Oversee
 
 ## What They Want
 - Capture the party. Kill the party. Erase the party.
-::/pf
+
 
 %% DM SECRETS %%
 
 ### The Original Rose Guard — Not Law Enforcement
 - The **original** Garda Mawar was **not** a law enforcement arm. It was a group of **scholars, historians, and witnesses**.
 - Their role was to **remember the truth** — to preserve the history of the Cycle Clan, the promise of Guanik Wiseman, and the reality of the Valla.
-- They were the ones who wrote the original Edisi Law. They were the ones who guarded the Bahtera Bawah Tanah. They were the ones who knew Guanik's promise.
+- They were the ones who wrote the original Edisi Law. They were the ones who guarded the The Underground Ark. They were the ones who knew Guanik's promise.
 - They did not carry weapons. They carried **records**. They did not arrest people. They **remembered** them.
 - **They are gone.** Lei Firsa killed them, silenced them, or erased them. Their records were burned. Their names were struck from history.
 
 ### The Current Rose Guard — Firsa's Version
-- The current Garda Mawar is **not** the original. It is Lei Firsa's version — a corrupted institution built to enforce the public Edisi Law and protect Klan Lei supremacy.
+- The current Garda Mawar is **not** the original. It is Lei Firsa's version — a corrupted institution built to enforce the public Edisi Law and protect The Lei Clan supremacy.
 - It was created during Lei Firsa's consolidation of power, after the Initial Six disappeared (200 AV).
 - It is loyal to the **Triase** — not to the original promise.
 - It is **everywhere**. It has cells in every major city. It has spies in every court. It has agents in every faction.
@@ -61,7 +60,7 @@ universe: Oversee
 - **The Old Guard** remembers the original promise. They can be turned.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the original Rose Guard — the scholars and witnesses. They learn what it used to be.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the original Rose Guard — the scholars and witnesses. They learn what it used to be.
 - **Session 11** — The party confronts Livia. She reveals the truth about her adoption. She reveals that she was raised by Lei Alejandro. She asks the party for help.
 - **Endgame** — The party must decide what to do with the Rose Guard. Restore it to its original purpose? Destroy it? Replace it? The choice is theirs.
 
@@ -73,7 +72,7 @@ universe: Oversee
 
 ### Corrections Applied
 - **CLARIFIED:** The original Rose Guard was a group of **scholars, historians, and witnesses** — not law enforcement.
-- **CLARIFIED:** The current Rose Guard is **Firsa's version** — a corrupted institution built to enforce the public Edisi Law and protect Klan Lei supremacy.
+- **CLARIFIED:** The current Rose Guard is **Firsa's version** — a corrupted institution built to enforce the public Edisi Law and protect The Lei Clan supremacy.
 - **CLARIFIED:** **Livia was adopted by Lei Alejandro.** She is not a twin. She is not who she thinks she is.
 - **CLARIFIED:** Livia's loyalists can be turned. Valerius's agents will try to kill her. The Old Guard remembers the original promise.
 - **REMOVED:** Any mention of the **Golem Hukum**. The Rose Guard enforces the law directly — through soldiers, mages, and spies. There are no constructs.
@@ -84,7 +83,7 @@ universe: Oversee
 - `One Voice Commonwealth.md` — the government the Rose Guard serves
 - `The Triase.md` — the corrupted structure
 - `Livia Vane.md` — the current Wakil Keadilan, adopted by Lei Alejandro
-- `Lei Alejandro.md` — Livia's adoptive father, hiding in the Bahtera Bawah Tanah
+- `Lei Alejandro.md` — Livia's adoptive father, hiding in the The Underground Ark
 - `Valerius Thorne.md` — the Kanselir Agung, Livia's enemy
 - `Erard Gelnne.md` — the previous Wakil Keadilan, the last of the Old Guard
 - `The Iron Guard.md` — the other corrupted institution

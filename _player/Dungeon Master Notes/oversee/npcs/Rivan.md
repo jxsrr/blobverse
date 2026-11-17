@@ -17,7 +17,7 @@ universe: Oversee
 
 ## What He Offers
 - **The original HVS schematics.**
-- **A map of the Bahtera Bawah Tanah** (in his basement).
+- **A map of the The Underground Ark** (in his basement).
 - **A fragment of the Edisi Law** (in his basement).
 - **The truth** about what HVS shells are.
 

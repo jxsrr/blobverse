@@ -2,7 +2,7 @@
 type: Oversee NPC
 role: Founder of Keeper of Secret, Daughter of Atlan and Reins
 faction: Keeper of Secret
-home: Kota Juto (Observatorium)
+home: Juto Port City (Observatorium)
 status: alive
 first_seen: Session 02
 universe: Oversee
@@ -25,11 +25,11 @@ universe: Oversee
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Whereabouts</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Origin / Base</div>
-      <div class="bv-stat-val">Kota Juto (Observatorium)</div>
+      <div class="bv-stat-val">Juto Port City (Observatorium)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">First Seen</div>
@@ -73,13 +73,13 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - Some former Cycle Clan members **joined** the Keeper after the Cycle Clan was shattered by Lei Firsa. But they did not found it. They joined it. They are members, not leaders.
 - Mira is the founder. Mira is the leader. Mira is the heart of the organization.
 - The Keeper is a network of scholars, spies, and witnesses. It does not fight. It remembers. It preserves the truth. It waits for the right moment to reveal it.
-- The Observatorium in **Kota Juto** is the headquarters. The public face is a center of knowledge. The secret face is the Keeper's archive. Beneath the Navigation Archive is **Atlan's abandoned base** — the eternal flame, the diary, the Twin Shell Amulet.
+- The Observatorium in **Juto Port City** is the headquarters. The public face is a center of knowledge. The secret face is the Keeper's archive. Beneath the Navigation Archive is **Atlan's abandoned base** — the eternal flame, the diary, the Twin Shell Amulet.
 
 ### What Mira Holds
 - **Emelanica** — the green Gemheart, the time stone. She took it from the party after Session 2. She did not ask. She did not tell them. She believes she is protecting them.
 - **Rubion** — the red Gemheart, the annihilation stone. She took it from the party after Session 2. Same reasons.
 - **Kkana** — the stone greatsword, one of the six blades. She received it through a Keeper expedition 12 years ago.
-- **The Twin Shell Amulet** — the key to the **Bahtera Bawah Tanah**. She found it in Atlan's base. She has not told the party. She is afraid of what is in the Ark. She is afraid of what she will find.
+- **The Twin Shell Amulet** — the key to the **The Underground Ark**. She found it in Atlan's base. She has not told the party. She is afraid of what is in the Ark. She is afraid of what she will find.
 - **Atlan's Compass** — she gave it to the party. It points to lost things. She does not need it anymore. She has already found what she was looking for — or so she thinks.
 
 ### What Mira Knows
@@ -87,12 +87,12 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - She knows the **Echoes** exist. She has seen them. She has tried to free them. She has failed.
 - She knows the **Commonwealth is corrupt**. She knows the Triase is a lie. She knows the public Edisi Law is a fabrication.
 - She knows about the **Gemhearts** — at least, she knows they exist. She holds two of them. She knows they are important. She does not know they are organs of the Architect.
-- She knows about the **Bahtera Bawah Tanah**. She has the key. She has not gone there. She is afraid.
+- She knows about the **The Underground Ark**. She has the key. She has not gone there. She is afraid.
 - She knows her mother **Reins** came from another world — **Aede**. She knows Reins loved Atlan. She knows Reins died with him. Or so she thinks.
 
 ### What Mira Does NOT Know
 - She does **not** know that **Guanik Wiseman is alive**. She does not know that the Architect is inside him. She does not know that Guanik is the last living founder of the Cycle Clan.
-- She does **not** know that **Lei Alejandro is alive** and hiding in the Bahtera Bawah Tanah. She thinks he is dead. She thinks he died in the ritual. She is wrong.
+- She does **not** know that **Lei Alejandro is alive** and hiding in the The Underground Ark. She thinks he is dead. She thinks he died in the ritual. She is wrong.
 - She does **not** know that **Lei Firsa** corrupted the Commonwealth. She suspects it. She has no proof.
 - She does **not** know that **Simon Greenbottle** is the Valla. She knows the Valla is a prisoner. She does not know his name. She does not know he was forced into the role.
 - She does **not** know about the **Swan Trio** — Gustaero, Niette, Alnean. She knows Gustaero exists. She does not know it is part of a larger instrument. She does not know the third path requires it.
@@ -127,7 +127,7 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - **The connection between Mira and Ama is a Season 3 reveal.** It will change everything.
 
 ### Mira's Role in Season 3
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They find Lei Alejandro. They learn the truth about the ritual. They learn about Guanik. They learn about the third path.
+- **Session 8–10** — The party reaches the The Underground Ark. They find Lei Alejandro. They learn the truth about the ritual. They learn about Guanik. They learn about the third path.
 - **Session 11** — The party confronts Mira. They ask her about Emelanica and Rubion. They ask her about the Twin Shell Amulet. They ask her why she kept secrets. She will answer honestly. She will say: *"Because I was afraid. Because I did not know if you could be trusted. Because I have been alone for 25 years."*
 - **Session 11** — Mira learns the truth about her mother. She learns Reins is alive. She learns Reins is trapped in the Gap. She breaks. She weeps. She asks: *"Why didn't she come back?"*
 - **Session 11** — Mira learns the truth about Ama. She learns he is from Aede. She learns he was Reins's best friend. She looks at him differently. She sees a reflection.
@@ -142,10 +142,10 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 ### Corrections Applied
 - **CLARIFIED:** Mira is the **founder of Keeper of Secret**. She is not a Cycle Clan member. She is not a Cipher.
 - **CLARIFIED:** She holds **Emelanica** and **Rubion**. She took them from the party after Session 2.
-- **CLARIFIED:** She holds the **Twin Shell Amulet** — the key to the Bahtera Bawah Tanah. She has not told the party.
+- **CLARIFIED:** She holds the **Twin Shell Amulet** — the key to the The Underground Ark. She has not told the party.
 - **CLARIFIED:** She carries **Kkana** — the stone greatsword. She received it through a Keeper expedition 12 years ago.
 - **CLARIFIED:** She does **not** know about **Guanik Wiseman**. She does **not** know he is alive.
-- **CLARIFIED:** She does **not** know that **Lei Alejandro is alive** and hiding in the Bahtera Bawah Tanah.
+- **CLARIFIED:** She does **not** know that **Lei Alejandro is alive** and hiding in the The Underground Ark.
 - **CLARIFIED:** She does **not** know about the **Swan Trio**. She does **not** know about the **third path**.
 - **CLARIFIED:** She does **not** know that **Reins is alive** — trapped in the Gap. She thinks her mother died with her father.
 - **CLARIFIED:** She does **not** know that **Ama** is from the same world as her mother. She does **not** know that Ama was Reins's best friend.
@@ -163,9 +163,9 @@ Find the truth about the Initial Six. Protect the world from the Commonwealth. F
 - `Emelanica.md` — the Gemheart she holds
 - `Rubion.md` — the Gemheart she holds
 - `Kkana — The Stone Greatsword.md` — the blade she carries
-- `The Twin Shell Amulet.md` — the key to the Bahtera Bawah Tanah
-- `The Bahtera Bawah Tanah.md` — the place she is afraid to go
-- `Elara.md` — her agent in Kota Juto
+- `The Twin Shell Amulet.md` — the key to the The Underground Ark
+- `The The Underground Ark.md` — the place she is afraid to go
+- `Elara.md` — her agent in Juto Port City
 - `Ibu Ratna.md` — her courier
 - `Junior.md` — her informant
 - `Rivan.md` — her contact in Zundabun

@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Cycle Ritual</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] What the Party Knows
@@ -46,7 +45,6 @@ universe: Oversee
 - They can **use the override clause** — the Architect's Mercy. This requires all four Gemhearts, all six weapons of the three trios, the original Edisi Law, and the Architect's consent. This is the third path.
 - They can **replace the Valla** — but this requires a willing sacrifice, purified by Safayer. The old Valla is released. The new Valla takes up the burden. This is the sacrifice path.
 - They can **pierce the Gap** — face the Overseer directly. This requires the Swan Trio, the Bat Trio, and the Fool Trio. Without them, the party cannot survive the Gap. Without them, the third path is impossible.
-::/pf
 
 %% DM SECRETS %%
 
@@ -91,7 +89,7 @@ universe: Oversee
 - **The third path is possible.** It is the only path where Simon survives. It is the only path where the Architect is released. It is the only path where the world is saved without a sacrifice.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the ritual. They learn it is a maintenance procedure — not a sacrifice. They learn the Valla has only been replaced once.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the ritual. They learn it is a maintenance procedure — not a sacrifice. They learn the Valla has only been replaced once.
 - **Session 11** — The party learns about the override clause. They learn what it requires. They learn the third path is possible.
 - **Endgame** — The party must decide what to do. They can maintain the seal. They can replace the Valla. They can use the override. They can pierce the Gap. The choice is theirs.
 

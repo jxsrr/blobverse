@@ -49,7 +49,7 @@ aliases:
 - He taught her how to hunt. How to track. How to read the land. How to survive in the wilderness of Elis.
 - He taught her about the **Grin** — the people with the eternal smile, the magic-deaf, the survivors. He taught her that the smile was not a curse. It was a shield.
 - He taught her about the **fire**. He told her it was not a curse. It was a gift. He did not know if that was true. He said it anyway. He believed it.
-- He told her stories about the world — about the Klan Lei, about the Commonwealth, about the Cycle Clan. He did not tell her the truth. He did not know the truth. He only knew what a wanderer knows — fragments, rumors, old songs.
+- He told her stories about the world — about the The Lei Clan, about the Commonwealth, about the Cycle Clan. He did not tell her the truth. He did not know the truth. He only knew what a wanderer knows — fragments, rumors, old songs.
 - He taught her to be kind. He taught her to be strong. He taught her to be herself — not a noblewoman, not a Grin, not a Lei heir. Just Vya.
 
 ### The Disappearance

@@ -16,7 +16,7 @@ universe: Oversee
 - **Sorcerers** — born with an innate connection. Always tied to the **Lei bloodline**. They do not need to learn; they shape instinctively.
 - **Wizards** — learn to tap into the field through study and discipline. Anyone can learn, if they have the patience.
 - **Warlocks** — gain access through a pact or a curse. The field flows through the bond they have made.
-- **Amagis (non-magic users)** — cannot shape the field. But they are not silent. They **ripple**. Their bloodlines carried magic before the Klan Lei rose — the potential is still there, suppressed. They leave a faint trace in the field, like a ripple on still water.
+- **Amagis (non-magic users)** — cannot shape the field. But they are not silent. They **ripple**. Their bloodlines carried magic before the The Lei Clan rose — the potential is still there, suppressed. They leave a faint trace in the field, like a ripple on still water.
 
 ## The Bloodline That Is Invisible
 - **The Grin** — the devil-blooded. They are **invisible to the field**. They do not ripple. They cannot shape Ambitio-Ether. They cannot be detected by it.

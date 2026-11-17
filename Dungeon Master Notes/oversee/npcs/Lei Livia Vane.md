@@ -106,7 +106,7 @@ Survive. Figure out who to trust. Learn the truth about her past.
 - She will learn the truth in Season 3. She will break. She will weep. She will ask: *"Why did you lie to me?"*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They find Lei Alejandro. They learn he adopted Livia. They learn she is not a twin.
+- **Session 8–10** — The party reaches the The Underground Ark. They find Lei Alejandro. They learn he adopted Livia. They learn she is not a twin.
 - **Session 11** — The party confronts Livia with the truth. She breaks. She weeps. She asks: *"Why did you lie to me?"* Alejandro answers: *"Because I wanted you to be strong."*
 - **Endgame** — Livia must decide what to do with her life. She can join the party. She can leave. She can stay with Alejandro. The choice is hers.
 
@@ -121,11 +121,11 @@ Survive. Figure out who to trust. Learn the truth about her past.
 - **REMOVED:** "Valerius will try to kill her if she defects." — This is still true, but it is now framed as Valerius knowing she is a loose end, not a twin.
 
 ## Connections to Other Lore
-- `Lei Alejandro.md` — her adoptive father, hiding in the Bahtera Bawah Tanah
+- `Lei Alejandro.md` — her adoptive father, hiding in the The Underground Ark
 - `Valerius Thorne.md` — the Kanselir Agung, her enemy
 - `The Triase.md` — the corrupted structure she serves
 - `The Rose Guard.md` — the institution she leads (the corrupted version)
 - `The Twin Tradition.md` — the tradition that does not apply to her
 - `Zure Ama.md` — the man whose arm she amputated
-- `The Bahtera Bawah Tanah.md` — where her father is hiding
+- `The The Underground Ark.md` — where her father is hiding
 - `The Endgame Paths.md` — the third path, the Architect's Mercy

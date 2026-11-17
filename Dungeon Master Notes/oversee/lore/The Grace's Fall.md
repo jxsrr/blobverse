@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Grace's Fall</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Demon Hunters Who Died
@@ -45,7 +44,6 @@ universe: Oversee
 - He does not know about Zargoth. He does not know about Zargoyle. He does not know about the frozen dome.
 - He does not know that Edra and Crest did not blame him. He does not know that they tried to save him.
 - He does not know that Edra wrote him a letter before she died. It is in Zundabun. He has never read it.
-::/pf
 
 %% DM SECRETS %%
 
@@ -110,7 +108,7 @@ universe: Oversee
 - **Shin does not know about Zargoth.** He does not know about Zargoyle. He does not know about the frozen dome. He remembers only white and screaming.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Zargoyle. They learn about Zargoth. They learn Shin was not responsible.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Zargoyle. They learn about Zargoth. They learn Shin was not responsible.
 - **Session 11** — Shin learns the truth about The Grace. He learns he was a victim. He learns Edra and Crest did not blame him. He reads Edra's letter. He breaks. He weeps. He smiles. He always smiles.
 - **Session 11** — Shin learns the truth about Zargoth. He learns Zargoth is a father, not a monster. He learns Zargoth woke to protect him. He learns Zargoth has been protecting him ever since.
 - **Session 11** — Shin learns the truth about the frozen dome. He learns it was the shell's emergency protocol. He learns it was trying to save him. He learns it killed Wati by accident. He learns it was not his fault.

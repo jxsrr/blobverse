@@ -56,7 +56,7 @@ Avenge Jarko. Protect the Grin people. Find the truth. Complete his mother's pla
 
 ### Who Accarus Is
 - **Accarus Grin** is the **son of Hildag Grin** — the founder of Will of Grin, the Weaver, the former Wakil Pertahanan of the original Commonwealth.
-- He is the **twin brother of Antrem Klaus** — Vya's father. They are the only surviving twins of the Klan Lei's twin-killing tradition. Hildag hid them. Hildag protected them. They were never registered. They were never separated — until the Great Strike.
+- He is the **twin brother of Antrem Klaus** — Vya's father. They are the only surviving twins of the The Lei Clan's twin-killing tradition. Hildag hid them. Hildag protected them. They were never registered. They were never separated — until the Great Strike.
 - His father was a **Lei Firage descendant** — a man Hildag chose to breed with, to combine the Grin anti-magic with the Lei fire. Accarus and Antrem were the accidental success. Vya was the magnum opus.
 - He carries the **eternal Grin smile**. He is magic-deaf. He is a survivor.
 - He is **not a villain**. He is a morally gray leader who has made terrible choices for a good cause. He is his mother's son.

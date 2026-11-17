@@ -5,7 +5,6 @@ aliases:
   - Verdantus
   - Aurelia
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Three Surviving Dragons</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Last of the Ancient Dragons
@@ -15,7 +14,7 @@ aliases:
 - **Color:** Silver. **Element:** Cold.
 - **Location:** Spire of Whispering Ice (Frosthaven Peak).
 - **Status:** Alive, weakened by Safayer poison.
-- **Role:** Syl's mother. Patron of Klan Frostscale.
+- **Role:** Syl's mother. Patron of The Frostscale Clan.
 - **Personality:** Protective. Loyal. Broken by what was done to her.
 
 ## Verdantus — The Green Shadow
@@ -35,7 +34,6 @@ aliases:
 ## What the Party Knows
 - They know <a href="/oversee/npcs/Vythrax">Vythrax</a>. They do not know the others exist.
 - The dragons are the last of their kind.
-::/pf
 
 %% DM SECRETS %%
 - Verdantus is **not hidden**. He is sleeping. If the party enters the Kanopi Tanpa Ujung, they will wake him. He will be angry. He will attack. But if they can calm him, he will give them a **seed of the first tree** — a seed that can grow into a new filter for Ambitio-Ether.

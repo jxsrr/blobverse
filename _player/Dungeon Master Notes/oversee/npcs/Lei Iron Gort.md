@@ -1,6 +1,6 @@
 ---
 type: Oversee NPC
-role: Wakil Pertahanan (Defense), Garda Besi
+role: Wakil Pertahanan (Defense), The Iron Guard
 faction: The Commonwealth
 home: Ironhold
 status: alive
@@ -9,7 +9,7 @@ universe: Oversee
 aliases:
   - Iron Gort
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Lei Iron Gort</div><div class="bv-dossier-epithet">Wakil Pertahanan (Defense), Garda Besi</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Ironhold / mobile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ironhold</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Commonwealth</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Lei Iron Gort</div><div class="bv-dossier-epithet">Wakil Pertahanan (Defense), The Iron Guard</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Commonwealth</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Ironhold / mobile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Ironhold</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 04</div></div></div></div>
 
 ## What the Party Knows
 - Brash, loud, loves a fight.
@@ -19,4 +19,4 @@ aliases:
 - Not subtle. Not patient. Very dangerous.
 
 ## Current Goal
-Crush Will of Grin. Prove Garda Besi is the strongest.
+Crush Will of Grin. Prove The Iron Guard is the strongest.

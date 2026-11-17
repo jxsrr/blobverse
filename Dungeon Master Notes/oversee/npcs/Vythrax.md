@@ -1,18 +1,18 @@
 ---
 type: Oversee NPC
-role: Silver Dragon, The Silver Wind, Deity of Klan Frostscale, Syl's Mother
-faction: Klan Frostscale (divine patron)
+role: Silver Dragon, The Silver Wind, Deity of The Frostscale Clan, Syl's Mother
+faction: The Frostscale Clan (divine patron)
 home: Spire of Whispering Ice
 status: alive (weakened, dying)
 first_seen: Session 05
 universe: Oversee
 ---
 ::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Frostscale</span></div><span class="bv-status bv-status-alive">Alive (weakened, dying)</span></div><div class="bv-dossier-name">Vythrax</div><div class="bv-dossier-epithet">Silver Dragon, The Silver Wind, Deity of Klan Frostscale, Syl's Mother</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Frostscale (divine patron)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Spire of Whispering Ice (Pirizia North)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Spire of Whispering Ice</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Frostscale Clan</span></div><span class="bv-status bv-status-alive">Alive (weakened, dying)</span></div><div class="bv-dossier-name">Vythrax</div><div class="bv-dossier-epithet">Silver Dragon, The Silver Wind, Deity of The Frostscale Clan, Syl's Mother</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Frostscale Clan (divine patron)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Spire of Whispering Ice (Pirizia North)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Spire of Whispering Ice</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 05</div></div></div></div>
 
 
 ## What the Party Knows
-- Gargantuan silver dragon. Legendary protector of Klan Frostscale.
+- Gargantuan silver dragon. Legendary protector of The Frostscale Clan.
 - Disappeared 300 years ago. The clan believed she would return.
 - Was actually poisoned by **Safayer** — the blue Gemheart she swallowed to protect her egg.
 - **Syl Frost is her son.** The "Breathstone" the clan worshipped was Syl's egg.
@@ -28,13 +28,13 @@ Recover. Protect Syl from a distance.
 
 ### Who Vythrax Is
 - **Vythrax** is one of the **three surviving ancient dragons** in Oversee. She is the **Silver Wind** — the last silver dragon, the guardian of the cold, the mother of Syl Frost.
-- She is **ancient**. She has been alive since before the Rapture. She has seen civilizations rise and fall. She has seen the Cycle Clan form and shatter. She has seen the Klan Lei rise and corrupt.
-- She is **not a god**. She is not divine. She is a dragon — powerful, long-lived, and wise — but she is not a deity. Klan Frostscale worships her because they do not know any better. She has never asked to be worshipped.
+- She is **ancient**. She has been alive since before the Rapture. She has seen civilizations rise and fall. She has seen the Cycle Clan form and shatter. She has seen the The Lei Clan rise and corrupt.
+- She is **not a god**. She is not divine. She is a dragon — powerful, long-lived, and wise — but she is not a deity. The Frostscale Clan worships her because they do not know any better. She has never asked to be worshipped.
 - She is **dying**. The Safayer poison has been in her veins for 300 years. It is not gone. The poison was slowed when Syl healed her — but it was not cured. She is still weak. She will not survive the campaign.
 
 ### The Assault — The Truth of Syl's Conception
-- **Lei Watigi** — the water heir of Klan Lei, the son of Lei Firsa and Simon — wanted something no one else could have. He wanted a child with a dragon.
-- He approached **Klan Frostscale** in secret. He offered wealth, influence, access to the Commonwealth's resources. He asked for one thing: their help to have a child with their deity.
+- **Lei Watigi** — the water heir of The Lei Clan, the son of Lei Firsa and Simon — wanted something no one else could have. He wanted a child with a dragon.
+- He approached **The Frostscale Clan** in secret. He offered wealth, influence, access to the Commonwealth's resources. He asked for one thing: their help to have a child with their deity.
 - The priests — who had only ever been keepers of ritual without truly experiencing Vythrax's presence — were tempted. They conspired in a scheme that would destroy the sanctity of their own clan.
 - They weakened Vythrax with rituals and potions. They made her vulnerable. **Lei Watigi raped her.**
 - When Vythrax became pregnant, the priests panicked — not because of what had been done to their deity, but because of the **disgrace** it would bring to the clan.
@@ -80,7 +80,7 @@ Recover. Protect Syl from a distance.
 ### Vythrax's Fate
 - Vythrax **will not survive the campaign**. She is dying. The Safayer poison has done too much damage. She has months, perhaps a year.
 - She will die protecting Syl. She will die protecting the party. She will die in the final battle — or before it. The DM should decide when.
-- **Her death will be one of the most emotional moments of the campaign.** Syl will break. The party will break. Klan Frostscale will mourn. The Frozen Legion will thaw. The world will be different.
+- **Her death will be one of the most emotional moments of the campaign.** Syl will break. The party will break. The Frostscale Clan will mourn. The Frozen Legion will thaw. The world will be different.
 - **She will not be forgotten.** She is the Silver Wind. She is the mother of Syl Frost. She is the last silver dragon. She will be remembered.
 
 ### Corrections Applied

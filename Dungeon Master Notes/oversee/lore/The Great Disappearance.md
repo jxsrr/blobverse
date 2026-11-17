@@ -7,7 +7,7 @@ universe: Oversee
 
 ## What Happened
 - At the height of their renown around **200 AV**, the six greatest heroes of the age — **<a href="/oversee/lore/The%20Initial%20Six">The Initial Six</a>** — vanished from the world without a trace.
-- In the decades that followed, **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>**'s name faded from official histories and **<a href="/oversee/locations/Kerajaan%20Grin">Kerajaan Grin</a>** slowly collapsed.
+- In the decades that followed, **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>**'s name faded from official histories and **Grin Kingdom** slowly collapsed.
 - Uncovering why the six heroes vanished — and why Atreus never returned — became one of the foundational goals of **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
 
 ## What the Party Knows
@@ -15,5 +15,5 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- The Initial Six did not vanish voluntarily: they were lured into a **Cycle Ritual** betrayal orchestrated by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** and the Commonwealth leadership to harvest their souls/vessels, turning five of them into **<a href="/oversee/lore/The%20Echoes">The Echoes</a>** while **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** escaped and went into hiding inside **<a href="/oversee/locations/The%20Underground%20Ark">The Underground Ark</a>**.
+- The Initial Six did not vanish voluntarily: they were lured into a **Cycle Ritual** betrayal orchestrated by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** and the Commonwealth leadership to harvest their souls/vessels, turning five of them into **<a href="/oversee/lore/The%20Echoes">The Echoes</a>** while **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** escaped and went into hiding inside **<a href="/oversee/locations/elis/The%20Underground%20Ark">The Underground Ark</a>**.
 %%

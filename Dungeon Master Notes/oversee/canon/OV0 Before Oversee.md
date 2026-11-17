@@ -3,7 +3,6 @@ type: Oversee Lore
 universe: Oversee
 era: Primordial
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 01 OF 07</div><div class="bv-world-title">OV0 Before Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Primordial</div></div></div></div>
 
 > [!info] Before the World
@@ -111,7 +110,6 @@ They are the **reason** the Overseer has not yet consumed everything.
 
 <div class="bv-ep-nav"><div></div><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a></div>
 
-::/pf
 
 %% DM SECRETS %%
 
@@ -136,7 +134,7 @@ The full truth will be revealed in stages:
 
 1. **Session 6** — The Shell video. The party learns the Shell is hollow.
 2. **Session 7** — Syl sees the Overseer but does not remember.
-3. **Session 8–10** — The party travels to the **<a href="/oversee/locations/The%20Underground%20Ark">The Underground Ark</a>** and reads the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>**. The full cosmology becomes known.
+3. **Session 8–10** — The party travels to the **<a href="/oversee/locations/elis/The%20Underground%20Ark">The Underground Ark</a>** and reads the **<a href="/oversee/lore/The%20Edisi%20Law">Edisi Law</a>**. The full cosmology becomes known.
 4. **Session 11** — The party faces **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** and the truth about the Valla.
 5. **Endgame** — The party chooses: sacrifice, break the cycle, or become the new Valla.
 

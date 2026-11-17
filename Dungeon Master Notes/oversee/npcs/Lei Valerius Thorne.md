@@ -61,7 +61,7 @@ Claim the Topaju bloodline. Eliminate Darvin. Consolidate power.
 - **The truth about Chenalia is a Season 3 reveal.** The party may never know for sure who burned it.
 
 ### Valerius's Role in Season 3
-- Valerius is **not the final boss**. He is the mid-boss. He is the one the party must defeat to reach the Bahtera Bawah Tanah, to reach Lei Alejandro, to reach the truth.
+- Valerius is **not the final boss**. He is the mid-boss. He is the one the party must defeat to reach the The Underground Ark, to reach Lei Alejandro, to reach the truth.
 - If the party defeats Valerius, the Triase will fracture. The Commonwealth will descend into chaos. The party will have to decide what to do with the pieces.
 - If the party kills Valerius, Darvin will be free. But Darvin will also be lost — he will not know what to do without his brother. He will wander. He will fade.
 - If the party turns Valerius — if they can prove to him that he is a pawn — he will break. He will weep. He will ask: *"What have I done?"* He may join the party. He may not. The choice is his.

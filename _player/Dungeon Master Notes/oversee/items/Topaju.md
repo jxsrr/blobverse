@@ -1,10 +1,10 @@
 ---
 type: Oversee Item
 rarity: legendary
-current_holder: Lei Alejandro (hidden in the Bahtera Bawah Tanah)
+current_holder: Lei Alejandro (hidden in the The Underground Ark)
 universe: Oversee
 ---
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Gemheart (Yellow)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a> (hidden in the Bahtera Bawah Tanah)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Gemheart (Yellow)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a> (hidden in the The Underground Ark)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 ## What It Does
 - One of the four Gemhearts. Yellow.

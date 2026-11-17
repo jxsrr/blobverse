@@ -1,11 +1,10 @@
 ---
 type: Oversee Item
 rarity: legendary
-current_holder: Lei Alejandro (hidden in the Bahtera Bawah Tanah)
+current_holder: Lei Alejandro (hidden in the The Underground Ark)
 universe: Oversee
 ---
-::pf
-<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Gemheart (Yellow)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a> (hidden in the Bahtera Bawah Tanah)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Topaju</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Gemheart (Yellow)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Holder</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a> (hidden in the The Underground Ark)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div></div></div>
 
 
 ## What It Does
@@ -26,7 +25,7 @@ universe: Oversee
 - They know it is connected to the earth element.
 - They **do not know** who holds it.
 - They **do not know** it is with Lei Alejandro.
-::/pf
+
 
 %% DM SECRETS %%
 
@@ -36,7 +35,7 @@ universe: Oversee
 - It is **not** a weapon. It is **not** a tool. It is **a piece of a god** — a crystallized organ of the Architect, separated when it split itself to create Oversee.
 
 ### Current Holder — Lei Alejandro
-- **Lei Alejandro holds Topaju.** He found it centuries ago in the ruins of a **Lei Roiga temple** — the earth branch of Klan Lei, the bloodline that was supposed to guard it.
+- **Lei Alejandro holds Topaju.** He found it centuries ago in the ruins of a **Lei Roiga temple** — the earth branch of The Lei Clan, the bloodline that was supposed to guard it.
 - He has kept it safe ever since. He has kept it hidden. He has kept it secret. He does not want it. He is not a Lei Roiga. He has no claim to it. He has only kept it because he knew it was important — because he knew it was a piece of something greater.
 - **He will give it to the party** if they prove they are worthy. The proof is not combat. The proof is **compassion**. If they can forgive him — or at least understand him — he will give them Topaju.
 - **He does not know Darvin Thorne exists.** He does not know Darvin is the True Heir of Lei Roiga by blood. He only knows the Gemheart was in a Lei Roiga temple. He only knows the bloodline is broken.
@@ -48,10 +47,10 @@ universe: Oversee
 - **If Darvin ever meets Lei Alejandro**, he will feel the Topaju. He will know it is real. He will know he was not crazy. He will weep. He will say: *"I thought I was broken. I was just listening."*
 
 ### The Lei Roiga Bloodline
-- The **Lei Roiga** are the earth branch of Klan Lei — the descendants of **Lei Roiga**, the fourth child of Lei Firsa and Simon.
+- The **Lei Roiga** are the earth branch of The Lei Clan — the descendants of **Lei Roiga**, the fourth child of Lei Firsa and Simon.
 - They were supposed to guard Topaju. They were supposed to protect the foundation of the world. They failed. The Gemheart was lost. The bloodline was scattered.
 - **Lei Alejandro** found Topaju in the ruins of a Lei Roiga temple. He does not know which temple. He does not know which branch of the family. He only knows the Gemheart was there — waiting for someone to find it.
-- **Darvin Thorne** is a direct descendant of Lei Roiga — through a line that was hidden, a line that was forgotten, a line that was never registered in the Klan Lei records. He is the True Heir. He does not know it.
+- **Darvin Thorne** is a direct descendant of Lei Roiga — through a line that was hidden, a line that was forgotten, a line that was never registered in the The Lei Clan records. He is the True Heir. He does not know it.
 - **The Lei Roiga bloodline is not extinct.** It is hidden. It is scattered. It is waiting for someone to claim it. Darvin is that someone. He does not know it yet.
 
 ### Topaju and the Override
@@ -60,7 +59,7 @@ universe: Oversee
 - **Topaju is also required for the third path.** If the party chooses to pierce the Gap and face the Overseer directly, they will need Topaju to anchor the ritual. Without it, the ritual will fail. Without it, the world will fall.
 
 ### What the Party Does NOT Know
-- **Topaju is with Lei Alejandro** — hidden in the Bahtera Bawah Tanah.
+- **Topaju is with Lei Alejandro** — hidden in the The Underground Ark.
 - **Lei Alejandro will give it to them** if they prove they are worthy. The proof is compassion, not combat.
 - **Darvin Thorne is the True Heir of Lei Roiga by blood.** He carries the claim, not the stone.
 - **Valerius is hunting Darvin for a lie.** He believes Darvin carries Topaju. He is wrong.
@@ -68,7 +67,7 @@ universe: Oversee
 - **Topaju is required for the override.** Without it, the third path is impossible.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They meet Lei Alejandro. They learn he holds Topaju.
+- **Session 8–10** — The party reaches the The Underground Ark. They meet Lei Alejandro. They learn he holds Topaju.
 - **Session 11** — The party must prove they are worthy. They must show compassion. They must forgive Alejandro — or at least understand him. He will give them Topaju.
 - **Session 11** — Darvin learns he is the True Heir. He learns he can sense Topaju. He learns he was not crazy.
 - **Endgame** — The party must unite all four Gemhearts. They must perform the override. They must free the Valla. They must choose the third path.
@@ -84,14 +83,14 @@ universe: Oversee
 - **REMOVED:** "Topaju is held by Darvin Thorne (inside him)." — Topaju is held by **Lei Alejandro**. Darvin carries the claim, not the stone.
 
 ## Connections to Other Lore
-- `Lei Alejandro.md` — the current holder, hiding in the Bahtera Bawah Tanah
+- `Lei Alejandro.md` — the current holder, hiding in the The Underground Ark
 - `Darvin Thorne.md` — the True Heir by blood, the one who can sense it
 - `Valerius Thorne.md` — the twin who hunts Darvin for a lie
 - `The Gemhearts.md` — the four stones
 - `Emelanica.md` — the green Gemheart, held by Mira
 - `Safayer.md` — the blue Gemheart, held by the party
 - `Rubion.md` — the red Gemheart, held by Mira
-- `The Bahtera Bawah Tanah.md` — where Topaju is hidden
+- `The The Underground Ark.md` — where Topaju is hidden
 - `The Edisi Law.md` — the override clause that requires Topaju
 - `The Endgame Paths.md` — the third path, the Architect's Mercy
 - `The Lei Bloodline.md` — the four branches, including Lei Roiga

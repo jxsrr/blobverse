@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] What Guanik Wiseman Saw
@@ -29,7 +28,6 @@ universe: Oversee
 - The Cult of the Giant Humanoid worshipped it.
 - The Cycle Clan studied it for centuries.
 - **HVS** stabbed it with Swaith. Nothing happened.
-::/pf
 %% DM SECRETS %%
 - The Shell is the Architect's old body. The Architect shed it when it became the Valla.
 - The Shell is empty. But it is not dead. It is waiting.

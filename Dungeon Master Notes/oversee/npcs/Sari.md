@@ -7,7 +7,6 @@ status: Alive
 first_seen: Session 06
 universe: Oversee
 ---
-::pf
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Independent</span></div><span class="bv-status bv-status-alive">Alive</span></div><div class="bv-dossier-name">Sari</div><div class="bv-dossier-epithet">Lemonade Seller, Muangching Bay</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Independent</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Muangching Market</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Muangching Bay</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 06</div></div></div></div>
 
 
@@ -23,7 +22,6 @@ universe: Oversee
 
 ## Current Goal
 Sell lemonade. Stay out of trouble.
-::/pf
 
 %% DM SECRETS %%
 - Ibu Sari is a **Will of Grin informant**. She reports to Sasimo in Javan Town.

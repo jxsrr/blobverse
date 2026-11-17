@@ -6,7 +6,6 @@ years: 19XX – 10XX BV
 aliases:
   - Age of Knowledge
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 03 OF 07</div><div class="bv-world-title">OV2 Age of Knowledge</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Age of Knowledge</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">19XX – 10XX BV</div></div></div></div>
 
 > [!info] The Age That Remembered
@@ -28,7 +27,7 @@ This era became known as the **Age of Knowledge**: the age when wisdom began to 
 
 **~10XX BV**
 
-An ancient astrogeologist named **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
+An ancient astrogeologist named **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/oversee/locations/rioquan/utara/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
 
 Wiseman documented the approach of a semi-circular cosmic object drifting through space at an anomalous speed: **500 kilometers per hour**. Too slow for a meteor. Too fast for a natural object. Something was **braking** it.
 
@@ -338,7 +337,6 @@ And in times of crisis, when other kingdoms begin to forget their fear and think
 
 <div class="bv-ep-nav"><a class="bv-ep-nav-btn" href="/oversee/canon/OV1%20Beginning%20of%20Time"><span class="bv-ep-nav-dir">← Previous Era</span><span class="bv-ep-nav-name">OV1 Beginning of Time</span></a><a class="bv-ep-nav-center" href="/oversee/canon">All Canon Eras</a><a class="bv-ep-nav-btn bv-ep-nav-next" href="/oversee/canon/OV3%20Age%20of%20Nurturing"><span class="bv-ep-nav-dir">Next Era →</span><span class="bv-ep-nav-name">OV3 Age of Nurturing</span></a></div>
 
-::/pf
 
 %% DM SECRETS %%
 
@@ -364,7 +362,7 @@ The player-facing text above is **the Cycle Clan's archive entry** for the Age o
 
 - **The Silent Rapture is a new term — and it means something different from The Rapture.** The cycle of Devourer Comets (see `The Rapture.md`) is the **visible** feeding event. The **Silent Rapture** is the **quiet** version — the slow, invisible drain of Ambitio-Ether from a civilization that never notices it is being eaten. The Grin are the only race that is **immune to both** — which is why they are the "true survivors."
 
-- **The "high magic society" that fell to the Rapture was not destroyed by its own hubris.** It was **destroyed by Klan Lei agents.** The first Klan Lei elders — the ancestors of Lei Firsa — **engineered** the first Rapture. They deliberately pushed their rival bloodlines into producing too much Ambitio-Ether, waited for the Devourer Comet, and then **survived the Rapture by hiding in the Grin Kingdom** (which they knew was immune). The Lei have been hiding this fact for thousands of years. It is the darkest secret of Klan Lei.
+- **The "high magic society" that fell to the Rapture was not destroyed by its own hubris.** It was **destroyed by The Lei Clan agents.** The first The Lei Clan elders — the ancestors of Lei Firsa — **engineered** the first Rapture. They deliberately pushed their rival bloodlines into producing too much Ambitio-Ether, waited for the Devourer Comet, and then **survived the Rapture by hiding in the Grin Kingdom** (which they knew was immune). The Lei have been hiding this fact for thousands of years. It is the darkest secret of The Lei Clan.
 
 ### Contradictions to Reconcile (Important)
 
@@ -427,13 +425,13 @@ This document introduces **one new named NPC** who should get a file:
 ### When the Party Learns the Truth
 
 - **Session 6** — The Shell video. The party learns the Shell is hollow.
-- **Session 8–10** — The **Bahtera Bawah Tanah**. The original **Edisi Law** and the Cycle Clan's true records reveal the Lei's role in the first Rapture.
+- **Session 8–10** — The **The Underground Ark**. The original **Edisi Law** and the Cycle Clan's true records reveal the Lei's role in the first Rapture.
 - **Session 11** — **Lei Firsa** reveals the truth about the Vallas and the Grin.
 - **Endgame** — The party must decide what to do with this knowledge.
 
 ### What This Document Is
 
-This is the **Cycle Clan's archive entry** — the version they would allow an initiate to read, supplemented by **Grin oral history** for the Grin Kingdom sections. It is accurate in its broad strokes. It softens the Grin's tragedy and omits the Klan Lei's role in the first Rapture.
+This is the **Cycle Clan's archive entry** — the version they would allow an initiate to read, supplemented by **Grin oral history** for the Grin Kingdom sections. It is accurate in its broad strokes. It softens the Grin's tragedy and omits the The Lei Clan's role in the first Rapture.
 
 The truth is in the DM secrets.
 
@@ -458,7 +456,7 @@ The party will have to decide how much of the Cycle Clan's version to trust.
 - **`The Rapture.md`** — the feeding mechanism
 - **`Lei Firsa.md`** — the woman who would seize a Gemheart
 - **`The Edisi Law.md`** — the contract that binds the world
-- **`The Bahtera Bawah Tanah.md`** — the Underground Ark
+- **`The The Underground Ark.md`** — the Underground Ark
 - **`Ozymandias Grin.md`** — NEW, needs creation
 
 ## Timeline Note

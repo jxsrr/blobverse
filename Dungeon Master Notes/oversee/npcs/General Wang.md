@@ -7,16 +7,14 @@ status: Alive
 first_seen: Not yet met
 universe: Oversee
 ---
-::pf
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">General Wang</div><div class="bv-world-sub">Former General, Prisoner of Benteng Atlan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">The Commonwealth (former)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
 
 ## Overview
-A veteran former general of the Commonwealth from an older era of military command. Years ago, he was stripped of rank and confined to the coastal fortress of Benteng Atlan (*Cloud Prison*) in Rioquan after refusing to carry out an order from his superiors.
+A veteran former general of the Commonwealth from an older era of military command. Years ago, he was stripped of rank and confined to the coastal fortress of Benteng Atlan in Rioquan after refusing to carry out an order from his superiors.
 
 ## Reputation
 - **Relic of the Old Guard:** Among older soldiers and historians, Wang is remembered as a stern, pragmatic commander who served before the modern political order solidified.
 - **Behind Bars:** Few outside the fortress walls know whether he still holds any influence—or what secrets of the old military he took into his cell.
-::/pf
 %% DM SECRETS %%
 
 ## Who He Is
@@ -29,15 +27,15 @@ A veteran former general of the Commonwealth from an older era of military comma
 - He knows the **Commonwealth is corrupt**. He saw it happen. He refused to be part of it.
 - He knows about **Valerius's plan** to thicken the Gap. He tried to stop it. He failed.
 - He knows about the **Edisi Law** — the public version and the original. He knows the public version is a lie.
-- He knows about the **HVS shells** — not the details, but enough to know they exist. He knows Klan Lei experimented with them.
-- He knows about the **Bahtera Bawah Tanah**. He has never been there, but he knows it exists.
+- He knows about the **HVS shells** — not the details, but enough to know they exist. He knows The Lei Clan experimented with them.
+- He knows about the **The Underground Ark**. He has never been there, but he knows it exists.
 - He knows about **Lei Alejandro**. He does not know he is still alive. He thinks he is dead.
 - He knows about **Lei Firsa** — or at least the legend of "Lei the Great." He suspects the legend is a lie.
 
 ## What He Offers
 - **Information** about the Commonwealth's military, its weaknesses, its plans.
 - **Information** about Valerius. He knows the Chancellor personally. He knows his fears, his ambitions, his secrets.
-- **The location of the Bahtera Bawah Tanah** — or at least, the approximate location. He has never been there, but he knows where it is.
+- **The location of the The Underground Ark** — or at least, the approximate location. He has never been there, but he knows where it is.
 - **A map of the Commonwealth's defenses** — if the party can prove they are worthy of it.
 - **A warning:** *"The Triase is not the enemy. The enemy is the woman behind the Triase. She has been pulling the strings for 700 years."*
 
@@ -61,5 +59,5 @@ A veteran former general of the Commonwealth from an older era of military comma
 - `Valerius Thorne.md` — the man he tried to stop
 - `The Triase.md` — the corrupted structure he refused to serve
 - `The Edisi Law.md` — the law he knows is a lie
-- `The Bahtera Bawah Tanah.md` — the place he knows exists
+- `The The Underground Ark.md` — the place he knows exists
 - `The Endgame Paths.md` — the third path

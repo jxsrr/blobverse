@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Valla's History</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Living Seals
@@ -45,7 +44,6 @@ universe: Oversee
 - Simon is the **second** Valla — there has never been another mortal before him.
 - Echo is not a Valla. Echo is a failed feeding.
 - The "dozens of Vallas" story is a lie.
-::/pf
 
 %% DM SECRETS %%
 
@@ -89,7 +87,7 @@ universe: Oversee
 - The only way to free Simon and the Architect without destroying the world is the **third path** — the Architect's Mercy.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn the truth about the Valla. They learn there have only ever been two. They learn the Echoes are not Vallas.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn the truth about the Valla. They learn there have only ever been two. They learn the Echoes are not Vallas.
 - **Session 11** — The party meets Simon. They learn he is still conscious. They learn he is still holding. They learn he is still suffering.
 - **Session 11** — The party learns about the third path. They learn it requires the Gemhearts, the three trios, the Edisi Law, and the Architect's consent.
 - **Endgame** — The party must decide what to do. They can free Simon and the Architect (third path). They can replace Simon (sacrifice path). They can feed Simon (bitter sacrifice path). They can become the new Valla (tyranny path). The choice is theirs.

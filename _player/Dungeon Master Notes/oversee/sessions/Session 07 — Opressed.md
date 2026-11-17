@@ -192,7 +192,7 @@ She was afraid now.
 
 They asked her what she meant.
 
-She told them about the **twin-killing tradition** of **Klan Lei**. When twins are born to a Lei mother, one is kept and one is killed. The survivor inherits the full power. The dead twin is forgotten.
+She told them about the **twin-killing tradition** of **The Lei Clan**. When twins are born to a Lei mother, one is kept and one is killed. The survivor inherits the full power. The dead twin is forgotten.
 
 > *"I was supposed to be killed. I was the younger one. My sister was supposed to live."*
 

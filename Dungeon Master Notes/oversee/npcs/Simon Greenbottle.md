@@ -7,7 +7,6 @@ status: Alive (as the Valla)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-::pf
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (as the valla)</span></div><div class="bv-dossier-name">Simon Greenbottle</div><div class="bv-dossier-epithet">The Second Valla, The Halfling Who Became a God</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (Valla)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The altar at Danau Kuno (in the Gap)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Altar of Danau Kuno</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
@@ -32,7 +31,6 @@ universe: Oversee
 ## What He Offers (if met)
 - The **truth of the ritual**.
 - **Mercy.** He wants to be freed. But he is afraid of what will happen if he is.
-::/pf
 
 %% DM SECRETS %%
 - Simon is not a god. He is a **tired halfling** who has been holding the world on his back for 700 years.

@@ -1,13 +1,13 @@
 ---
 type: Oversee NPC
-role: The Water Heir of Klan Lei, Syl's Biological Father, The Man Who Raped Vythrax
-faction: Klan Lei (Watigi line) — deceased
+role: The Water Heir of The Lei Clan, Syl's Biological Father, The Man Who Raped Vythrax
+faction: The Lei Clan (Watigi line) — deceased
 home: Unknown (deceased)
 status: Deceased (centuries ago)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Klan Lei</span></div><span class="bv-status bv-status-deceased">Deceased (centuries ago)</span></div><div class="bv-dossier-name">Lei Watigi</div><div class="bv-dossier-epithet">The Water Heir of Klan Lei, Syl's Biological Father, The Man Who Raped Vythrax</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Klan Lei (Watigi line) — deceased</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Deceased — died centuries ago</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Lei Clan</span></div><span class="bv-status bv-status-deceased">Deceased (centuries ago)</span></div><div class="bv-dossier-name">Lei Watigi</div><div class="bv-dossier-epithet">The Water Heir of The Lei Clan, Syl's Biological Father, The Man Who Raped Vythrax</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Lei Clan (Watigi line) — deceased</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Deceased — died centuries ago</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Unknown (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 ## What the Party Knows
 - One of the four children of **Lei Firsa** and **Simon Greenbottle**.

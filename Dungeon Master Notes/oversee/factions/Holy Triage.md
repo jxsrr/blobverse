@@ -4,7 +4,6 @@ leader: Valerius Thorne (Kanselir Agung)
 attitude_to_party: hostile
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">Holy Triage</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val"><a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a> (Kanselir Agung)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Hostile</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Padre City</div></div></div></div>
 
 
@@ -33,16 +32,15 @@ universe: Oversee
 ### Wakil Pertahanan — The Defense
 - **Current:** <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
-- **Leads:** Garda Besi (Iron Guard)
+- **Leads:** The Iron Guard (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
 - **Previous (at the time of the Initial Six, 200 AV):** <a href="/oversee/npcs/Hildag%20Grin">Hildag Grin</a>
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.
-- Most high positions are held by **Klan Lei** descendants.
+- Most high positions are held by **The Lei Clan** descendants.
 - Valerius is the true power. Livia and Gort are tools.
 - The Triase controls the narrative. It rewrites history.
-::/pf
 
 %% DM SECRETS %%
 
@@ -50,14 +48,14 @@ universe: Oversee
 - The **Triase was not the original structure** of the One Voice Commonwealth.
 - The original Commonwealth was founded by **Guanik Wiseman** — the first Kanselir Agung. It was a **search** for the next shepherd, not a government.
 - The Triase was created by **Lei Firsa** during her consolidation of power, after the Initial Six disappeared (200 AV).
-- It was designed to **consolidate Klan Lei power**. It was designed to **hide the truth**. It was designed to **replace the original promise with a lie**.
+- It was designed to **consolidate The Lei Clan power**. It was designed to **hide the truth**. It was designed to **replace the original promise with a lie**.
 - The current Triase is **Firsa's Triase**. It is not the original. It is the corruption.
 
 ### The Original Commonwealth — No Triase
 - The original One Voice Commonwealth had a **single leader** — the Kanselir Agung.
 - **Guanik Wiseman** was the first Kanselir Agung. He was not a politician. He was a shepherd — a man who had promised the Architect that he would find a way to save the world.
 - The original **Garda Mawar** was a group of **scholars and witnesses** — not law enforcement.
-- The original **Garda Besi** was a group of **volunteers** — not a military.
+- The original **The Iron Guard** was a group of **volunteers** — not a military.
 - There was no **Wakil Keadilan**. There was no **Wakil Pertahanan**. There was only the Kanselir Agung — and the search.
 - The Triase was created later. It was not part of Guanik's design. It was part of Firsa's.
 
@@ -89,7 +87,7 @@ universe: Oversee
 - **The Triase is not the original Commonwealth.** It is Firsa's Commonwealth. It is the corruption.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Guanik and the original Commonwealth. They learn about the Triase's origin. They learn about the corruption.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Guanik and the original Commonwealth. They learn about the Triase's origin. They learn about the corruption.
 - **Session 11** — The party confronts Valerius, Livia, and Gort. They learn about the Triase's history. They must decide what to do with it.
 - **Endgame** — The party must decide what to do with the Commonwealth. Restore the original structure? Destroy the Triase? Create something new? The choice is theirs.
 
@@ -100,13 +98,13 @@ universe: Oversee
 - **The choice is theirs.** The DM should present all three options clearly and let the party decide.
 
 ### Corrections Applied
-- **CLARIFIED:** The Triase was **created by Lei Firsa** to consolidate Klan Lei power. It was **not** the original structure.
+- **CLARIFIED:** The Triase was **created by Lei Firsa** to consolidate The Lei Clan power. It was **not** the original structure.
 - **CLARIFIED:** The original Commonwealth had a **single leader** — the Kanselir Agung. **Guanik Wiseman** was the first.
 - **CLARIFIED:** **Geldfre** was the Kanselir Agung at the time of the Initial Six (200 AV). He was the last one who remembered the original promise.
 - **CLARIFIED:** **Erard Gelnne** was the Wakil Keadilan at the time of the Initial Six. He was a pawn. He built the current Rose Guard — but not the original.
 - **CLARIFIED:** **Hildag Grin** was the Wakil Pertahanan at the time of the Initial Six. She defected to the Will of Grin.
 - **REMOVED:** Any mention of the **Golem Hukum**. The Triase does not use constructs. It uses the Rose Guard and the Iron Guard — the corrupted versions.
-- **REMOVED:** "Most high positions are held by Klan Lei descendants." — This is still true, but it is now framed as **Firsa's corruption**, not the original structure.
+- **REMOVED:** "Most high positions are held by The Lei Clan descendants." — This is still true, but it is now framed as **Firsa's corruption**, not the original structure.
 - **REMOVED:** "Valerius is the true power." — Valerius is a pawn. The true power is **Lei Firsa** (or her legacy). Valerius thinks he is in charge. He is not.
 
 ## Connections to Other Lore

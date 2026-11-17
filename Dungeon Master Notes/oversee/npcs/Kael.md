@@ -1,26 +1,24 @@
 ---
 type: Oversee NPC
 role: Student at Tarakita University, Secret Cycle Clan Agent
-faction: Cycle Clan (secretly) / Universitas Tarakita (officially)
-home: Universitas Tarakita
+faction: Cycle Clan (secretly) / Tarakita University of Heroism (officially)
+home: Tarakita University of Heroism
 status: Alive
 first_seen: Not yet met
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kael</div><div class="bv-world-sub">Student at Tarakita University, Secret Cycle Clan Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Cycle Clan (secretly) / Universitas Tarakita (officially)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
+<div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kael</div><div class="bv-world-sub">Student at Tarakita University, Secret Cycle Clan Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Cycle Clan (secretly) / Tarakita University of Heroism (officially)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
 
 ## Overview
-A quiet, thin student at <a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>, appearing to be in his late teens with persistent dark circles under his eyes. He keeps largely to himself around the university grounds and library corridors.
+A quiet, thin student at <a href="/oversee/locations/rioquan/utara/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>, appearing to be in his late teens with persistent dark circles under his eyes. He keeps largely to himself around the university grounds and library corridors.
 
 ## Reputation
 - **Unremarkable on Paper:** To most classmates and instructors, he seems like an ordinary, somewhat anxious student weighed down by his studies.
 - *(Note: Not to be confused with General Kael of the Commonwealth—Kael is simply a common given name across the continent.)*
-::/pf
 %% DM SECRETS %%
 
 ## Who He Is
-- A **young student** at Universitas Tarakita. Quiet. Thin. Dark circles under his eyes.
+- A **young student** at Tarakita University of Heroism. Quiet. Thin. Dark circles under his eyes.
 - Appears to be an ordinary student — maybe 17–18 years old.
 - **He is not ordinary.** He is a **Cycle Clan agent** — planted at the university to watch for HVS (Shin).
 

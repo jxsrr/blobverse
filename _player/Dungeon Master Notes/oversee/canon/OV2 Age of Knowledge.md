@@ -27,7 +27,7 @@ This era became known as the **Age of Knowledge**: the age when wisdom began to 
 
 **~10XX BV**
 
-An ancient astrogeologist named **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
+An ancient astrogeologist named **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was observing the sky from the **<a href="/oversee/locations/rioquan/utara/Tarakita%20University%20of%20Heroism">Tarakita University of Heroism</a>** that in the past was the third observatorium — the site that would one day become the foundation of the **Rioquan** continent.
 
 Wiseman documented the approach of a semi-circular cosmic object drifting through space at an anomalous speed: **500 kilometers per hour**. Too slow for a meteor. Too fast for a natural object. Something was **braking** it.
 

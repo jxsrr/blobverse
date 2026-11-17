@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Triase</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Three Pillars
@@ -30,18 +29,18 @@ universe: Oversee
 ### Wakil Pertahanan — The Defense
 - **Current:** <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
-- **Leads:** Garda Besi (Iron Guard)
+- **Leads:** The Iron Guard (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
 - **Previous:** <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.
-- Most high positions are held by **Klan Lei** descendants.
+- Most high positions are held by **The Lei Clan** descendants.
 - Valerius is the true power. Livia and Gort are tools.
 - The Triase controls the narrative. It rewrites history.
-::/pf
+
 %% DM SECRETS %%
-- The Triase was founded by **Lei Firsa** to consolidate Klan Lei power.
+- The Triase was founded by **Lei Firsa** to consolidate The Lei Clan power.
 - <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> was the original Wakil Pertahanan. She defected to Will of Grin.
 - Valerius's plan is to dissolve the Triase and become the sole ruler — or something worse.
 - Livia is the wild card. She can be turned.

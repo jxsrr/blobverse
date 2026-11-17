@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">Timeline of Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Ages of the World
@@ -47,7 +46,7 @@ universe: Oversee
 
 ## The First God (01 – 70 AV)
 - **01 AV** — Lei Firsa declares the new calendar. She rewrites history. Simon becomes "Lei the Great." She becomes a male wizard in official records.
-- **01–20 AV** — The four branches of **Klan Lei** are established. The Gemhearts are distributed — but not to the branches as claimed.
+- **01–20 AV** — The four branches of **The Lei Clan** are established. The Gemhearts are distributed — but not to the branches as claimed.
 - **10 AV** — The **six legendary blades** are scattered across the world by Lei Firsa. **Swaith is magically delivered to Shin Van Hel** — centuries later, not now.
 - **45 AV** — **Lei Watigi** assaults **Vythrax**. Syl's egg is conceived. The "Breathstone" lie begins.
 - **50 AV** — The **twin-killing tradition** is invented by Lei Firsa.
@@ -55,7 +54,7 @@ universe: Oversee
 ## Initial Six Era (180 – 200 AV)
 - **~180 AV** — **Gordon** is born in the mountains of Harka.
 - **~180 AV** — **Gunnar Guirela** finds **Gustaero** in his fishing net in Wind's Rest.
-- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Hutan Domido. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
+- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Domido Forest. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
 - **~190 AV** — **Lei Alejandro** falls in love with **Ratu Ghaniba** (goblin queen). She dies in childbirth. He gives **Emelanica** to the goblins.
 - **200 AV** — **The Great Disappearance**. Lei Alejandro sacrifices the Initial Six to feed Simon. The **Echoes** are born. **Mira Nouveau** witnesses it. **Keeper of Secret** is founded.
 
@@ -67,10 +66,10 @@ universe: Oversee
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
 - **10 AV** — **The Grace** falls. Shin's order is destroyed by **Zargoyle**. He wakes 690 years later — in **700 AV**.
-- **690 AV** — **Gordon** finds **Husgus** in Hutan Domido. He raises him.
+- **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.
-- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Danau Kuno. This never happened. Topaju is with **Lei Alejandro**.
+- **699 AV** — **Valerius Thorne** does **not** take Topaju from Arbor's Observatorium. This never happened. Topaju is with **Lei Alejandro**.
 
 ## The Campaign (700 AV)
 - **0700-06-01** — The Five Sticks form at The Yawning Guild. Session 1 begins.
@@ -81,14 +80,12 @@ universe: Oversee
 - **Session 5** — Maw Desert. Sam's memory. **Vythrax** healed. **Jarko** killed. **Safayer** recovered.
 - **Session 6** — Chenalia. Darvin revealed. Arujaya entered. Ama's arm fused.
 - **Session 7** — The Depths. Overseer seen. Livia captured. Escape.
-::/pf
 %% DM SECRETS %%
 - **Session 8** — Darvin killed by Valerius. Season 3 begins.
 
 ## The Future (Unknown)
 - **~3 years from now** — The Rapture will happen again if the party does nothing.
 - **The Endgame** — The party must choose: sacrifice, bitter sacrifice, break the cycle (third path), or tyranny.
-::/pf
 
 
 ### Corrections Applied
@@ -101,12 +98,12 @@ universe: Oversee
 - **CLARIFIED:** **Gustaero** is not one of the six blades. It is one of the three Swan relics. It was found by Gunnar Guirela, passed to Olaf, then Gordon, then Husgus.
 - **CLARIFIED:** **Swaith** is one of the six blades — but in the older canon. In the **current canon**, Swaith is one of the **Fool Trio** — not a blade of the Swan. It was magically delivered to Shin — not found as loot.
 - **CLARIFIED:** **Topaju** is with **Lei Alejandro**. The "Valerius took a fragment from Danau Kuno in 699 AV" entry is **removed**. It never happened.
-- **CLARIFIED:** **Danau Kuno** is now **Universitas Tarakita** — not Juto Port City.
+- **CLARIFIED:** **Danau Kuno** is now **Tarakita University of Heroism** — not Juto Port City.
 - **CLARIFIED:** **The Grace** was destroyed in **10 AV** by **Zargoyle** — not in 690 AV, not by Shin, not by Lei Firsa. Shin was a victim. He woke up **690 years later** — in **700 AV**.
 - **CLARIFIED:** **The Valla has only been replaced once** — Simon. "Dozens of Vallas" is propaganda.
 - **CLARIFIED:** **Lei Firsa's current status is ambiguous.** She may be alive, dead, or something else. The DM decides.
 - **CLARIFIED:** **The Great Strike** separated the twins — but only Antrem was swept away. Accarus survived in a cellar.
-- **REMOVED:** "Valerius took a fragment of Topaju from Observatorium Danau Kuno in 699 AV." — This never happened. Topaju is with Lei Alejandro.
+- **REMOVED:** "Valerius took a fragment of Topaju from Arbor's Observatorium in 699 AV." — This never happened. Topaju is with Lei Alejandro.
 - **REMOVED:** "The four-Cipher structure." — There are no Ciphers. Rivan is the main Cycle Clan contact.
 - **REMOVED:** "Lei Firsa is the final antagonist." — Her status is ambiguous. The DM decides.
 - **REMOVED:** "Simon is the third Valla." — He is the **second** Valla. The Architect was first. There is no Echo Valla.
@@ -138,7 +135,7 @@ universe: Oversee
 - `The Gruffgud War.md` — the war Gordon ended
 - `The Great Strike.md` — the disaster that separated the twins
 - `Guanik Wiseman.md` — the first Kanselir Agung
-- `Lei Firsa.md` — the ambiguous founder of Klan Lei
+- `Lei Firsa.md` — the ambiguous founder of The Lei Clan
 - `Lei Alejandro.md` — the man who fed Simon
 - `Lei Watigi.md` — the man who raped Vythrax
 - `Vythrax.md` — the silver dragon, dying

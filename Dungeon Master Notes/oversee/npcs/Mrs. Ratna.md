@@ -25,7 +25,7 @@ universe: Oversee
 %% DM SECRETS %%
 - Ibu Ratna is a **Keeper of Secret courier**. She carries sealed messages between cities. The crates she carries are **not goods** — they are the sealed archives of the Keeper of Secret.
 - **Pak Andreas knows.** He does not approve. But he loves her.
-- **She was carrying a message to Mira** — from one of the other Ciphers — when the party escorted her. The message is still in Kota Juto.
+- **She was carrying a message to Mira** — from one of the other Ciphers — when the party escorted her. The message is still in Juto Port City.
 - She reports directly to **Mira**.
 - **Her role in Season 3:** She can become the party's **contact** inside the Keeper of Secret. She can deliver messages to Mira when the party is on the run.
 - **Her husband will be sad if she dies.** Pak Andreas will turn against the party if they fail her.

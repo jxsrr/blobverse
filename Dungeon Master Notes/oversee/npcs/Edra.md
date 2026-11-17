@@ -67,7 +67,7 @@ universe: Oversee
 - **Edra's last words** — whispered to Crest as the explosion consumed them — were: *"Tell him it wasn't his fault. Tell him we loved him. Tell him to smile."*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the fall of The Grace. They learn Shin was not responsible.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the fall of The Grace. They learn Shin was not responsible.
 - **Session 11** — Shin learns the truth about Edra. He learns she did not blame him. He learns she wrote him a letter. He reads it. He breaks. He weeps. He smiles.
 - **Session 11** — The party may visit the ruins of The Grace. They may find Edra's diary. They may find Crest's sword. They may find the truth.
 - **Endgame** — Shin must carry Edra's memory into the final battle. He must remember her words. He must smile — not because of the curse, but because of her.

@@ -65,7 +65,7 @@ Collect the Gemhearts. Protect Vya. Avenge Jarko.
 - **Open the Gap doors.** Force the Gap to open wide enough for the demons to pour through. Let the Overseer eat the demons instead of the Grin. Let the world burn. Save the Grin.
 
 ### Hildag's Secret — The Twins and Vya
-- Hildag is the **mother of Accarus and Antrem** — the twin sons she had with a **Lei Firage descendant**. They are the only surviving twins of the Klan Lei's twin-killing tradition. She hid them. She protected them.
+- Hildag is the **mother of Accarus and Antrem** — the twin sons she had with a **Lei Firage descendant**. They are the only surviving twins of the The Lei Clan's twin-killing tradition. She hid them. She protected them.
 - Hildag is the **architect of Vya** — her magnum opus. She bred Vya after Jarko's death, combining her own Grin anti-magic with a Lei Firage descendant's dormant fire and an Arleschia noble's stabilizing blood. Vya is the refinement of decades of experiments.
 - **Jarko was not the True Heir.** Hildag knew this. She used him as a decoy. She let him die. She does not speak of it. She will never speak of it.
 - Hildag has been searching for **Guanik Wiseman** for centuries. She knows he is alive. She knows the Architect is inside him. She does not know where he is.

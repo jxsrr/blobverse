@@ -46,7 +46,7 @@ universe: Oversee
 
 ## The First God (01 – 70 AV)
 - **01 AV** — Lei Firsa declares the new calendar. She rewrites history. Simon becomes "Lei the Great." She becomes a male wizard in official records.
-- **01–20 AV** — The four branches of **Klan Lei** are established. The Gemhearts are distributed — but not to the branches as claimed.
+- **01–20 AV** — The four branches of **The Lei Clan** are established. The Gemhearts are distributed — but not to the branches as claimed.
 - **10 AV** — The **six legendary blades** are scattered across the world by Lei Firsa. **Swaith is magically delivered to Shin Van Hel** — centuries later, not now.
 - **45 AV** — **Lei Watigi** assaults **Vythrax**. Syl's egg is conceived. The "Breathstone" lie begins.
 - **50 AV** — The **twin-killing tradition** is invented by Lei Firsa.
@@ -54,7 +54,7 @@ universe: Oversee
 ## Initial Six Era (180 – 200 AV)
 - **~180 AV** — **Gordon** is born in the mountains of Harka.
 - **~180 AV** — **Gunnar Guirela** finds **Gustaero** in his fishing net in Wind's Rest.
-- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Hutan Domido. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
+- **~190 AV** — **Olaf Guirela** and **Sam Hurls** meet young **Gordon** in Domido Forest. They train him. Olaf gives him Gustaero. Sam teaches him the melody.
 - **~190 AV** — **Lei Alejandro** falls in love with **Ratu Ghaniba** (goblin queen). She dies in childbirth. He gives **Emelanica** to the goblins.
 - **200 AV** — **The Great Disappearance**. Lei Alejandro sacrifices the Initial Six to feed Simon. The **Echoes** are born. **Mira Nouveau** witnesses it. **Keeper of Secret** is founded.
 
@@ -66,10 +66,10 @@ universe: Oversee
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
 - **10 AV** — **The Grace** falls. Shin's order is destroyed by **Zargoyle**. He wakes 690 years later — in **700 AV**.
-- **690 AV** — **Gordon** finds **Husgus** in Hutan Domido. He raises him.
+- **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.
-- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Danau Kuno. This never happened. Topaju is with **Lei Alejandro**.
+- **699 AV** — **Valerius Thorne** does **not** take Topaju from Arbor's Observatorium. This never happened. Topaju is with **Lei Alejandro**.
 
 ## The Campaign (700 AV)
 - **0700-06-01** — The Five Sticks form at The Yawning Guild. Session 1 begins.

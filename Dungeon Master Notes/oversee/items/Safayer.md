@@ -71,7 +71,7 @@ universe: Oversee
 - **Syl carries a fragment of Safayer's power** in his blood. It is what makes his blood a universal cure. It is also what is slowly killing him.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the Gemhearts. They learn Safayer is required for the override.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the Gemhearts. They learn Safayer is required for the override.
 - **Session 11** — The party must decide how to use Safayer. They can use it to free the Echoes. They can use it to purify Simon. They can use it to perform the override. The choice is theirs.
 - **Endgame** — The party must unite all four Gemhearts. They must perform the override. They must free the Valla. They must choose the third path.
 
@@ -99,6 +99,6 @@ universe: Oversee
 - `Olaf Guirela.md` — the Echo it can release
 - `Atlan Nouveau.md` — the Echo it can release
 - `Gzirmo Kopling.md` — the Echo it can release
-- `The Bahtera Bawah Tanah.md` — where the override is performed
+- `The The Underground Ark.md` — where the override is performed
 - `The Edisi Law.md` — the override clause that requires Safayer
 - `The Endgame Paths.md` — the third path, the Architect's Mercy

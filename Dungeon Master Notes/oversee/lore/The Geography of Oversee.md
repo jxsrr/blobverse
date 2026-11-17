@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Geography of Oversee</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Known World
@@ -22,9 +21,9 @@ universe: Oversee
 
 ## Rioquan — The North
 - **Climate:** Tropical. Island. Divided.
-- **Terrain:** Vertical city (Kota Juto), canyons (Ngarai Ratapan), islands, the Silent Docks.
-- **Cities:** Kota Juto, Graen, Zundabun, Thainarv.
-- **Notable Features:** The Observatorium, the Well of Wonders (hidden), the Bahtera Bawah Tanah (under the mountains).
+- **Terrain:** Vertical city (Juto Port City), canyons (Ngarai Ratapan), islands, the Silent Docks.
+- **Cities:** Juto Port City, Graen, Zundabun, Thainarv.
+- **Notable Features:** The Observatorium, the Well of Wonders (hidden), the The Underground Ark (under the mountains).
 
 ## Elis — The South
 - **Climate:** Arid. Wild. Mysterious.
@@ -41,7 +40,6 @@ universe: Oversee
 ## What the Party Knows
 - They have visited Harka, Rioquan, Pirizia, and Elis.
 - They have not explored the full map.
-::/pf
 
 %% DM SECRETS %%
 - The map is not complete. There are **two more continents** — one to the far east (beyond Harka) and one to the far south (beyond Elis). They are not on any map. They are **Gap-touched ruins**.

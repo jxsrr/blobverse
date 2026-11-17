@@ -1,7 +1,7 @@
 ---
 type: Oversee NPC
 role: The Forgotten Twin, True Heir of Lei Roiga (by blood, not by stone)
-faction: None (formerly Klan Lei)
+faction: None (formerly The Lei Clan)
 home: Arujaya / Elis
 status: alive
 first_seen: Session 06
@@ -20,7 +20,7 @@ universe: Oversee
   <div class="bv-dossier-grid">
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Affiliation</div>
-      <div class="bv-stat-val">None (formerly Klan Lei)</div>
+      <div class="bv-stat-val">None (formerly The Lei Clan)</div>
     </div>
     <div class="bv-stat-cell">
       <div class="bv-stat-label">Whereabouts</div>
@@ -42,7 +42,7 @@ universe: Oversee
 - Appears senile, rambling about "Arumanehjaya" — a mechanical underground city with gears and automatic rifles.
 - Hired the party for 500 gold to excavate the city. The city was real — **Arujaya**.
 - Has genuine elemental earth magic. Much stronger than Valerius's.
-- Was hidden from the world for over a decade. Seen as "disabled" by Klan Lei standards.
+- Was hidden from the world for over a decade. Seen as "disabled" by The Lei Clan standards.
 - He is **not crazy**. He is connected to the earth in a way no one else is.
 
 ## Current Goal

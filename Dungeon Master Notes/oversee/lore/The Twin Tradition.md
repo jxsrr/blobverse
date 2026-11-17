@@ -2,14 +2,13 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Twin Tradition</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
-> [!info] The Darkest Secret of Klan Lei
+> [!info] The Darkest Secret of The Lei Clan
 > When twins are born to the Klan, one must die. It is the law. It is the curse.
 
 ## What Is the Tradition?
-- When a Klan Lei mother gives birth to twins, the elder twin is kept. The younger twin is **taken**.
+- When a The Lei Clan mother gives birth to twins, the elder twin is kept. The younger twin is **taken**.
 - The younger twin is killed in a quiet ceremony. Their blood is offered to the Valla.
 - The Klan believes this **concentrates the power** in the surviving twin.
 - It has been practiced for roughly **650 years**.
@@ -20,7 +19,7 @@ universe: Oversee
 - The real reasons are:
   - **Control.** Twins are unpredictable. They can be more powerful than expected. They can challenge the hierarchy.
   - **Fuel.** Every killed twin's soul is drawn toward the Valla — and the Klan's matriarch has learned to skim that energy for herself. The tradition is not just eugenics. It is a **feeding mechanism**.
-  - **Weakness.** Twins are **weaker** than single-born heirs. Their power is split. Klan Lei could not afford weak children — not when their entire legitimacy rested on being the strongest.
+  - **Weakness.** Twins are **weaker** than single-born heirs. Their power is split. The Lei Clan could not afford weak children — not when their entire legitimacy rested on being the strongest.
 
 ## The Discovery — Lei Firsa's Research
 - Lei Firsa discovered the truth about twins through decades of experimentation. She tested every combination of Lei blood she could find. She bred children. She measured their magic. She documented their power.
@@ -61,13 +60,12 @@ universe: Oversee
 - They know Darvin is a True Heir.
 - They do not know Livia's full story.
 - They do not know Vya's full origin.
-::/pf
 
 %% DM SECRETS %%
 
 ### The Tradition — Full Canon
 - The tradition is **not ancient**. It was invented by **Lei Firsa** around **50 AV**. She wanted to concentrate the magical power of her bloodline. She has been feeding on twin sacrifices for roughly 650 years.
-- The tradition is the **real reason** the Klan Lei is so powerful. They are not just hereditary mages. They are **accumulated power**. Every killed twin has added to the surviving twin's strength.
+- The tradition is the **real reason** the The Lei Clan is so powerful. They are not just hereditary mages. They are **accumulated power**. Every killed twin has added to the surviving twin's strength.
 - The tradition is also the **real reason** Lei Firsa has lived so long (if she is alive). She has been feeding on the twin sacrifices. Every dead twin is a drop of life added to hers.
 - **But the tradition was flawed.** Lei Firsa kept the **elder** twin — usually the smarter one. She believed intelligence was the key to power. She was wrong. The smarter twin was the **weaker** one. The tradition killed the wrong child.
 - **The intelligent twin gets the least magic.** The unintelligent twin gets the most. Lei Firsa did not realize this until centuries after she invented the tradition.
@@ -82,7 +80,7 @@ universe: Oversee
 - **Valerius is hunting his brother for a lie.** If he kills Darvin, nothing will happen. Topaju will still be with Alejandro. Valerius will have killed his brother for nothing.
 
 ### Accarus and Antrem — Hildag's Rough Drafts
-- **Accarus and Antrem** are the sons of **Hildag Grin**, not of a Lei mother. Hildag hid them from the Klan. This is the secret Will of Grin has been keeping. They are the **only surviving twins** of the Klan Lei's tradition — and they were never registered, never separated, never killed.
+- **Accarus and Antrem** are the sons of **Hildag Grin**, not of a Lei mother. Hildag hid them from the Klan. This is the secret Will of Grin has been keeping. They are the **only surviving twins** of the The Lei Clan's tradition — and they were never registered, never separated, never killed.
 - **Accarus got the intelligence.** He is clever, restless, ambitious. He is the leader of Will of Grin's field operations.
 - **Antrem got the magic.** He is simple, quiet, kind. He carries the dormant Lei Firage fire — weak, but present.
 - **Neither is whole.** They are twins. Their power is split. They are Hildag's rough drafts — her proof that the twin tradition could be subverted, but not perfected.
@@ -116,7 +114,7 @@ universe: Oversee
 
 ### The Tradition — What It Really Means
 - **The twin tradition is a tragedy.** It killed the wrong child for 650 years. It destroyed families. It created monsters. It fed Lei Firsa's power.
-- **The tradition can be broken.** Exposing it will collapse the Klan Lei. Stopping it will weaken Lei Firsa (or her legacy).
+- **The tradition can be broken.** Exposing it will collapse the The Lei Clan. Stopping it will weaken Lei Firsa (or her legacy).
 - **Vya is the key.** She is the child the tradition was trying to create — a whole heir, without the weakness of twins. If the party can help her accept her inheritance, she can lead the Grin into a new era.
 - **This is the true meaning of the tradition.** It is not about killing children. It is about the desperate search for a whole heir — a search that failed for centuries, and finally succeeded with Vya.
 
@@ -129,7 +127,7 @@ universe: Oversee
 - **CLARIFIED:** **Livia Vane is not a twin.** She was alone. She was adopted by Lei Alejandro. The "twin who should have died" story is a lie.
 - **CLARIFIED:** **Accarus and Antrem are Hildag's rough drafts.** Accarus got the intelligence. Antrem got the magic. Neither is whole.
 - **REMOVED:** "She wanted to concentrate the magical power of her bloodline. She has been feeding on twin sacrifices for roughly 650 years." — This is still true, but it is now framed as a **flawed policy** — Lei Firsa killed the wrong twin.
-- **REMOVED:** "The tradition is the real reason the Klan Lei is so powerful." — This is still true, but it is now framed as **accumulated power from the wrong twin**. The Klan Lei is powerful — but it is not as powerful as it could have been.
+- **REMOVED:** "The tradition is the real reason the The Lei Clan is so powerful." — This is still true, but it is now framed as **accumulated power from the wrong twin**. The The Lei Clan is powerful — but it is not as powerful as it could have been.
 - **REMOVED:** Any suggestion that the tradition is "ancient" or "natural." It is a **deliberate policy** — invented by Lei Firsa, corrected by Hildag, and finally transcended by Vya.
 
 ## Connections to Other Lore

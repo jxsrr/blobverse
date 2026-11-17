@@ -193,7 +193,7 @@ She was afraid now.
 
 They asked her what she meant.
 
-She told them about the **twin-killing tradition** of **Klan Lei**. When twins are born to a Lei mother, one is kept and one is killed. The survivor inherits the full power. The dead twin is forgotten.
+She told them about the **twin-killing tradition** of **The Lei Clan**. When twins are born to a Lei mother, one is kept and one is killed. The survivor inherits the full power. The dead twin is forgotten.
 
 > *"I was supposed to be killed. I was the younger one. My sister was supposed to live."*
 
@@ -248,7 +248,7 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 - **Ama's "limitless" power** comes from **<a href="/oversee/items/Renal">Renal</a>** — the Imp can consume Ambitio-Ether residue, and when Ama consumes residue himself, Renal gives him bursts of power. It costs him HP and stamina. He cannot do it indefinitely.
 - **Livia's sister** was named **Livia too** — the family killed the younger twin (the "real" Livia) and raised the older one (the "stolen" Livia) under her name. The current Livia carries the name of a dead girl.
 - **Valerius has known for years** that his sister was killed. He has been waiting for the moment when his "sister" is no longer useful — then he will kill her and blame it on the party.
-- **The twin-killing tradition is real.** It is the darkest secret of Klan Lei. It was invented by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** 650 years ago. It is why Vya was never killed (her mother hid her), and why Darvin was hidden (not killed). The survivors of the tradition are **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>**, **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** (the older twin), and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** (the hidden heir).
+- **The twin-killing tradition is real.** It is the darkest secret of The Lei Clan. It was invented by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** 650 years ago. It is why Vya was never killed (her mother hid her), and why Darvin was hidden (not killed). The survivors of the tradition are **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>**, **<a href="/oversee/npcs/Lei%20Valerius%20Thorne">Lei Valerius Thorne</a>** (the older twin), and **<a href="/oversee/pcs/Vya%20Arleschia">Vya</a>** (the hidden heir).
 - **HVS's discovery of the name "Human Vessel Shell"** is the beginning of his Season 3 arc. He will learn what it means — that he is not a man, but a **shell** — and he will have to decide what to do with that truth.
 - **Husgus's golden cracks** are now visible. He has not yet connected them to anything. When he learns about HVS-01 and HVS-02, he will understand. He is **HVS-01**. He was meant to hold the **Architect**. The Architect was never placed inside him. He developed his own soul. The golden light is the Architect's old structure showing through.
 - **Darvin carries Topaju.** He will die in Session 8. His death is the end of Season 2. It is also the beginning of Vya's path to becoming the True Heir.

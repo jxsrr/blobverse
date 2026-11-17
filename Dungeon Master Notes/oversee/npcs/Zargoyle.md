@@ -7,7 +7,6 @@ status: Contained (by Zargoth) — not destroyed, not gone
 first_seen: Not yet met (in history and inside Shin)
 universe: Oversee
 ---
-::pf
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">The Gap</span></div><span class="bv-status bv-status-alive">Contained (by zargoth) — not destroyed, not gone</span></div><div class="bv-dossier-name">Zargoyle</div><div class="bv-dossier-epithet">The Predator, The Possessor of Shin, The Destroyer of The Grace</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">The Gap (hostile) / None</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Originally the Gap. Now: contained by Zargoth, inside Shin's curse mark.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally) / The Curse Mark inside Shin (residual)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history and inside Shin)</div></div></div></div>
 
 
@@ -23,7 +22,6 @@ universe: Oversee
 - Zargoyle is **contained** by Zargoth. Zargoth has been keeping the monster inside — keeping it from consuming Shin.
 - Zargoyle wants to **escape**. It wants to consume. It wants to feed.
 - If Zargoyle ever breaks free, it will destroy everything Shin loves. It will destroy the party. It will destroy the world.
-::/pf
 
 %% DM SECRETS %%
 
@@ -83,7 +81,7 @@ universe: Oversee
 - Shin has been **protecting** them from Zargoyle. He has been fighting the monster in his sleep. He has been winning. But it is costing him.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the two entities. They learn about Zargoyle. They learn he is contained by Zargoth.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the two entities. They learn about Zargoyle. They learn he is contained by Zargoth.
 - **Session 11** — Shin learns the truth about Zargoyle. He learns he was not responsible for The Grace. He learns he was a victim. He learns he has been fighting the monster his whole life — and winning.
 - **Session 11** — Shin learns that if he releases Zargoth, Zargoyle will be released too. He must choose: keep the father, keep the monster contained, keep the pain — or release both, and face the monster alone.
 - **Endgame** — Shin must face Zargoyle. He must destroy him. He must contain him. He must find a way to free himself — without freeing the monster.

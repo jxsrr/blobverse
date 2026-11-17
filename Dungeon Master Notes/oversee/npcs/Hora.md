@@ -42,7 +42,7 @@ Run his farm. Recover his stolen milk. Survive the Commonwealth's taxes.
 - **The hidden cellar** — beneath the barn — is where Hora keeps his **stash of premium milk**. He sells it to wealthy clients in **Padre City** — nobles, merchants, and Commonwealth officials who pay handsomely for the rare delicacy. The cellar is hidden behind a false wall. Only Hora knows it is there. The party does not know. If they ever find it, they will find enough milk to feed a small army — and enough evidence to prove that Hora is not as poor as he pretends.
 
 ### The Tax Problem
-- **Hora is taxed heavily by the Commonwealth.** The taxes are not fair. They are not reasonable. They are designed to squeeze small farmers like Hora out of business, to force them to sell their land to larger, wealthier farms owned by Klan Lei descendants.
+- **Hora is taxed heavily by the Commonwealth.** The taxes are not fair. They are not reasonable. They are designed to squeeze small farmers like Hora out of business, to force them to sell their land to larger, wealthier farms owned by The Lei Clan descendants.
 - Hora has been fighting the taxes for years. He has written letters. He has hired lawyers. He has pleaded with the local magistrate. Nothing has worked. The taxes keep coming. The debts keep piling up.
 - **He is in debt.** He owes money to the Commonwealth. He owes money to the local moneylender. He owes money to his suppliers. He is one bad harvest away from losing the farm. He is one bad month away from losing everything.
 - **He does not tell anyone this.** He does not want pity. He does not want charity. He wants to be left alone to run his farm and pay his debts and maybe, one day, die in peace.
@@ -55,7 +55,7 @@ Run his farm. Recover his stolen milk. Survive the Commonwealth's taxes.
 - **If the party ignores him**, he will continue to be a grumpy old farmer who charges too much for milk. He will not become their enemy. He will not seek revenge. He will simply be there — a reminder that the world is full of people who are just trying to survive.
 
 ### Hora's Son
-- Hora has a **son** — a young man named **Aris**. Aris is a **Commonwealth soldier** — a private in the **Garda Besi**. He was conscripted into the army when he was eighteen. He has not written to his father in years.
+- Hora has a **son** — a young man named **Aris**. Aris is a **Commonwealth soldier** — a private in the **The Iron Guard**. He was conscripted into the army when he was eighteen. He has not written to his father in years.
 - Hora does not talk about Aris. He does not say his name. He does not look at the old photo on the mantle — the one of a young man in a Commonwealth uniform, smiling, holding a sword. He does not cry. He has forgotten how to cry.
 - **Aris is still alive.** He is stationed in **Padre City**. He is not a bad man. He is not a good man. He is a soldier — a cog in the machine. He does what he is told. He does not think about his father. He does not think about the farm. He does not think about anything.
 - **If the party ever meets Aris**, they will see a young man who looks like Hora — the same stubborn jaw, the same tired eyes, the same silence. They will see a man who has forgotten where he came from. They will see a man who has become what the Commonwealth wanted him to become.

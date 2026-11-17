@@ -4,7 +4,6 @@ leader: Unknown (destroyed)
 attitude_to_party: neutral
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Grace</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Unknown (destroyed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Neutral (defunct)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Formerly Elis (destroyed)</div></div></div></div>
 
 
@@ -23,7 +22,6 @@ universe: Oversee
 - Crest suspected Shin was different. He documented anomalies.
 - Edra never suspected anything. She trusted Shin completely.
 - He does not know if they blamed him. He does not know if they died hating him.
-::/pf
 
 %% DM SECRETS %%
 
@@ -70,7 +68,7 @@ universe: Oversee
 - The **ruins of The Grace** are still in Elis. They contain **Edra's diary** — a full account of the fall. The party can find it in Season 3.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Zargoyle. They learn about Zargoth. They learn Shin was not responsible.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Zargoyle. They learn about Zargoth. They learn Shin was not responsible.
 - **Session 11** — Shin learns the truth about The Grace. He learns he was a victim. He learns Edra and Crest did not blame him. He reads Edra's letter. He breaks. He weeps. He smiles. He always smiles.
 - **Session 11** — The party may visit the ruins of The Grace in Elis. They may find Edra's diary. They may find Crest's sword. They may find the truth.
 - **Endgame** — Shin must face Zargoyle. He must destroy him. He must contain him. He must find a way to free himself — without freeing the monster.

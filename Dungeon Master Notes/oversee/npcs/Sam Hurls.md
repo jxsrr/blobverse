@@ -69,7 +69,7 @@ universe: Oversee
 - **The melody is a key.** It is not a magic item. It is not a relic. It is a **song** — a specific frequency that can attract Echoes.
 - **Sam taught it to Gordon.** Gordon sang it every night. The children of Ghuffghuff sang it without knowing what it did. They were calling Echo Sam without realizing it.
 - **The melody can be used to find other Echoes.** If the party ever wants to find Echo Atreus, Echo Olaf, Echo Atlan, or Echo Gzirmo, they can sing the melody in a place that resonates with that Echo. It may work. It may not. The melody is a key, but not every door is the same.
-- **The melody can also be used to finish Sam's song.** If the party ever finds Sam's original lute — in the ruins of the altar, or in the Bahtera Bawah Tanah — they can play the melody and finish what he started. The song will be complete. Echo Sam will find peace. His Echo will finally rest.
+- **The melody can also be used to finish Sam's song.** If the party ever finds Sam's original lute — in the ruins of the altar, or in the The Underground Ark — they can play the melody and finish what he started. The song will be complete. Echo Sam will find peace. His Echo will finally rest.
 
 ### Sam's Connection to the Swan Trio
 - Sam did not carry any of the Swan relics. He was not connected to the Swan Trio. He was connected to **the story** — the song, the melody, the echo that would one day call the party to the truth.
@@ -82,12 +82,12 @@ universe: Oversee
 - **Accarus killed him** to prevent the party from learning too much.
 - **His melody is a key.** It is the reason Echo Sam haunted Ghuffghuff. It is the reason the party found him.
 - **His last song was never finished.** It is still unfinished. It will always be unfinished — until the party finishes it for him.
-- **His original lute** may still exist. It is in the ruins of the altar, or in the Bahtera Bawah Tanah. If the party finds it, they can finish his song.
+- **His original lute** may still exist. It is in the ruins of the altar, or in the The Underground Ark. If the party finds it, they can finish his song.
 - **His Echo is not gone.** It returned to Simon. It is still there — a fragment of a bard, a fragment of a song, a fragment of a friend. It is waiting. It is still trying to finish the melody.
 - **His last words** — recorded in the ritual memory — were: *"A sour note of betrayal... a bad climax, Lei. You cut the music right before the best part."*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about Sam. They learn he was uneasy from the start. They learn he tried to stop the ritual. They learn about the Echoes.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about Sam. They learn he was uneasy from the start. They learn he tried to stop the ritual. They learn about the Echoes.
 - **Session 11** — The party may find Sam's original lute. They may finish his song. They may give him peace.
 - **Endgame** — The party carries Sam's melody into the final battle. They sing it. They finish the song. They give him rest.
 

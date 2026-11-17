@@ -29,12 +29,12 @@ universe: Oversee
 ### Wakil Pertahanan — The Defense
 - **Current:** <a href="/oversee/npcs/Lei%20Iron%20Gort">Gort</a>
 - **Represents:** Military, defense, intelligence
-- **Leads:** Garda Besi (Iron Guard)
+- **Leads:** The Iron Guard (Iron Guard)
 - **Role:** Commands the army. Handles external threats. Security.
 - **Previous:** <a href="/oversee/npcs/Hildag%20Grin">Hildag</a> (200 AV) — yes, the same Hildag.
 
 ## What We Know
 - The Triase is not a democracy. It is an **aristocracy**.
-- Most high positions are held by **Klan Lei** descendants.
+- Most high positions are held by **The Lei Clan** descendants.
 - Valerius is the true power. Livia and Gort are tools.
 - The Triase controls the narrative. It rewrites history.

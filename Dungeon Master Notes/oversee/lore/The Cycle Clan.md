@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Cycle Clan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Keepers of the Secret
@@ -42,7 +41,7 @@ universe: Oversee
 - The Cycle Clan was **shattered by Lei Firsa**. The current Cycle Clan does not exist as an organization — it is scattered fragments, hiding.
 - **Rivan** is the main Cycle Clan contact the party will meet. He is an artist who drew the HVS schematics under Guanik's guidance. He lives in the Half House in Zundabun.
 - There is no four-Cipher structure. The Ciphers were a fabrication — or a later corruption — invented to replace the original organization.
-::/pf
+
 
 %% DM SECRETS %%
 
@@ -50,7 +49,7 @@ universe: Oversee
 - The Cycle Clan was founded by **Guanik Wiseman** in 1040 BV. It was not a secret society. It was a **brotherhood of scholars** — people who had seen the truth and wanted to protect the world.
 - It was founded to **maintain the seal** for the Architect — the first Valla — and to **find the shepherd** who would replace it when the time came.
 - It was **good**. It was not perfect. But it was honest. It was searching for a shepherd.
-- The original members were scholars, historians, and witnesses. They were the ones who wrote the original Edisi Law. They were the ones who guarded the Bahtera Bawah Tanah. They were the ones who knew Guanik's promise.
+- The original members were scholars, historians, and witnesses. They were the ones who wrote the original Edisi Law. They were the ones who guarded the The Underground Ark. They were the ones who knew Guanik's promise.
 
 ### The Fall — Lei Firsa
 - Lei Firsa arrived in 01 BV. She seized the Cycle Clan. She corrupted it.
@@ -89,7 +88,7 @@ universe: Oversee
 - The original members of the Cycle Clan were killed, silenced, or erased by Lei Firsa. They did not survive as an organization. They survived as fragments.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the original Cycle Clan. They learn about Guanik. They learn about the corruption.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the original Cycle Clan. They learn about Guanik. They learn about the corruption.
 - **Session 11** — The party meets Guanik. He asks them: *"Is the promise kept?"* They must answer truthfully.
 - **Endgame** — Guanik gives them the Architect's consent. The override can be performed. The third path is possible.
 
@@ -109,7 +108,7 @@ universe: Oversee
 ## Connections to Other Lore
 - `Guanik Wiseman.md` — the founder, the last living member, the Architect's vessel
 - `The Edisi Law.md` — the promise Guanik signed
-- `The Bahtera Bawah Tanah.md` — where the original Edisi Law is hidden
+- `The The Underground Ark.md` — where the original Edisi Law is hidden
 - `Lei Alejandro.md` — the man guarding it
 - `One Voice Commonwealth.md` — the organization Guanik founded
 - `The Triase.md` — the corrupted structure that replaced it

@@ -2,7 +2,6 @@
 type: Oversee Lore
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Endgame Paths</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] Four Paths
@@ -47,7 +46,6 @@ universe: Oversee
 - **Requires:** A PC with enough power — and enough ambition. The Gemhearts. The Swan relics. The blades. The Edisi Law. But not the Architect's consent. They take the power by force.
 - **Outcome:** The world is stable. The Overseer is held back. But the party has become a tyrant. They have become what they fought against.
 - **Epilogue:** Dark. The PC is immortal. The party is either subjugated or destroyed. The world is stable, but not free.
-::/pf
 
 %% DM SECRETS %%
 
@@ -125,6 +123,6 @@ universe: Oversee
 - `The Edisi Law.md` — the override clause
 - `Guanik Wiseman.md` — the Architect's vessel
 - `The Architect's Mercy.md` — the override clause (needs file or section)
-- `The Bahtera Bawah Tanah.md` — where the override is performed
+- `The The Underground Ark.md` — where the override is performed
 - `Lei Firsa.md` — the woman who corrupted the ritual
 - `Lei Alejandro.md` — the man who fed Simon

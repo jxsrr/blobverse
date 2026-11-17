@@ -63,7 +63,7 @@ universe: Oversee
 - **Emelanica is required for the override.** Without it, the third path is impossible.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the Gemhearts. They learn Mira holds Emelanica.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the Gemhearts. They learn Mira holds Emelanica.
 - **Session 11** — The party confronts Mira. She reveals she has held Emelanica since Session 02. She explains why. She asks them to trust her. She gives them Emelanica.
 - **Endgame** — The party must unite all four Gemhearts. They must perform the override. They must free the Valla. They must choose the third path.
 
@@ -81,7 +81,7 @@ universe: Oversee
 - `Rubion.md` — the red Gemheart, held by Mira
 - `Safayer.md` — the blue Gemheart, held by the party
 - `Topaju.md` — the yellow Gemheart, held by Lei Alejandro
-- `The Bahtera Bawah Tanah.md` — where the override is performed
+- `The The Underground Ark.md` — where the override is performed
 - `The Edisi Law.md` — the override clause that requires Emelanica
 - `The Endgame Paths.md` — the third path, the Architect's Mercy
 - `Greyland Castle.md` — where the party found it

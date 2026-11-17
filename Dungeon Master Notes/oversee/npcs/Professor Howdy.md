@@ -25,7 +25,7 @@ universe: Oversee
 ::/pf
 
 %% DM SECRETS %%
-- Howdy was killed by the **Garda Besi** on Valerius's orders.
+- Howdy was killed by the **The Iron Guard** on Valerius's orders.
 - His research was too close to the truth.
 - He had a copy of Wiseman's video hidden in his basement. The party did not find it.
 - His death was the trigger that made Donta realize he was next.

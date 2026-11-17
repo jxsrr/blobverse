@@ -20,7 +20,7 @@ universe: Oversee
 ## Echoes We Have NOT Met
 - **Echo Atreus Grin** — likely in the burned ruins of Chenalia or the forests he protected.
 - **Echo Olaf Guirela** — likely near Gordon's grave in Domido Forest.
-- **Echo Atlan Nouveau** — likely in Kota Juto or at the Observatorium.
+- **Echo Atlan Nouveau** — likely in Juto Port City or at the Observatorium.
 - **Echo Gzirmo Kopling** — in Arujaya, the reactor guardian. (Already met — cooperative after Swaith.)
 - **Echo Lei Alejandro** — **does not exist**. Alejandro is alive. He is not an Echo.
 

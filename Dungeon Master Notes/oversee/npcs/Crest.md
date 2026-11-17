@@ -78,7 +78,7 @@ universe: Oversee
 - **Crest's last words** — whispered to Edra as the explosion consumed them — were: *"Tell him I'm sorry. Tell him I should have told him sooner. Tell him he was never alone."*
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They learn about the fall of The Grace. They learn Shin was not responsible.
+- **Session 8–10** — The party reaches the The Underground Ark. They learn about the fall of The Grace. They learn Shin was not responsible.
 - **Session 11** — The party finds Crest's notes in the Lyceum archives. They learn the truth about the curse — that it is a seal, that Shin is a prison, that the thing inside him is trapped. They learn Crest did not blame Shin.
 - **Session 11** — Shin reads Crest's notes. He breaks. He weeps. He smiles. He always smiles. But for the first time in 690 years, the smile will reach his eyes.
 - **Session 11** — Shin finds Crest's sword. He holds it. He remembers. He weeps. He smiles.

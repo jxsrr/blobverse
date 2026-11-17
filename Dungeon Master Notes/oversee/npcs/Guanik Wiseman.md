@@ -2,13 +2,12 @@
 type: Oversee NPC
 role: Founder of the Cycle Clan, First Witness of the Shell
 faction: Cycle Clan (deceased)
-home: Observatorium Danau Kuno
+home: Arbor's Observatorium
 status: Deceased (1020 BV)
 first_seen: Not yet met (in history)
 universe: Oversee
 ---
-::pf
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased (1020 bv)</span></div><div class="bv-dossier-name">Guanik Wiseman</div><div class="bv-dossier-epithet">Founder of the Cycle Clan, First Witness of the Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown. Hidden. Alive.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Observatorium Danau Kuno</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased (1020 bv)</span></div><div class="bv-dossier-name">Guanik Wiseman</div><div class="bv-dossier-epithet">Founder of the Cycle Clan, First Witness of the Shell</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Unknown. Hidden. Alive.</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Arbor's Observatorium</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 
 ## What the Party Knows
@@ -24,7 +23,7 @@ universe: Oversee
 ## What the Party Has Seen
 - The video.
 - His name on the altar in the Cycle Clan ruin.
-- His name in the Berkas Penelitian Cycle Clan.
+- His name in the Cycle Clan Research File.
 - References to him in Rivan's sketches and notes.
 
 ## What the Party Does NOT Know
@@ -36,7 +35,7 @@ universe: Oversee
 
 ## Current State
 - Alive. Hidden. Waiting.
-::/pf
+
 
 %% DM SECRETS %%
 
@@ -63,12 +62,12 @@ universe: Oversee
 - It was originally a **search** — a group of people sworn to find the next shepherd, the next Valla, the next person willing to hold the seal.
 - It was **not** a government. It was a **promise**.
 - The original **Garda Mawar** was a group of scholars, historians, and witnesses — not law enforcement. They remembered the truth and preserved it.
-- The original **Garda Besi** was a group of volunteers — not a military. They protected the search.
+- The original **The Iron Guard** was a group of volunteers — not a military. They protected the search.
 - At the time of the **Initial Six** (200 AV), **Geldfre** was the Kanselir Agung. He was not the first — he inherited the role from Guanik's legacy. He was the last Kanselir Agung who remembered the original promise.
 - After the Great Disappearance, **Lei Firsa** had been pulling strings for centuries. She had been placing her descendants in key positions. She had been rewriting history. **Geldfre was the last Kanselir Agung who remembered the original promise.** After him, the Commonwealth became the Triase's Commonwealth — and the Triase became Lei Firsa's.
 
 ### The Edisi Law — Guanik's Promise
-- The original Edisi Law is in the **Bahtera Bawah Tanah** — the Underground Ark.
+- The original Edisi Law is in the **The Underground Ark** — the Underground Ark.
 - It was signed by **Guanik Wiseman**.
 - It was written by Guanik and the Architect — the Architect inside him, speaking through his hand.
 - It is not a legal code. It is a **promise** — Guanik's promise to the Architect that he would find a way to save Oversee, to find a shepherd, to make one voice.
@@ -76,7 +75,7 @@ universe: Oversee
 - It is guarded by **Lei Alejandro** — alive, hiding in the Ark, waiting for someone worthy.
 
 ### Guanik's Current State
-- Guanik is **alive**. He is not in the Bahtera Bawah Tanah — he is somewhere else, hidden, waiting. The party may meet him in Season 3.
+- Guanik is **alive**. He is not in the The Underground Ark — he is somewhere else, hidden, waiting. The party may meet him in Season 3.
 - He is old. He is tired. He has been holding the promise for over a thousand years.
 - He does not know that Lei Firsa corrupted the Commonwealth. He does not know that Simon is the Valla. He does not know that the Cycle Clan was shattered. He has been hidden, waiting, for someone to come.
 - When the party meets him, he will ask them: *"Is the promise kept?"* If they say yes, he will smile. If they say no, he will nod. He has waited a long time for the answer.
@@ -92,7 +91,7 @@ universe: Oversee
 - He has been waiting for someone to come and fulfill the promise.
 
 ### Season 3 Reveal Schedule
-- **Session 8–10** — The party reaches the Bahtera Bawah Tanah. They find the original Edisi Law. They learn about Guanik. They learn he is alive.
+- **Session 8–10** — The party reaches the The Underground Ark. They find the original Edisi Law. They learn about Guanik. They learn he is alive.
 - **Session 11** — The party meets Guanik. He asks them: *"Is the promise kept?"* They must answer truthfully.
 - **Endgame** — Guanik gives them the Architect's consent. The override can be performed. The third path is possible.
 
@@ -106,14 +105,14 @@ universe: Oversee
 - **CLARIFIED:** Geldfre was the Kanselir Agung at the time of the Initial Six (200 AV). He was the last one who remembered the original promise.
 - **CLARIFIED:** The Architect is **inside Guanik**. This is how he lived so long. This is how he wrote the Edisi Law.
 - **CLARIFIED:** Guanik is **alive** in the present era. He is hidden. He is waiting.
-- **CLARIFIED:** The original Garda Mawar was a group of scholars and witnesses. The original Garda Besi was a group of volunteers. The current versions are Firsa's corrupted versions.
+- **CLARIFIED:** The original Garda Mawar was a group of scholars and witnesses. The original The Iron Guard was a group of volunteers. The current versions are Firsa's corrupted versions.
 - **REMOVED:** Any mention of the Golem Hukum.
-- **REMOVED:** "His full journal is in the Observatorium Danau Kuno. It contains instructions for the third path." — The third path is now defined by the Edisi Law and the Swan Trio, not by Wiseman's journal.
+- **REMOVED:** "His full journal is in the Arbor's Observatorium. It contains instructions for the third path." — The third path is now defined by the Edisi Law and the Swan Trio, not by Wiseman's journal.
 - **REMOVED:** "He created the first two HVS shells (HVS-01 and HVS-02)." — The HVS shells are now canonically created by the Cycle Clan under Wiseman's guidance, but Wiseman himself is not the sole creator. This is a Season 3 reveal.
 
 ## Connections to Other Lore
 - `The Edisi Law.md` — the promise Guanik signed
-- `The Bahtera Bawah Tanah.md` — where the original Edisi Law is hidden
+- `The The Underground Ark.md` — where the original Edisi Law is hidden
 - `Lei Alejandro.md` — the man guarding it
 - `The Swan Trio.md` — the three relics required for the override
 - `The Six Legendary Weapons.md` — the six blades required for the override

@@ -32,7 +32,7 @@ Complete the world map. Find the Gemhearts. Ensure Grin survival.
 - She is **over 500 years old**. She has been fighting for centuries. She has seen everything.
 
 ### Hildag's Children — The Twins
-- Hildag is the **mother of Accarus and Antrem** — twin sons she had with a **Lei Firage descendant**. They are the **only surviving twins** of the Klan Lei's twin-killing tradition. She hid them. She protected them. They were never registered. They were never separated.
+- Hildag is the **mother of Accarus and Antrem** — twin sons she had with a **Lei Firage descendant**. They are the **only surviving twins** of the The Lei Clan's twin-killing tradition. She hid them. She protected them. They were never registered. They were never separated.
 - **She did not have them by accident.** She bred them. She studied the twin tradition for decades. She learned that the **intelligent twin** had the **least magic**, and the **unintelligent twin** had the **most magic**. She wanted to see if she could produce a child with both — or if she could produce a **new** kind of heir.
 - **Accarus and Antrem were the accidental success.** They survived. They were not killed. They were her proof of concept.
 
@@ -45,7 +45,7 @@ Complete the world map. Find the Gemhearts. Ensure Grin survival.
 - **Vya is that child.** She is **Grin-Lei-Arleschia**. She is Hildag's magnum opus. She is the culmination of decades of research. She is the future of the Grin.
 
 ### The Twins — Why They Survived
-- Hildag hid Accarus and Antrem from the Klan Lei. She did not kill them. She did not let anyone know they existed.
+- Hildag hid Accarus and Antrem from the The Lei Clan. She did not kill them. She did not let anyone know they existed.
 - **Why?** Because she had learned the twin rule — that twins split their power. She wanted to see if she could **reunite** the power without killing one of them. She wanted to see if there was another way.
 - **She failed.** Accarus and Antrem are twins. Their power is split. They are not True Heirs. They are not Vya. They are her **rough drafts** — her proof that the twin tradition could be subverted, but not perfected.
 - **Jarko** — Accarus and Geneva's son — was not the True Heir. He was **Grin-Grin-Lei**. He did not have the Arleschia blood. His Grin and Lei blood canceled each other out. He was a Grin warrior — not a True Heir. Hildag knew this from the moment he was born. She used him as a decoy.

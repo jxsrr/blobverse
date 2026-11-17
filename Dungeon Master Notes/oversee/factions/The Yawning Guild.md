@@ -4,7 +4,6 @@ leader: Unknown (regional guild master)
 attitude_to_party: friendly
 universe: Oversee
 ---
-::pf
 <div class="bv-world bv-world-faction"><div class="bv-world-kicker">OVERSEE · FACTION DOSSIER</div><div class="bv-world-title">The Yawning Guild</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Leader</div><div class="bv-stat-val">Regional Guild Master (unseen)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Attitude Toward Us</div><div class="bv-stat-val">Friendly</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Yawning Town</div></div></div></div>
 
 
@@ -24,7 +23,6 @@ universe: Oversee
 
 ## Current State
 - Active. Profitable. Politically neutral.
-::/pf
 
 %% DM SECRETS %%
 - The Yawning Guild is not politically neutral. It is **secretly funded by the Keeper of Secret**.

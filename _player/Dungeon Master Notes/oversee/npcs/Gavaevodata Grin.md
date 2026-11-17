@@ -1,7 +1,7 @@
 ---
 type: Oversee NPC
 role: The First Grin, The Woman Who Married a Demon
-faction: Kerajaan Grin (deceased)
+faction: Grin Kingdom (deceased)
 home: The Gap (originally)
 status: Deceased (10XX BV)
 first_seen: Not yet met (in history)
@@ -9,7 +9,7 @@ universe: Oversee
 aliases:
   - Gavaevodata
 ---
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Kerajaan Grin</span></div><span class="bv-status bv-status-deceased">Deceased (10xx bv)</span></div><div class="bv-dossier-name">Gavaevodata Grin</div><div class="bv-dossier-epithet">The First Grin, The Woman Who Married a Demon</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Kerajaan Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in the Grin Kingdom</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Grin Kingdom</span></div><span class="bv-status bv-status-deceased">Deceased (10xx bv)</span></div><div class="bv-dossier-name">Gavaevodata Grin</div><div class="bv-dossier-epithet">The First Grin, The Woman Who Married a Demon</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Grin Kingdom (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in the Grin Kingdom</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 ## What the Party Knows (from Lore)
 - An elf princess of the Grin Kingdom.
