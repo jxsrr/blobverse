@@ -14,7 +14,7 @@ showToc: false
   <div class="bv-gate-card bv-gate-oversee">
     <div>
       <div class="bv-gate-party">PARTY I · THE FIVE STICKS · 7 SESSIONS + AEDE</div>
-      <div class="bv-gate-title">Oversee</div>
+      <a class="bv-gate-logo-link" href="/oversee" aria-label="Enter Oversee"><img src="/oversee/Logo.png" alt="Oversee"></a>
       <p class="bv-gate-desc">From Yawning Town to the Spire of Whispering Ice, subterranean Arujaya, and the Elis Ocean anomaly of Aede. Follow the chronicle across Harka, Pirizia, Rioquan, and Elis.</p>
     </div>
     <div>
