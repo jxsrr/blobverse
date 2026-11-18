@@ -7,7 +7,7 @@ showToc: false
 <div class="bv-hero">
   <span class="bv-world-theme" data-world="sonstige" aria-hidden="true"></span>
   <div class="bv-hero-kicker">Academy Campaign · Side Chronicle</div>
-  <h1 class="bv-hero-title">Sonstige</h1>
+  <a class="bv-hub-logo-link" href="/sonstige" aria-label="Sonstige Home"><img class="bv-logo-hero" src="/sonstige/Logo.png" alt="Sonstige"></a>
   <p class="bv-hero-sub">School life, arcane lessons, campus politics, and the strange mysteries unfolding between classes.</p>
   <div class="bv-cta-row">
     <a class="bv-btn bv-btn-primary" href="/sonstige/pcs">Meet the Students</a>

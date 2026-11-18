@@ -7,7 +7,7 @@ showToc: false
 <div class="bv-hero">
   <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span>
   <div class="bv-hero-kicker">Special Campaign · Anomaly Arc</div>
-  <h1 class="bv-hero-title">Aede</h1>
+  <a class="bv-hub-logo-link" href="/aede" aria-label="Aede Home"><img class="bv-logo-hero" src="/aede/Logo.png" alt="Aede"></a>
   <p class="bv-hero-sub">Across the storm-wracked Elis Ocean into a tear in reality — where the sea bends and time unravels.</p>
   <div class="bv-cta-row">
     <a class="bv-btn bv-btn-primary" href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Latest Recap: Love in Time</a>

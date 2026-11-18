@@ -3,7 +3,7 @@ title: PCs
 showSidebar: false
 showToc: false
 ---
-<span class="bv-world-theme" data-world="sonstige" aria-hidden="true"></span><a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><strong style="font-family:var(--font-family-heading);font-size:1.45rem;letter-spacing:0.06em;text-transform:uppercase;color:var(--bv-accent);">Sonstige</strong><span class="bv-world-home-arrow">← Hub</span></a>
+<span class="bv-world-theme" data-world="sonstige" aria-hidden="true"></span><a class="bv-world-home" href="/sonstige" aria-label="Back to Sonstige Home"><img src="/sonstige/Logo.png" alt="Sonstige"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-sec-hero"><div class="bv-sec-kicker">SONSTIGE · PLAYER CHARACTERS (4 ENTRIES)</div><div class="bv-sec-title">Sonstige — Pcs</div><p class="bv-sec-sub">The party members you play alongside at the table.</p></div>
 

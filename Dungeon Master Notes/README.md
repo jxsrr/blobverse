@@ -32,7 +32,7 @@ showToc: false
   <div class="bv-gate-card bv-gate-sonstige">
     <div>
       <div class="bv-gate-party">PARTY II · CALAMARA ACADEMY · ACTIVE</div>
-      <div class="bv-gate-title">Sonstige</div>
+      <a class="bv-gate-logo-link" href="/sonstige" aria-label="Enter Sonstige"><img src="/sonstige/Logo.png" alt="Sonstige"></a>
       <p class="bv-gate-desc">Arcane lessons, Jounce matches, campus rivalries, and the hidden mysteries unfolding between classes around Calamara.</p>
     </div>
     <div>
