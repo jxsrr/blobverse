@@ -3187,3 +3187,33 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   font-size: 0.84rem !important;
   color: var(--bv-text-muted) !important;
 }
+
+/* =========================================================================
+   THE INITIAL SIX INTERACTIVE PORTRAIT ATLAS (/oversee/npcs#the-initial-six)
+   ========================================================================= */
+
+.bv-in6-atlas .bv-atlas-stage img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* Cegah kartu tooltip terpotong di tepi kiri (Atlan) atau tepi kanan (Alejandro) */
+.bv-in6-pin:first-of-type .bv-pin-card {
+  left: 0 !important;
+  transform: translate(0, -10px) !important;
+}
+.bv-in6-pin:first-of-type:hover .bv-pin-card,
+.bv-in6-pin:first-of-type:focus-visible .bv-pin-card {
+  transform: translate(0, -14px) !important;
+}
+
+.bv-in6-pin:last-of-type .bv-pin-card {
+  left: auto !important;
+  right: 0 !important;
+  transform: translate(0, -10px) !important;
+}
+.bv-in6-pin:last-of-type:hover .bv-pin-card,
+.bv-in6-pin:last-of-type:focus-visible .bv-pin-card {
+  transform: translate(0, -14px) !important;
+}
