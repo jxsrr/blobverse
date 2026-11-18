@@ -3221,25 +3221,3 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
 .bv-in6-pin[href$="Gzirmo%20Kopling"]:focus-visible .bv-pin-card {
   transform: translate(0, -14px) !important;
 }
-
-/* =========================================================================
-   FORCE SIDEBAR KIRI & KANAN HADIR DI SEMUA HALAMAN (KECUALI LANDING & /XXX)
-   ========================================================================= */
-
-/* Pastikan grid layout menampilkan kedua kolom sidebar */
-body:not(:has([href="/"])) .site-layout,
-.site-layout:not(.no-sidebar):not(.landing) {
-  display: grid !important;
-  grid-template-columns: var(--site-sidebar-width, 280px) minmax(0, 1fr) var(--site-toc-width, 260px) !important;
-}
-
-/* Sembunyikan sidebar khusus pada halaman landing (home) */
-body:has([href="/"][aria-current="page"]) .site-layout,
-.site-layout.landing {
-  grid-template-columns: 1fr !important;
-}
-
-/* Sembunyikan sidebar pada halaman uji /xxx */
-body:has([href*="/xxx"]) .site-layout {
-  grid-template-columns: 1fr !important;
-}
