@@ -2742,200 +2742,329 @@ article:has(.bv-atlas-shell),
 }
 
 /* =========================================================================
-   LINEAR-INSPIRED LIGHT EDITORIAL SIDEBAR SYSTEM
-   Compact 248px navigation rail, restrained typography & world-aware accents
+   BLOBVERSE LINEAR-INSPIRED LEFT SIDEBAR (.site-sidebar & .site-tree)
+   Light Parchment & Paper Editorial System — Fixed 248px Desktop Rail
    ========================================================================= */
 
 :root {
   --bv-sidebar-w: 248px;
-  --bv-nav-font-size: 0.8125rem;   /* 13px */
-  --bv-nav-group-size: 0.65625rem; /* 10.5px */
+  --bv-nav-text: 0.8125rem;      /* 13px */
+  --bv-nav-subtext: 0.78125rem;  /* 12.5px */
+  --bv-nav-kicker: 0.625rem;     /* 10px */
   --bv-nav-radius: 5px;
 }
 
-/* 1. Desktop Fixed-Width Sidebar Container */
+/* 1. Desktop Layout Rail (248px Fixed Width, Never Stretched by Long Titles) */
 @media (min-width: 1024px) {
-  aside.sidebar,
-  nav.sidebar,
-  [data-sidebar],
-  .sidebar {
+  .layout-inner.has-sidebar-and-toc,
+  .layout-inner.has-sidebar {
+    display: grid !important;
+    grid-template-columns: var(--bv-sidebar-w) minmax(0, 1fr) !important;
+    align-items: start !important;
+  }
+
+  .layout-inner.has-sidebar-and-toc:has(.layout-inner-right) {
+    grid-template-columns: var(--bv-sidebar-w) minmax(0, 1fr) 220px !important;
+  }
+
+  .layout-inner-left {
     width: var(--bv-sidebar-w) !important;
     min-width: var(--bv-sidebar-w) !important;
     max-width: var(--bv-sidebar-w) !important;
-    flex: 0 0 var(--bv-sidebar-w) !important;
+    position: sticky !important;
+    top: 0 !important;
+    height: 100vh !important;
     background: var(--bv-bg) !important;
     border-right: 1px solid var(--bv-border) !important;
-    padding: 0.85rem 0.65rem 1.5rem !important;
+    overflow: hidden !important;
+    z-index: 20 !important;
+  }
+
+  aside.site-sidebar {
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0.85rem 0.6rem 2rem !important;
     box-sizing: border-box !important;
-    overflow-x: hidden !important;
     overflow-y: auto !important;
+    overflow-x: hidden !important;
+    background: transparent !important;
     scrollbar-width: thin;
+    scrollbar-color: var(--bv-border-strong) transparent;
   }
 }
 
-/* 2. Remove Decorative Boxes, Colored Icon Pills & Heavy Dividers */
-.sidebar ul,
-.sidebar ol {
+/* 2. Reset Tree Lists & Remove Excessive Borders / Boxes */
+nav.site-tree-container,
+ul.site-tree {
   list-style: none !important;
   margin: 0 !important;
   padding: 0 !important;
+  width: 100% !important;
 }
 
-.sidebar li {
-  margin: 1px 0 !important;
+ul.site-tree {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1px !important;
+}
+
+li.site-tree-item {
+  list-style: none !important;
+  margin: 0 !important;
   padding: 0 !important;
   border: none !important;
   background: transparent !important;
-}
-
-/* Indentation for Nested Tree Levels (Hierarchy via Spacing, Not Boxes) */
-.sidebar ul ul,
-.sidebar li > ul,
-.sidebar details > ul {
-  margin: 2px 0 6px 0.65rem !important;
-  padding-left: 0.55rem !important;
-  border-left: 1px solid color-mix(in srgb, var(--bv-border) 75%, transparent) !important;
-}
-
-/* 3. Understated Uppercase Group Labels & Folder Summary Toggles */
-.sidebar summary,
-.sidebar [role="button"],
-.sidebar .sidebar-group-title,
-.sidebar li > button {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-  gap: 0.4rem !important;
   width: 100% !important;
-  padding: 0.34rem 0.5rem !important;
-  margin: 0 !important;
-  border: none !important;
-  border-radius: var(--bv-nav-radius) !important;
-  background: transparent !important;
-  color: var(--bv-text-muted) !important;
-  font-family: var(--font-family-monospace) !important;
-  font-size: var(--bv-nav-group-size) !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.08em !important;
-  text-transform: uppercase !important;
-  line-height: 1.3 !important;
-  cursor: pointer !important;
-  user-select: none !important;
-  text-align: left !important;
-  transition: color 140ms ease, background-color 140ms ease !important;
 }
 
-.sidebar summary:hover,
-.sidebar [role="button"]:hover,
-.sidebar li > button:hover {
-  color: var(--bv-text) !important;
-  background: color-mix(in srgb, var(--bv-text) 4%, transparent) !important;
+/* 3. Section Headers via Pure CSS (WORLDS, ARCHIVE, CAMPAIGN SESSIONS) */
+ul.site-tree::before {
+  content: "WORLDS";
+  display: block;
+  order: 1;
+  padding: 0.15rem 0.5rem 0.35rem;
+  font-family: var(--font-family-monospace);
+  font-size: var(--bv-nav-kicker);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--bv-text-muted);
 }
 
-/* Top-Level World Entries (Aede, Sonstige, Oversee) */
-.sidebar > ul > li > summary,
-.sidebar > nav > ul > li > summary,
-.sidebar > ul > li > a,
-.sidebar > nav > ul > li > a {
-  font-family: var(--font-family-sans, inherit) !important;
-  font-size: 0.8125rem !important;
-  font-weight: 600 !important;
-  letter-spacing: -0.005em !important;
-  text-transform: none !important;
-  color: var(--bv-text) !important;
-  padding: 0.38rem 0.55rem !important;
+/* Pin World Root Link (/oversee, /aede, /sonstige) at Top under WORLDS */
+ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
+  order: 2 !important;
+  margin-bottom: 0.35rem !important;
 }
 
-/* 4. Navigation Links — Compact, Muted Inactive, Restrained Active State */
-.sidebar a {
+/* Inject ARCHIVE Header Before First Archive Category (Canon) */
+ul.site-tree > li.site-tree-item:has(a[href$="/canon"])::before {
+  content: "ARCHIVE";
+  display: block;
+  padding: 0.65rem 0.5rem 0.3rem;
+  margin-top: 0.2rem;
+  border-top: 1px solid color-mix(in srgb, var(--bv-border) 65%, transparent);
+  font-family: var(--font-family-monospace);
+  font-size: var(--bv-nav-kicker);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--bv-text-muted);
+}
+
+ul.site-tree > li.site-tree-item {
+  order: 3;
+}
+
+/* Inject CAMPAIGN SESSIONS Header Before Sessions Folder */
+ul.site-tree > li.site-tree-item:has(a[href$="/sessions"]) {
+  order: 4 !important;
+}
+
+ul.site-tree > li.site-tree-item:has(a[href$="/sessions"])::before {
+  content: "CAMPAIGN SESSIONS";
+  display: block;
+  padding: 0.65rem 0.5rem 0.3rem;
+  margin-top: 0.35rem;
+  border-top: 1px solid color-mix(in srgb, var(--bv-border) 65%, transparent);
+  font-family: var(--font-family-monospace);
+  font-size: var(--bv-nav-kicker);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--bv-text-muted);
+}
+
+/* 4. Row Layout & Consistent Alignment (.site-tree-item-self) */
+.site-tree-item-self {
   position: relative !important;
   display: flex !important;
   align-items: center !important;
-  gap: 0.45rem !important;
+  justify-content: space-between !important;
+  gap: 0.25rem !important;
   width: 100% !important;
+  min-height: 28px !important;
+  padding: 0.28rem 0.5rem !important;
   box-sizing: border-box !important;
-  padding: 0.32rem 0.55rem !important;
   border-radius: var(--bv-nav-radius) !important;
+  border-left: 2px solid transparent !important;
   color: var(--bv-text-sub) !important;
   font-family: var(--font-family-sans, inherit) !important;
-  font-size: var(--bv-nav-font-size) !important;
+  font-size: var(--bv-nav-text) !important;
   font-weight: 450 !important;
   line-height: 1.35 !important;
   text-decoration: none !important;
-  border-left: 2px solid transparent !important;
-  transition: color 130ms ease, background-color 130ms ease, border-color 130ms ease !important;
-  /* Prevent long titles from ever distorting sidebar width */
-  overflow-wrap: anywhere !important;
-  word-break: normal !important;
+  transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease !important;
 }
 
-.sidebar a:hover {
+/* Direct Leaf Links (a.site-tree-item-self) */
+a.site-tree-item-self {
+  justify-content: flex-start !important;
+}
+
+/* Collapsible Folder Row (div.site-tree-item-self.is-collapsible) */
+.site-tree-item-self.is-collapsible {
+  padding-right: 0.25rem !important;
+}
+
+.site-tree-item-self.is-collapsible > a.site-tree-item-text {
+  flex: 1 1 auto !important;
+  min-width: 0 !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  padding: 0.05rem 0 !important;
+}
+
+/* Fix Capitalization of NPCs & PCs in Sidebar */
+a.site-tree-item-text[href$="/npcs"],
+a.site-tree-item-text[href$="/pcs"] {
+  text-transform: uppercase !important;
+  font-size: 0.76rem !important;
+  letter-spacing: 0.03em !important;
+}
+
+/* Top-Level World Pill Row (/oversee, /aede, /sonstige) with Subtle World Dot */
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
+  font-weight: 600 !important;
   color: var(--bv-text) !important;
-  background: color-mix(in srgb, var(--bv-text) 4.5%, transparent) !important;
+  padding: 0.34rem 0.5rem !important;
 }
 
-/* Subtle Active Page Highlighting Using Active World Palette */
-.sidebar a[aria-current="page"],
-.sidebar a.active {
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"]::before,
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"]::before,
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"]::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"]::before { background: #85181A; }
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"]::before { background: #6E1F49; }
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"]::before { background: #D18E17; }
+
+/* 5. Hover & Restrained Active-Page Highlighting */
+.site-tree-item-self:hover {
+  background: color-mix(in srgb, var(--bv-text) 4.5%, transparent) !important;
+  color: var(--bv-text) !important;
+}
+
+.site-tree-item-self[aria-current="page"],
+.site-tree-item-self:has(a[aria-current="page"]),
+.site-tree-item-self.is-active {
+  background: color-mix(in srgb, var(--bv-accent) 9%, transparent) !important;
   color: var(--bv-accent-deep) !important;
   font-weight: 600 !important;
-  background: color-mix(in srgb, var(--bv-accent) 10%, transparent) !important;
-  border-left: 2px solid var(--bv-accent) !important;
+  border-left-color: var(--bv-accent) !important;
 }
 
-/* Restrained World Distinctions on Top-Level World Links */
-.sidebar a[href="/oversee"][aria-current="page"],
-.sidebar a[href^="/oversee/"][aria-current="page"] {
+/* World-Specific Active Accent Overrides */
+.site-tree-item-self[href^="/oversee"][aria-current="page"],
+.site-tree-item-self:has(a[href^="/oversee"][aria-current="page"]) {
   --bv-accent: #85181A;
   --bv-accent-deep: #6E1315;
 }
-.sidebar a[href="/aede"][aria-current="page"],
-.sidebar a[href^="/aede/"][aria-current="page"] {
+.site-tree-item-self[href^="/aede"][aria-current="page"],
+.site-tree-item-self:has(a[href^="/aede"][aria-current="page"]) {
   --bv-accent: #6E1F49;
   --bv-accent-deep: #58173A;
 }
-.sidebar a[href="/sonstige"][aria-current="page"],
-.sidebar a[href^="/sonstige/"][aria-current="page"] {
+.site-tree-item-self[href^="/sonstige"][aria-current="page"],
+.site-tree-item-self:has(a[href^="/sonstige"][aria-current="page"]) {
   --bv-accent: #D18E17;
   --bv-accent-deep: #9A640B;
 }
 
-/* 5. Small Monochromatic Icons (Strip Colored Backgrounds) */
-.sidebar svg {
-  width: 14px !important;
-  height: 14px !important;
-  min-width: 14px !important;
-  color: var(--bv-text-muted) !important;
-  opacity: 0.78 !important;
-  background: transparent !important;
+/* 6. Minimal Monochromatic Expand/Collapse Chevron Button */
+.site-tree-item-self.is-collapsible > button {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
   padding: 0 !important;
-  border-radius: 0 !important;
-}
-.sidebar a[aria-current="page"] svg,
-.sidebar a:hover svg {
-  color: var(--bv-accent-deep) !important;
-  opacity: 1 !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 4px !important;
+  background: transparent !important;
+  color: var(--bv-text-muted) !important;
+  cursor: pointer !important;
+  flex-shrink: 0 !important;
+  transition: background-color 120ms ease, color 120ms ease !important;
 }
 
-/* 6. Long Title Clamping (Max 2 Lines, Zero Horizontal Overflow) */
-.sidebar a > span,
-.sidebar summary > span {
+.site-tree-item-self.is-collapsible > button:hover {
+  background: color-mix(in srgb, var(--bv-text) 6%, transparent) !important;
+  color: var(--bv-text) !important;
+}
+
+svg.site-tree-item-icon {
+  width: 13px !important;
+  height: 13px !important;
+  stroke-width: 2 !important;
+  transition: transform 150ms ease !important;
+}
+
+.site-tree-item-self.is-collapsible > button[aria-expanded="true"] svg.site-tree-item-icon {
+  transform: rotate(90deg) !important;
+}
+
+/* 7. Nested Children Indentation & Two-Line Clamping for Long Titles */
+li.site-tree-item ul {
+  list-style: none !important;
+  margin: 2px 0 4px 0.65rem !important;
+  padding: 0 0 0 0.45rem !important;
+  border-left: 1px solid color-mix(in srgb, var(--bv-border) 75%, transparent) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1px !important;
+}
+
+li.site-tree-item ul a.site-tree-item-self,
+li.site-tree-item ul .site-tree-item-text {
+  font-size: var(--bv-nav-subtext) !important;
+  line-height: 1.32 !important;
   display: -webkit-box !important;
   -webkit-line-clamp: 2 !important;
   -webkit-box-orient: vertical !important;
   overflow: hidden !important;
   text-overflow: ellipsis !important;
+  overflow-wrap: anywhere !important;
+  word-break: normal !important;
 }
 
-/* 7. Mobile Drawer Preservation */
+/* 8. Mobile Drawer & Unobtrusive Subnav Reopen Button */
+.site-subnav {
+  background: var(--bv-bg) !important;
+  border-bottom: 1px solid var(--bv-border) !important;
+}
+
+.site-subnav-menu-button {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 32px !important;
+  height: 32px !important;
+  border-radius: 5px !important;
+  border: 1px solid var(--bv-border) !important;
+  background: var(--bv-surface) !important;
+  color: var(--bv-text-sub) !important;
+}
+
+.site-subnav-menu-button:hover {
+  color: var(--bv-text) !important;
+  background: var(--bv-bg-sub) !important;
+}
+
 @media (max-width: 1023px) {
-  .sidebar {
+  aside.site-sidebar {
     background: var(--bv-bg) !important;
     border-right: 1px solid var(--bv-border) !important;
-    padding: 1rem 0.75rem 2rem !important;
+    padding: 0.9rem 0.75rem 2rem !important;
   }
-  .sidebar a,
-  .sidebar summary {
-    min-height: 36px !important;
+  .site-tree-item-self {
+    min-height: 34px !important;
   }
 }
