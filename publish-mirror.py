@@ -1,3 +1,17 @@
+
+def sanitize_sensitive_content(text):
+    sensitive_words = ["gavaevodata", "firsa", "human vessel shell", "zargoth", "architect", "topaju"]
+    lines = text.splitlines()
+    cleaned_lines = []
+    for line in lines:
+        lower_line = line.lower()
+        # Jika baris mengandung keyword terlarang dan bukan bagian dari tag umum yang aman, sensor/lewatkan
+        if any(w in lower_line for w in sensitive_words) and "<!--" not in line:
+            # Ganti baris dengan catatan sensor atau abaikan baris
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines)
+
 """Sync Dungeon Master Notes -> _player/Dungeon Master Notes, then resolve links.
 
 Pipeline:
