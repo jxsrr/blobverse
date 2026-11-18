@@ -2364,3 +2364,131 @@ article table td {
   border-color: var(--bv-accent) !important;
   background: var(--bv-surface) !important;
 }
+
+/* =========================================================================
+   OVERSEE FULL MAP & MAXIMIZED FILTER / ZOOM CONTROLS (/oversee/locations)
+   ========================================================================= */
+
+/* Hapus total daftar kartu di bawah peta */
+.bv-atlas-gazetteer {
+  display: none !important;
+}
+
+/* Maksimalkan lebar artikel & shell peta agar tampil full map */
+article:has(.bv-atlas-shell),
+.prose:has(.bv-atlas-shell) {
+  max-width: 1440px !important;
+}
+
+.bv-atlas-shell {
+  padding: 1.1rem 1.25rem 1.25rem !important;
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border-strong) !important;
+  box-shadow: 0 10px 30px rgba(24, 16, 12, 0.08) !important;
+}
+
+/* Toolbar FILTER & ZOOM terstruktur */
+.bv-atlas-toolbar {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 0.85rem 1.25rem !important;
+  padding: 0.75rem 0.9rem !important;
+  margin-bottom: 1rem !important;
+  background: var(--bv-bg-sub) !important;
+  border: 1px solid var(--bv-border) !important;
+  border-radius: calc(var(--bv-radius) - 2px) !important;
+}
+
+.bv-atlas-group {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  gap: 0.45rem !important;
+}
+
+.bv-atlas-group-label {
+  font-family: var(--font-family-monospace) !important;
+  font-size: 0.72rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.09em !important;
+  text-transform: uppercase !important;
+  color: var(--bv-accent-deep) !important;
+  margin-right: 0.25rem !important;
+}
+
+/* Pill FILTER & ZOOM — Lebih Tegas, Mudah Diklik & Responsif */
+.bv-atlas-pill {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.35rem !important;
+  padding: 0.42rem 0.85rem !important;
+  min-height: 34px !important;
+  border-radius: 6px !important;
+  border: 1px solid var(--bv-border-strong) !important;
+  background: var(--bv-surface) !important;
+  color: var(--bv-text) !important;
+  font-family: var(--font-family-monospace) !important;
+  font-size: 0.76rem !important;
+  font-weight: 500 !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease, transform 120ms ease, box-shadow 150ms ease !important;
+}
+
+.bv-atlas-pill:hover {
+  border-color: var(--bv-accent) !important;
+  background: var(--bv-accent-soft) !important;
+  color: var(--bv-accent-deep) !important;
+}
+
+.bv-atlas-pill:active {
+  transform: scale(0.97) !important;
+}
+
+/* State Aktif untuk Semua Radio Filter & Zoom (Checked) */
+#atlas-cat-all:checked ~ .bv-atlas-toolbar label[for="atlas-cat-all"],
+#atlas-cat-settlement:checked ~ .bv-atlas-toolbar label[for="atlas-cat-settlement"],
+#atlas-cat-landmark:checked ~ .bv-atlas-toolbar label[for="atlas-cat-landmark"],
+#atlas-cat-region:checked ~ .bv-atlas-toolbar label[for="atlas-cat-region"],
+#atlas-cat-institution:checked ~ .bv-atlas-toolbar label[for="atlas-cat-institution"],
+#atlas-cat-fortress:checked ~ .bv-atlas-toolbar label[for="atlas-cat-fortress"],
+#atlas-zoom-100:checked ~ .bv-atlas-toolbar label[for="atlas-zoom-100"],
+#atlas-zoom-145:checked ~ .bv-atlas-toolbar label[for="atlas-zoom-145"],
+#atlas-zoom-190:checked ~ .bv-atlas-toolbar label[for="atlas-zoom-190"] {
+  background: var(--bv-accent) !important;
+  border-color: var(--bv-accent) !important;
+  color: #F9F2DC !important;
+  font-weight: 700 !important;
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--bv-accent) 35%, transparent) !important;
+}
+
+/* Viewport Peta Penuh tanpa Terpotong */
+.bv-atlas-viewport {
+  width: 100% !important;
+  max-height: 82vh !important;
+  overflow: auto !important;
+  border-radius: calc(var(--bv-radius) - 2px) !important;
+  border: 1px solid var(--bv-border-strong) !important;
+  background: #14100e !important;
+}
+
+@media (max-width: 768px) {
+  .bv-atlas-shell {
+    padding: 0.85rem !important;
+  }
+  .bv-atlas-toolbar {
+    padding: 0.65rem !important;
+    gap: 0.65rem !important;
+  }
+  .bv-atlas-pill {
+    padding: 0.36rem 0.68rem !important;
+    font-size: 0.72rem !important;
+    min-height: 32px !important;
+  }
+  .bv-atlas-viewport {
+    max-height: 70vh !important;
+  }
+}
