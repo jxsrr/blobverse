@@ -569,9 +569,7 @@ html.dark .bv-status-captive { color: #deb25b; }
   background: var(--bv-bg-sub);
   border-radius: 0 var(--bv-radius) var(--bv-radius) 0;
 }
-.bv-world-faction { --bv-accent: #5b3e82; }
-.bv-world-location { --bv-accent: #1b665e; }
-.bv-world-canon { --bv-accent: #8c6d3f; }
+/* World sub-type borders inherit active world palette (--bv-accent / --bv-accent-secondary) */
 
 .bv-ep-kicker, .bv-relic-kicker, .bv-world-kicker, .bv-sec-kicker, .bv-spotlight-tag {
   font-family: var(--font-family-monospace);
@@ -1776,142 +1774,6 @@ body {
 }
 
 /* =========================================================================
-   LANDING PAGE CONTAINER PADDING, LEFT ALIGNMENT & UNIFIED SECTION RHYTHM
-   ========================================================================= */
-
-main article,
-article.prose,
-.prose:has(.bv-hero) {
-  box-sizing: border-box;
-  width: 100%;
-  padding-inline: clamp(1rem, 3vw, 2rem) !important;
-  margin-inline: auto !important;
-}
-
-.bv-hero {
-  box-sizing: border-box !important;
-  width: 100%;
-  padding: clamp(1.5rem, 3.5vw, 2.35rem) clamp(1.35rem, 3.5vw, 2.5rem) !important;
-  margin: 0 0 var(--sp-4) 0 !important;
-  border-radius: var(--bv-radius) !important;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  text-align: left !important;
-}
-
-.bv-hero .bv-hero-kicker {
-  margin: 0 0 0.65rem 0 !important;
-  padding: 0 !important;
-}
-
-.bv-hero .bv-hub-logo-link {
-  display: inline-flex !important;
-  align-items: center !important;
-  justify-content: flex-start !important;
-  margin: 0 0 0.9rem 0 !important;
-  padding: 0 !important;
-}
-
-.bv-hero .bv-logo-hero {
-  height: clamp(82px, 11vw, 120px) !important;
-  width: auto !important;
-  max-width: min(460px, 100%) !important;
-  object-fit: contain !important;
-  object-position: left center !important;
-  margin: 0 !important;
-  display: block !important;
-}
-
-.bv-hero .bv-hero-title {
-  margin: 0 0 0.75rem 0 !important;
-  padding: 0 !important;
-  line-height: 1.08 !important;
-}
-
-.bv-hero .bv-hero-sub {
-  max-width: 62ch !important;
-  margin: 0 0 1.35rem 0 !important;
-  padding: 0 !important;
-}
-
-.bv-hero .bv-cta-row {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  align-items: center !important;
-  gap: 0.65rem !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.bv-news-list {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 0.6rem !important;
-  margin: var(--sp-2) 0 var(--sp-4) !important;
-}
-
-.bv-news-item {
-  box-sizing: border-box !important;
-  display: grid !important;
-  grid-template-columns: 118px 1fr !important;
-  gap: 0.85rem !important;
-  align-items: baseline !important;
-  padding: 0.9rem 1.25rem !important;
-  border-radius: var(--bv-radius) !important;
-}
-
-.bv-intro-box {
-  box-sizing: border-box !important;
-  padding: 1.2rem 1.5rem !important;
-  margin: var(--sp-2) 0 var(--sp-4) !important;
-  border-radius: var(--bv-radius) !important;
-}
-
-.bv-ep-grid,
-.bv-char-grid,
-.bv-index-grid {
-  gap: var(--sp-2) !important;
-  margin: var(--sp-2) 0 var(--sp-4) !important;
-}
-
-.bv-ep-card,
-.bv-char-card,
-.bv-index-tile {
-  box-sizing: border-box !important;
-  padding: 1.2rem 1.35rem !important;
-  border-radius: var(--bv-radius) !important;
-}
-
-.bv-spotlight {
-  box-sizing: border-box !important;
-  padding: 1.3rem 1.5rem !important;
-  margin: var(--sp-4) 0 var(--sp-5) !important;
-  border-radius: var(--bv-radius) !important;
-  background: linear-gradient(155deg, var(--bv-surface), var(--bv-accent-soft)) !important;
-  border: 1px solid var(--bv-border) !important;
-  border-left: 4px solid var(--bv-accent) !important;
-}
-
-@media (max-width: 640px) {
-  .bv-news-item {
-    grid-template-columns: 1fr !important;
-    gap: 0.3rem !important;
-    padding: 0.85rem 1rem !important;
-  }
-  .bv-hero {
-    padding: 1.35rem 1.15rem !important;
-  }
-  .bv-intro-box,
-  .bv-ep-card,
-  .bv-char-card,
-  .bv-index-tile,
-  .bv-spotlight {
-    padding: 1rem 1.1rem !important;
-  }
-}
-
-/* =========================================================================
    STRICT WORLD PALETTE ENFORCEMENT (ZERO LEGACY PURPLE / TEAL / GREEN)
    ========================================================================= */
 
@@ -2013,4 +1875,367 @@ article a:not(.bv-btn):not(.bv-world-home):not(.bv-hub-logo-link):not(.bv-gate-l
 .bv-gate-sonstige .bv-btn-primary:hover {
   background: #A83B12 !important;
   border-color: #A83B12 !important;
+}
+
+/* =========================================================================
+   BLOBVERSE UNIFIED BOX & CONTAINER SPACING SYSTEM
+   Covers all 303 pages across Oversee, Aede, and Sonstige (Desktop/Tablet/Mobile)
+   ========================================================================= */
+
+:root {
+  --bv-page-gutter: clamp(1rem, 3vw, 2.25rem);
+  --bv-box-pad-sm: 1rem 1.25rem;       /* 16px 20px — compact metadata cells, news rows, timeline, callouts */
+  --bv-box-pad-md: 1.375rem 1.625rem;  /* 22px 26px — standard cards, dossiers, location/faction headers, index cards */
+  --bv-box-pad-lg: 1.75rem 2.25rem;    /* 28px 36px — world heroes, gate portals, interactive atlas shell */
+  --bv-box-gap-sm: 0.75rem;            /* 12px — nested grid & badge spacing */
+  --bv-box-gap-md: 1.125rem;           /* 18px — card grid spacing */
+}
+
+@media (max-width: 640px) {
+  :root {
+    --bv-page-gutter: 1rem;            /* 16px outer viewport gutter */
+    --bv-box-pad-sm: 0.875rem 1rem;    /* 14px 16px */
+    --bv-box-pad-md: 1.125rem 1.125rem;/* 18px 18px */
+    --bv-box-pad-lg: 1.375rem 1.125rem;/* 22px 18px */
+    --bv-box-gap-sm: 0.625rem;
+    --bv-box-gap-md: 0.875rem;
+  }
+}
+
+/* 1. Outer Article & Page Container Gutters (Every Page in Oversee, Aede, Sonstige) */
+main article,
+article.prose,
+main .prose {
+  box-sizing: border-box !important;
+  width: 100%;
+  padding-inline: var(--bv-page-gutter) !important;
+  margin-inline: auto !important;
+}
+
+/* Top World Return Badge (.bv-world-home) */
+.bv-world-home {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.6rem !important;
+  padding: 0.45rem 0.95rem 0.45rem 0.6rem !important;
+  margin: 0 0 1.25rem 0 !important;
+  border-radius: var(--bv-radius) !important;
+}
+
+/* 2. Large Feature Panels (--bv-box-pad-lg: 28px 36px) */
+.bv-hero,
+.bv-gate-card {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-lg) !important;
+  border-radius: var(--bv-radius) !important;
+}
+
+.bv-hero {
+  width: 100%;
+  margin: 0 0 var(--sp-4) 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  text-align: left !important;
+}
+
+.bv-hero .bv-hero-kicker { margin: 0 0 0.65rem 0 !important; padding: 0 !important; }
+.bv-hero .bv-hub-logo-link { display: inline-flex !important; margin: 0 0 0.9rem 0 !important; padding: 0 !important; }
+.bv-hero .bv-logo-hero {
+  height: clamp(82px, 11vw, 120px) !important;
+  width: auto !important;
+  max-width: min(460px, 100%) !important;
+  object-fit: contain !important;
+  object-position: left center !important;
+  margin: 0 !important;
+  display: block !important;
+}
+.bv-hero .bv-hero-title { margin: 0 0 0.75rem 0 !important; padding: 0 !important; line-height: 1.08 !important; }
+.bv-hero .bv-hero-sub { max-width: 62ch !important; margin: 0 0 1.35rem 0 !important; padding: 0 !important; }
+.bv-hero .bv-cta-row { display: flex !important; flex-wrap: wrap !important; align-items: center !important; gap: 0.75rem !important; margin: 0 !important; padding: 0 !important; }
+
+.bv-atlas-shell {
+  box-sizing: border-box !important;
+  padding: 1.25rem 1.375rem !important;
+  margin: var(--sp-3) 0 var(--sp-4) !important;
+  border-radius: var(--bv-radius) !important;
+}
+.bv-atlas-gazetteer {
+  box-sizing: border-box !important;
+  padding-top: 1.125rem !important;
+  margin-top: 1.125rem !important;
+}
+
+/* 3. Standard Cards, Dossiers & Archive Headers (--bv-box-pad-md: 22px 26px) */
+.bv-world,
+.bv-world-location,
+.bv-world-faction,
+.bv-world-canon,
+.bv-dossier,
+.bv-ep-header,
+.bv-sec-hero,
+.bv-relic,
+.bv-intro-box,
+.bv-spotlight {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-md) !important;
+  margin: 0 0 var(--sp-4) 0 !important;
+  border-radius: var(--bv-radius) !important;
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border) !important;
+  border-left: 4px solid var(--bv-accent) !important;
+}
+
+.bv-world-kicker,
+.bv-ep-kicker,
+.bv-relic-kicker,
+.bv-sec-kicker,
+.bv-spotlight-tag {
+  display: block !important;
+  margin: 0 0 0.45rem 0 !important;
+  padding: 0 !important;
+}
+
+.bv-world-title,
+.bv-dossier-name,
+.bv-ep-heading,
+.bv-relic-title,
+.bv-sec-title,
+.bv-spotlight-title {
+  margin: 0 0 0.5rem 0 !important;
+  padding: 0 !important;
+  line-height: 1.18 !important;
+}
+
+.bv-world-sub,
+.bv-dossier-epithet,
+.bv-ep-synopsis,
+.bv-sec-sub {
+  margin: 0 0 0.9rem 0 !important;
+  padding: 0 !important;
+}
+
+.bv-world > :last-child,
+.bv-dossier > :last-child,
+.bv-ep-header > :last-child,
+.bv-sec-hero > :last-child,
+.bv-relic > :last-child,
+.bv-intro-box > :last-child,
+.bv-spotlight > :last-child {
+  margin-bottom: 0 !important;
+}
+
+.bv-dossier-top {
+  margin: 0 0 1rem 0 !important;
+  padding: 0 !important;
+}
+.bv-badge-row {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+  margin-top: 0.65rem !important;
+}
+.bv-badge {
+  padding: 0.25rem 0.65rem !important;
+  border-radius: 5px !important;
+}
+
+/* Grid Cards (Index Directory, Sessions, Characters, Archive Tiles) */
+.bv-idx-grid,
+.bv-index-grid,
+.bv-ep-grid,
+.bv-char-grid,
+.bv-world-gate {
+  display: grid !important;
+  gap: var(--bv-box-gap-md) !important;
+  margin: var(--sp-2) 0 var(--sp-4) 0 !important;
+}
+
+.bv-idx-card,
+.bv-index-tile,
+.bv-ep-card,
+.bv-char-card {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-md) !important;
+  border-radius: var(--bv-radius) !important;
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  gap: 0.35rem !important;
+}
+
+.bv-idx-tag,
+.bv-ep-num,
+.bv-char-role {
+  margin: 0 0 0.15rem 0 !important;
+  padding: 0 !important;
+}
+.bv-idx-name,
+.bv-index-label,
+.bv-ep-title,
+.bv-char-name {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.28 !important;
+}
+.bv-idx-meta,
+.bv-index-hint,
+.bv-ep-desc {
+  margin: 0.2rem 0 0 0 !important;
+  padding: 0 !important;
+  line-height: 1.5 !important;
+}
+.bv-ep-meta {
+  margin-top: 0.65rem !important;
+  padding-top: 0.55rem !important;
+  border-top: 1px solid var(--bv-border) !important;
+}
+
+/* 4. Nested Metadata Grids & Small Informational Boxes (--bv-box-pad-sm: 16px 20px) */
+.bv-dossier-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)) !important;
+  gap: var(--bv-box-gap-sm) !important;
+  margin-top: 1rem !important;
+  padding: 0 !important;
+}
+
+.bv-stat-cell {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+  border-radius: calc(var(--bv-radius) - 2px) !important;
+  background: var(--bv-bg-sub) !important;
+  border: 1px solid var(--bv-border) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.3rem !important;
+}
+
+.bv-stat-label {
+  margin: 0 !important;
+  padding: 0 !important;
+  letter-spacing: 0.06em !important;
+}
+
+.bv-stat-val {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.45 !important;
+}
+
+.bv-news-list {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: var(--bv-box-gap-sm) !important;
+  margin: var(--sp-2) 0 var(--sp-4) 0 !important;
+}
+
+.bv-news-item {
+  box-sizing: border-box !important;
+  display: grid !important;
+  grid-template-columns: 122px 1fr !important;
+  gap: 0.85rem !important;
+  align-items: baseline !important;
+  padding: var(--bv-box-pad-sm) !important;
+  border-radius: var(--bv-radius) !important;
+}
+
+.bv-tl-card {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+  border-radius: var(--bv-radius) !important;
+}
+
+.bv-ep-nav {
+  display: grid !important;
+  gap: var(--bv-box-gap-sm) !important;
+  margin: var(--sp-4) 0 var(--sp-3) 0 !important;
+}
+
+.bv-ep-nav-btn {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+  border-radius: var(--bv-radius) !important;
+  border: 1px solid var(--bv-border) !important;
+  background: var(--bv-surface) !important;
+}
+
+.bv-atlas-dock {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+}
+
+.bv-pin-card {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+}
+
+.bv-atlas-gaz-item {
+  box-sizing: border-box !important;
+  padding: 0.65rem 0.85rem !important;
+  border-radius: calc(var(--bv-radius) - 2px) !important;
+}
+
+/* 5. Standard Markdown Prose Boxes (Blockquotes, Callouts, Tables, Lists inside Cards) */
+.prose blockquote,
+article blockquote {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+  margin: var(--sp-3) 0 !important;
+  border-radius: 0 var(--bv-radius) var(--bv-radius) 0 !important;
+  background: var(--bv-bg-sub) !important;
+  border-left: 4px solid var(--bv-accent) !important;
+}
+.prose blockquote > :last-child,
+article blockquote > :last-child {
+  margin-bottom: 0 !important;
+}
+
+.callout {
+  box-sizing: border-box !important;
+  padding: var(--bv-box-pad-sm) !important;
+  margin: var(--sp-3) 0 !important;
+  border-radius: var(--bv-radius) !important;
+}
+
+.prose table,
+article table {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  margin: var(--sp-3) 0 !important;
+  border: 1px solid var(--bv-border) !important;
+  border-radius: var(--bv-radius) !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  overflow: hidden !important;
+}
+.prose table th,
+article table th,
+.prose table td,
+article table td {
+  padding: 0.75rem 1rem !important;
+}
+
+.bv-world ul,
+.bv-world ol,
+.bv-dossier ul,
+.bv-dossier ol,
+.bv-relic ul,
+.bv-relic ol,
+.bv-intro-box ul,
+.bv-intro-box ol {
+  padding-left: 1.35rem !important;
+  margin: 0.5rem 0 0 0 !important;
+}
+
+@media (max-width: 640px) {
+  .bv-news-item {
+    grid-template-columns: 1fr !important;
+    gap: 0.35rem !important;
+  }
+  .bv-dossier-grid {
+    grid-template-columns: 1fr !important;
+  }
 }
