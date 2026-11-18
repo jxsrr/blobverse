@@ -2635,3 +2635,60 @@ article:has(.bv-atlas-shell),
 .bv-atlas-shell:has(#atlas-zoom-190:target) .bv-atlas-canvas {
   width: 190% !important;
 }
+
+/* =========================================================================
+   INSTANT DATA-ATTRIBUTE FILTER & ZOOM FOR /oversee/locations
+   ========================================================================= */
+
+.bv-atlas-toolbar {
+  position: relative !important;
+  z-index: 40 !important;
+  pointer-events: auto !important;
+}
+
+.bv-atlas-toolbar button.bv-atlas-pill {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+}
+
+/* Active Pill Highlight */
+.bv-atlas-shell[data-filter="all"] button[data-val="all"],
+.bv-atlas-shell[data-filter="settlement"] button[data-val="settlement"],
+.bv-atlas-shell[data-filter="landmark"] button[data-val="landmark"],
+.bv-atlas-shell[data-filter="region"] button[data-val="region"],
+.bv-atlas-shell[data-filter="institution"] button[data-val="institution"],
+.bv-atlas-shell[data-filter="fortress"] button[data-val="fortress"],
+.bv-atlas-shell[data-zoom="100"] button[data-zoom-val="100"],
+.bv-atlas-shell[data-zoom="145"] button[data-zoom-val="145"],
+.bv-atlas-shell[data-zoom="190"] button[data-zoom-val="190"] {
+  background: var(--bv-accent) !important;
+  border-color: var(--bv-accent) !important;
+  color: #F9F2DC !important;
+  font-weight: 700 !important;
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--bv-accent) 35%, transparent) !important;
+}
+
+/* Pin Category Filtering */
+.bv-atlas-shell[data-filter="settlement"] .bv-pin:not([data-cat="settlement"]),
+.bv-atlas-shell[data-filter="landmark"] .bv-pin:not([data-cat="landmark"]),
+.bv-atlas-shell[data-filter="region"] .bv-pin:not([data-cat="region"]),
+.bv-atlas-shell[data-filter="institution"] .bv-pin:not([data-cat="institution"]),
+.bv-atlas-shell[data-filter="fortress"] .bv-pin:not([data-cat="fortress"]) {
+  display: none !important;
+}
+
+/* Map Zoom Scaling */
+.bv-atlas-shell[data-zoom="100"] .bv-atlas-stage,
+.bv-atlas-shell[data-zoom="100"] .bv-atlas-canvas {
+  width: 100% !important;
+}
+.bv-atlas-shell[data-zoom="145"] .bv-atlas-stage,
+.bv-atlas-shell[data-zoom="145"] .bv-atlas-canvas {
+  width: 145% !important;
+}
+.bv-atlas-shell[data-zoom="190"] .bv-atlas-stage,
+.bv-atlas-shell[data-zoom="190"] .bv-atlas-canvas {
+  width: 190% !important;
+}
