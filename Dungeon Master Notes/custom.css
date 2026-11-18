@@ -45,8 +45,8 @@
   --color-l-text-muted: #7d766b;
   --color-l-border: #e5e0d5;
   --color-l-border-strong: #cfc8b8;
-  --color-l-accent: #4a3f5c;
-  --color-l-accent-hover: #362d45;
+  --color-l-accent: var(--bv-accent);
+  --color-l-accent-hover: var(--bv-accent-deep);
 
   /* Dark Mode — Quiet Archival Slate */
   --color-d-bg: #121211;
@@ -57,7 +57,7 @@
   --color-d-text-muted: #7a7469;
   --color-d-border: #2b2925;
   --color-d-border-strong: #3d3a34;
-  --color-d-accent: #b69ee0;
+  --color-d-accent: var(--bv-accent);
   --color-d-accent-hover: #cbb8eb;
 
   /* Active Semantic Tokens */
@@ -106,42 +106,8 @@ html.dark, [data-theme="dark"] {
 
 
 /* === Universe-Specific Identity (Restrained Secondary Accents) === */
-/* Oversee: Royal, mythic, historical — restrained royal purple & antique parchment */
-main:has(a[href^="/oversee/"]):not(:has(a[href^="/sonstige/"])):not(:has(a[href^="/aede/"])),
-.bv-universe-oversee, .bv-gate-oversee {
-  --color-l-accent: #523d73; --color-l-accent-hover: #3c2b56;
-  --color-d-accent: #b69ee0; --color-d-accent-hover: #ccb9eb;
-  --bv-accent: var(--color-l-accent); --bv-accent-hover: var(--color-l-accent-hover);
-  --bv-secondary-accent: #8f6e38;
-}
-/* Aede: Maritime, exploratory — deep teal & oceanic tones */
-main:has(a[href^="/aede/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/sonstige/"])),
-.bv-universe-aede {
-  --color-l-accent: #155e63; --color-l-accent-hover: #0e4448;
-  --color-d-accent: #67c7ce; --color-d-accent-hover: #8fd7dc;
-  --bv-accent: var(--color-l-accent); --bv-accent-hover: var(--color-l-accent-hover);
-  --bv-secondary-accent: #2b6cb0;
-}
-/* Sonstige: Academic, institutional — forest green, burgundy & warm ivory */
-main:has(a[href^="/sonstige/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/aede/"])),
-.bv-universe-sonstige, .bv-gate-sonstige {
-  --color-l-accent: #235347; --color-l-accent-hover: #183b32;
-  --color-d-accent: #7ec4b0; --color-d-accent-hover: #9ed4c4;
-  --bv-accent: var(--color-l-accent); --bv-accent-hover: var(--color-l-accent-hover);
-  --bv-secondary-accent: #7a2e3b;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not(.light):not([data-theme="light"]) main:has(a[href^="/oversee/"]):not(:has(a[href^="/sonstige/"])):not(:has(a[href^="/aede/"])),
-  :root:not(.light):not([data-theme="light"]) .bv-universe-oversee,
-  :root:not(.light):not([data-theme="light"]) .bv-gate-oversee { --bv-accent: #b69ee0; --bv-accent-hover: #ccb9eb; --bv-secondary-accent: #cbb07a; }
-  :root:not(.light):not([data-theme="light"]) main:has(a[href^="/aede/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/sonstige/"])),
-  :root:not(.light):not([data-theme="light"]) .bv-universe-aede { --bv-accent: #67c7ce; --bv-accent-hover: #8fd7dc; }
-  :root:not(.light):not([data-theme="light"]) main:has(a[href^="/sonstige/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/aede/"])),
-  :root:not(.light):not([data-theme="light"]) .bv-universe-sonstige,
-  :root:not(.light):not([data-theme="light"]) .bv-gate-sonstige { --bv-accent: #7ec4b0; --bv-accent-hover: #9ed4c4; --bv-secondary-accent: #e08898; }
-}
 html.dark main:has(a[href^="/oversee/"]):not(:has(a[href^="/sonstige/"])):not(:has(a[href^="/aede/"])),
-html.dark .bv-universe-oversee, html.dark .bv-gate-oversee { --bv-accent: #b69ee0; --bv-accent-hover: #ccb9eb; --bv-secondary-accent: #cbb07a; }
+html.dark .bv-universe-oversee, html.dark .bv-gate-oversee { --bv-accent: var(--bv-accent); --bv-accent-hover: var(--bv-accent-secondary); --bv-secondary-accent: #cbb07a; }
 html.dark main:has(a[href^="/aede/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/sonstige/"])),
 html.dark .bv-universe-aede { --bv-accent: #67c7ce; --bv-accent-hover: #8fd7dc; }
 html.dark main:has(a[href^="/sonstige/"]):not(:has(a[href^="/oversee/"])):not(:has(a[href^="/aede/"])),
@@ -893,10 +859,10 @@ article:has(.bv-atlas-full) { max-width: 1320px; }
 .bv-pin-marker svg { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 
 /* Warna Pembeda Halus per Kategori */
-.bv-pin[data-cat="settlement"] .bv-pin-marker { color: #523d73; border-color: #523d73; }
+.bv-pin[data-cat="settlement"] .bv-pin-marker { color: var(--bv-accent); border-color: var(--bv-accent); }
 .bv-pin[data-cat="landmark"] .bv-pin-marker { color: #8f6e38; border-color: #8f6e38; }
-.bv-pin[data-cat="region"] .bv-pin-marker { color: #155e63; border-color: #155e63; }
-.bv-pin[data-cat="institution"] .bv-pin-marker { color: #235347; border-color: #235347; }
+.bv-pin[data-cat="region"] .bv-pin-marker { color: var(--bv-accent); border-color: var(--bv-accent); }
+.bv-pin[data-cat="institution"] .bv-pin-marker { color: var(--bv-accent); border-color: var(--bv-accent); }
 .bv-pin[data-cat="fortress"] .bv-pin-marker { color: #7a2e3b; border-color: #7a2e3b; }
 
 .bv-pin:hover .bv-pin-marker, .bv-pin:focus-visible .bv-pin-marker {
@@ -1157,19 +1123,6 @@ article:has(a[href="/sonstige"]) {
   .bv-world-home img { height: 34px !important; }
 }
 
-/* === Reliable Root-Level World Themes (Logo-Matched Palettes) === */
-:root:has([data-world="oversee"]) {
-  --bv-accent: #85181A !important;
-  --bv-secondary-accent: #D94E34 !important;
-}
-:root:has([data-world="aede"]) {
-  --bv-accent: #C83E88 !important;
-  --bv-secondary-accent: #6772C8 !important;
-}
-:root:has([data-world="sonstige"]) {
-  --bv-accent: #C96A10 !important;
-  --bv-secondary-accent: #B87A14 !important;
-}
 
 /* === Maximized Logo Placement (Hub Hero, Landing Cards, & Subpage Header) === */
 .bv-world-theme { display: none; }
@@ -1956,4 +1909,108 @@ article.prose,
   .bv-spotlight {
     padding: 1rem 1.1rem !important;
   }
+}
+
+/* =========================================================================
+   STRICT WORLD PALETTE ENFORCEMENT (ZERO LEGACY PURPLE / TEAL / GREEN)
+   ========================================================================= */
+
+/* Links, Hover States & Focus Rings across all worlds */
+article a:not(.bv-btn):not(.bv-world-home):not(.bv-hub-logo-link):not(.bv-gate-logo-link):not(.bv-pin):not(.bv-atlas-gaz-item),
+.prose a:not(.bv-btn):not(.bv-world-home):not(.bv-hub-logo-link):not(.bv-gate-logo-link):not(.bv-pin):not(.bv-atlas-gaz-item) {
+  color: var(--bv-accent-deep) !important;
+  text-decoration-color: color-mix(in srgb, var(--bv-accent) 45%, transparent) !important;
+}
+article a:not(.bv-btn):not(.bv-world-home):not(.bv-hub-logo-link):not(.bv-gate-logo-link):not(.bv-pin):not(.bv-atlas-gaz-item):hover,
+.prose a:not(.bv-btn):not(.bv-world-home):not(.bv-hub-logo-link):not(.bv-gate-logo-link):not(.bv-pin):not(.bv-atlas-gaz-item):hover {
+  color: var(--bv-accent) !important;
+  text-decoration-color: var(--bv-accent) !important;
+}
+
+/* Badges, News Tags, Episode Numbers, Spotlight Tags & Section Accents */
+.bv-news-tag,
+.bv-ep-num,
+.bv-spotlight-tag,
+.bv-index-label a,
+.bv-ep-title a,
+.bv-char-name a,
+.bv-spotlight-title a {
+  color: var(--bv-accent-deep) !important;
+}
+
+.bv-news-tag {
+  background: var(--bv-accent-soft) !important;
+  border: 1px solid color-mix(in srgb, var(--bv-accent) 35%, var(--bv-border)) !important;
+  padding: 0.15rem 0.45rem !important;
+  border-radius: 4px !important;
+}
+
+.bv-index-tile {
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border) !important;
+  border-top: 2.5px solid color-mix(in srgb, var(--bv-accent) 60%, var(--bv-border)) !important;
+}
+.bv-index-tile:hover {
+  border-color: var(--bv-accent) !important;
+  background: linear-gradient(180deg, var(--bv-surface), var(--bv-accent-soft)) !important;
+}
+
+/* World-Specific Highlight Details */
+:root:has([data-world="oversee"]) .bv-news-item {
+  border-left: 3px solid #D94E34 !important;
+}
+:root:has([data-world="oversee"]) .bv-ep-card,
+:root:has([data-world="oversee"]) .bv-char-card {
+  border-top: 2.5px solid #85181A !important;
+}
+
+:root:has([data-world="aede"]) .bv-news-item {
+  border-left: 3px solid #F56CB2 !important;
+}
+:root:has([data-world="aede"]) .bv-ep-card,
+:root:has([data-world="aede"]) .bv-char-card {
+  border-top: 2.5px solid #7580D8 !important;
+}
+
+:root:has([data-world="sonstige"]) .bv-news-item {
+  border-left: 3px solid #E86B1A !important;
+}
+:root:has([data-world="sonstige"]) .bv-ep-card,
+:root:has([data-world="sonstige"]) .bv-char-card {
+  border-top: 2.5px solid #D18E17 !important;
+}
+
+/* Landing Page Gate Card Buttons Matched to Each World Logo Palette */
+.bv-gate-oversee .bv-btn-primary {
+  background: #85181A !important;
+  border-color: #85181A !important;
+  color: #F9F2DC !important;
+}
+.bv-gate-oversee .bv-btn-primary:hover {
+  background: #D94E34 !important;
+  border-color: #D94E34 !important;
+}
+.bv-gate-oversee .bv-btn-secondary {
+  border-color: #7580D8 !important;
+  color: #6E1F49 !important;
+}
+
+.bv-gate-aede .bv-btn-primary {
+  background: #6E1F49 !important;
+  border-color: #6E1F49 !important;
+  color: #FFFDF7 !important;
+}
+.bv-gate-aede .bv-btn-primary:hover {
+  background: #A876C8 !important;
+  border-color: #A876C8 !important;
+}
+
+.bv-gate-sonstige .bv-btn-primary {
+  background: #D18E17 !important;
+  border-color: #D18E17 !important;
+  color: #FFFDF7 !important;
+}
+.bv-gate-sonstige .bv-btn-primary:hover {
+  background: #A83B12 !important;
+  border-color: #A83B12 !important;
 }
