@@ -3094,3 +3094,96 @@ ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
   background-position: left center !important;
   background-repeat: no-repeat !important;
 }
+
+/* =========================================================================
+   CLEAN NPC SIDEBAR: SEMBUNYIKAN 97 SUB-ITEM NPC, TAMPILKAN SESSIONS SAJA
+   ========================================================================= */
+
+/* Sembunyikan daftar 97 anak di bawah folder NPCs pada semua halaman */
+li.site-tree-item:has(a[href$="/npcs"]) > div:has(ul),
+li.site-tree-item:has(a[href$="/npcs"]) ul {
+  display: none !important;
+}
+
+/* Pada halaman indeks /oversee/npcs maupun detail /oversee/npcs/*,
+   tampilkan hanya Logo World + daftar Sessions */
+.site-layout:has([aria-current="page"][href*="/npcs"]) ul.site-tree > li.site-tree-item:not(:has(a[href="/oversee"])):not(:has(a[href="/aede"])):not(:has(a[href="/sonstige"])):not(:has(a[href$="/sessions"])) {
+  display: none !important;
+}
+
+/* =========================================================================
+   GROUPED NPC DIRECTORY (/oversee/npcs)
+   ========================================================================= */
+
+.bv-npc-jumpbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1.75rem;
+  padding: 0.75rem;
+  background: var(--bv-bg-sub);
+  border: 1px solid var(--bv-border);
+  border-radius: var(--bv-radius);
+}
+
+.bv-npc-jump-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.32rem 0.68rem;
+  border-radius: 5px;
+  border: 1px solid var(--bv-border-strong);
+  background: var(--bv-surface);
+  color: var(--bv-text);
+  font-family: var(--font-family-monospace);
+  font-size: 0.72rem;
+  font-weight: 550;
+  text-decoration: none !important;
+  transition: border-color 140ms ease, color 140ms ease, background-color 140ms ease;
+}
+
+.bv-npc-jump-pill span {
+  color: var(--bv-text-muted);
+}
+
+.bv-npc-jump-pill:hover {
+  border-color: var(--bv-accent);
+  color: var(--bv-accent-deep);
+  background: var(--bv-accent-soft);
+}
+
+.bv-npc-group {
+  margin-bottom: 2.25rem;
+  scroll-margin-top: 1.5rem;
+}
+
+.bv-npc-group-head {
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--bv-border);
+}
+
+.bv-npc-group-head h2 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  margin: 0 0 0.2rem !important;
+  font-size: 1.25rem !important;
+  color: var(--bv-accent-deep) !important;
+}
+
+.bv-npc-count {
+  font-family: var(--font-family-monospace);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: var(--bv-accent-soft);
+  color: var(--bv-accent-deep);
+}
+
+.bv-npc-group-head p {
+  margin: 0 !important;
+  font-size: 0.84rem !important;
+  color: var(--bv-text-muted) !important;
+}
