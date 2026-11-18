@@ -2492,3 +2492,75 @@ article:has(.bv-atlas-shell),
     max-height: 70vh !important;
   }
 }
+
+/* =========================================================================
+   FIX FILTER & ZOOM INTERACTIVITY VIA :has() (FLOWERSHOW-SAFE)
+   ========================================================================= */
+
+.bv-atlas-shell p:has(> .bv-atlas-radio) {
+  display: contents !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.bv-atlas-radio {
+  position: absolute !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* 1. Active Pill Highlight via :has() */
+.bv-atlas-shell:has(#atlas-cat-all:checked) label[for="atlas-cat-all"],
+.bv-atlas-shell:has(#atlas-cat-settlement:checked) label[for="atlas-cat-settlement"],
+.bv-atlas-shell:has(#atlas-cat-landmark:checked) label[for="atlas-cat-landmark"],
+.bv-atlas-shell:has(#atlas-cat-region:checked) label[for="atlas-cat-region"],
+.bv-atlas-shell:has(#atlas-cat-institution:checked) label[for="atlas-cat-institution"],
+.bv-atlas-shell:has(#atlas-cat-fortress:checked) label[for="atlas-cat-fortress"],
+.bv-atlas-shell:has(#atlas-zoom-100:checked) label[for="atlas-zoom-100"],
+.bv-atlas-shell:has(#atlas-zoom-145:checked) label[for="atlas-zoom-145"],
+.bv-atlas-shell:has(#atlas-zoom-190:checked) label[for="atlas-zoom-190"],
+.bv-atlas-shell:has(#bv-cat-all:checked) label[for="bv-cat-all"],
+.bv-atlas-shell:has(#bv-cat-settlement:checked) label[for="bv-cat-settlement"],
+.bv-atlas-shell:has(#bv-cat-landmark:checked) label[for="bv-cat-landmark"],
+.bv-atlas-shell:has(#bv-cat-region:checked) label[for="bv-cat-region"],
+.bv-atlas-shell:has(#bv-cat-institution:checked) label[for="bv-cat-institution"],
+.bv-atlas-shell:has(#bv-cat-fortress:checked) label[for="bv-cat-fortress"],
+.bv-atlas-shell:has(#bv-zoom-1:checked) label[for="bv-zoom-1"],
+.bv-atlas-shell:has(#bv-zoom-2:checked) label[for="bv-zoom-2"] {
+  background: var(--bv-accent) !important;
+  border-color: var(--bv-accent) !important;
+  color: #F9F2DC !important;
+  font-weight: 700 !important;
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--bv-accent) 35%, transparent) !important;
+}
+
+/* 2. Category Pin Filtering via :has() */
+.bv-atlas-shell:has(#atlas-cat-settlement:checked) .bv-pin:not([data-cat="settlement"]),
+.bv-atlas-shell:has(#atlas-cat-landmark:checked) .bv-pin:not([data-cat="landmark"]),
+.bv-atlas-shell:has(#atlas-cat-region:checked) .bv-pin:not([data-cat="region"]),
+.bv-atlas-shell:has(#atlas-cat-institution:checked) .bv-pin:not([data-cat="institution"]),
+.bv-atlas-shell:has(#atlas-cat-fortress:checked) .bv-pin:not([data-cat="fortress"]),
+.bv-atlas-shell:has(#bv-cat-settlement:checked) .bv-pin:not([data-cat="settlement"]),
+.bv-atlas-shell:has(#bv-cat-landmark:checked) .bv-pin:not([data-cat="landmark"]),
+.bv-atlas-shell:has(#bv-cat-region:checked) .bv-pin:not([data-cat="region"]),
+.bv-atlas-shell:has(#bv-cat-institution:checked) .bv-pin:not([data-cat="institution"]),
+.bv-atlas-shell:has(#bv-cat-fortress:checked) .bv-pin:not([data-cat="fortress"]) {
+  display: none !important;
+}
+
+/* 3. Map Zoom Scaling via :has() */
+.bv-atlas-shell:has(#atlas-zoom-100:checked) .bv-atlas-stage,
+.bv-atlas-shell:has(#bv-zoom-1:checked) .bv-atlas-stage {
+  width: 100% !important;
+}
+
+.bv-atlas-shell:has(#atlas-zoom-145:checked) .bv-atlas-stage {
+  width: 145% !important;
+}
+
+.bv-atlas-shell:has(#atlas-zoom-190:checked) .bv-atlas-stage,
+.bv-atlas-shell:has(#bv-zoom-2:checked) .bv-atlas-stage {
+  width: 190% !important;
+}
