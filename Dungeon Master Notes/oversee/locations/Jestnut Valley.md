@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Entitas ini belum muncul di Session 01-07 dan disembunyikan dari player -->
 ---
 type: Oversee Location
 parent_location: West Harka (remote)
