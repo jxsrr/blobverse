@@ -2742,18 +2742,22 @@ article:has(.bv-atlas-shell),
 }
 
 /* =========================================================================
-   BLOBVERSE LINEAR-INSPIRED LEFT SIDEBAR (SOLID PARCHMENT PANEL, TOP-ALIGNED)
-   Satu bidang latar solid-gradient menyatu, tanpa kotak per-item, rapat ke atas
+   BLOBVERSE LINEAR-INSPIRED LEFT SIDEBAR (DEEP CRIMSON RAIL, NO DROPDOWNS)
+   Kontekstual per bagian (Sessions / Locations: 4 Regions / NPCs -> Sessions)
    ========================================================================= */
 
 :root {
-  --bv-sidebar-w: 248px;
-  --bv-nav-text: 0.8125rem;      /* 13px */
-  --bv-nav-subtext: 0.78125rem;  /* 12.5px */
-  --bv-nav-kicker: 0.625rem;     /* 10px */
+  --bv-sidebar-w: 244px;
+  --bv-sb-bg-top: #260B0E;       /* Deep Crimson / Oxblood */
+  --bv-sb-bg-bot: #170608;       /* Darker Red-Black */
+  --bv-sb-border: rgba(249, 242, 220, 0.12);
+  --bv-sb-text: rgba(249, 242, 220, 0.68);
+  --bv-sb-text-hover: #F9F2DC;
+  --bv-sb-muted: rgba(249, 242, 220, 0.42);
+  --bv-sb-accent: #E5484D;
 }
 
-/* 1. Hilangkan celah atas kosong (.site-subnav) di desktop agar sidebar naik rapat ke atas */
+/* 1. Desktop Fixed Rail — Dark Red Solid Gradient, Rapat ke Atas */
 @media (min-width: 1024px) {
   .site-subnav {
     display: none !important;
@@ -2777,7 +2781,6 @@ article:has(.bv-atlas-shell),
     grid-template-columns: var(--bv-sidebar-w) minmax(0, 1fr) 220px !important;
   }
 
-  /* Satu bidang solid warm parchment-stone gradient untuk seluruh kolom kiri */
   .layout-inner-left {
     width: var(--bv-sidebar-w) !important;
     min-width: var(--bv-sidebar-w) !important;
@@ -2786,14 +2789,8 @@ article:has(.bv-atlas-shell),
     top: 0 !important;
     height: 100vh !important;
     margin-top: 0 !important;
-    background: linear-gradient(
-      180deg,
-      color-mix(in srgb, var(--bv-bg-sub) 88%, #EDE5D5 12%) 0%,
-      var(--bv-bg-sub) 48%,
-      color-mix(in srgb, var(--bv-bg-sub) 92%, var(--bv-accent) 4%) 100%
-    ) !important;
-    border-right: 1px solid var(--bv-border) !important;
-    box-shadow: inset -1px 0 0 rgba(255, 255, 255, 0.45) !important;
+    background: linear-gradient(180deg, var(--bv-sb-bg-top) 0%, var(--bv-sb-bg-bot) 100%) !important;
+    border-right: 1px solid var(--bv-sb-border) !important;
     overflow: hidden !important;
     z-index: 20 !important;
   }
@@ -2801,14 +2798,14 @@ article:has(.bv-atlas-shell),
   aside.site-sidebar {
     width: 100% !important;
     height: 100% !important;
-    padding: 0.75rem 0.75rem 1.75rem !important;
+    padding: 0.95rem 0.85rem 1.75rem !important;
     margin-top: 0 !important;
     box-sizing: border-box !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
     background: transparent !important;
     scrollbar-width: thin;
-    scrollbar-color: var(--bv-border-strong) transparent;
+    scrollbar-color: rgba(249, 242, 220, 0.2) transparent;
   }
 
   .layout-inner-center {
@@ -2816,20 +2813,28 @@ article:has(.bv-atlas-shell),
   }
 }
 
-/* 2. Reset Tree Lists & Hapus Semua Kotak/Highlight Latar Per Teks */
+/* 2. Hapus Total Semua Tombol Dropdown & Chevron */
+.site-tree-item-self.is-collapsible > button,
+svg.site-tree-item-icon {
+  display: none !important;
+}
+
+/* 3. Reset List & Tipografi Linear Rapi */
 nav.site-tree-container,
-ul.site-tree {
+ul.site-tree,
+li.site-tree-item ul {
   list-style: none !important;
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
   background: transparent !important;
+  border: none !important;
 }
 
 ul.site-tree {
   display: flex !important;
   flex-direction: column !important;
-  gap: 0 !important;
+  gap: 2px !important;
 }
 
 li.site-tree-item {
@@ -2838,115 +2843,37 @@ li.site-tree-item {
   padding: 0 !important;
   border: none !important;
   background: transparent !important;
-  width: 100% !important;
 }
 
-/* 3. Header Grup Tipografis Halus (WORLDS, ARCHIVE, CAMPAIGN SESSIONS) */
+/* 4. Header Atas: WORLDS & Link World Aktif */
 ul.site-tree::before {
-  content: "WORLDS";
+  content: "WORLD";
   display: block;
   order: 1;
-  padding: 0.1rem 0.35rem 0.3rem;
+  padding: 0 0.25rem 0.3rem;
   font-family: var(--font-family-monospace);
-  font-size: var(--bv-nav-kicker);
+  font-size: 0.625rem;
   font-weight: 700;
   letter-spacing: 0.1em;
-  color: var(--bv-text-muted);
+  color: var(--bv-sb-muted);
 }
 
 ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
 ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
 ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
   order: 2 !important;
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 0.65rem !important;
+  padding-bottom: 0.55rem !important;
+  border-bottom: 1px solid var(--bv-sb-border) !important;
 }
 
-ul.site-tree > li.site-tree-item:has(a[href$="/canon"])::before {
-  content: "ARCHIVE";
-  display: block;
-  padding: 0.6rem 0.35rem 0.25rem;
-  margin-top: 0.2rem;
-  border-top: 1px solid color-mix(in srgb, var(--bv-border) 60%, transparent);
-  font-family: var(--font-family-monospace);
-  font-size: var(--bv-nav-kicker);
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  color: var(--bv-text-muted);
-}
-
-ul.site-tree > li.site-tree-item {
-  order: 3;
-}
-
-ul.site-tree > li.site-tree-item:has(a[href$="/sessions"]) {
-  order: 4 !important;
-}
-
-ul.site-tree > li.site-tree-item:has(a[href$="/sessions"])::before {
-  content: "CAMPAIGN SESSIONS";
-  display: block;
-  padding: 0.6rem 0.35rem 0.25rem;
-  margin-top: 0.3rem;
-  border-top: 1px solid color-mix(in srgb, var(--bv-border) 60%, transparent);
-  font-family: var(--font-family-monospace);
-  font-size: var(--bv-nav-kicker);
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  color: var(--bv-text-muted);
-}
-
-/* 4. Baris Teks Murni Tanpa Background Kotak (.site-tree-item-self) */
-.site-tree-item-self,
-a.site-tree-item-self {
-  position: relative !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-  gap: 0.25rem !important;
-  width: 100% !important;
-  min-height: 26px !important;
-  padding: 0.24rem 0.35rem !important;
-  box-sizing: border-box !important;
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
-  color: var(--bv-text-sub) !important;
-  font-family: var(--font-family-sans, inherit) !important;
-  font-size: var(--bv-nav-text) !important;
-  font-weight: 450 !important;
-  line-height: 1.35 !important;
-  text-decoration: none !important;
-  transition: color 120ms ease, transform 120ms ease !important;
-}
-
-a.site-tree-item-self {
-  justify-content: flex-start !important;
-}
-
-.site-tree-item-self.is-collapsible > a.site-tree-item-text {
-  flex: 1 1 auto !important;
-  min-width: 0 !important;
-  color: inherit !important;
-  background: transparent !important;
-  text-decoration: none !important;
-  padding: 0 !important;
-}
-
-/* Kapitalisasi Tepat untuk NPCs & PCs */
-a.site-tree-item-text[href$="/npcs"],
-a.site-tree-item-text[href$="/pcs"] {
-  text-transform: uppercase !important;
-  font-size: 0.76rem !important;
-  letter-spacing: 0.03em !important;
-}
-
-/* Item Utama World (/oversee, /aede, /sonstige) */
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
-  font-weight: 600 !important;
-  color: var(--bv-text) !important;
-  padding: 0.28rem 0.35rem !important;
+  font-weight: 650 !important;
+  font-size: 0.85rem !important;
+  color: #F9F2DC !important;
+  padding: 0.25rem !important;
 }
 
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"]::before,
@@ -2957,24 +2884,50 @@ ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"]::befo
   height: 6px;
   border-radius: 50%;
   margin-right: 0.5rem;
+  background: var(--bv-sb-accent);
   flex-shrink: 0;
 }
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"]::before { background: #85181A; }
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"]::before { background: #6E1F49; }
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"]::before { background: #D18E17; }
 
-/* 5. Hover & Active State Berbasis Teks + Indikator Titik/Garis Tipis (Tanpa Background Kotak) */
-.site-tree-item-self:hover,
-.site-tree-item-self:hover .site-tree-item-text {
-  background: transparent !important;
-  color: var(--bv-text) !important;
+ul.site-tree > li.site-tree-item {
+  order: 3;
 }
 
+/* 5. Styling Baris Teks Murni Tanpa Highlight Kotak */
+.site-tree-item-self,
+a.site-tree-item-self,
+.site-tree-item-self.is-collapsible > a.site-tree-item-text {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  min-height: 26px !important;
+  padding: 0.22rem 0.25rem !important;
+  box-sizing: border-box !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  color: var(--bv-sb-text) !important;
+  font-family: var(--font-family-sans, inherit) !important;
+  font-size: 0.8125rem !important;
+  font-weight: 450 !important;
+  line-height: 1.35 !important;
+  text-decoration: none !important;
+  transition: color 120ms ease !important;
+}
+
+.site-tree-item-self:hover,
+.site-tree-item-self:hover a,
+a.site-tree-item-self:hover {
+  background: transparent !important;
+  color: var(--bv-sb-text-hover) !important;
+}
+
+/* Indikator Halaman Aktif (Teks Terang + Garis Vertikal Tipis di Kiri) */
 .site-tree-item-self[aria-current="page"],
 .site-tree-item-self:has(a[aria-current="page"]),
 .site-tree-item-self.is-active {
   background: transparent !important;
-  color: var(--bv-accent-deep) !important;
+  color: #FFFFFF !important;
   font-weight: 650 !important;
 }
 
@@ -2982,96 +2935,74 @@ ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"]::befo
 .site-tree-item-self:has(a[aria-current="page"])::after {
   content: "";
   position: absolute;
-  left: -0.75rem;
-  top: 22%;
-  bottom: 22%;
+  left: -0.85rem;
+  top: 20%;
+  bottom: 20%;
   width: 2.5px;
   border-radius: 0 2px 2px 0;
-  background: var(--bv-accent);
+  background: var(--bv-sb-accent);
 }
 
-/* World-Specific Active Text Accent */
-.site-tree-item-self[href^="/oversee"][aria-current="page"],
-.site-tree-item-self:has(a[href^="/oversee"][aria-current="page"]) {
-  --bv-accent: #85181A;
-  --bv-accent-deep: #6E1315;
-}
-.site-tree-item-self[href^="/aede"][aria-current="page"],
-.site-tree-item-self:has(a[href^="/aede"][aria-current="page"]) {
-  --bv-accent: #6E1F49;
-  --bv-accent-deep: #58173A;
-}
-.site-tree-item-self[href^="/sonstige"][aria-current="page"],
-.site-tree-item-self:has(a[href^="/sonstige"][aria-current="page"]) {
-  --bv-accent: #D18E17;
-  --bv-accent-deep: #9A640B;
+/* Judul Kategori Induk (Sessions / Locations) bergaya Kicker Linear */
+.site-tree-item-self.is-collapsible > a.site-tree-item-text {
+  font-family: var(--font-family-monospace) !important;
+  font-size: 0.625rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  color: var(--bv-sb-muted) !important;
+  margin-bottom: 0.25rem !important;
 }
 
-/* 6. Chevron Expand/Collapse Monokromatik Tanpa Kotak */
-.site-tree-item-self.is-collapsible > button {
-  display: inline-flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  width: 20px !important;
-  height: 20px !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  border: none !important;
-  background: transparent !important;
-  color: var(--bv-text-muted) !important;
-  cursor: pointer !important;
-  flex-shrink: 0 !important;
+/* =========================================================================
+   6. LOGIKA KONTEKSTUAL OTOMATIS BERDASARKAN HALAMAN YANG DIBUKA
+   ========================================================================= */
+
+/* A. JIKA MEMBUKA HALAMAN SESSION (/oversee/sessions/...) -> Tampilkan HANYA Sessions */
+.site-layout:has([aria-current="page"][href*="/oversee/sessions"]) ul.site-tree > li.site-tree-item:not(:has(a[href="/oversee"])):not(:has(a[href$="/sessions"])) {
+  display: none !important;
 }
 
-.site-tree-item-self.is-collapsible > button:hover {
-  background: transparent !important;
-  color: var(--bv-text) !important;
+/* B. JIKA MEMBUKA HALAMAN LOCATION (/oversee/locations/...) -> Tampilkan HANYA Locations (Harka, Pirizia, Rioquan, Elis) */
+.site-layout:has([aria-current="page"][href*="/oversee/locations"]) ul.site-tree > li.site-tree-item:not(:has(a[href="/oversee"])):not(:has(a[href$="/locations"])) {
+  display: none !important;
 }
 
-svg.site-tree-item-icon {
-  width: 13px !important;
-  height: 13px !important;
-  stroke-width: 2 !important;
-  transition: transform 150ms ease !important;
+/* Saring isi Locations agar hanya menampilkan Harka, Pirizia, Rioquan, dan Elis */
+.site-layout:has([aria-current="page"][href*="/oversee/locations"]) li.site-tree-item:has(a[href$="/locations"]) ul li.site-tree-item:not(:has(a[href*="Harka"])):not(:has(a[href*="Pirizia"])):not(:has(a[href*="Rioquan"])):not(:has(a[href*="Elis"])) {
+  display: none !important;
 }
 
-.site-tree-item-self.is-collapsible > button[aria-expanded="true"] svg.site-tree-item-icon {
-  transform: rotate(90deg) !important;
+/* C. JIKA MEMBUKA HALAMAN NPC (/oversee/npcs/...) -> Tampilkan Daftar Berdasarkan Session Saja */
+.site-layout:has([aria-current="page"][href*="/oversee/npcs"]) ul.site-tree > li.site-tree-item:not(:has(a[href="/oversee"])):not(:has(a[href$="/sessions"])) {
+  display: none !important;
 }
 
-/* 7. Indentasi Hierarki Anak & Pembatasan 2 Baris untuk Judul Panjang */
-li.site-tree-item ul {
-  list-style: none !important;
-  margin: 1px 0 4px 0.55rem !important;
-  padding: 0 0 0 0.55rem !important;
-  border-left: 1px solid color-mix(in srgb, var(--bv-border) 75%, transparent) !important;
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 0 !important;
-  background: transparent !important;
+/* Catatan jika daftar Session belum terbuka saat di halaman NPC */
+.site-layout:has([aria-current="page"][href*="/oversee/npcs"]) li.site-tree-item:has(a[href$="/sessions"]):not(:has(ul))::after {
+  content: "Session 01 — The Sorcerer\ASession 02 — The Wizard\ASession 03 — The Bard\ASession 04 — Territorial\ASession 05 — Empty Husk\ASession 06 — Ethical Choices\ASession 07 — Opressed";
+  display: block;
+  white-space: pre-line;
+  font-size: 0.78rem;
+  line-height: 1.85;
+  color: var(--bv-sb-text);
+  padding: 0.25rem;
 }
 
-li.site-tree-item ul a.site-tree-item-self,
-li.site-tree-item ul .site-tree-item-text {
-  font-size: var(--bv-nav-subtext) !important;
-  line-height: 1.32 !important;
+/* Pembatasan Maksimal 2 Baris untuk Judul Panjang */
+li.site-tree-item ul a.site-tree-item-self {
   display: -webkit-box !important;
   -webkit-line-clamp: 2 !important;
   -webkit-box-orient: vertical !important;
   overflow: hidden !important;
   text-overflow: ellipsis !important;
-  overflow-wrap: anywhere !important;
-  word-break: normal !important;
 }
 
-/* 8. Mobile Drawer */
+/* 7. Mobile Drawer */
 @media (max-width: 1023px) {
   aside.site-sidebar {
-    background: linear-gradient(180deg, var(--bv-bg-sub) 0%, var(--bv-bg) 100%) !important;
-    border-right: 1px solid var(--bv-border) !important;
-    padding: 0.85rem 0.75rem 2rem !important;
-  }
-  .site-tree-item-self {
-    min-height: 32px !important;
+    background: linear-gradient(180deg, var(--bv-sb-bg-top) 0%, var(--bv-sb-bg-bot) 100%) !important;
+    border-right: 1px solid var(--bv-sb-border) !important;
+    padding: 0.95rem 0.85rem 2rem !important;
   }
 }
