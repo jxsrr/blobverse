@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Handouts
 showSidebar: false
 showToc: false

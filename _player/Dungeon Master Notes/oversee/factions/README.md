@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Factions
 showSidebar: false
 showToc: false

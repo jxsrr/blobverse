@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Locations
 showSidebar: false
 showToc: false

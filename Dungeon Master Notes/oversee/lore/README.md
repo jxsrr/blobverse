@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Lore
 showSidebar: false
 showToc: false

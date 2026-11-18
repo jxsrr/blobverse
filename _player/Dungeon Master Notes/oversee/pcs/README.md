@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: PCs
 showSidebar: false
 showToc: false

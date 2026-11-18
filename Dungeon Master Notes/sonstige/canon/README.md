@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Timeline
 showSidebar: false
 showToc: false

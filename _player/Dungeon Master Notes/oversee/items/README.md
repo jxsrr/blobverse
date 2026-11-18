@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Items
 showSidebar: false
 showToc: false

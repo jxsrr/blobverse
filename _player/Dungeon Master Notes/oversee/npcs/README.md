@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: NPCs
 showSidebar: false
 showToc: false

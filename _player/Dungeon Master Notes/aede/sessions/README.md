@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Sessions
 showSidebar: false
 showToc: false

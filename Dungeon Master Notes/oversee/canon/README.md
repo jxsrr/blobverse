@@ -1,4 +1,5 @@
 ---
+collapsed: false
 title: Canon
 showSidebar: false
 showToc: false
