@@ -3046,3 +3046,50 @@ li.site-tree-item ul a.site-tree-item-self {
     padding: 0.65rem 0.85rem 2rem !important;
   }
 }
+
+/* =========================================================================
+   FIX: HILANGKAN RUANG KOSONG DI ATAS LOGO SIDEBAR KIRI
+   ========================================================================= */
+
+@media (min-width: 1024px) {
+  .layout-inner-left,
+  .layout-inner-left > *,
+  aside.site-sidebar,
+  aside.site-sidebar > *,
+  nav.site-tree-container,
+  ul.site-tree {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  aside.site-sidebar {
+    padding: 0.25rem 0.9rem 1.75rem !important;
+  }
+}
+
+/* Sembunyikan elemen kosong/header bawaan jika ada sebelum ul.site-tree */
+aside.site-sidebar > :not(nav.site-tree-container),
+nav.site-tree-container > :not(ul.site-tree) {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Rapatkan kotak logo ke puncak daftar dan posisikan gambar di left top */
+ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  margin-bottom: 0.65rem !important;
+  padding-bottom: 0.55rem !important;
+}
+
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
+  height: 82px !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  background-position: left top !important;
+  background-size: contain !important;
+}
