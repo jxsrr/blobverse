@@ -3093,3 +3093,27 @@ ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
   background-position: left top !important;
   background-size: contain !important;
 }
+
+/* =========================================================================
+   CROP TRANSPARENT PADDING 1920x1080 PADA LOGO SIDEBAR KIRI
+   ========================================================================= */
+
+ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
+ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
+  margin: 0 0 0.7rem 0 !important;
+  padding: 0 0 0.55rem 0 !important;
+  overflow: hidden !important;
+}
+
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
+ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
+  height: 76px !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-size: 132% auto !important;
+  background-position: -14% 48% !important;
+  background-repeat: no-repeat !important;
+}
