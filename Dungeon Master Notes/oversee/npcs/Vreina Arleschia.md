@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Entitas ini belum muncul di session manapun dan disembunyikan dari player -->
 ---
 type: Oversee NPC
 role: Vya's Mother, Arleschia Noble, Prisoner of the Commonwealth

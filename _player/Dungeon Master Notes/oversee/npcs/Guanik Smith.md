@@ -1,12 +1,3 @@
----
-type: Oversee NPC
-role: Old Fisherman, Cycle Clan Scholar
-faction: Cycle Clan (fragment)
-home: Dima Island
-status: deceased
-first_seen: Session 01
-universe: Oversee
----
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Cycle Clan</span></div><span class="bv-status bv-status-deceased">Deceased</span></div><div class="bv-dossier-name">Guanik Smith</div><div class="bv-dossier-epithet">Old Fisherman, Cycle Clan Scholar</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Cycle Clan (fragment)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Dima Island (home destroyed)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Dima Island</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01</div></div></div></div>

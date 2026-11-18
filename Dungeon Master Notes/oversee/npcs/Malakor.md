@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Entitas ini belum muncul di session manapun dan disembunyikan dari player -->
 ---
 type: Oversee NPC
 role: Gordon's Killer, Commonwealth Agent

@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Entitas ini belum muncul di session manapun dan disembunyikan dari player -->
 ---
 type: Oversee Faction
 leader: Elder Jarl (until Syl's naming), Syl Frost (heir-apparent)

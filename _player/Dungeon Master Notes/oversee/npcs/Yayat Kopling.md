@@ -1,14 +1,3 @@
----
-type: Oversee NPC
-role: Vya's Adoptive Father, Dragonborn-Blooded Wanderer, Distant Relative of Gzirmo Kopling
-faction: None (independent)
-home: Chenalia (formerly) / Wandering
-status: alive (whereabouts unknown)
-first_seen: Session 01 (mentioned via Vya's backstory), not yet met
-universe: Oversee
-aliases:
-  - Kopling
----
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (whereabouts unknown)</span></div><div class="bv-dossier-name">Yayat Kopling</div><div class="bv-dossier-epithet">Vya's Adoptive Father, Dragonborn-Blooded Wanderer, Distant Relative of Gzirmo Kopling</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (independent)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Wandering (whereabouts unknown)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Chenalia (formerly) / Wandering</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Session 01 (mentioned via Vya's backstory), not yet met</div></div></div></div>

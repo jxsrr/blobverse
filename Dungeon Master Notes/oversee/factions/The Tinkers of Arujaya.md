@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Entitas ini belum muncul di session manapun dan disembunyikan dari player -->
 ---
 type: Oversee Faction
 leader: Echo Gzirmo (as figurehead), Dr. Vektor (de facto)

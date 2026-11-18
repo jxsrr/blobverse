@@ -1,12 +1,3 @@
----
-type: Oversee NPC
-role: Student at Tarakita University, Secret Cycle Clan Agent
-faction: Cycle Clan (secretly) / Universitas Tarakita (officially)
-home: Universitas Tarakita
-status: Alive
-first_seen: Not yet met
-universe: Oversee
----
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
 <div class="bv-dossier"><div class="bv-world-kicker">OVERSEE · NPC DOSSIER</div><div class="bv-world-title">Kael</div><div class="bv-world-sub">Student at Tarakita University, Secret Cycle Clan Agent</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Faction</div><div class="bv-stat-val">Cycle Clan (secretly) / Universitas Tarakita (officially)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee NPC</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Status</div><div class="bv-stat-val">Alive</div></div></div></div>
