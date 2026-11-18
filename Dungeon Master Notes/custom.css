@@ -2239,3 +2239,128 @@ article table td {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* =========================================================================
+   OVERSEE ATLAS & LOCATIONS PAGE OPTIMIZATION (/oversee/locations)
+   Menghapus hover nama ganda di kanan bawah & memaksimalkan interaksi peta
+   ========================================================================= */
+
+/* 1. Hapus hover nama/dock ganda di kanan bawah (cukup .bv-pin-card di atas pin) */
+.bv-atlas-dock,
+.bv-pin:hover .bv-pin-label,
+.bv-pin:focus-visible .bv-pin-label {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* 2. Perbesar area klik pin tanpa mengubah ukuran titik visual */
+.bv-atlas-full .bv-pin,
+.bv-atlas-stage .bv-pin {
+  cursor: pointer !important;
+  z-index: 5;
+}
+.bv-atlas-full .bv-pin:hover,
+.bv-atlas-full .bv-pin:focus-visible,
+.bv-atlas-stage .bv-pin:hover,
+.bv-atlas-stage .bv-pin:focus-visible {
+  z-index: 30 !important;
+}
+
+.bv-atlas-full .bv-pin-marker,
+.bv-atlas-stage .bv-pin-marker {
+  width: 24px !important;
+  height: 24px !important;
+  transition: transform 160ms ease, box-shadow 160ms ease, background-color 160ms ease !important;
+  box-shadow: 0 2px 6px rgba(20, 14, 12, 0.35) !important;
+}
+.bv-atlas-full .bv-pin:hover .bv-pin-marker,
+.bv-atlas-full .bv-pin:focus-visible .bv-pin-marker,
+.bv-atlas-stage .bv-pin:hover .bv-pin-marker,
+.bv-atlas-stage .bv-pin:focus-visible .bv-pin-marker {
+  transform: translate(-50%, -50%) scale(1.22) !important;
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--bv-accent) 28%, transparent), 0 4px 12px rgba(20, 14, 12, 0.45) !important;
+}
+
+/* 3. Maksimalkan Kartu Hover Tunggal (.bv-pin-card) agar lega & tidak terpotong tepi */
+.bv-pin-card {
+  width: min(300px, 72vw) !important;
+  padding: 0.95rem 1.1rem !important;
+  border-radius: var(--bv-radius) !important;
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border-strong) !important;
+  border-left: 3.5px solid var(--bv-accent) !important;
+  box-shadow: 0 12px 28px rgba(24, 16, 12, 0.22) !important;
+  gap: 0.3rem !important;
+  pointer-events: auto !important;
+}
+
+.bv-pin-meta {
+  font-size: 0.68rem !important;
+  letter-spacing: 0.08em !important;
+  color: var(--bv-accent-deep) !important;
+}
+
+.bv-pin-title {
+  font-size: 1.2rem !important;
+  line-height: 1.2 !important;
+  margin: 0 !important;
+}
+
+.bv-pin-desc {
+  font-size: 0.84rem !important;
+  line-height: 1.48 !important;
+  color: var(--bv-text-sub) !important;
+}
+
+.bv-pin-cta {
+  margin-top: 0.35rem !important;
+  font-weight: 600 !important;
+  color: var(--bv-accent) !important;
+}
+
+/* 4. Toolbar Filter & Zoom Peta yang Lebih Rapi dan Mudah Dijangkau */
+.bv-atlas-toolbar {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 0.75rem 1rem !important;
+  padding-bottom: 0.85rem !important;
+  margin-bottom: 0.85rem !important;
+  border-bottom: 1px solid var(--bv-border) !important;
+}
+
+.bv-atlas-pill {
+  padding: 0.38rem 0.8rem !important;
+  border-radius: 6px !important;
+  font-size: 0.76rem !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  transition: all 150ms ease !important;
+}
+
+/* 5. Grid Gazetteer di Bawah Peta — Sejajar & Lega */
+.bv-atlas-gaz-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)) !important;
+  gap: 0.65rem !important;
+  margin-top: 0.75rem !important;
+}
+
+.bv-atlas-gaz-item {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.2rem !important;
+  padding: 0.8rem 1rem !important;
+  border: 1px solid var(--bv-border) !important;
+  border-left: 3px solid color-mix(in srgb, var(--bv-accent) 65%, var(--bv-border)) !important;
+  background: var(--bv-bg-sub) !important;
+  transition: transform 140ms ease, border-color 140ms ease, background-color 140ms ease !important;
+}
+
+.bv-atlas-gaz-item:hover {
+  transform: translateY(-1px) !important;
+  border-color: var(--bv-accent) !important;
+  background: var(--bv-surface) !important;
+}
