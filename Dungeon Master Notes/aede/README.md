@@ -5,17 +5,16 @@ showSidebar: false
 showToc: false
 ---
 
-::pf
 <div class="bv-hero">
+  <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span>
   <div class="bv-hero-kicker">Special Campaign · Anomaly Arc</div>
-  <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span><div class="bv-hero-title">AEDE</div>
+  <h1 class="bv-hero-title">Aede</h1>
   <p class="bv-hero-sub">Across the storm-wracked Elis Ocean into a tear in reality — where the sea bends and time unravels.</p>
   <div class="bv-cta-row">
-    <a class="bv-btn bv-btn-primary" href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Read Special Episode</a>
+    <a class="bv-btn bv-btn-primary" href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Latest Recap: Love in Time</a>
     <a class="bv-btn bv-btn-secondary" href="/aede/sessions">Session Index</a>
   </div>
 </div>
-::/pf
 
 <div class="bv-section-head">
   <span class="bv-section-en">INTRODUCTION</span>
@@ -38,5 +37,21 @@ showToc: false
       <div class="bv-ep-title"><a href="/aede/sessions/Session%20Special%20%E2%80%94%20Love%20in%20Time">Love in Time</a></div>
       <div class="bv-ep-desc">A black submarine enters an unnatural storm in the Elis Ocean and plunges through a tear in reality into Argent.</div>
     </div>
+  </div>
+</div>
+
+<div class="bv-section-head">
+  <span class="bv-section-en">ARCHIVE</span>
+  <span class="bv-section-sub">BROWSE THE WIKI</span>
+</div>
+
+<div class="bv-index-grid">
+  <div class="bv-index-tile">
+    <div class="bv-index-label"><a href="/aede/sessions">Sessions</a></div>
+    <div class="bv-index-hint">Anomaly episode records</div>
+  </div>
+  <div class="bv-index-tile">
+    <div class="bv-index-label"><a href="/oversee">Oversee Portal</a></div>
+    <div class="bv-index-hint">Return to main campaign</div>
   </div>
 </div>
