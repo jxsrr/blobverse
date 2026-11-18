@@ -3048,72 +3048,49 @@ li.site-tree-item ul a.site-tree-item-self {
 }
 
 /* =========================================================================
-   FIX: HILANGKAN RUANG KOSONG DI ATAS LOGO SIDEBAR KIRI
+   CLEAN UNCROPPED WORLD LOGO & TIGHT TOP ALIGNMENT IN LEFT SIDEBAR
    ========================================================================= */
 
 @media (min-width: 1024px) {
+  .site-layout,
+  .site-body,
+  .layout-inner,
   .layout-inner-left,
-  .layout-inner-left > *,
   aside.site-sidebar,
-  aside.site-sidebar > *,
-  nav.site-tree-container,
-  ul.site-tree {
+  nav.site-tree-container {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
 
   aside.site-sidebar {
-    padding: 0.25rem 0.9rem 1.75rem !important;
+    padding: 0.35rem 0.9rem 1.75rem !important;
+  }
+
+  /* Tarik daftar navigasi rapat ke atas menghilangkan celah bawaan Flowershow */
+  ul.site-tree {
+    margin-top: -6px !important;
+    padding-top: 0 !important;
   }
 }
 
-/* Sembunyikan elemen kosong/header bawaan jika ada sebelum ul.site-tree */
-aside.site-sidebar > :not(nav.site-tree-container),
-nav.site-tree-container > :not(ul.site-tree) {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Rapatkan kotak logo ke puncak daftar dan posisikan gambar di left top */
 ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
 ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
 ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  margin-bottom: 0.65rem !important;
-  padding-bottom: 0.55rem !important;
+  margin: 0 0 0.6rem 0 !important;
+  padding: 0 0 0.45rem 0 !important;
+  border-bottom: 1px solid var(--bv-sb-border) !important;
 }
 
+/* Logo utuh 100% (contain) tanpa terpotong, proporsional dan rapat ke atas */
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
 ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
-  height: 82px !important;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  background-position: left top !important;
-  background-size: contain !important;
-}
-
-/* =========================================================================
-   CROP TRANSPARENT PADDING 1920x1080 PADA LOGO SIDEBAR KIRI
-   ========================================================================= */
-
-ul.site-tree > li.site-tree-item:has(> a[href="/oversee"]),
-ul.site-tree > li.site-tree-item:has(> a[href="/aede"]),
-ul.site-tree > li.site-tree-item:has(> a[href="/sonstige"]) {
-  margin: 0 0 0.7rem 0 !important;
-  padding: 0 0 0.55rem 0 !important;
-  overflow: hidden !important;
-}
-
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/oversee"],
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/aede"],
-ul.site-tree > li.site-tree-item > a.site-tree-item-self[href="/sonstige"] {
-  height: 76px !important;
+  display: block !important;
   width: 100% !important;
+  height: 58px !important;
   margin: 0 !important;
   padding: 0 !important;
-  background-size: 132% auto !important;
-  background-position: -14% 48% !important;
+  background-size: contain !important;
+  background-position: left center !important;
   background-repeat: no-repeat !important;
 }
