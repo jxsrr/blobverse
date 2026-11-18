@@ -1,8 +1,11 @@
 ---
+title: Session 03
 type: Oversee Session
 session_number: 3
 universe: Oversee
 showToc: true
+aliases:
+  - Session 03 — The Bard
 ---
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
