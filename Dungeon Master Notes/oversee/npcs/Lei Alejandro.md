@@ -92,39 +92,39 @@ Guard the Edisi Law. Wait for someone worthy. Atone.
 - **Session 11** — Alejandro reveals the truth about the ritual, about Livia, about the Edisi Law, about Topaju. The party must decide what to do with him.
 - **Endgame** — Alejandro offers them Topaju and the Edisi Law. He asks them to fulfill the promise. He asks them to atone for him.
 
-### Alejandro's Role in the Endgame
-- If the party accepts him, he will join them as an **NPC ally**. He is old, broken, and tired — but he knows more about the Valla than anyone alive. He can help them perform the override.
-- If the party rejects him, he will not fight. He will simply fade. He will return to the shadows. He will wait for the next worthy person to come — if there ever is one.
-- If the party kills him, Topaju will be lost. The Edisi Law will be lost. The override will be impossible. The third path will fail.
-- **The choice is theirs.** The DM should present all three options clearly and let the party decide.
-
-### Corrections Applied
-- **CLARIFIED:** Alejandro is **alive**. He is hiding in the Bahtera Bawah Tanah. He is not an Echo. He is not dead.
-- **CLARIFIED:** He adopted **Livia Vane**. She is not a twin. He lied to her about her origin.
-- **CLARIFIED:** He holds **Topaju**. He found it centuries ago. He will give it to the party if they prove they are worthy.
-- **CLARIFIED:** He has been guarding the **Edisi Law** for 500 years. He is waiting for someone worthy.
-- **CLARIFIED:** He performed the ritual to **feed** Simon, not to replace him. He knew it would fail. He did it anyway.
-- **CLARIFIED:** He was manipulated by **Lei Firsa** and pressured by the **Lei bloodline**. He is not the mastermind. He is a pawn.
-- **CLARIFIED:** The **Puppeteer** in Atreus's letter is **Lei Firsa**, not Alejandro. The ambiguity is intentional.
-- **REMOVED:** "Echo Alejandro is the final boss of Season 3." He is not. He is alive and penitent.
-- **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the Bahtera Bawah Tanah.
-- **REMOVED:** "He is the final Cipher — the Cipher of Guilt." The Cipher system is removed from canon.
-- **REMOVED:** "He will not speak unless the party proves they are worthy." — He will speak. He will ask them: *"Do you know what I did?"* They must answer truthfully.
-
-## Connections to Other Lore
-- `The Initial Six.md` — the heroes he betrayed
-- `Sam Hurls.md` — the bard he sacrificed
-- `Atreus Grin.md` — the druid he sacrificed
-- `Olaf Guirela.md` — the ranger he sacrificed
-- `Atlan Nouveau.md` — the oceanographer he sacrificed
-- `Gzirmo Kopling.md` — the tinker he sacrificed
-- `The Echoes.md` — the result of his failed ritual
-- `The Bahtera Bawah Tanah.md` — where he is hiding
-- `The Edisi Law.md` — the promise he guards
-- `Topaju.md` — the Gemheart he holds
-- `Livia Vane.md` — his adopted daughter
-- `Lei Firsa.md` — the woman who manipulated him
-- `Ratu Ghaniba.md` — the goblin queen he loved
-- `Grolnok.md` — Ghaniba's father
-- `Emelanica.md` — the Gemheart he gave to the goblins
-- `The Endgame Paths.md` — the third path, the Architect's Mercy
+<!-- DM_SPOILER: ### Alejandro's Role in the Endgame -->
+<!-- DM_SPOILER: - If the party accepts him, he will join them as an **NPC ally**. He is old, broken, and tired — but he knows more about the Valla than anyone alive. He can help them perform the override. -->
+<!-- DM_SPOILER: - If the party rejects him, he will not fight. He will simply fade. He will return to the shadows. He will wait for the next worthy person to come — if there ever is one. -->
+<!-- DM_SPOILER: - If the party kills him, Topaju will be lost. The Edisi Law will be lost. The override will be impossible. The third path will fail. -->
+<!-- DM_SPOILER: - **The choice is theirs.** The DM should present all three options clearly and let the party decide. -->
+<!-- DM_SPOILER:  -->
+<!-- DM_SPOILER: ### Corrections Applied -->
+<!-- DM_SPOILER: - **CLARIFIED:** Alejandro is **alive**. He is hiding in the Bahtera Bawah Tanah. He is not an Echo. He is not dead. -->
+<!-- DM_SPOILER: - **CLARIFIED:** He adopted **Livia Vane**. She is not a twin. He lied to her about her origin. -->
+<!-- DM_SPOILER: - **CLARIFIED:** He holds **Topaju**. He found it centuries ago. He will give it to the party if they prove they are worthy. -->
+<!-- DM_SPOILER: - **CLARIFIED:** He has been guarding the **Edisi Law** for 500 years. He is waiting for someone worthy. -->
+<!-- DM_SPOILER: - **CLARIFIED:** He performed the ritual to **feed** Simon, not to replace him. He knew it would fail. He did it anyway. -->
+<!-- DM_SPOILER: - **CLARIFIED:** He was manipulated by **Lei Firsa** and pressured by the **Lei bloodline**. He is not the mastermind. He is a pawn. -->
+<!-- DM_SPOILER: - **CLARIFIED:** The **Puppeteer** in Atreus's letter is **Lei Firsa**, not Alejandro. The ambiguity is intentional. -->
+<!-- DM_SPOILER: - **REMOVED:** "Echo Alejandro is the final boss of Season 3." He is not. He is alive and penitent. -->
+<!-- DM_SPOILER: - **REMOVED:** "Alejandro is still alive. His whereabouts are unknown." — His whereabouts are now known: the Bahtera Bawah Tanah. -->
+<!-- DM_SPOILER: - **REMOVED:** "He is the final Cipher — the Cipher of Guilt." The Cipher system is removed from canon. -->
+<!-- DM_SPOILER: - **REMOVED:** "He will not speak unless the party proves they are worthy." — He will speak. He will ask them: *"Do you know what I did?"* They must answer truthfully. -->
+<!-- DM_SPOILER:  -->
+<!-- DM_SPOILER: ## Connections to Other Lore -->
+<!-- DM_SPOILER: - `The Initial Six.md` — the heroes he betrayed -->
+<!-- DM_SPOILER: - `Sam Hurls.md` — the bard he sacrificed -->
+<!-- DM_SPOILER: - `Atreus Grin.md` — the druid he sacrificed -->
+<!-- DM_SPOILER: - `Olaf Guirela.md` — the ranger he sacrificed -->
+<!-- DM_SPOILER: - `Atlan Nouveau.md` — the oceanographer he sacrificed -->
+<!-- DM_SPOILER: - `Gzirmo Kopling.md` — the tinker he sacrificed -->
+<!-- DM_SPOILER: - `The Echoes.md` — the result of his failed ritual -->
+<!-- DM_SPOILER: - `The Bahtera Bawah Tanah.md` — where he is hiding -->
+<!-- DM_SPOILER: - `The Edisi Law.md` — the promise he guards -->
+<!-- DM_SPOILER: - `Topaju.md` — the Gemheart he holds -->
+<!-- DM_SPOILER: - `Livia Vane.md` — his adopted daughter -->
+<!-- DM_SPOILER: - `Lei Firsa.md` — the woman who manipulated him -->
+<!-- DM_SPOILER: - `Ratu Ghaniba.md` — the goblin queen he loved -->
+<!-- DM_SPOILER: - `Grolnok.md` — Ghaniba's father -->
+<!-- DM_SPOILER: - `Emelanica.md` — the Gemheart he gave to the goblins -->
+<!-- DM_SPOILER: - `The Endgame Paths.md` — the third path, the Architect's Mercy -->
