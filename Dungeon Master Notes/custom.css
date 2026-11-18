@@ -3198,22 +3198,26 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   height: auto !important;
 }
 
-/* Cegah kartu tooltip terpotong di tepi kiri (Atlan) atau tepi kanan (Alejandro) */
-.bv-in6-pin:first-of-type .bv-pin-card {
+/* Cegah kartu tooltip terpotong di tepi kiri (Olaf: x=15.8%) */
+.bv-in6-pin[href$="Olaf%20Guirela"] .bv-pin-card {
   left: 0 !important;
   transform: translate(0, -10px) !important;
 }
-.bv-in6-pin:first-of-type:hover .bv-pin-card,
-.bv-in6-pin:first-of-type:focus-visible .bv-pin-card {
+.bv-in6-pin[href$="Olaf%20Guirela"]:hover .bv-pin-card,
+.bv-in6-pin[href$="Olaf%20Guirela"]:focus-visible .bv-pin-card {
   transform: translate(0, -14px) !important;
 }
 
-.bv-in6-pin:last-of-type .bv-pin-card {
+/* Cegah kartu tooltip terpotong di tepi kanan (Atlan: x=81.7%, Gzirmo: x=83.06%) */
+.bv-in6-pin[href$="Atlan%20Nouveau"] .bv-pin-card,
+.bv-in6-pin[href$="Gzirmo%20Kopling"] .bv-pin-card {
   left: auto !important;
   right: 0 !important;
   transform: translate(0, -10px) !important;
 }
-.bv-in6-pin:last-of-type:hover .bv-pin-card,
-.bv-in6-pin:last-of-type:focus-visible .bv-pin-card {
+.bv-in6-pin[href$="Atlan%20Nouveau"]:hover .bv-pin-card,
+.bv-in6-pin[href$="Atlan%20Nouveau"]:focus-visible .bv-pin-card,
+.bv-in6-pin[href$="Gzirmo%20Kopling"]:hover .bv-pin-card,
+.bv-in6-pin[href$="Gzirmo%20Kopling"]:focus-visible .bv-pin-card {
   transform: translate(0, -14px) !important;
 }
