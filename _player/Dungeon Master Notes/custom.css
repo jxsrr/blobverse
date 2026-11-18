@@ -2692,3 +2692,67 @@ article:has(.bv-atlas-shell),
 .bv-atlas-shell[data-zoom="190"] .bv-atlas-canvas {
   width: 190% !important;
 }
+
+/* =========================================================================
+   CLEAN FULL-MAP CARTOGRAPHIC OUTLINE FOR /oversee/locations
+   (Tanpa toolbar filter/zoom — fokus pada bingkai peta bergaya arsip)
+   ========================================================================= */
+
+.bv-atlas-toolbar {
+  display: none !important;
+}
+
+.bv-atlas-shell {
+  position: relative !important;
+  padding: 1.15rem !important;
+  margin: var(--sp-3) 0 var(--sp-4) !important;
+  background: linear-gradient(160deg, var(--bv-surface) 0%, var(--bv-bg-sub) 100%) !important;
+  border: 2px solid var(--bv-accent) !important;
+  outline: 1px solid color-mix(in srgb, var(--bv-accent-secondary) 55%, var(--bv-border)) !important;
+  outline-offset: -7px !important;
+  border-radius: var(--bv-radius) !important;
+  box-shadow:
+    0 14px 34px rgba(24, 14, 12, 0.12),
+    inset 0 0 0 1px color-mix(in srgb, var(--bv-accent) 18%, transparent) !important;
+}
+
+/* Ornamen siku sudut kartografis */
+.bv-atlas-shell .bv-atlas-corner {
+  position: absolute !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-color: var(--bv-accent) !important;
+  border-style: solid !important;
+  pointer-events: none !important;
+  z-index: 25 !important;
+}
+.bv-atlas-shell .bv-c-tl { top: 10px !important; left: 10px !important; border-width: 2.5px 0 0 2.5px !important; }
+.bv-atlas-shell .bv-c-tr { top: 10px !important; right: 10px !important; border-width: 2.5px 2.5px 0 0 !important; }
+.bv-atlas-shell .bv-c-bl { bottom: 10px !important; left: 10px !important; border-width: 0 0 2.5px 2.5px !important; }
+.bv-atlas-shell .bv-c-br { bottom: 10px !important; right: 10px !important; border-width: 0 2.5px 2.5px 0 !important; }
+
+.bv-atlas-viewport {
+  position: relative !important;
+  width: 100% !important;
+  max-height: none !important;
+  overflow: visible !important;
+  border: 1.5px solid color-mix(in srgb, var(--bv-accent) 65%, var(--bv-border-strong)) !important;
+  border-radius: calc(var(--bv-radius) - 3px) !important;
+  box-shadow: inset 0 0 0 1px rgba(249, 242, 220, 0.15) !important;
+}
+
+.bv-atlas-stage,
+.bv-atlas-canvas {
+  width: 100% !important;
+}
+
+@media (max-width: 640px) {
+  .bv-atlas-shell {
+    padding: 0.75rem !important;
+    outline-offset: -5px !important;
+  }
+  .bv-atlas-shell .bv-atlas-corner {
+    width: 13px !important;
+    height: 13px !important;
+  }
+}
