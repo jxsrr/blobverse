@@ -7,7 +7,7 @@ showToc: false
 
 ::pf
 <div class="bv-hero">
-  <span class="bv-hero-kicker">Special Campaign · Anomaly Arc</span>
+  <div class="bv-hero-kicker">Special Campaign · Anomaly Arc</div>
   <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span><div class="bv-hero-title">AEDE</div>
   <p class="bv-hero-sub">Across the storm-wracked Elis Ocean into a tear in reality — where the sea bends and time unravels.</p>
   <div class="bv-cta-row">
