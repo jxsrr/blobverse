@@ -2564,3 +2564,74 @@ article:has(.bv-atlas-shell),
 .bv-atlas-shell:has(#bv-zoom-2:checked) .bv-atlas-stage {
   width: 190% !important;
 }
+
+/* =========================================================================
+   FLOWERSHOW-NATIVE :target FILTER & ZOOM FOR /oversee/locations
+   (Bekerja tanpa <input> yang diblokir MDX parser)
+   ========================================================================= */
+
+.bv-atlas-anchor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.bv-atlas-toolbar a.bv-atlas-pill {
+  text-decoration: none !important;
+  color: var(--bv-text) !important;
+  background: var(--bv-surface) !important;
+  border: 1px solid var(--bv-border-strong) !important;
+}
+
+.bv-atlas-toolbar a.bv-atlas-pill:hover {
+  border-color: var(--bv-accent) !important;
+  background: var(--bv-accent-soft) !important;
+  color: var(--bv-accent-deep) !important;
+}
+
+/* Default Active State (saat belum ada hash filter/zoom dipilih) */
+.bv-atlas-shell:not(:has(.bv-atlas-anchor[id^="atlas-cat-"]:target)) a.bv-atlas-pill[href="#atlas-cat-all"],
+.bv-atlas-shell:not(:has(.bv-atlas-anchor[id^="atlas-zoom-"]:target)) a.bv-atlas-pill[href="#atlas-zoom-100"],
+.bv-atlas-shell:has(#atlas-cat-all:target) a.bv-atlas-pill[href="#atlas-cat-all"],
+.bv-atlas-shell:has(#atlas-cat-settlement:target) a.bv-atlas-pill[href="#atlas-cat-settlement"],
+.bv-atlas-shell:has(#atlas-cat-landmark:target) a.bv-atlas-pill[href="#atlas-cat-landmark"],
+.bv-atlas-shell:has(#atlas-cat-region:target) a.bv-atlas-pill[href="#atlas-cat-region"],
+.bv-atlas-shell:has(#atlas-cat-institution:target) a.bv-atlas-pill[href="#atlas-cat-institution"],
+.bv-atlas-shell:has(#atlas-cat-fortress:target) a.bv-atlas-pill[href="#atlas-cat-fortress"],
+.bv-atlas-shell:has(#atlas-zoom-100:target) a.bv-atlas-pill[href="#atlas-zoom-100"],
+.bv-atlas-shell:has(#atlas-zoom-145:target) a.bv-atlas-pill[href="#atlas-zoom-145"],
+.bv-atlas-shell:has(#atlas-zoom-190:target) a.bv-atlas-pill[href="#atlas-zoom-190"] {
+  background: var(--bv-accent) !important;
+  border-color: var(--bv-accent) !important;
+  color: #F9F2DC !important;
+  font-weight: 700 !important;
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--bv-accent) 35%, transparent) !important;
+}
+
+/* Filter Pin Berdasarkan Kategori Aktif (:target) */
+.bv-atlas-shell:has(#atlas-cat-settlement:target) .bv-pin:not([data-cat="settlement"]),
+.bv-atlas-shell:has(#atlas-cat-landmark:target) .bv-pin:not([data-cat="landmark"]),
+.bv-atlas-shell:has(#atlas-cat-region:target) .bv-pin:not([data-cat="region"]),
+.bv-atlas-shell:has(#atlas-cat-institution:target) .bv-pin:not([data-cat="institution"]),
+.bv-atlas-shell:has(#atlas-cat-fortress:target) .bv-pin:not([data-cat="fortress"]) {
+  display: none !important;
+}
+
+/* Zoom Peta Berdasarkan Skala Aktif (:target) */
+.bv-atlas-shell:has(#atlas-zoom-100:target) .bv-atlas-stage,
+.bv-atlas-shell:has(#atlas-zoom-100:target) .bv-atlas-canvas {
+  width: 100% !important;
+}
+
+.bv-atlas-shell:has(#atlas-zoom-145:target) .bv-atlas-stage,
+.bv-atlas-shell:has(#atlas-zoom-145:target) .bv-atlas-canvas {
+  width: 145% !important;
+}
+
+.bv-atlas-shell:has(#atlas-zoom-190:target) .bv-atlas-stage,
+.bv-atlas-shell:has(#atlas-zoom-190:target) .bv-atlas-canvas {
+  width: 190% !important;
+}
