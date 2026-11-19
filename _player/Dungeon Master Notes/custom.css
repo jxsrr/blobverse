@@ -3643,3 +3643,27 @@ nav.site-tree-container {
     padding: 18px;
   }
 }
+
+/* ===== Landing /oversee: The Five Sticks 5 kolom sejajar ===== */
+.bv-grid-3x3.bv-grid-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+}
+.bv-grid-5 .bv-card-content {
+  padding: 8px 6px;
+}
+.bv-grid-5 .bv-card-title {
+  font-size: 0.85rem;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+.bv-grid-5 .bv-card-emblem-box {
+  transform: scale(0.7);
+  transform-origin: top right;
+}
+@media (max-width: 960px) {
+  .bv-grid-3x3.bv-grid-5 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .bv-grid-3x3.bv-grid-5 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
