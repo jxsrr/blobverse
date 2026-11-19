@@ -3520,3 +3520,25 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   object-fit: contain !important;
   display: block !important;
 }
+/* === Remove All Sidebar Dropdowns & Nested Submenus === */
+aside .site-tree-item-self.is-collapsible > button,
+aside .site-tree-item-self > button[aria-expanded],
+aside [class*="collapse-btn"],
+aside [class*="chevron"],
+aside [class*="caret"],
+nav.site-tree-container button[aria-expanded] {
+  display: none !important;
+}
+
+/* Sembunyikan daftar dropdown bersarang (seperti sub-item di bawah FACTIONS, NPCS, dll.) */
+aside ul.site-tree ul,
+aside .site-tree-item > ul,
+aside .site-tree-item > div:not(.site-tree-item-self),
+nav.site-tree-container ul ul,
+nav.site-tree-container .site-tree-item > ul {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  max-height: 0 !important;
+  overflow: hidden !important;
+}
