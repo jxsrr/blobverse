@@ -24,11 +24,11 @@ showToc: false
 <div class="bv-news-list">
   <div class="bv-news-item">
     <span class="bv-news-tag">SESSION 07</span>
-    <span>The Five Sticks escaped <a href="/oversee/locations/Arujaya%20Metropolis">Arujaya Metropolis</a> with <a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a> as hostage.</span>
+    <span>The Five Sticks escaped <a href="/oversee/locations/Arujaya%20Metropolis">Arujaya Metropolis</a> with  as hostage.</span>
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">REVELATION</span>
-    <span><a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a> revealed as Valerius's twin and the true heir of Topaju.</span>
+    <span> revealed as Valerius's twin and the true heir of Topaju.</span>
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">VISION</span>
@@ -111,23 +111,23 @@ showToc: false
 <div class="bv-char-grid">
   <div class="bv-char-card">
     <div class="bv-char-role">Fighter · The White Calamity</div>
-    <div class="bv-char-name"><a href="/oversee/pcs/Zure%20Ama">Zure Ama</a></div>
+    <div class="bv-char-name"></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Ranger · The Golden-Cracked</div>
-    <div class="bv-char-name"><a href="/oversee/pcs/Husgus">Husgus</a></div>
+    <div class="bv-char-name"></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Ranger · The Fire Heir</div>
-    <div class="bv-char-name"><a href="/oversee/pcs/Vya%20Arleschia">Vya Arleschia</a></div>
+    <div class="bv-char-name"></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Sorcerer · The Ice Anomaly</div>
-    <div class="bv-char-name"><a href="/oversee/pcs/Syl%20Frost">Syl Frost</a></div>
+    <div class="bv-char-name"></div>
   </div>
   <div class="bv-char-card">
     <div class="bv-char-role">Warlock · The Shell</div>
-    <div class="bv-char-name"><a href="/oversee/pcs/Shin%20Van%20Hel">Shin Van Hel</a></div>
+    <div class="bv-char-name"></div>
   </div>
 </div>
 
@@ -146,7 +146,7 @@ showToc: false
     <div class="bv-index-hint">Continents, cities &amp; ruins</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label"><a href="/oversee/npcs">NPCs</a></div>
+    <div class="bv-index-label"></div>
     <div class="bv-index-hint">Allies, rivals &amp; figures</div>
   </div>
   <div class="bv-index-tile">
@@ -166,7 +166,7 @@ showToc: false
     <div class="bv-index-hint">Letters, notes &amp; records</div>
   </div>
   <div class="bv-index-tile">
-    <div class="bv-index-label"><a href="/oversee/pcs">PCs</a></div>
+    <div class="bv-index-label"></div>
     <div class="bv-index-hint">Party dossiers</div>
   </div>
 </div>
@@ -176,3 +176,5 @@ showToc: false
   <div class="bv-spotlight-title"><a href="/oversee/lore/The%20Gemhearts">The Four Gemhearts</a></div>
   <p>Not mere treasures, but organs of a single primordial being: <strong>Emelanica</strong>, <strong>Safayer</strong>, <strong>Rubion</strong>, and <strong>Topaju</strong>.</p>
 </div>
+
+<section id="bv-unified-factions-pcs"><h2><a href="/oversee/factions">Factions &amp; Characters</a></h2><div class="bv-card-emblems" style="position:static;margin:6px 0 14px;" aria-label="Faction Logos"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span><span class="bv-card-emblem-box" title="Keeper of Secret Logo"><img src="/oversee/factions/7.png" alt="Keeper of Secret Logo" loading="lazy" /></span><span class="bv-card-emblem-box" title="Will of Grin Logo"><img src="/oversee/factions/8.png" alt="Will of Grin Logo" loading="lazy" /></span></div><div class="bv-grid-3x3"><a class="bv-card-link" href="/oversee/pcs/Husgus"><div class="bv-portrait-frame"><div class="bv-card-emblems" aria-label="Faction Emblems"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span></div><img src="/oversee/pcs/1.png" alt="Husgus" loading="lazy" /></div><div class="bv-card-content"><div class="bv-card-title">Husgus</div><div class="bv-card-sub">Open Character Dossier →</div></div></a><a class="bv-card-link" href="/oversee/pcs/Zure%20Ama"><div class="bv-portrait-frame"><div class="bv-card-emblems" aria-label="Faction Emblems"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span></div><img src="/oversee/pcs/2.png" alt="Zure Ama" loading="lazy" /></div><div class="bv-card-content"><div class="bv-card-title">Zure Ama</div><div class="bv-card-sub">Open Character Dossier →</div></div></a><a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><div class="bv-card-emblems" aria-label="Faction Emblems"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span></div><img src="/oversee/pcs/3.png" alt="Shin Van Hel" loading="lazy" /></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-sub">Open Character Dossier →</div></div></a><a class="bv-card-link" href="/oversee/pcs/Syl%20Frost"><div class="bv-portrait-frame"><div class="bv-card-emblems" aria-label="Faction Emblems"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span></div><img src="/oversee/pcs/4.png" alt="Syl Frost" loading="lazy" /></div><div class="bv-card-content"><div class="bv-card-title">Syl Frost</div><div class="bv-card-sub">Open Character Dossier →</div></div></a><a class="bv-card-link" href="/oversee/pcs/Vya%20Arleschia"><div class="bv-portrait-frame"><div class="bv-card-emblems" aria-label="Faction Emblems"><span class="bv-card-emblem-box" title="The Five Sticks (PC Logo)"><img src="/oversee/factions/6.png" alt="The Five Sticks PC Logo" loading="lazy" /></span></div><img src="/oversee/pcs/5.png" alt="Vya Arleschia" loading="lazy" /></div><div class="bv-card-content"><div class="bv-card-title">Vya Arleschia</div><div class="bv-card-sub">Open Character Dossier →</div></div></a></div></section>

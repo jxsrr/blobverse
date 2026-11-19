@@ -2,6 +2,7 @@
 publish: false
 type: Oversee Lore
 universe: Oversee
+showSidebar: true
 ---
 ::pf
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>

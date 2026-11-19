@@ -1,7 +1,7 @@
 ---
 collapsed: false
 title: Sessions
-showSidebar: false
+showSidebar: true
 showToc: false
 ---
 <span class="bv-world-theme" data-world="aede" aria-hidden="true"></span><a class="bv-world-home" href="/aede" aria-label="Back to Aede Home"><img src="/aede/Logo.png" alt="Aede"><span class="bv-world-home-arrow">← Hub</span></a>

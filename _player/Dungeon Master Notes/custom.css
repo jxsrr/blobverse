@@ -3560,3 +3560,86 @@ nav.site-tree-container .site-tree-item > ul {
   transform: none !important;
   display: block !important;
 }
+/* === Ensure Sidebar Renders on Canon, Handouts, Items, Lore, Sessions === */
+aside.site-sidebar,
+.site-sidebar,
+nav.site-tree-container {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+/* === Storybook Horizontal Scroll for Sessions === */
+.bv-storybook-wrap {
+  width: 100%;
+  margin: 18px 0 28px;
+}
+
+.bv-storybook-hint {
+  font-size: 0.82rem;
+  opacity: 0.78;
+  margin-bottom: 10px;
+  letter-spacing: 0.02em;
+}
+
+.bv-storybook-track {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  padding: 12px 6px 20px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.bv-storybook-page {
+  flex: 0 0 min(82%, 520px);
+  scroll-snap-align: start;
+  background: rgba(252, 248, 240, 0.92);
+  border: 1px solid rgba(58, 44, 30, 0.18);
+  border-radius: 10px;
+  padding: 22px 24px;
+  box-shadow: 0 8px 24px rgba(32, 22, 12, 0.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 240px;
+}
+
+.bv-storybook-page-num {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.65;
+  margin-bottom: 8px;
+}
+
+.bv-storybook-page-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.bv-storybook-page-body {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  flex: 1 1 auto;
+}
+
+.bv-storybook-page-link {
+  display: inline-block;
+  margin-top: 14px;
+  font-size: 0.86rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+@media (max-width: 720px) {
+  .bv-storybook-page {
+    flex: 0 0 88%;
+    padding: 18px;
+  }
+}

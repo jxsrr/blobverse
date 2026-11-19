@@ -1,3 +1,7 @@
+---
+showSidebar: true
+---
+
 <!-- DM_SPOILER: Entitas ini belum muncul di session manapun dan disembunyikan dari player -->
 ---
 publish: false
