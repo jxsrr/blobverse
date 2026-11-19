@@ -3504,22 +3504,7 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   display: block !important;
 }
 
-.bv-section-logo {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  max-width: 160px;
-  max-height: 72px;
-  margin: 4px 0 14px;
-}
-.bv-section-logo img {
-  max-width: 100%;
-  max-height: 72px;
-  width: auto !important;
-  height: auto !important;
-  object-fit: contain !important;
-  display: block !important;
-}
+
 /* === Remove All Sidebar Dropdowns & Nested Submenus === */
 aside .site-tree-item-self.is-collapsible > button,
 aside .site-tree-item-self > button[aria-expanded],
@@ -3541,4 +3526,37 @@ nav.site-tree-container .site-tree-item > ul {
   height: 0 !important;
   max-height: 0 !important;
   overflow: hidden !important;
+}
+/* === Top-Right Card Faction Emblem Box === */
+.bv-card-emblems {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 4;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+}
+
+.bv-card-emblem-box {
+  width: 28px;
+  height: 28px;
+  padding: 2px;
+  border-radius: 6px;
+  background: rgba(250, 246, 238, 0.94);
+  border: 1px solid rgba(45, 36, 26, 0.22);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.14);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.bv-card-emblem-box img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+  transform: none !important;
+  display: block !important;
 }
