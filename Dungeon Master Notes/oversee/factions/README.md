@@ -12,6 +12,7 @@ showToc: false
 
 ## The Five Sticks
 
+<div class="bv-section-logo"><img src="/oversee/factions/6.png"  loading="lazy" / alt="The Five Sticks — PC Logo" title="The Five Sticks (PC Logo)" /></div>
 <div class="bv-grid-3x3">
 <a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><img src="/oversee/pcs/3.png" alt="Shin Van Hel" loading="lazy" /><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
 <a class="bv-card-link" href="/oversee/pcs/Husgus"><div class="bv-portrait-frame"><img src="/oversee/pcs/1.png" alt="Husgus" loading="lazy" /><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Husgus</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
@@ -22,6 +23,7 @@ showToc: false
 
 ## [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
 
+<div class="bv-section-logo"><img src="/oversee/factions/7.png" alt="Keeper of Secret Logo" loading="lazy" /></div>
 <div class="bv-grid-3x3">
 <a class="bv-card-link" href="/oversee/npcs/Mira%20Nouveau"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mira Nouveau</div><div class="bv-card-note">Founder of Keeper of Secret and daughter of Atlan and Reins.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
 <a class="bv-card-link" href="/oversee/npcs/Elara"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>E</span></div></div><div class="bv-card-content"><div class="bv-card-title">Elara</div><div class="bv-card-note">Innkeeper at Karang Tidur and a suspicious figure.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
@@ -31,6 +33,7 @@ showToc: false
 
 ## [Will of Grin](/oversee/factions/Will%20of%20Grin)
 
+<div class="bv-section-logo"><img src="/oversee/factions/8.png" alt="Will of Grin Logo" loading="lazy" /></div>
 <div class="bv-grid-3x3">
 <a class="bv-card-link" href="/oversee/npcs/Hildag%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hildag Grin</div><div class="bv-card-note">The Weaver, Wakil Pertahanan at the time of the Initial Six, and mother of Accarus and Antrem.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
 <a class="bv-card-link" href="/oversee/npcs/Geneva%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Geneva Grin</div><div class="bv-card-note">The Smiling Hand, co-leader of Will of Grin, and Hildag’s experiment.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
