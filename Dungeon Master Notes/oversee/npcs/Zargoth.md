@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Disembunyikan dari player (belum terungkap / spoiler kampanye Oversee) -->
 ---
 type: Oversee NPC
 role: The Ancient Demon, Father of the Grin

@@ -172,7 +172,6 @@ The persecution came in waves.
 
 Grin merchants were driven from city markets. Grin children were stoned in the streets. Grin families who had settled in various regions were forcibly evicted from their homes. The Grin Kingdom — which had once stood as a symbol of resilience on the barren land no one wanted — began losing its citizens one by one.
 
-Some went into seclusion in remote places. Some chose to hide their identities, covering their smiles with veils and masks. And some — the most stubborn, the most loyal to the legacy of **<a href="/Gavaevodata">Gavaevodata</a>** and **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — chose to **stay and fight**.
 
 From the ashes of despair, **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** was born.
 
@@ -186,7 +185,6 @@ Not to attack the world that hated them — that would only justify the stigma. 
 
 **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>** stood on two main goals.
 
-**The first goal was social acceptance.** They wanted to continue Atreus's vision — to show the world that the cursed smile was not a mark of evil. That Grin descendants — whatever race they were, whatever skin color they had, whatever their background — were ordinary humans, elves, dwarves, halflings who just wanted to live in peace like everyone else. They wanted to prove that the Gap's blood in their veins did not make them monsters, just as the demon blood of **<a href="/oversee/npcs/Gavaevodata%20Grin">Gavaevodata Grin</a>** and **<a href="/oversee/npcs/Zargoth">Zargoth</a>** did not make their ancestors evil — only different, only marginalized, only surviving in their own way.
 
 **The second goal was to find the truth.** They wanted to uncover the reason behind Atreus's sudden disappearance. What really happened at **<a href="/oversee/lore/The%20Great%20Disappearance">The Great Disappearance</a>**? Why did the six greatest heroes of their age vanish without a trace? And most importantly — why did Atreus, the only hero of the marginalized, **never return**?
 
@@ -204,7 +202,6 @@ The members of Will of Grin interpreted this message in different ways, dependin
 
 For most members, **Emelanica was the Answer Key**. They believed that the green stone, with its absolute knowledge, could reveal what had really happened to **<a href="/oversee/lore/The%20Initial%20Six">The Initial Six</a>**. With Emelanica, they could see the past — witness with their own eyes how Atreus disappeared — and find the truth long hidden. With that truth, they could clear Atreus's name and — by extension — clear the name of the entire Grin bloodline.
 
-For others — especially the older ones more deeply involved in Grin mysticism — **Emelanica was the Key of Liberation**. There was an ancient belief, passed down through generations, that the combined power of the four stones — **<a href="/oversee/items/Emelanica">Emelanica</a>**, **<a href="/oversee/items/Safayer">Safayer</a>**, **<a href="/oversee/items/Rubion">Rubion</a>**, **<a href="/oversee/items/Topaju">Topaju</a>** — might **break the eternal smile curse** that had bound them for centuries. If the curse was the inheritance of Gavaevodata's pact with the Gap, then perhaps with the same ancient power, the curse could be undone. Grin descendants could live without the eternal smile, free from the stigma carried from birth.
 
 But among the highest leaders, there was deeper speculation. Some of them — including **Geneva** and **Accarus** — began to realize that Atreus's message might not refer only to the stone itself. *"Emelanica"* might also refer to **its holder** — to the bloodline of **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>**, to the still-living child of **<a href="/Ratu%20Ghaniba">Ratu Ghaniba</a>**, to something they did not yet fully understand. Perhaps the key was not just collecting the stone, but **finding the right person to use it**.
 
@@ -224,7 +221,6 @@ In their underground headquarters in **<a href="/oversee/locations/Maw%20Desert"
 
 They knew **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** was still alive somewhere. They knew **<a href="/Klan%20Lei">Klan Lei</a>** was still in power. They knew the truth of the betrayal might be more terrible than they imagined.
 
-But they were not afraid. They were the descendants of **<a href="/Gavaevodata">Gavaevodata</a>** and **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — born from the forbidden union of elf and demon, haunted by a smile that never faded, yet still enduring beyond ambition and destruction.
 
 And in the heart of every member of **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**, the same belief was kept: that one day, they would find **Emelanica**. That one day, the truth would be revealed. That one day, the eternal smile would no longer be a curse, but a **symbol of victory** over a world that had judged them for so long.
 

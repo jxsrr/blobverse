@@ -12,7 +12,6 @@ universe: Oversee
 
 ## What Is The Gap?
 - The **leftover matter** from the Overseer's failed digestion.
-- Matter that was partially consumed but did not become the Architect.
 - A chaotic space between dimensions. Neither fully real nor fully unreal.
 
 ## Who Lives There?
@@ -28,8 +27,6 @@ universe: Oversee
 - The **sludge** in Arujaya's Depths is Ambitio-Ether residue from a Gap leak.
 
 ## Known Entities from the Gap
-- **Zargoth** — an ancient, wise devil. Loved Gavaevodata. Father of the Grin bloodline.
-- **Grin bloodline** — descendants of Zargoth and Gavaevodata. Eternal smile. Magic-deaf.
 - **Renal (Qain)** — an Imp bound to Ama.
 
 ## What We Know

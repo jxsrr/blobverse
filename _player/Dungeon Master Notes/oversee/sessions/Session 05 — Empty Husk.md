@@ -25,7 +25,6 @@ She named them:
 - **<a href="/oversee/items/Emelanica">Emelanica</a>** — green, time and mana flow
 - **<a href="/oversee/items/Safayer">Safayer</a>** — blue, purification of souls
 - **<a href="/oversee/items/Rubion">Rubion</a>** — red, instant annihilation
-- **<a href="/oversee/items/Topaju">Topaju</a>** — yellow, structure and stability
 
 The party had two of these. They needed the other two.
 
@@ -325,7 +324,6 @@ They returned to Syl.
 
 She had finished translating.
 
-> *"HVS. Human Vessel Shell."*
 
 ## Loot & Rewards
 - **<a href="/oversee/items/Safayer">Safayer</a>** — the blue Gemheart, returned by Vythrax

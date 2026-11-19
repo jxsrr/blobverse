@@ -1,3 +1,4 @@
+<!-- DM_SPOILER: Disembunyikan dari player (belum terungkap / spoiler kampanye Oversee) -->
 ---
 publish: false
 type: Oversee NPC

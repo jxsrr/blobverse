@@ -23,7 +23,6 @@ universe: Oversee
 ## What This Means
 - The Overseer is real.
 - The Shell is its shed skin.
-- The Architect is the one who shed it — or the one who left it behind.
 - The world of Oversee is built on the remains of something cosmic.
 
 ## What We Know

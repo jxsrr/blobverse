@@ -6,13 +6,11 @@
 > A curse. A blessing. A stigma. The mark of the Grin bloodline.
 
 ## What Is the Curse?
-- Every descendant of **Gavaevodata** and **Zargoth** is born with a **permanent smile**.
 - It cannot be removed. It cannot be hidden.
 - In joy, in grief, in rage — the smile remains.
 - It is not a happy smile. It is a **frozen** smile.
 
 ## Why Does It Exist?
-- Gavaevodata was an elf princess. Zargoth was a demon from the Gap.
 - They fell in love. They married. Their children inherited the smile.
 - The smile is the **mark of the Gap** — a reminder of the pact between elf and demon.
 - It also grants **magic-deafness**. The Grin cannot use magic. They cannot be detected by the Overseer.

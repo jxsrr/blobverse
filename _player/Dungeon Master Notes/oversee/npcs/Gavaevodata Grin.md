@@ -1,17 +1,14 @@
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Kerajaan Grin</span></div><span class="bv-status bv-status-deceased">Deceased (10xx bv)</span></div><div class="bv-dossier-name">Gavaevodata Grin</div><div class="bv-dossier-epithet">The First Grin, The Woman Who Married a Demon</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Kerajaan Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died in the Grin Kingdom</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">The Gap (originally)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 ## What the Party Knows (from Lore)
 - An elf princess of the Grin Kingdom.
 - Her kingdom was poor, magicless, and constantly attacked.
 - She found a manuscript about **The Gap**. She stepped into it.
-- She met **Zargoth** — an ancient demon. They fell in love.
 - She returned to Grin and married him.
 - Their children were the **first Grin** — red-skinned, horned, eternal smile, magic-deaf.
 
 ## The Curse
-- Gavaevodata's children inherited the smile. It is the mark of the Gap.
 - It also made them invisible to the Overseer.
 
 ## Current State

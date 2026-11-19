@@ -27,7 +27,6 @@ showToc: false
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">REVELATION</span>
-    <span><a href="/oversee/npcs/Lei%20Darvin%20Thorne">Lei Darvin Thorne</a> revealed as Valerius's twin and the true heir of Topaju.</span>
   </div>
   <div class="bv-news-item">
     <span class="bv-news-tag">VISION</span>
@@ -42,7 +41,6 @@ showToc: false
 
 <div class="bv-intro-box">
   <p>Five strangers registered together at the Adventurer's Guild in <a href="/oversee/locations/Yawning%20Town">Yawning Town</a> under the name <strong>The Five Sticks</strong>. What began as a simple relic retrieval in <a href="/oversee/locations/Greyland%20Castle">Greyland Castle</a> spiraled into a continent-spanning conflict between the <a href="/oversee/factions/One%20Voice%20Commonwealth">One Voice Commonwealth</a>, the <a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>, and the <a href="/oversee/factions/Keeper%20of%20Secret">Keeper of Secret</a>.</p>
-  <p>Across the four continents of Harka, Pirizia, Rioquan, and Elis, ancient seals are cracking — and the truth behind the Gemhearts and the Human Vessel Shell project is coming to light.</p>
 </div>
 
 <div class="bv-section-head">
@@ -173,5 +171,4 @@ showToc: false
 <div class="bv-spotlight">
   <div class="bv-spotlight-tag">KEY ARTIFACT LORE · SPOTLIGHT</div>
   <div class="bv-spotlight-title"><a href="/oversee/lore/The%20Gemhearts">The Four Gemhearts</a></div>
-  <p>Not mere treasures, but organs of a single primordial being: <strong>Emelanica</strong>, <strong>Safayer</strong>, <strong>Rubion</strong>, and <strong>Topaju</strong>.</p>
 </div>

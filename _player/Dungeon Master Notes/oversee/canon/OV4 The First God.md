@@ -18,11 +18,8 @@ aliases:
 
 The year **1 AV** — *After Valla* — began in silence.
 
-**<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** stood at the altar of **<a href="/Universitas%20Tarakita">Ancient Lake</a>**. **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>** sat before her — not moving, not breathing, but not dead. His body was still warm. His eyes were still open. But he was no longer there.
 
-He was the **<a href="/oversee/lore/The%20Valla">Valla</a>** now. His soul stretched across the world, holding back the hunger of the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**. He would hold that burden for as long as he could. And when he finally broke, someone else would take his place.
 
-Lei Firsa looked at him for a long time. Then she turned away.
 
 She had what she wanted. She had **immortality** through Simon. She had **power** through the **<a href="/oversee/lore/The%20Gemhearts">Gemhearts</a>**. She had **control** over the cycle that kept the world alive.
 
@@ -56,77 +53,59 @@ She traveled alone to the southern coast of **Harka** — to the highest cliff a
 
 She threw Gustaero into the sea.
 
-The bow fell, spun, and disappeared into white foam. Lei Firsa smiled.
 
 > *"Let the sea forget it. As the world will forget Simon."*
 
 ### Rayio — The Garberro Forest, Pirizia
 
-**<a href="/oversee/items/Rayio%20%E2%80%94%20The%20Wind%20Blade">Rayio</a>** was a light sword with a blue-silver blade that made almost no sound when swung. Lei Firsa carried it across the sea to **Pirizia**, to the **<a href="/Hutan%20Garberro">Garberro Forest</a>** — a forbidden forest said to be haunted by restless spirits and creatures from the Gap that slipped through occasionally.
 
 The trees here grew crooked. Their roots reached like wrinkled hands grasping at the soil. Thick fog covered every corner. Strange sounds echoed in the distance.
 
-Lei Firsa walked to the center of the forest, where sunlight almost never broke through the canopy. She threw Rayio into the dark undergrowth, among the roots that seemed to move.
 
 > *"Dance with the wind there,"* she said. *"Or be eaten by demons."*
 
-Rayio fell with a rustle and was silent. Lei Firsa left without looking back.
 
 ### Kkana — The Misty Mountains, Elis
 
-**<a href="/oversee/items/Kkana%20%E2%80%94%20The%20Stone%20Greatsword">Kkana</a>** was a heavy, sturdy greatsword made of black iron patterned like stone layers. It felt impossibly heavy in Lei Firsa's hands — as if reluctant to be moved. She had to hire porters to carry it to the ship, then to the **Misty Mountains** in **Elis** — the highest range on the continent, their peaks always shrouded in cloud.
 
-The climb took days. Lei Firsa nearly gave up several times, but her ambition was greater than her exhaustion. At last, she reached the highest peak, among giant stones standing like natural monuments. Cold wind bit at her skin. Thin snow began to fall.
 
 She planted Kkana in a crack between the stones and stepped back.
 
 > *"You like stone? Then stay here."*
 
-Kkana stood upright, as if in agreement. Lei Firsa descended without looking back.
 
 ### Frostfang — Frosthaven Peak, Northern Pirizia
 
-**<a href="/oversee/items/Frostfang%20%E2%80%94%20The%20Ice%20Fang">Frostfang</a>** was the most dangerous of the six. Its blade — carved from the tooth of a giant ice dragon — radiated a cold that froze the air around it. When Lei Firsa touched it, frost immediately coated her hands. She barely managed to carry it; the cold pierced her skin and made her bones ache.
 
 She had to move quickly. She carried Frostfang to northern **Pirizia**, to **<a href="/oversee/locations/Frosthaven%20Peak">Frosthaven Peak</a>** — the highest mountain on the continent, where eternal snow and ice storms never stopped. Here, the temperature was far below freezing, and the wind blew so hard it could tear flesh.
 
-Lei Firsa stood at the cliff edge, looking down at the white chasm below. With all her strength, she threw Frostfang into the storm. The great axe fell, spun, and was buried in thick snow within seconds.
 
 > *"You will be comfortable here,"* she said, her breath freezing in the air. *"Freeze forever."*
 
 ### Zenahhi — The Canyon of Lament, Eastern Rioquan
 
-**<a href="/oversee/items/Zenahhi%20%E2%80%94%20The%20Loyal%20Blade">Zenahhi</a>** was the simplest of the six — a classic longsword with a shining blade, a dark blue hilt, and perfect balance. But its simplicity was what made it dangerous. The sword was too **good**. Too **noble**. Lei Firsa hated it.
 
 She carried Zenahhi to **Rioquan**, to the **<a href="/Ngarai%20Ratapan">Canyon of Lament</a>** — the deepest canyon on the continent, its bottom said to have never been touched by sunlight. Legend said that thousands of years ago, the gods wept here, and their tears carved the canyon. No one had ever descended to the bottom and returned alive.
 
-Lei Firsa stood at the canyon's edge, the wind howling from the depths. She threw Zenahhi into the darkness.
 
 > *"Your loyalty will die here,"* she whispered.
 
-Zenahhi fell, bounced off the stone walls, and vanished into the dark. Lei Firsa was satisfied.
 
 ### Terrde — The Ruins of the Ancient City, Harka
 
-**<a href="/oversee/items/Terrde%20%E2%80%94%20The%20Patient%20Blade">Terrde</a>** was different. Its blade was darker, thicker, designed to wait and strike with efficiency. Lei Firsa felt something **patient** in this sword — as if it did not mind waiting for as long as it took.
 
 She carried Terrde to **Harka**, to the ruins of an ancient city destroyed in **<a href="/oversee/lore/The%20Rapture">The Rapture</a>** centuries before. The city had once been the greatest center of magical civilization in its era, before the light-eating comet came and devoured all its wizards. Now only rubble remained, and bones, and a suffocating silence.
 
-Lei Firsa entered the deepest underground chamber, among shelves of moldy books and useless magical tools. In the corner, she saw a pile of bones — perhaps the last wizard to die here. She placed Terrde in the lap of the skeleton, as if handing the sword to a new guardian.
 
 > *"You like waiting?"* she said. *"Then wait here forever."*
 
 ## The Rewritten History
 
-With the six blades and the Swan Bow scattered, Lei Firsa returned to **<a href="/Universitas%20Tarakita">Ancient Lake</a>**.
 
-Simon's body still sat on the altar — not moving, not breathing. Lei Firsa looked at him one last time. Not with love. With satisfaction.
 
-> *"You will be remembered as a god,"* she whispered. *"Not as Simon Greenbottle, the Halfling shepherd who was too kind. You will be the Valla, the Guardian of the World. And I… I will continue."*
 
 She declared the year **1 After Valla**. The new calendar began. The old history was erased.
 
-According to the version of history written by scribes loyal to her, **Simon Greenbottle never existed**. Instead, the world knew of **"Lei the Great"** — a hero who ascended to godhood after his great mission. And **Lei Firsa** herself, through the distortion of history over time, was remembered as a **wise and powerful male wizard** — the founder of **<a href="/Klan%20Lei">Klan Lei</a>**.
 
 The weapons waited in their hiding places — in the sea, in the forbidden forest, on the mountain peak, at the bottom of the canyon, in the ruins, in the underground temple. They waited. They called. They would keep waiting until someone worthy found them.
 
@@ -134,28 +113,22 @@ The weapons waited in their hiding places — in the sea, in the forbidden fores
 
 **~01–20 AV**
 
-Years passed. The world turned in its silent orbit. **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** — now in full control of the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** and the **<a href="/oversee/lore/The%20Gemhearts">Gemhearts</a>** — watched from a distance as her power grew.
 
-**<a href="/oversee/npcs/Simon%20Greenbottle">Simon</a>** still sat on the altar. His physical body had not changed. His consciousness stretched between the mortal world and the presence of the Overseer. Every five hundred years, the cycle would be prepared again — the maintenance ritual that had to be performed so the world remained safe from cosmic hunger. But Lei Firsa had made sure that the cycle would never move away from Simon as long as she lived.
 
-From Lei Firsa's womb came the descendants who would become known as **<a href="/Klan%20Lei">Klan Lei</a>**.
 
 She gave birth to **four children**. Each grew up in an environment filled with knowledge of the Gemhearts, of the ritual, and of their father who sat eternal on the altar. Each inherited something no one else in Oversee possessed: **pure elemental power**, flowing in their blood like a second pulse.
 
 - **<a href="/oversee/npcs/Lei%20Wendigo">Lei Wendigo</a>** — the firstborn. Wind. Received **<a href="/oversee/items/Emelanica">Emelanica</a>**.
 - **<a href="/oversee/npcs/Lei%20Firage">Lei Firage</a>** — the second. Fire. Received **<a href="/oversee/items/Rubion">Rubion</a>**.
 - **<a href="/oversee/npcs/Lei%20Watigi">Lei Watigi</a>** — the third. Water. Received **<a href="/oversee/items/Safayer">Safayer</a>**.
-- **<a href="/oversee/npcs/Lei%20Roiga">Lei Roiga</a>** — the fourth. Earth. Received **<a href="/oversee/items/Topaju">Topaju</a>**.
 
 But no one knew the truth behind this miracle.
 
-The power inherited by Lei Firsa's four children was the fruit of **Simon's final love and sacrifice** — the Halfling who was now trapped as the Valla. From a distance, from behind the veil of reality that separated the mortal world from cosmic darkness, Simon could still feel the pulse of his children's lives. He could not move. He could not speak. He could not touch them. But he could **channel** something — pure Ambitio-Ether that he had absorbed as the Valla, flowing through the blood bond that was never severed.
 
 A father's helpless love — a father who wanted to protect his children from a distance — became the conduit connecting the altar to the wombs that bore Lei's descendants. Every time a child was born from his bloodline, Simon shed a drop of his essence, giving them a spark of pure elemental power that no one else could ever possess.
 
 ## The Rule of Succession
 
-After making Simon the Valla and ensuring that his descendants were granted pure magical power through their blood bond with their father, **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** took the next step.
 
 With the Gemhearts now in her possession — the legacy of the **Cycle Clan** she had fully controlled — she divided the four primordial stones among her four children.
 
@@ -203,9 +176,7 @@ The **<a href="/oversee/factions/One%20Voice%20Commonwealth">Commonwealth of Uni
 
 Simon's departure — or more precisely, his transformation into the Valla who sat eternal on the altar — created a power vacuum no one could fill. Adventurers, kingdoms, and small factions competed in uncertainty, while external threats began to resurface after being muted for so long by Simon's presence.
 
-In the midst of this vacuum, **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** and her descendants took the initiative.
 
-With Gemhearts in hand, with Simon still sitting as the source of power on the altar, and with ambition that never dimmed despite her advancing age, Lei Firsa began designing a new order. She was no longer merely the leader of the hidden Cycle Clan. She wanted to build something greater — something that would outlast her own life, something that would be a monument to her ambition and a shield for her bloodline.
 
 The Commonwealth was formed with a structure known as the **<a href="/oversee/lore/The%20Triase">Triase</a>** — a triumvirate in which each officeholder represented an essential pillar of civilization.
 
@@ -215,7 +186,6 @@ Beside the Chancellor stood the **Wakil Keadilan** — the **Justice Deputy** �
 
 Meanwhile, the **Wakil Pertahanan** — the **Defense Deputy** — held control of the **<a href="/oversee/factions/The%20Iron%20Guard">Garda Besi</a>** (Iron Guard): the military, territorial defense, public security, and intelligence. The Defense Deputy was the face of the Commonwealth's power, ensuring every threat — from within or without — could be met with toughness and speed without waiting for bureaucratic decisions.
 
-Inevitably, because of the history begun by **Lei Firsa**, the majority of high offices in the Commonwealth were held by Klan Lei descendants. What began as the personal ambition of a cast-out woman who wanted recognition had grown into a network of power that spread to every corner of government. By occupying key positions, Klan Lei could ensure their bloodline was preserved and expanded — creating a system resembling a magical aristocracy in which political power and magic reinforced each other.
 
 Those with Simon's blood flowing in their veins, who inherited the pure elemental power of their ancestors, were naturally placed in positions that allowed them to protect family interests while still running the government. A perfect vicious circle: magical power gave them legitimacy to rule, and political power gave them protection to preserve the purity of their bloodline and the secret behind the source of their power.
 
@@ -223,9 +193,7 @@ A clear example of this system could be seen in the Governor of West Harka — a
 
 ## The Doctrine of Simon's Ascension
 
-The spiritual doctrine that became the foundation of Klan Lei's power in the Commonwealth taught that the greatest hero — **Simon Greenbottle** — did not merely disappear. He **ascended to godhood**.
 
-It was a narrative designed by **Lei Firsa** to transform the Halfling shepherd into a transcendent figure who legitimized Klan Lei's power. Simon was depicted as achieving divinity after his self-sacrifice, and to strengthen this claim, Klan Lei established the **Calendar of 1 After Valla (AV)**, erasing the old dating system and claiming that the elemental powers (wind, fire, water, earth) demonstrated by members of their clan were proof that **the blood of a god flowed in their veins** — making them a sacred family and the rightful heirs of the new guardian deity.
 
 ## The Silent Legacy of the Wild Continent
 
@@ -283,7 +251,6 @@ The egg was kept in the most sacred chamber in the heart of the temple, worshipp
 
 **Vythrax herself** — with a heart wounded but her oath of protection still held tightly — chose a lonely path. She could no longer remain among a clan that had built a lie on top of her disgrace. Before flying north to the **<a href="/oversee/locations/The%20Spire%20of%20Whispering%20Ice">Spire of Whispering Ice</a>**, she infiltrated the temple one night, looking at her egg one last time.
 
-In a sorrow beyond measure, she swallowed the **full Safayer** — the blue Gemheart, the purification stone, one of the four organs of the Architect. She had secretly taken it from Lei Watigi during their last meeting. She knew the blue stone had extraordinary purifying power. Perhaps by swallowing it, she could create a magical resonance that would protect her egg during her departure — an invisible shield that would keep the embryo within safe and slow its development until the right time. She did not want her child to be born in the midst of this chaos and lie. Better the egg waited, sleeping deeply, until the world was ready to receive it. Perhaps she also just wanted to carry something that reminded her of what had happened. Perhaps she wanted to punish herself.
 
 ## 700 AV — The Egg Hatches
 

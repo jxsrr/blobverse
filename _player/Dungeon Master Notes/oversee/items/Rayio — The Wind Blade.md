@@ -19,7 +19,6 @@ aliases:
 
 ## History
 - One of six legendary weapons of the Six Legendary Blades.
-- Thrown into Garberro Forest by Lei Firsa.
 - **Not yet recovered.**
 
 ## What the Party Knows

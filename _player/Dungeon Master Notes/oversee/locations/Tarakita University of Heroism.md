@@ -9,7 +9,6 @@
 - **The Hall of Time** — a corridor of aging wooden lockers. Contains fragments of memory from former students.
   - **Locker #47 (Crest Muda)** — a blue Grace cloak, old notes, and a wooden sword inscribed "For my brother, Shin." Triggers an illusion of Crest training.
 - **Tarakita Arena** — an open oval stadium with a magical safety barrier. No one can die here. Duels are common.
-  - Professor Rubi can create an **illusion of Young Zargoyle** (CR 5) for HVS to train against.
 - **The Underground Library "Ark of Forgetting"** — a massive underground library. Guarded by **Living Failures** (HVS experiments gone wrong).
   - Contains **Guanik Wiseman's journal**.
   - Contains **HVS-03** — an empty, cracked shell tube.

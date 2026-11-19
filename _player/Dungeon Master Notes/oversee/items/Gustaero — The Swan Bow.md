@@ -27,7 +27,6 @@ aliases:
 ## History
 - One of the three ancient relics. Origin unknown — even to the Cycle Clan.
 - Never bound to the Commonwealth. Never part of the Gemheart network.
-- Thrown into the sea by **Lei Firsa** after she scattered the six blades.
 - Found by **Gunnar Guirela** in his fishing net in Wind's Rest.
 - Passed to **Olaf Guirela**, then **Gordon**, then **Husgus**.
 - Carried briefly by **Accarus Grin**, who gave it to **Husgus** after the Frosthaven mission.

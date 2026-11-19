@@ -1,6 +1,5 @@
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
-<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">None</span></div><span class="bv-status bv-status-alive">Alive (as the valla)</span></div><div class="bv-dossier-name">Simon Greenbottle</div><div class="bv-dossier-epithet">The Second Valla, The Halfling Who Became a God</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">None (Valla)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">The altar at Ancient Lake (in the Gap)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Altar of Ancient Lake</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 ## The Legend
 - Officially known as **Lei the Great** — a male wizard who ascended to godhood after saving the world.
@@ -8,9 +7,7 @@
 - Every city has a statue. Every temple has a hymn.
 
 ## The Truth
-- His real name was **Simon Greenbottle**. He was a Halfling. A shepherd. Too kind for the world.
 - He collected **six legendary weapons** over 60 years of wandering.
-- He was manipulated by **Lei Firsa** — a woman who pretended to be pregnant with his child to force a marriage.
 - He was sacrificed by **Lei Alejandro** — his own descendant — in 01 AV.
 - He became the **second Valla**. He has held the seal for 700 years.
 - His soul is cracking. The Echoes are the proof.

@@ -7,7 +7,6 @@
 - **Pantai Kocak** — a beach with strange, playful waves.
 - **Karnival Serbuk Sari** — a carnival. Always running. Full of strange performances.
 - **The Allergy of Art** — the main tent. A surrealist performance. **Suspect X** (a bad carpenter) is here.
-- **The House of Mirrors "Reflection of Mortality"** — HVS sees a silhouette of young Shin and the shadow of Zargoyle's horns.
 - **The Red Nose Tavern** — a former clown reveals the true identity of the carnival troupe: elite hunters from Elis in disguise.
 - **The Bha-Kade Circus Tent** — Valerius is visiting. He meets the party here (briefly, politely).
 - **The Silent Docks** — a strange dock where all transactions are done via chalkboards and hand signs. No one speaks. Those who speak are expelled.

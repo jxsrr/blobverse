@@ -46,7 +46,6 @@ The object, 20 kilometers tall, was completely **hollow**.
 
 It was not a living entity. It was a dead skin. A **shed shell** — the cast-off remains of something that had once worn it.
 
-## Guanik Wiseman and the Revelation of the Architect
 
 After that event, **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** was never the same.
 
@@ -54,22 +53,17 @@ Every night, when he closed his eyes, he saw what he had seen through the probe'
 
 But over time, the dream began to change.
 
-The figure in the shell began to **speak** to him. Not with a voice, but by transferring meaning directly into his consciousness. The figure introduced itself as the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Architect</a>** — the creator of Oversee, who now sat as the **<a href="/oversee/lore/The%20Valla">Valla</a>** before the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**.
 
 It explained that it had held back the cosmic hunger alone for a very long time. But its strength was fading. It could no longer hold on by itself. The shell seen in the sky was its **old skin**, shed when it sacrificed itself to become the first seal.
 
 And now, it needed help.
 
-The Architect explained the true nature of the universe to Wiseman:
 - The eternal hunger of the **Overseer**
 - The **<a href="/oversee/lore/The%20Gap">Gap</a>** that hides Ambitio-Ether from that hunger
 - The mechanism of the seal that has kept Oversee safe
 
-It also explained that the seal was **not eternal**. The soul of the Architect, though extraordinarily strong, would eventually burn out. And when that happened, nothing would hold the Overseer back. Oversee would be devoured in an instant — like the magical civilizations before it, except this time there would be nothing left.
 
-But the Architect also offered a solution.
 
-There was a way to **replace** it. A ritual that could transfer the burden of the seal from a dying soul to a new soul that was willing to bear it. And the key to that ritual was the **<a href="/oversee/lore/The%20Gemhearts">Gemheart</a>** — the organs of the Architect's body, separated when it created the world, now scattered across Oversee.
 
 If the Gemhearts could be found and used correctly, the Valla could be replaced without causing destruction.
 
@@ -89,9 +83,7 @@ They were not an evil group in the conventional sense. They were closer to monks
 
 They swore to keep this knowledge secret, to protect the Gemhearts from those who would misuse them, and to ensure the ritual of replacement could be performed safely when the time came.
 
-Wiseman spent the rest of his life under the guidance of the Architect's dreams. Every night, he received new instructions: the locations of the hidden Gemhearts, how to activate them, the details of the ritual. Every day, he led his followers in excavation and research.
 
-But one thing the Architect emphasized in every dream: **it did not want to be worshipped.**
 
 It was not a god, even if its role might seem divine to mortals. It was only a guardian — part of the same world as them. All it wanted was for the small creatures of Oversee to live freely, to enjoy their lives without being shadowed by cosmic terror.
 
@@ -101,17 +93,13 @@ It considered them all part of itself. As children born from its sacrifice.
 
 **~104X BV**
 
-Under the guidance of the Architect's dreams, the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** began the greatest search in their history: the **excavation of the Gemhearts**.
 
-These artifacts — the crystallized organs of the Architect's body — were scattered across the world. Some were buried deep beneath mountains. Some were hidden at the bottom of the sea. Some had perhaps already been found by earlier civilizations, who never realized what they truly were.
 
-Each Gemheart is half of the Architect's heart, filled with crystallized Ambitio-Ether. They pulse in rhythm with the original heart, which still beats before the Overseer. They are the key to the ritual of replacement — and without them, there is no way to transfer the burden of the seal from one soul to another.
 
 The excavation took years, even decades. Each Gemheart was guarded by challenges: ancient riddles, magical traps, or simply locations that were impossible to reach.
 
 But the Cycle Clan worked patiently, silently, without drawing the attention of the great kingdoms that might have wanted the Gemhearts' power for their own purposes.
 
-Unfortunately, a secret this large cannot last forever. In the course of history, knowledge of the Gemhearts would leak, and the ambition of mortals would take over. In a time yet to come, a figure named **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** would seize one of the Gemhearts by force, and use it for a purpose entirely different from the Architect's original intent.
 
 But that is a story for a later age.
 
@@ -121,15 +109,11 @@ But that is a story for a later age.
 
 With the Gemhearts successfully excavated and understood, the **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** began preparing the most important and most terrible ritual in their history: the **<a href="/oversee/lore/The%20Cycle%20Ritual">Ritual of Replacement</a>**.
 
-Its purpose was to replace the "battery" of the metaphysical prison — the soul of the Architect, which had held back the Overseer's hunger for ages — with a new soul willing to continue the task.
 
-The mechanism was designed with extreme care by the members of the Cycle Clan, based on instructions from the Architect itself.
 
 A volunteer would stand at the center of a specially prepared altar. The Gemhearts — which in this age belonged to no individual, and were used only as ritual tools — would be placed in strategic positions to create a **Stasis Field**: a space of mana-vacuum in which no Ambitio-Ether could leak out.
 
-Inside that vacuum, the old Warden — the Architect — would be released from its duty. Its soul would be destroyed instantly: a final sacrifice that ended millennia of struggle.
 
-At that moment, the Overseer's hunger, held back by the Architect's presence, would automatically lunge for the strongest soul available within the ritual circle — the volunteer. That soul would be pulled into the same role, stretched into a new living seal: a new Valla who would hold back the cosmic hunger for generations to come.
 
 The most important thing about the ritual was its **reverence**.
 
@@ -153,9 +137,7 @@ What remained were Elves who were naturally **deaf to Ambitio-Ether**: creatures
 
 They became known as the **Grin Kingdom** — a name that would one day carry a double meaning: *grin* as a smile, and *Grin* as a reminder of the first ancestor who dared to step into a place no mortal had ever imagined.
 
-### Gavaevodata
 
-In the early years of the fragile kingdom, a princess was born: **<a href="/oversee/npcs/Gavaevodata%20Grin">Gavaevodata Grin</a>**.
 
 At one hundred and twenty years old — still very young for an Elf — the restlessness of her ancestors was already planted in her soul. The Grin Kingdom, standing on barren land no one wanted, was only a small dot on the world map: poor, marginalized, and constantly an easy target for stronger neighbors rich in magic.
 
@@ -163,33 +145,25 @@ Her father, **Ozymandias Grin**, was a tired king. Every year, envoys from neigh
 
 The only reason the small kingdom still existed was its hard-to-reach geography and the tenacity of Grin soldiers who fought without magic — relying only on muscle and will.
 
-In the shadow of her father's despair, Gavaevodata grew up. The grey hairs appearing in Ozymandias's blonde hair, the way his back bent a little more each time foreign envoys arrived — these were daily, painful sights.
 
-One night, on a dim balcony, Gavaevodata asked about hope. Ozymandias answered with eyes that had seen too many defeats: **hope is a luxury only those with magic can afford.**
 
-Gavaevodata could not accept that answer.
 
 ### The Manuscript
 
 The greatest discovery in the history of the Grin Kingdom happened by accident.
 
-In an ancient underground library — a remnant from before the civil war — Gavaevodata found a manuscript written in a language long dead. It took her years to translate it, and what she found inside changed everything.
 
-The manuscript spoke of **<a href="/oversee/lore/The%20Gap">The Gap</a>**: the remnants of creation, the failed digestion of the Overseer that never became the Architect. There, in the cracks of reality, dwelled the inhabitants of the dark — creatures who fed on the crumbs of energy that fell from the Valla. Cosmic scavengers, hungry for an offer.
 
 There were no instructions on how to open the door to the Gap, but there was a faint hint written there: **when the walls of the prison thin, when Ambitio-Ether surges somewhere, the crack will open for those who seek it.**
 
-Gavaevodata waited years.
 
 And one night, when a great battle between two neighboring kingdoms created a massive surge of Ambitio-Ether, the ripple of energy reached the barren land of the Grin Kingdom.
 
-In the air, right in front of Gavaevodata, a crack opened — like a tear in the canvas of reality, its edges shimmering in colors she had never seen: deep purple, a black darker than black, and red like frozen blood.
 
 Without telling anyone, she stepped in.
 
 ### The Gap
 
-Inside **<a href="/oversee/lore/The%20Gap">The Gap</a>**, Gavaevodata stood on an endless grey expanse. The sky above was not a sky, but a moving darkness — as if something enormous was watching from behind a curtain.
 
 In the distance, strange structures: towers of bone and alien metal, rivers of slow black liquid, and small glittering particles like diamond dust — crumbs of Ambitio-Ether that leaked from the Valla and fell into this place.
 
@@ -197,91 +171,65 @@ And there she met creatures with skin the color of red clay baked by the sun. So
 
 They were the demon races: **tieflings, imps, and devils** — the native inhabitants of the Gap.
 
-### Zargoth
 
 The largest of them stepped forward, with curling horns like a crown.
 
-His name was **<a href="/oversee/npcs/Zargoth">Zargoth</a>**.
 
-He asked Gavaevodata why she had come, and she answered that she needed power to save her dying kingdom. Zargoth explained that power could be given, but usually at the price of a soul-contract or blood.
 
-Gavaevodata replied that she did not have a soul valuable enough, and could not even use magic — she was deaf to Ambitio-Ether.
 
-Zargoth frowned at that.
 
 He was no ordinary demon. Among the inhabitants of the Gap, he was known as an **observer** — a creature more interested in understanding the outside world than in merely eating the crumbs of energy that fell. For thousands of years he had sat at the edge of the Gap, watching through small cracks, observing human and Elven civilizations rise and fall like the tide.
 
-Gavaevodata was the first creature who had ever dared to enter.
 
-For hours — or perhaps days, because time in the Gap flows like thick honey — they talked. Gavaevodata told him about the Grin Kingdom, about the civil war, about how her people lost magic and became outcasts in their own world.
 
-Zargoth listened in silence, then laughed. He explained that losing magic was not weakness, but a hidden blessing. **Magic, he said, is an invitation to be eaten. A beacon that attracts the Overseer.** Her people were creatures who had survived the universe's natural selection without realizing it.
 
-From Zargoth, Gavaevodata understood the cosmic truth for the first time:
 - The **Overseer**, the hunger that eats Ambitio-Ether
 - The **<a href="/oversee/lore/The%20Rapture">Silent Rapture</a>** that destroys great magical civilizations
 - The truth that the demons of the Gap are scavengers, living on leaked crumbs
 - And that the demons have an interest in keeping the "cage" of the outside world intact — because if the Overseer eats everything, they will starve too
 
-There is no reasonable explanation for why Gavaevodata fell in love with Zargoth.
 
-Perhaps because of her long loneliness. Perhaps because in the demon's eyes she saw the same sadness she saw in her father's — the sadness of creatures trapped in a world that did not want them. Perhaps because Zargoth was the first creature who truly listened to her story without judgment.
 
-Zargoth, for his part, was captivated by the courage of the small woman. He had watched thousands of years of human and Elven history, but had never seen a creature so fragile yet so brave enough to step into the unknown. Gavaevodata had no magic, no weapons, no protection. She had only hope and stubbornness.
 
-In their conversations, Zargoth realized that for the first time in thousands of years, he felt something unfamiliar — something that might be called a desire to protect.
 
 ### The Return
 
-When Gavaevodata finally returned to the Grin Kingdom, she carried no soul-contract, no magical weapon, no powerful spell.
 
 She carried an **engagement**.
 
-Ozymandias Grin nearly fainted. He was furious and desperate to hear that his daughter was engaged to a creature from the Gap. But Gavaevodata answered calmly that the other kingdoms had hated them for a long time. At least now they had an ally.
 
-Though Ozymandias doubted the demon's loyalty, Gavaevodata was certain Zargoth was different. Too tired to argue further, Ozymandias accepted his daughter's decision.
 
 ### The Wedding
 
 The wedding was held in silence and secrecy.
 
-Only a few of the most trusted Grin elders were present, sworn to carry the secret to their graves. Zargoth emerged from the same crack, bringing several of his followers — demons with red skin and horns who stood respectfully at the edge of the room, making the elders tremble, though none of them attacked or tried to take anything.
 
-Zargoth, with his great curling horns like a crown, stood beside Gavaevodata. For the first time, the demon smiled — a strange smile, too wide, but in his eyes there was a tenderness he had never shown anyone.
 
 With vows spoken by a Grin elder, two creatures from different worlds were joined in an unbreakable bond.
 
 ### The Children
 
-From the union of Gavaevodata and Zargoth came the first descendants with mixed Elf and demon blood.
 
 They inherited their father's red skin, but in a subtler shade — red like clay, not bright red. Small horns grew on their heads; some were only small bumps, some began to curl. Their eyes shone yellow in the dark.
 
 But there were two most striking traits of this lineage.
 
-**First: the eternal smile.** All descendants of Gavaevodata and Zargoth are born with a smile that never fades. Not a mocking smile, not a fake smile — a natural smile fixed on their faces, as if they know a great secret no one else does. In grief, they smile. In anger, they smile. In love, they smile. The smile is the inheritance of the demons of the Gap, who always watch the world from a distance with a smile full of mystery.
 
 **Second: deafness to Ambitio-Ether.** Like their mother, these descendants cannot use magic. Not a drop of Ambitio-Ether answers their call. They are entirely non-magical beings — an anomaly in a world full of wonder.
 
 But that is precisely where their strength lies: **they are undetectable by the cosmic hunger of the Overseer.** They are safe from the Silent Rapture that destroys magical civilizations.
 
-Zargoth whispered to his firstborn that they were the true hope — the ones who could survive in a world where the magical are wiped out.
 
 ### The War
 
-News of Gavaevodata's marriage to the red-skinned race eventually leaked.
 
 The neighboring kingdoms reacted with a mixture of fear and fury. They were called race traitors, demon servants, cursed red creatures.
 
 Attacks began to rain down on the Grin Kingdom. At first they were small, but then the neighboring kingdoms allied. The Grin forces, relying only on muscle and nerve, were overwhelmed by enemy wizards. Every day, more soldiers died. Every night, more villages burned.
 
-Twenty-five years after Gavaevodata stepped into the Gap, the Grin Kingdom stood on the edge of ruin. Ozymandias, his hair now entirely white, stood on the palace balcony watching smoke rise from the border villages. Three great kingdoms had united against them. The coalition army would reach the capital in two days.
 
-It was in those final hours that Gavaevodata and Zargoth made an offer that changed everything.
 
-**<a href="/oversee/lore/The%20Gap">The Gap</a>** was not only the home of the demons. In its deeper reaches, where the crumbs of Ambitio-Ether fell more rarely, there were creatures far more hungry — demons more feral than Zargoth and his followers. Hunters who would do anything for a drop of energy.
 
-Gavaevodata explained that if the door of the Gap were opened wider, those creatures would come out, attack the coalition army, and destroy their enemies.
 
 The risk was obvious: once the enemies were destroyed, there was no guarantee that the hungry demons would return.
 
@@ -289,7 +237,6 @@ But there was no other choice. With Ozymandias's approval, the plan was carried 
 
 ### The Night the Door Opened
 
-That night, amid the raging battle outside the capital, Gavaevodata and Zargoth stood at an ancient altar on the highest hill of the Grin Kingdom.
 
 Demon blood, thick and black, mixed with ordinary red Elf blood on the ground.
 

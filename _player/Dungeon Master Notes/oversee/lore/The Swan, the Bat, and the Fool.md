@@ -18,7 +18,6 @@
 - **Niette** — the **wing**. A spear. It strikes. It flies where the hand cannot.
 - **Alnean** — the **breath**. A breathing relic. It survives. It lets the wielder breathe in the Gap, in the void, in the deep.
 - **Purpose:** To **open the Gap**. To allow passage between worlds.
-- **Current holders:** Gustaero — <a href="/oversee/pcs/Husgus">Husgus</a>. Niette — the Tomb of Gavaevodata (Elis Selatan). Alnean — the Kuo Lau King (underwater kingdom).
 
 ## The Bat Trio — The Seal Tools
 - **The Fang** — a **dagger**. It cuts the threads of passage. It severs the connection between worlds.
@@ -37,7 +36,6 @@
 - **The Fool is the walker.** It does not open doors. It does not close them. It **chooses** which door to open and which to close.
 
 ## The Fool and the Tarot
-- The name comes from the **Tarot of the Architect** — the original tarot used in the ritual that created the world.
 - **The Fool** is the first card. It represents **the beginning**, **the journey**, **the walker between worlds**.
 - The Fool Trio is the living embodiment of the Fool card — the one who chooses which door to open and which to close.
 - If the party finds all three, they can use them to **choose the fate of the world** — to open the Gap, to seal it, or to find a third way.
@@ -57,12 +55,9 @@
 
 ## The Six Blades — A Later Invention
 - The "six blades" are **not ancient**. They are a **later invention** — a **corruption** of the old legend.
-- They were forged by the **Klan Lei** — specifically by **Lei Firsa** — to **replace** the old legend. She wanted to erase the Bat and the Fool from history, and to make the Swan look like the only true set.
 - **The six blades are the tools of the Swan — not the Swan itself.** They are the "arrows" the swan carries — the cutting tools that clear the path.
 - The six blades are: Swaith, Rayio, Kkana, Frostfang, Zenahhi, Terrde.
 - **But three of them are not blades at all.** Swaith is a dagger. Kkana is a greatsword. Zenahhi is a longsword. They are the **Fool Trio** — not blades of the Swan.
-- The other three — Rayio (longsword), Frostfang (greataxe), Terrde (longsword) — are the **Bat Trio**, repurposed by Lei Firsa as "blades of the Swan."
-- **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan. She hid the truth. She rewrote the legend.
 - **The royal families have been waiting for someone to expose this lie.** They have been waiting for the party.
 
 ## What the Party Knows
@@ -78,6 +73,4 @@
 - The **Fool Trio** is scattered. Swaith with Shin, Kkana with Mira, Zenahhi in Canyon of Lament.
 - The **Swan and the Bat** are not enemies. They are **rivals** — two sides of the same coin.
 - The **Fool Trio** is the key. Without it, the Swan and the Bat would destroy each other — and the world with them.
-- **Lei Firsa stole the Bat Trio and the Fool Trio** from the royal families and rebranded them as blades of the Swan.
 - The **royal families** have been waiting for someone to expose this lie.
-- The **Fool Trio** is tied to the Tarot of the Architect — the same tarot the party drew from in Session 02.
