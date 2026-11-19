@@ -129,12 +129,12 @@ showToc: false
 </section>
   </div>
   <section id="factions-view" class="bv-dir-group">
-    <div class="bv-dir-group-head"><h2 class="bv-dir-group-title">Factions</h2><span class="bv-dir-group-count">2</span></div>
-    <div class="bv-fac-grid">
-<a class="bv-card-link" href="/oversee/factions/Keeper%20of%20Secret"><div class="bv-emblem-frame"><div class="bv-art-fallback" aria-hidden="true"><span>KO</span></div></div><div class="bv-card-content"><div class="bv-card-title">Keeper of Secret</div><div class="bv-card-sub">Mira Nouveau</div><div class="bv-card-note">What We Know</div></div></a>
-<a class="bv-card-link" href="/oversee/factions/Will%20of%20Grin"><div class="bv-emblem-frame"><div class="bv-art-fallback" aria-hidden="true"><span>WO</span></div></div><div class="bv-card-content"><div class="bv-card-title">Will of Grin</div><div class="bv-card-sub">Hildag Grin The</div><div class="bv-card-note">What We Know</div></div></a>
-    </div>
-  </section>
+<div class="bv-dir-group-head"><h2 class="bv-dir-group-title">Factions</h2><span class="bv-dir-group-count">2</span></div>
+
+- [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
+- [Will of Grin](/oversee/factions/Will%20of%20Grin)
+
+</section>
 </div>
 
 ::/pf
