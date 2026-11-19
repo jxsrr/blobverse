@@ -6,131 +6,161 @@ showToc: false
 ---
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
-<div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · CAMPAIGN CODEX</div><div class="bv-sec-title">Characters & Factions</div><p class="bv-sec-sub">Illustrated character groups and world factions across Oversee.</p></div>
+<div class="bv-sec-hero"><div class="bv-sec-kicker">OVERSEE · CHARACTER & FACTION ARCHIVE</div><div class="bv-sec-title">Oversee — Directory</div><p class="bv-sec-sub">Parties, factions, lineages, and locals across the campaign.</p></div>
 
-<div class="bv-dir-shell">
-  <nav class="bv-dir-switcher" aria-label="Directory View Switcher"><a class="bv-dir-tab is-active" href="#characters-view">CHARACTERS</a><a class="bv-dir-tab" href="#factions-view">FACTIONS</a></nav>
-  <div id="characters-view">
-    <div class="bv-dir-jumpbar"><a class="bv-dir-jump" href="#player-characters-pcs">Player Characters (PCs) (5)</a><a class="bv-dir-jump" href="#keeper-of-secret">Keeper of Secret (4)</a><a class="bv-dir-jump" href="#will-of-grin-present">Will of Grin — Present (4)</a><a class="bv-dir-jump" href="#one-voice-commonwealth-trias">One Voice Commonwealth — Trias (3)</a><a class="bv-dir-jump" href="#local-government">Local Government (2)</a><a class="bv-dir-jump" href="#lei-quadruplet">Lei Quadruplet (4)</a><a class="bv-dir-jump" href="#the-frostscale-clan">The Frostscale Clan (2)</a><a class="bv-dir-jump" href="#lyceum-university">Lyceum University (2)</a><a class="bv-dir-jump" href="#the-initial-six">The Initial Six (5)</a><a class="bv-dir-jump" href="#yawning">Yawning (4)</a><a class="bv-dir-jump" href="#dima">Dima (4)</a><a class="bv-dir-jump" href="#juto">Juto (1)</a><a class="bv-dir-jump" href="#ghuffghuff">Ghuffghuff (6)</a><a class="bv-dir-jump" href="#gudameng">Gudameng (2)</a><a class="bv-dir-jump" href="#nesia">Nesia (3)</a><a class="bv-dir-jump" href="#javan">Javan (2)</a><a class="bv-dir-jump" href="#kuo-lau-people">Kuo Lau People (1)</a><a class="bv-dir-jump" href="#arujaya">Arujaya (5)</a><a class="bv-dir-jump" href="#the-grace">The Grace (1)</a></div>
-<section id="player-characters-pcs" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Player Characters (PCs)</h3><span class="bv-dir-group-count">5</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SV</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-note">Appearance Half-Elf, chronologically over 700 years old.</div></div></a>
-<a class="bv-card-link" href="/oversee/pcs/Husgus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>H</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Husgus</div><div class="bv-card-note">Appearance Halfling.</div></div></a>
-<a class="bv-card-link" href="/oversee/pcs/Zure%20Ama"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>ZA</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Zure Ama</div><div class="bv-card-note">Appearance Man from another world (Aede).</div></div></a>
-<a class="bv-card-link" href="/oversee/pcs/Syl%20Frost"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SF</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Syl Frost</div><div class="bv-card-note">Appearance Dragonborn of Klan Frostscale.</div></div></a>
-<a class="bv-card-link" href="/oversee/pcs/Vya%20Arleschia"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>VA</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Vya Arleschia</div><div class="bv-card-note">Appearance Elf from Elis.</div></div></a>
-</div>
-</section>
-<section id="keeper-of-secret" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Keeper of Secret</h3><span class="bv-dir-group-count">4</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Mira%20Nouveau"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mira Nouveau</div><div class="bv-card-note">Founder of Keeper of Secret, Daughter of Atlan and Reins.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Elara"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>E</span></div></div><div class="bv-card-content"><div class="bv-card-title">Elara</div><div class="bv-card-note">Innkeeper, Karang Tidur.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Reins"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>R</span></div></div><div class="bv-card-content"><div class="bv-card-title">Reins</div><div class="bv-card-note">Ama&#x27;s Lost Friend, Atlan&#x27;s Wife, Mira&#x27;s Mother, The Woman in the Gap.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Agus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>A</span></div></div><div class="bv-card-content"><div class="bv-card-title">Agus</div><div class="bv-card-note">Keeper of Secret Agent (former), Traitor.</div></div></a>
-</div>
-</section>
-<section id="will-of-grin-present" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Will of Grin — Present</h3><span class="bv-dir-group-count">4</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Hildag%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hildag Grin</div><div class="bv-card-note">The Weaver, Wakil Pertahanan at the Time of the Initial Six, Mother of Accarus and Antrem.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Geneva%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Geneva Grin</div><div class="bv-card-note">The Smiling Hand, Co-Leader of Will of Grin, Hildag&#x27;s Experiment.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Antrem%20Klaus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AK</span></div></div><div class="bv-card-content"><div class="bv-card-title">Antrem Klaus</div><div class="bv-card-note">Vya&#x27;s Father, The Simple Twin, The Twin Who Was Lost.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Jarko"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Jarko</div><div class="bv-card-note">Accarus&#x27;s Son, Vya&#x27;s Cousin.</div></div></a>
-</div>
-</section>
-<section id="one-voice-commonwealth-trias" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">One Voice Commonwealth — Trias</h3><span class="bv-dir-group-count">3</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Valerius%20Thorne"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LV</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Valerius Thorne</div><div class="bv-card-note">Kanselir Agung (Chancellor).</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Iron%20Gort"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LI</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Iron Gort</div><div class="bv-card-note">Wakil Pertahanan (Defense), Garda Besi.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Livia%20Vane"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LL</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Livia Vane</div><div class="bv-card-note">Wakil Keadilan (Justice), Garda Mawar.</div></div></a>
-</div>
-</section>
-<section id="local-government" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Local Government</h3><span class="bv-dir-group-count">2</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Hanzel%20Lei%20Krow"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HL</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hanzel Lei Krow</div><div class="bv-card-note">Governor of West Harka.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Grolnok"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Grolnok</div><div class="bv-card-note">King of Greyland Castle, Goblin Leader.</div></div></a>
-</div>
-</section>
-<section id="lei-quadruplet" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Lei Quadruplet</h3><span class="bv-dir-group-count">4</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Firage"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Firage</div><div class="bv-card-note">Founder of the Lei Firage Branch.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Roiga"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LR</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Roiga</div><div class="bv-card-note">Founder of the Lei Roiga Branch.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Wendigo"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Wendigo</div><div class="bv-card-note">Founder of the Lei Wendigo Branch.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Lei%20Watigi"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Watigi</div><div class="bv-card-note">The Water Heir of Klan Lei, Syl&#x27;s Biological Father, The Man Who Raped Vythrax.</div></div></a>
-</div>
-</section>
-<section id="the-frostscale-clan" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">The Frostscale Clan</h3><span class="bv-dir-group-count">2</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Elder%20Jarl"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>EJ</span></div></div><div class="bv-card-content"><div class="bv-card-title">Elder Jarl</div><div class="bv-card-note">Leader of the Council of Elders, Klan Frostscale.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Vythrax"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>V</span></div></div><div class="bv-card-content"><div class="bv-card-title">Vythrax</div><div class="bv-card-note">Silver Dragon, The Silver Wind, Deity of Klan Frostscale, Syl&#x27;s Mother.</div></div></a>
-</div>
-</section>
-<section id="lyceum-university" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Lyceum University</h3><span class="bv-dir-group-count">2</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Professor%20Alistair%20Donta"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PA</span></div></div><div class="bv-card-content"><div class="bv-card-title">Professor Alistair Donta</div><div class="bv-card-note">Oldest Priest of Oversee, Rector of Lyceum University.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Professor%20Howdy"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PH</span></div></div><div class="bv-card-content"><div class="bv-card-title">Professor Howdy</div><div class="bv-card-note">Gemheart Researcher.</div></div></a>
-</div>
-</section>
-<section id="the-initial-six" class="bv-dir-group">
-<div class="bv-dir-group-head"><h3 class="bv-dir-group-title">The Initial Six</h3><span class="bv-dir-group-count">5</span></div>
-<div class="bv-atlas-shell bv-in6-atlas"><span class="bv-atlas-corner bv-c-tl" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-tr" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-bl" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-br" aria-hidden="true"></span><div class="bv-atlas-viewport"><div class="bv-atlas-stage"><img src="/oversee/factions/IN6.jpg" alt="Portrait of The Initial Six" loading="lazy" /><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Atlan%20Nouveau" style="--x:81.7%;--y:58.61%;left:81.7%;top:58.61%;" aria-label="Atlan Nouveau (The Initial Six · The Oceanographer)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Oceanographer</span><strong class="bv-pin-title">Atlan Nouveau</strong><span class="bv-pin-desc">Oceanographer of the Initial Six and Mira Nouveau's father.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Atreus%20Grin" style="--x:29.63%;--y:73.01%;left:29.63%;top:73.01%;" aria-label="Atreus Grin (The Initial Six · The Druid · Heir of Grin)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Druid · Heir of Grin</span><strong class="bv-pin-title">Atreus Grin</strong><span class="bv-pin-desc">Druid of the Initial Six and the Smiling Heir of Kerajaan Grin.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Gzirmo%20Kopling" style="--x:83.06%;--y:35.8%;left:83.06%;top:35.8%;" aria-label="Gzirmo Kopling (The Initial Six · The Dragonborn Tinker)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Dragonborn Tinker</span><strong class="bv-pin-title">Gzirmo Kopling</strong><span class="bv-pin-desc">Tinker of the Initial Six whose lingering Echo powers the reactor.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Olaf%20Guirela" style="--x:15.8%;--y:51.35%;left:15.8%;top:51.35%;" aria-label="Olaf Guirela (The Initial Six · The Ranger)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Ranger</span><strong class="bv-pin-title">Olaf Guirela</strong><span class="bv-pin-desc">Ranger of the Initial Six and mentor to Gordon.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Sam%20Hurls" style="--x:57.38%;--y:57.46%;left:57.38%;top:57.46%;" aria-label="Sam Hurls (The Initial Six · The Bard · Many-Headed Echo)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Bard · Many-Headed Echo</span><strong class="bv-pin-title">Sam Hurls</strong><span class="bv-pin-desc">Bard of the Initial Six whose echo lingered in Ghuffghuff.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a></div></div></div>
-</section>
-<section id="yawning" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Yawning</h3><span class="bv-dir-group-count">4</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Grilnax"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Grilnax</div><div class="bv-card-note">Goblin Guild Clerk.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Samual"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Samual</div><div class="bv-card-note">Bartender, The Tipsy Trident.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Mr.%20Poise"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MP</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mr. Poise</div><div class="bv-card-note">Rhino Wagon Driver.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Senta"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Senta</div><div class="bv-card-note">General Store Owner.</div></div></a>
-</div>
-</section>
-<section id="dima" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Dima</h3><span class="bv-dir-group-count">4</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Guanik%20Dontol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GD</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Dontol</div><div class="bv-card-note">Guanik&#x27;s Eldest Son, Missing Survivor.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Guanik%20Huan"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GH</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Huan</div><div class="bv-card-note">Guanik&#x27;s Son, Shell Collector.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Guanik%20Nila"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Nila</div><div class="bv-card-note">Guanik&#x27;s Daughter, Shell Collector.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Janja"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Janja</div><div class="bv-card-note">Guanik&#x27;s Wife, Dima Island.</div></div></a>
-</div>
-</section>
-<section id="juto" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Juto</h3><span class="bv-dir-group-count">1</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Pops%20Tortle"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PT</span></div></div><div class="bv-card-content"><div class="bv-card-title">Pops Tortle</div><div class="bv-card-note">Diving Shop Owner, Atlan&#x27;s Old Friend.</div></div></a>
-</div>
-</section>
-<section id="ghuffghuff" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Ghuffghuff</h3><span class="bv-dir-group-count">6</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Gordon"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Gordon</div><div class="bv-card-note">Husgus&#x27;s Mentor, The Peacebringer of Harka.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Yahanda"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>Y</span></div></div><div class="bv-card-content"><div class="bv-card-title">Yahanda</div><div class="bv-card-note">Priest, traveling companion.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Faska%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>FM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Faska Mektol</div><div class="bv-card-note">Farmer, Mektol Family Mother.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Herman%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Herman Mektol</div><div class="bv-card-note">Farmer, Mektol Family Father.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Bud-eg"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>BE</span></div></div><div class="bv-card-content"><div class="bv-card-title">Bud-eg</div><div class="bv-card-note">Deaf Old Man, Hermit of Domido.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Mrs.%20Mamat"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mrs. Mamat</div><div class="bv-card-note">Warung Owner, Ghuffghuff.</div></div></a>
-</div>
-</section>
-<section id="gudameng" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Gudameng</h3><span class="bv-dir-group-count">2</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Memeng"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>M</span></div></div><div class="bv-card-content"><div class="bv-card-title">Memeng</div><div class="bv-card-note">Cook, Ghuffghuff.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Cindy%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>CM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Cindy Mektol</div><div class="bv-card-note">Survivor, Guardian of the Legendary Noodle Temple.</div></div></a>
-</div>
-</section>
-<section id="nesia" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Nesia</h3><span class="bv-dir-group-count">3</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Joni"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Joni</div><div class="bv-card-note">Innkeeper, The Golden Sheaf.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Siti"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Siti</div><div class="bv-card-note">Innkeeper, The Golden Sheaf.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Hora"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>H</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hora</div><div class="bv-card-note">Rhino Stable Owner, Nesia Town.</div></div></a>
-</div>
-</section>
-<section id="javan" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Javan</h3><span class="bv-dir-group-count">2</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Dora"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>D</span></div></div><div class="bv-card-content"><div class="bv-card-title">Dora</div><div class="bv-card-note">Rhino Stable Owner, Dora&#x27;s Rhino Stable.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Mr.%20Andreas"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MA</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mr. Andreas</div><div class="bv-card-note">Blacksmith, Baja Hitam.</div></div></a>
-</div>
-</section>
-<section id="kuo-lau-people" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Kuo Lau People</h3><span class="bv-dir-group-count">1</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Babibubebo"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>B</span></div></div><div class="bv-card-content"><div class="bv-card-title">Babibubebo</div><div class="bv-card-note">Hunger Fish-Man, Kuil Lautan, Lost Kuo Lau Prince.</div></div></a>
-</div>
-</section>
-<section id="arujaya" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">Arujaya</h3><span class="bv-dir-group-count">5</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/npcs/Besik%20Findias"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>BF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Besik Findias</div><div class="bv-card-note">Keeper of the Mnemonic Archive, Arujaya.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Dr.%20Vektor"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>DV</span></div></div><div class="bv-card-content"><div class="bv-card-title">Dr. Vektor</div><div class="bv-card-note">Cybernetic Surgeon, Arujaya.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Adam%20Findias"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Adam Findias</div><div class="bv-card-note">Arujaya Local, Guide.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Fidale"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>F</span></div></div><div class="bv-card-content"><div class="bv-card-title">Fidale</div><div class="bv-card-note">Gatekeeper, The Depths, Arujaya.</div></div></a>
-<a class="bv-card-link" href="/oversee/npcs/Kristine"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>K</span></div></div><div class="bv-card-content"><div class="bv-card-title">Kristine</div><div class="bv-card-note">Dr.</div></div></a>
-</div>
-</section>
-<section id="the-grace" class="bv-dir-group"><div class="bv-dir-group-head"><h3 class="bv-dir-group-title">The Grace</h3><span class="bv-dir-group-count">1</span></div><div class="bv-char-grid">
-<a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SV</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-note">Appearance Half-Elf, chronologically over 700 years old.</div></div></a>
-</div>
-</section>
-  </div>
-  <section id="factions-view" class="bv-dir-group">
-<div class="bv-dir-group-head"><h2 class="bv-dir-group-title">Factions</h2><span class="bv-dir-group-count">2</span></div>
+## The Five Sticks
 
-- [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
-- [Will of Grin](/oversee/factions/Will%20of%20Grin)
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SV</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/pcs/Husgus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>H</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Husgus</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/pcs/Zure%20Ama"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>ZA</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Zure Ama</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/pcs/Syl%20Frost"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SF</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Syl Frost</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/pcs/Vya%20Arleschia"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>VA</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Vya Arleschia</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
 
-</section>
+## [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Mira%20Nouveau"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mira Nouveau</div><div class="bv-card-note">Founder of Keeper of Secret and daughter of Atlan and Reins.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Elara"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>E</span></div></div><div class="bv-card-content"><div class="bv-card-title">Elara</div><div class="bv-card-note">Innkeeper at Karang Tidur and a suspicious figure.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Reins"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>R</span></div></div><div class="bv-card-content"><div class="bv-card-title">Reins</div><div class="bv-card-note">The Woman in the Gap and an ally of the Keeper of Secret.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Agus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>A</span></div></div><div class="bv-card-content"><div class="bv-card-title">Agus</div><div class="bv-card-note">Former Keeper of Secret agent and traitor.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Will of Grin](/oversee/factions/Will%20of%20Grin)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Hildag%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hildag Grin</div><div class="bv-card-note">The Weaver, Wakil Pertahanan at the time of the Initial Six, and mother of Accarus and Antrem.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Geneva%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Geneva Grin</div><div class="bv-card-note">The Smiling Hand, co-leader of Will of Grin, and Hildag’s experiment.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Antrem%20Klaus"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AK</span></div></div><div class="bv-card-content"><div class="bv-card-title">Antrem Klaus</div><div class="bv-card-note">Vya’s father, the Simple Twin, and the Twin Who Was Lost.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Jarko"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Jarko</div><div class="bv-card-note">Accarus’s son and Vya’s cousin.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## One Voice Commonwealth — Trias
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Valerius%20Thorne"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LV</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Valerius Thorne</div><div class="bv-card-note">Kanselir Agung (Chancellor) of the Commonwealth.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Iron%20Gort"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LI</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Iron Gort</div><div class="bv-card-note">Wakil Pertahanan (Defense) of the Commonwealth and Garda Besi.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Livia%20Vane"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LL</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Livia Vane</div><div class="bv-card-note">Wakil Keadilan (Justice) of the Commonwealth and Garda Mawar.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## Local Government
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Hanzel%20Lei%20Krow"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HL</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hanzel Lei Krow</div><div class="bv-card-note">Governor of West Harka.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Grolnok"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Grolnok</div><div class="bv-card-note">King of Greyland Castle and a Goblin leader.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## Lei Quadruplet
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Firage"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Firage</div><div class="bv-card-note">Founder of the Lei Firage Branch.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Roiga"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LR</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Roiga</div><div class="bv-card-note">Founder of the Lei Roiga Branch.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Wendigo"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Wendigo</div><div class="bv-card-note">Founder of the Lei Wendigo Branch.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Lei%20Watigi"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-content"><div class="bv-card-title">Lei Watigi</div><div class="bv-card-note">Water Heir of Klan Lei and Syl’s biological father.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## The Frostscale Clan
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Elder%20Jarl"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>EJ</span></div></div><div class="bv-card-content"><div class="bv-card-title">Elder Jarl</div><div class="bv-card-note">Leader of the Council of Elders of Klan Frostscale.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Vythrax"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>V</span></div></div><div class="bv-card-content"><div class="bv-card-title">Vythrax</div><div class="bv-card-note">Silver Dragon, the Silver Wind, deity of Klan Frostscale, and Syl’s mother.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Lyceum University](/oversee/locations/Lyceum%20University%20of%20Arcane%20Arts)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Professor%20Alistair%20Donta"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PA</span></div></div><div class="bv-card-content"><div class="bv-card-title">Professor Alistair Donta</div><div class="bv-card-note">Oldest Priest of Oversee and Rector of Lyceum University.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Professor%20Howdy"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PH</span></div></div><div class="bv-card-content"><div class="bv-card-title">Professor Howdy</div><div class="bv-card-note">Gemheart researcher at Lyceum University.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [The Initial Six](/oversee/lore/The%20Initial%20Six)
+
+<div class="bv-atlas-shell bv-in6-atlas"><span class="bv-atlas-corner bv-c-tl" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-tr" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-bl" aria-hidden="true"></span><span class="bv-atlas-corner bv-c-br" aria-hidden="true"></span><div class="bv-atlas-viewport"><div class="bv-atlas-stage"><img src="/oversee/factions/IN6.jpg" alt="Portrait of The Initial Six" loading="lazy" /><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Atlan%20Nouveau" style="--x:81.7%;--y:58.61%;left:81.7%;top:58.61%;" aria-label="Atlan Nouveau (The Oceanographer)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Oceanographer</span><strong class="bv-pin-title">Atlan Nouveau</strong><span class="bv-pin-desc">Oceanographer of the Initial Six and Mira Nouveau's father.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Atreus%20Grin" style="--x:29.63%;--y:73.01%;left:29.63%;top:73.01%;" aria-label="Atreus Grin (The Druid · Heir of Grin)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Druid · Heir of Grin</span><strong class="bv-pin-title">Atreus Grin</strong><span class="bv-pin-desc">Druid of the Initial Six and the Smiling Heir of Kerajaan Grin.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Gzirmo%20Kopling" style="--x:83.06%;--y:35.8%;left:83.06%;top:35.8%;" aria-label="Gzirmo Kopling (The Dragonborn Tinker)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Dragonborn Tinker</span><strong class="bv-pin-title">Gzirmo Kopling</strong><span class="bv-pin-desc">Tinker of the Initial Six whose lingering Echo powers the reactor.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Olaf%20Guirela" style="--x:15.8%;--y:51.35%;left:15.8%;top:51.35%;" aria-label="Olaf Guirela (The Ranger)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Ranger</span><strong class="bv-pin-title">Olaf Guirela</strong><span class="bv-pin-desc">Ranger of the Initial Six and mentor to Gordon.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a><a class="bv-pin bv-in6-pin" href="/oversee/npcs/Sam%20Hurls" style="--x:57.38%;--y:57.46%;left:57.38%;top:57.46%;" aria-label="Sam Hurls (The Bard · Many-Headed Echo)"><span class="bv-pin-marker" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/></svg></span><span class="bv-pin-card" role="tooltip"><span class="bv-pin-meta">The Initial Six · The Bard · Many-Headed Echo</span><strong class="bv-pin-title">Sam Hurls</strong><span class="bv-pin-desc">Bard of the Initial Six whose echo lingered in Ghuffghuff.</span><span class="bv-pin-cta">Open Character Dossier →</span></span></a></div></div></div>
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Atlan%20Nouveau"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Atlan Nouveau</div><div class="bv-card-note">Oceanographer of the Initial Six and Mira’s father.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Atreus%20Grin"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Atreus Grin</div><div class="bv-card-note">Druid of the Initial Six and the Smiling Heir of Kerajaan Grin.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Gzirmo%20Kopling"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GK</span></div></div><div class="bv-card-content"><div class="bv-card-title">Gzirmo Kopling</div><div class="bv-card-note">Dragonborn Tinker of the Initial Six and Echo of the Reactor.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Olaf%20Guirela"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>OG</span></div></div><div class="bv-card-content"><div class="bv-card-title">Olaf Guirela</div><div class="bv-card-note">Ranger of the Initial Six and Gordon’s teacher.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Sam%20Hurls"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SH</span></div></div><div class="bv-card-content"><div class="bv-card-title">Sam Hurls</div><div class="bv-card-note">Bard of the Initial Six and the Many-Headed Echo.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Yawning](/oversee/locations/Yawning%20Town)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Grilnax"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Grilnax</div><div class="bv-card-note">Goblin guild clerk.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Samual"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Samual</div><div class="bv-card-note">Bartender at The Tipsy Trident.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Mr.%20Poise"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MP</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mr. Poise</div><div class="bv-card-note">Rhino wagon driver.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Senta"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Senta</div><div class="bv-card-note">General store owner.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Dima](/oversee/locations/Dima%20Island)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Guanik%20Dontol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GD</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Dontol</div><div class="bv-card-note">Guanik’s eldest son and a missing survivor.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Guanik%20Huan"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GH</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Huan</div><div class="bv-card-note">Guanik’s son and a shell collector.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Guanik%20Nila"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>GN</span></div></div><div class="bv-card-content"><div class="bv-card-title">Guanik Nila</div><div class="bv-card-note">Guanik’s daughter and a shell collector.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Janja"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Janja</div><div class="bv-card-note">Guanik’s wife.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Juto](/oversee/locations/Juto%20Port%20City)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Pops%20Tortle"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>PT</span></div></div><div class="bv-card-content"><div class="bv-card-title">Pops Tortle</div><div class="bv-card-note">Diving shop owner and Atlan’s old friend.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Ghuffghuff](/oversee/locations/Ghuffghuff%20Town)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Gordon"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>G</span></div></div><div class="bv-card-content"><div class="bv-card-title">Gordon</div><div class="bv-card-note">Husgus’s mentor and the Peacebringer of Harka.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Yahanda"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>Y</span></div></div><div class="bv-card-content"><div class="bv-card-title">Yahanda</div><div class="bv-card-note">Priest and traveling companion.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Faska%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>FM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Faska Mektol</div><div class="bv-card-note">Farmer and Mektol family mother.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Herman%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>HM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Herman Mektol</div><div class="bv-card-note">Farmer and Mektol family father.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Bud-eg"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>BE</span></div></div><div class="bv-card-content"><div class="bv-card-title">Bud-eg</div><div class="bv-card-note">Deaf old man and hermit of Domido.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Mrs.%20Mamat"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mrs. Mamat</div><div class="bv-card-note">Warung owner.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Gudameng](/oversee/locations/Gudameng%20Town)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Memeng"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>M</span></div></div><div class="bv-card-content"><div class="bv-card-title">Memeng</div><div class="bv-card-note">Cook.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Cindy%20Mektol"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>CM</span></div></div><div class="bv-card-content"><div class="bv-card-title">Cindy Mektol</div><div class="bv-card-note">Survivor and Guardian of the Legendary Noodle Temple.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Nesia](/oversee/locations/Nesia%20Town)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Joni"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>J</span></div></div><div class="bv-card-content"><div class="bv-card-title">Joni</div><div class="bv-card-note">Innkeeper at The Golden Sheaf.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Siti"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>S</span></div></div><div class="bv-card-content"><div class="bv-card-title">Siti</div><div class="bv-card-note">Innkeeper at The Golden Sheaf.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Hora"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>H</span></div></div><div class="bv-card-content"><div class="bv-card-title">Hora</div><div class="bv-card-note">Rhino stable owner.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Javan](/oversee/locations/Javan%20Town)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Dora"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>D</span></div></div><div class="bv-card-content"><div class="bv-card-title">Dora</div><div class="bv-card-note">Rhino stable owner at Dora’s Rhino Stable.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Mr.%20Andreas"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>MA</span></div></div><div class="bv-card-content"><div class="bv-card-title">Mr. Andreas</div><div class="bv-card-note">Blacksmith at Baja Hitam.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## Kuo Lau People
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Babibubebo"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>B</span></div></div><div class="bv-card-content"><div class="bv-card-title">Babibubebo</div><div class="bv-card-note">Hunger Fish-Man of Kuil Lautan and lost Kuo Lau prince.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## [Arujaya](/oversee/locations/Arujaya%20Metropolis)
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/npcs/Besik%20Findias"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>BF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Besik Findias</div><div class="bv-card-note">Keeper of the Mnemonic Archive in Arujaya.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Dr.%20Vektor"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>DV</span></div></div><div class="bv-card-content"><div class="bv-card-title">Dr. Vektor</div><div class="bv-card-note">Cybernetic surgeon in Arujaya.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Adam%20Findias"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>AF</span></div></div><div class="bv-card-content"><div class="bv-card-title">Adam Findias</div><div class="bv-card-note">Arujaya local and guide.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Fidale"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>F</span></div></div><div class="bv-card-content"><div class="bv-card-title">Fidale</div><div class="bv-card-note">Gatekeeper of The Depths.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+<a class="bv-card-link" href="/oversee/npcs/Kristine"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>K</span></div></div><div class="bv-card-content"><div class="bv-card-title">Kristine</div><div class="bv-card-note">Dr. Vektor’s daughter, preserved in stasis.</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
+</div>
+
+## The Grace
+
+<div class="bv-grid-3x3">
+<a class="bv-card-link" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-portrait-frame"><div class="bv-art-fallback" aria-hidden="true"><span>SV</span></div><span class="bv-pc-pin">PC</span></div><div class="bv-card-content"><div class="bv-card-title">Shin Van Hel</div><div class="bv-card-sub">Open Character Dossier →</div></div></a>
 </div>
