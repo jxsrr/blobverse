@@ -21,9 +21,11 @@ They were not gods. They were not creators. They were not even, strictly speakin
 
 **The Overseer** — the Mouth of Hunger.
 
+**The Architect** — the Hand of Making.
 
 ## The Overseer
 
+The **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>** is not a god. It does not create. It does not nurture. It does not protect.
 
 It **eats**.
 
@@ -33,10 +35,13 @@ When the Overseer turns its attention to a civilization, that civilization **end
 
 The Overseer does not hate. It does not judge. It simply **eats**.
 
+## The Architect
 
+The **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Architect</a>** was born from what the Overseer left behind.
 
 When the Overseer consumes, it does not consume perfectly. Fragments remain — matter that was partially digested, energy that was never fully absorbed. These fragments, drifting in the void for eons, **crystallized**. They became aware.
 
+The Architect is **preservation**. Where the Overseer eats, the Architect builds. Where the Overseer destroys, the Architect **remembers**. It is not good in the moral sense. It is not kind. It simply **refuses to let everything end**.
 
 It made a decision — one that would shape all of reality — to sacrifice part of itself. It would create a place where mortal life could exist. A place where the Overseer's hunger could be **filtered**, **slowed**, **survived**.
 
@@ -54,11 +59,13 @@ Its attention is **annihilation**.
 
 ### The Second Layer — The Gap
 
+Below the Overseer, but still far beyond the mortal world, lies **<a href="/oversee/lore/The%20Gap">The Gap</a>** — a dimension of failed creation. It is made of the **leftover matter** of the Overseer's digestion — fragments that were partially consumed but never fully became the Architect.
 
 The Gap is **chaos**. It is neither fully real nor fully unreal. It is the space between what was eaten and what was made.
 
 Within the Gap live the **devils and demons** — the red-skinned races, the tieflings, the imps. They are not evil in the way mortals understand evil. They are **scavengers**. They eat the crumbs of <a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a> that leak from Oversee. They need Oversee to survive. If the Overseer ever consumes everything, the demons will starve too.
 
+One of them — **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — is more than a scavenger. He fell in love with an elf princess. He fathered the **<a href="/oversee/lore/The%20Grin%20Curse">Grin bloodline</a>**. He is the reason the Grin exist — the reason they smile, the reason they are magic-deaf, the reason they can survive the Rapture.
 
 ### The Third Layer — The Blue Sky
 
@@ -94,7 +101,9 @@ The sky is not a roof. It is a **shield**.
 
 The gods are not watching. The **Overseer** is.
 
+But so is the **Architect** — the one who built the shield, who made the refuge, who **refused to let everything end**.
 
+And the mortals of Oversee — the Inbu, the Lei, the Grin, the farmers, the wizards, the heroes — they are the **reason** the Architect built it all.
 
 They are the **reason** the shield holds.
 

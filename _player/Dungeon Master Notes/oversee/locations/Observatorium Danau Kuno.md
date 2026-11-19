@@ -12,6 +12,7 @@ aliases:
 
 ## What Matters Here
 - Built by **<a href="/oversee/npcs/Guanik%20Wiseman">Guanik Wiseman</a>** around **1040 BV** on the shores of **Ancient Lake** — the crater lake formed by a fragment of the Shell.
+- The site where Wiseman first observed **<a href="/oversee/lore/The%20Shell">The Shell</a>** descending in the sky, received his vision from **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">The Architect</a>**, and founded **<a href="/oversee/lore/The%20Cycle%20Clan">The Cycle Clan</a>**.
 - The modern campus of **<a href="/oversee/locations/Tarakita%20University%20of%20Heroism">Universitas Tarakita</a>** was later constructed atop its grounds.
 
 ## What the Party Knows

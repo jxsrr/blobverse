@@ -11,6 +11,7 @@ aliases:
 
 ## What Matters Here
 - Beautiful tropical island. White sand. Coconut trees.
+- **<a href="/oversee/npcs/Guanik%20Smith">Guanik</a>'s family home** — gnome-style architecture, warm yellow windows.
 - The party was given a guesthouse here.
 - **Huan and Nila's sub-mission** — recovering their shell collection from a "giant crab monster" (a kobold in disguise).
 

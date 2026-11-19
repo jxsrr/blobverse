@@ -26,6 +26,7 @@ A **bow**.
 
 A longbow with pale wood, almost transparent. Its curve was perfect. Its string was invisible — like air compressed into a line. The bow was neither wet nor dry, and it was **warm to the touch**.
 
+Gunnar did not know that this bow was **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero</a>** — one of the six legendary weapons once collected by **<a href="/oversee/npcs/Simon%20Greenbottle">Simon Greenbottle</a>**. He did not know that the bow had been thrown into the sea by **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>**, the mother of **<a href="/Klan%20Lei">Klan Lei</a>**, to erase every trace of Simon from the world.
 
 He only knew the bow was special. And he had to keep it safe.
 
@@ -43,6 +44,7 @@ Olaf never forgot those words. He grew up. He learned to sail. He learned to sho
 
 Years later, when **Simon's** strength as the Valla began to fade, **six of the finest heroes in the world were gathered**.
 
+They were led by **<a href="/oversee/npcs/Lei%20Alejandro">Lei Alejandro</a>** — a direct descendant of **<a href="/oversee/npcs/Lei%20Firsa">Lei Firsa</a>** from the **Lei Wendigo** line. He inherited unparalleled **pure wind magic** and **<a href="/oversee/items/Emelanica">Emelanica</a>** — the green time stone pulsing in his chest. His white hair and beard were immaculate, giving him an aura of wisdom. His green and gold robes symbolized the pride of his bloodline. But his calm eyes hid a wound that never healed.
 
 At the height of his power, Alejandro made a journey to a remote region and, by accident, entered the territory of the **Goblin Kingdom**.
 
@@ -98,6 +100,7 @@ Atlan built a swing beneath the Observatorium, taught Mira the names of stars an
 
 Contrary to common misunderstanding, the Grin Kingdom was not inhabited by a single race with a particular skin color. Humans, elves, dwarves, halflings, and many other races lived side by side — united not by blood or lineage, but by the same curse: **the eternal smile carved into their faces from birth**.
 
+The smile did not choose race. It did not choose skin color. It did not choose status. It was the inheritance of the tragic pact between **<a href="/Gavaevodata">Gavaevodata</a>** — the elf princess who dared to love a demon — and **<a href="/oversee/npcs/Zargoth">Zargoth</a>** — the demon of the Gap who dared to love her back.
 
 Atreus himself was a small-bodied elf with pale gray skin — a common color among Grin elves of the barren lands, but not all Grin had it. There were Grin with the brown skin of desert-human lineage, Grin with the pale white skin of mountain dwarves, even Grin with the greenish tint of half-orcs who had joined their kingdom. But one thing united them all: **a wide smile that never faded, no matter what they felt.**
 
@@ -191,6 +194,7 @@ He kept the bow carefully. And sometimes he sang the melody Sam had taught him �
 
 The ritual could not use the **<a href="/oversee/lore/The%20Gemhearts">Gemhearts</a>**.
 
+**<a href="/oversee/items/Emelanica">Emelanica</a>** had been given to the Goblin Kingdom, following the dying wish of **<a href="/Ratu%20Ghaniba">Ratu Ghaniba</a>**. **<a href="/oversee/items/Safayer">Safayer</a>** was hidden in the belly of **<a href="/oversee/npcs/Vythrax">Vythrax</a>** — the silver dragon poisoned by the stone. **<a href="/oversee/items/Rubion">Rubion</a>** had been given to the first descendant of **Lei Firage** in Rioquan. **<a href="/oversee/items/Topaju">Topaju</a>** — the yellow stone that anchored the world — had never been found since the last **Lei Roiga** held it.
 
 Alejandro had only the remnants of knowledge from ancient **<a href="/oversee/lore/The%20Cycle%20Clan">Cycle Clan</a>** manuscripts and the pure wind magic flowing in his blood. But he was the strongest wizard of his generation, and he believed that was enough.
 
@@ -208,6 +212,7 @@ The **six heroes** gathered at the prepared altar.
 
 **<a href="/oversee/npcs/Olaf%20Guirela">Olaf Guirela</a>** — the old half-orc with the bow on his back — stood with an alertness that never faded, though age had long since claimed him.
 
+They believed this ritual was meant to summon a new Valla — to find a soul willing to replace **<a href="/oversee/npcs/Simon%20Greenbottle">Simon</a>**. Lei Alejandro had explained that this was the only way to save the world from the hunger of the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>**. No one doubted the words of a descendant of **<a href="/Klan%20Lei">Klan Lei</a>** — a respected hero, a man who had lost his wife and child in tragic circumstances.
 
 **The ritual began.**
 
@@ -299,6 +304,7 @@ The ritual at the ancient altar ended — but not as **Lei Alejandro** imagined.
 
 Without **<a href="/oversee/items/Safayer">Safayer</a>** — the blue soul-purifying stone hidden in the belly of **<a href="/oversee/npcs/Vythrax">Vythrax</a>** — the purification of the five companions' souls was **imperfect**.
 
+Without **<a href="/oversee/items/Emelanica">Emelanica</a>**, which he had given to the Goblin Kingdom, without **<a href="/oversee/items/Rubion">Rubion</a>**, given to the first descendant of **Lei Firage** in Rioquan, without **<a href="/oversee/items/Topaju">Topaju</a>**, whose location was never known — Alejandro relied only on his pure wind magic and the remnants of knowledge from worn manuscripts.
 
 He succeeded in sending the souls of **Atreus**, **Sam**, **Gzirmo**, **Atlan**, and **Olaf** to Simon. But he **failed to erase the traces of their humanity**.
 

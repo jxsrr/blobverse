@@ -1,5 +1,6 @@
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
+<div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · WORLD LORE ARCHIVE</div><div class="bv-world-title">The Overseer & The Architect</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Oversee Lore</div></div></div></div>
 
 > [!info] The Two Primordial Entities
 > Before the world, there were two. One hungers. One builds.
@@ -11,15 +12,19 @@
 - Its attention means annihilation. Civilizations that shine too brightly attract it.
 - It is always there, at the edge of reality. Always hungry.
 
+## The Architect
 - Born from the **leftovers** of the Overseer's consumption.
 - Matter that was partially eaten but not fully absorbed crystallized into consciousness.
+- Where the Overseer consumes, the Architect **preserves and builds**.
 - It sacrificed part of itself to create the world of **Oversee** — a dimension hidden behind a barrier called **The Gap**.
 - It then went to face the Overseer directly, becoming the first **Valla** — a living seal.
 
 ## The Gemhearts
+- When the Architect split itself to create the world, its vital organs crystallized into four stones:
   - **Emelanica** (green) — time and mana flow
   - **Safayer** (blue) — purification of souls and memories
   - **Rubion** (red) — instant annihilation, severing soul from body
+  - **Topaju** (yellow) — structure, foundation, stability
 - These are not gems. They are **organs** of a god.
 - Together, they form the seal that protects the world.
 

@@ -26,11 +26,19 @@
 - **A barbed devil** — a creature from the Gap, a predator with bone spikes and burning eyes — led the assault.
 - Shin, Edra, Crest, and Wati fought it together. They were **defeated**. The barbed devil was too strong.
 - And then **something happened**.
+- **Shin's body changed.** Something rose from behind him — not a creature, not a spell, but a **presence** — a shadow of something ancient and terrible. It was **Zargoth** — the father of the Grin, the demon who loved Gavaevodata, the fragment that had been sleeping inside Shin since he was created.
+- Zargoth did not take control. He **helped**. He fought beside his family — beside Shin's family. He protected them.
+- But the barbed devil was not alone. It called its master — **Zargoyle** — the predator, the servant of the Overseer, the monster who would one day destroy everything.
+- Zargoyle came.
+- And when Zargoyle **choked Shin** — when his claws closed around Shin's throat — Shin's body **froze**. A dome of ice erupted from him — not a spell, not a curse, but a **reaction** — a desperate, instinctive burst of power that froze everything around him.
+- When the ice melted, **Wati was dead**. **Edra was dying**. **Crest was dying**. The barbed devil was gone. Zargoyle was gone.
+- And Shin was **still alive** — holding both Zargoth and Zargoyle inside him, though he did not know it.
 - **He remembers only white. And the screams of his siblings.**
 
 ## What Shin Knows
 - He was found by The Grace. He was raised by Helius. He was loved by Edra and Crest.
 - He does not remember what happened during the fall. He remembers only white, and screaming, and then falling back into slumber before waking again in **700 AV**.
 - He believes he destroyed The Grace. He believes he killed his family.
+- He does not know about Zargoth. He does not know about Zargoyle. He does not know about the frozen dome.
 - He does not know that Edra and Crest did not blame him. He does not know that they tried to save him.
 - He does not know that Edra wrote him a letter before she died. It is in Zundabun. He has never read it.

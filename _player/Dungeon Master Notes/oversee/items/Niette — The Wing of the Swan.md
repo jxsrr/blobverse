@@ -1,5 +1,6 @@
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
+<div class="bv-relic"><div class="bv-relic-kicker">RELIC & ARTIFACT ARCHIVE</div><div class="bv-relic-title">Niette — The Wing of the Swan</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Type</div><div class="bv-stat-val">Spear</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Location</div><div class="bv-stat-val">Tomb of Gavaevodata (Elis Selatan)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Rarity</div><div class="bv-stat-val">Legendary</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Part of</div><div class="bv-stat-val">The Swan Trio (The Wing)</div></div></div></div>
 
 ## What It Does
 - +2 spear. 1d6 + Str/Dex (finesse, reach). Magical. Thrown (range 30/120).
@@ -11,9 +12,12 @@
 - Niette is not one of the six blades. It is one of the **three ancient relics** — the **wing of the swan**.
 - The wing is the span, the flight, the strike from above. Niette reflects this: it is a spear that flies, that protects, that reaches where the hand cannot.
 - The other two relics are **Gustaero** (the neck — a longbow) and **Alnean** (the breath — a breathing relic). Together they form the swan that pierces the Gap.
+- **Niette is not related to the Architect.** It predates the Architect — or exists separately from it. The Cycle Clan did not make it. They found it. They hid it. They have guarded it for millennia without knowing where it came from.
 
 ## History
 - One of the three ancient relics. Origin unknown — even to the Cycle Clan.
+- Never carried by the Architect. Never part of the Gemheart network.
+- Buried with **Gavaevodata** in her tomb in **Elis Selatan**.
 - It has never been recovered. No one has found the tomb.
 
 ## What the Party Knows

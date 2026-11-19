@@ -46,6 +46,8 @@ Half-Elf, chronologically over 700 years old. Looks young. Fedora or Bloodborne-
 - Raised by **Helius**, an old Valla-worshipper. Helius taught him to read, to listen, to sit in silence. Helius never asked him to remove his gloves. Helius never asked him to stop smiling.
 - Joined **The Grace**, a demon-hunter organization. Made friends: **Edra** and **Crest**. Edra was warm. Crest was disciplined. They did not care about his smile. They did not care about his gloves. They were his family.
 - **690 AV — The Fall of The Grace.** A massive Gap tear opened in Elis. Demons poured through. The Grace fought. They held the line. They died.
+- Shin was possessed by **Zargoyle**. He destroyed the order and devastated Elis, then slipped back into slumber before awakening once more in **700 AV** — the present era — with no memory of what happened.
+- The Curse Mark on his body glows and causes pain when similar entities are near. It is not a curse. It is a **seal** — a fragment of **Zargoth** trapped inside him.
 - His eternal smile is not a curse — it is a Half-Elf trait. He has always smiled. He will always smile.
 
 ## Personality

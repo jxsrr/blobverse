@@ -7,6 +7,7 @@
 - Found **<a href="/oversee/items/Gustaero%20%E2%80%94%20The%20Swan%20Bow">Gustaero — The Swan Bow</a>** in his net one morning. Did not know what it was.
 - Kept it safe in his attic. Gave it to **Olaf** when he was old enough.
 - His role in the bow's story is mentioned in **Will of Grin** and **Wind's Rest** files.
+- Also appears in the **legend** of the legendary weapons — the bow was thrown into the sea by Lei Firsa, and Gunnar found it.
 
 ## His Legacy
 - The bow passed from Gunnar → Olaf → **<a href="/oversee/npcs/Gordon">Gordon</a>** → **<a href="/oversee/pcs/Husgus">Husgus</a>**.

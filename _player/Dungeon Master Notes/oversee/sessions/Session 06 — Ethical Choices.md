@@ -17,6 +17,7 @@ aliases:
 
 **<a href="/oversee/pcs/Shin%20Van%20Hel">HVS</a>** was not well.
 
+He had been showing symptoms since the escape from **<a href="/oversee/locations/Maw%20Desert">Maw Desert</a>** — headaches, tremors, moments where his eyes glazed and his voice dropped into a register that was not his own. The curse inside him — **<a href="/oversee/npcs/Zargoth">Zargoth</a>**, though he did not know its name — was waking up. He needed something to quiet it. Something warm. Something simple.
 
 He needed **milk**.
 
@@ -200,6 +201,7 @@ A cyborg. A dragonborn chassis made of scrap and wire. Orange-gold scales replac
 
 He spoke.
 
+He told them the history of Arujaya — how the Tinkers, the engineers who had rejected magic, had built this city as a refuge. How **Lei Firsa** had suppressed technology because it threatened her control. How the Tinkers had descended into the earth and built something new.
 
 He told them he was "the shadow of a will that refused to die."
 

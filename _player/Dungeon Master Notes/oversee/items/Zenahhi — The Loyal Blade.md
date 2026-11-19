@@ -18,6 +18,7 @@ aliases:
 
 ## History
 - One of six legendary weapons.
+- Thrown into Canyon of Lament by Lei Firsa.
 - **Not yet recovered.** It is at the bottom of the deepest canyon in Oversee.
 
 ## What the Party Knows

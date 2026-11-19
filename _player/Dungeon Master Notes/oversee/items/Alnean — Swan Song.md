@@ -15,11 +15,14 @@
 - Without the breath, the swan cannot swim. Without Alnean, the third path is impossible.
 
 ## Why "Swan Song"?
+- The name was given by the Cycle Clan, not by the Architect.
 - A swan sings only once — at the moment of its death. Alnean is the breath that lets the swan sing.
 - The Cycle Clan's records say: *"The swan does not fear the deep. It fears the silence. Alnean is the song that breaks the silence."*
 - It is not a weapon of death. It is a song of survival.
 
 ## History
+- Alnean is one of the three ancient relics. **It is not related to the Architect.** Its origin is older, or separate, or simply unknown.
+- It was never carried by the Architect. It was never part of the Gemheart network.
 - It has been kept by the **Kuo Lau Kingdom** — the underwater kingdom — for as long as their records go back. The Kuo Lau King is its current guardian.
 - The Kuo Lau are the origin of **Babibubebo** — the small fish-man the party met in Juto Port City (Session 02). Babi is an exile, a fragment of the Kuo Lau who was lost in the mortal world.
 - Alnean has never been recovered by anyone outside the Kuo Lau. The Cycle Clan knows it exists. They do not know where it is.

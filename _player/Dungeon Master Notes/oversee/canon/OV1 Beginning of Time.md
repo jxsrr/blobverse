@@ -10,9 +10,11 @@ years: 1XXXX – 20XX BV
 <div class="bv-world bv-world-canon"><div class="bv-world-kicker">OVERSEE · CANON ERA 02 OF 07</div><div class="bv-world-title">OV1 Beginning of Time</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Era</div><div class="bv-stat-val">Beginning of Time</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Years</div><div class="bv-stat-val">1XXXX – 20XX BV</div></div></div></div>
 
 > [!info] The Making of the World
+> The first age. When the Architect gave everything. When the Inbu walked. When the sky first learned to hunger.
 
 ## The Making of the World
 
+In the silence that followed the birth of consciousness from the remnants of consumption, the **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Architect</a>** made a choice that would shape all of reality for beings not yet born.
 
 It was alone.
 
@@ -20,51 +22,69 @@ In the endless dark of the void, it was the only thing that existed — a spark 
 
 So it made a decision. It would **sacrifice part of itself** to create a physical dimension — a place where life could exist, where something new could grow, where it would no longer be alone.
 
+But the Architect knew the danger. The **<a href="/oversee/lore/The%20Overseer%20%26%20The%20Architect">Overseer</a>** was always hungry. If the new world produced too much **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, the Overseer would smell it. It would come. It would eat.
 
+So as the Architect split itself to create the world, it also created a barrier — a layer of separation between the world and the void. That barrier became known as **<a href="/oversee/lore/The%20Gap">The Gap</a>**.
 
+With this sacrifice, the Architect did not vanish. It **went to face the Overseer**. It stood at the threshold, at the edge of reality, and became the **first <a href="/oversee/lore/The%20Valla">Valla</a>** — a living seal, a willing sacrifice, the first Warden of the world.
 
 It is still there.
 
 ## The Crystallization of the Gemhearts
 
+When the Architect split its essence to form the world, the process left marks.
 
 Its primordial body — the only body that had ever existed in the void — divided into two parts. One part became the physical dimension of **Oversee**. The other part — the most vital part, the part that still pulsed with life — **crystallized** in scattered fragments across the new world.
 
 Those fragments became known as the **<a href="/oversee/lore/The%20Gemhearts">Gemhearts</a>**.
 
+They are not merely magical stones. They are the **organs** of the Architect — its heart, its brain, its vital essence, still beating with the life of its creator. Each Gemheart holds immense magical power. Each represents a fundamental aspect of the Architect's nature. Together, they form a system that allows the world to survive the cosmic hunger — a bridge between the mortal world and the consciousness that now sits as the Valla.
 
 The four Gemhearts are:
 - **<a href="/oversee/items/Emelanica">Emelanica</a>** — the green stone, the organ of time
 - **<a href="/oversee/items/Safayer">Safayer</a>** — the blue stone, the organ of purification
 - **<a href="/oversee/items/Rubion">Rubion</a>** — the red stone, the organ of annihilation
+- **<a href="/oversee/items/Topaju">Topaju</a>** — the yellow stone, the organ of stability
 
 Each one has a purpose. Each one is essential. Each one is scattered across the world, waiting to be found.
 
 ## Emelanica — The Green Stone
 
+**Emelanica** is the temporal processor of the Architect — the part of it that governs the flow of time and the rhythm of consciousness.
 
+In the primordial body, Emelanica kept every part of the Architect moving in temporal harmony. As a Gemheart, it became the **temporal modulator** and **absolute mana controller** for all of Oversee. Its primary function is to manipulate **causality** at the center of the seal — to slow the burning of the Valla's soul, so that a single soul can survive for centuries in its resistance against the Overseer.
 
 Emelanica is the heartbeat of time itself — the pulse that keeps the world alive.
 
 ## Safayer — The Blue Stone
 
+**Safayer** is the purifier of the Architect — the part of it that filters experience, memory, and trauma from consciousness.
 
+In the primordial body, Safayer ensured that the Architect did not drown in the infinite sea of memory. As a Gemheart, Safayer acts as a **catalyst for purification and emptiness**. Its primary function is to **wash the soul** of memory, trauma, and identity — what is called the **ego**. Through this process, a mortal soul is transformed into "tasteless" energy, ensuring that when the Overseer consumes it, it does not realize it is being deceived.
 
 Safayer is the heart that purifies — the organ that filters the poison of consciousness into safe food for the cosmic hunger.
 
 ## Rubion — The Red Stone
 
+**Rubion** is the destroyer of the Architect — the part of it that can separate, sever, and end.
 
 In the primordial body, Rubion was the last line of defense — the ability to cut off a threatened part so the whole could survive. As a Gemheart, Rubion became an **instant antimatter weapon**. Its primary function is to sever the astral bond between soul and body, permanently. In nanoseconds, Rubion turns biological flesh to ash — preventing anomalous regeneration at the moment the soul is drawn into the cosmic seal.
 
+Rubion is the right hand of the Architect — the organ that can end anything, quickly and cleanly, for the sake of a greater survival.
 
+## Topaju — The Yellow Stone
 
+**Topaju** is the anchor of the Architect — the part of it that provides structure, foundation, and stability.
 
+In the primordial body, Topaju was the spine that held the Architect's existence together. As a Gemheart, Topaju has the most **crucial** function for the physical survival of Oversee. Its existence literally **prevents the continents from drifting into <a href="/oversee/lore/The%20Gap">The Gap</a>**. More than that, Topaju **anchors sacrificial rituals to the mortal world** — providing the physical foundation for the <a href="/oversee/lore/The%20Cycle%20Ritual">Cycle</a> that maintains cosmic balance.
 
+Without Topaju, the Cycle would have no foundation. Soul energy would scatter into the sky, and the Overseer would notice.
 
+Topaju is the backbone of the world — the foundation that keeps reality whole.
 
 ## The First Life
 
+After the Architect created Oversee, the world began to fill with life.
 
 The earliest ecosystem was dominated by **primordial flora and fauna** — creatures and plants bound to raw **<a href="/oversee/lore/Ambitio-Ether">Ambitio-Ether</a>**, the energy of creation that was not yet fully stable.
 
@@ -75,6 +95,7 @@ The primordial fauna were defined by their **colossal size** — a direct manife
 - **<a href="/oversee/lore/The%20Three%20Surviving%20Dragons">Elder Dragons</a>** — though rare in the modern era — served as **ecological stabilizers** in the primordial age. They consumed Ambitio-Ether directly from the atmosphere and **exhaled it back as weather** — rain, storms, and winds that carried life across the world.
 - **<a href="/oversee/lore/The%20Behemoths">Behemoths</a>** — slow-moving giant mammals — lived by consuming Ambitio-Ether-rich forests. Their presence, though seemingly destructive, **stabilized the continents** by preventing soil erosion caused by uncontrolled Ambitio-Ether release.
 
+These creatures were powerful. But they were not **conscious**. They did not have **free will** — not enough to attract the Overseer's attention. They were part of the ecological architecture, not part of the danger.
 
 They were part of the solution.
 
@@ -137,6 +158,7 @@ A civilization that had been thriving the night before was now only a memory and
 
 Thus the **<a href="/oversee/lore/The%20Rapture">Rapture</a>** happened — repeatedly, across Oversee.
 
+Every time a civilization reached the peak of magical glory, every time they forgot the balance the Architect had built with such care, **destruction came from the sky** in the form of a light-eating comet.
 
 And every time, only the **humble** survived — those who had no excess Ambitio-Ether — to rebuild civilization from the ashes of their predecessors.
 

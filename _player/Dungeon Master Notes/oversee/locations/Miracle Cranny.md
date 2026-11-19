@@ -6,6 +6,7 @@
 - A narrow gap between two granite cliffs. Hundreds of swords and spears are embedded in the walls.
 - This is where the **Hundred Days War** ended — not by victory, but by **miracle**.
 - A hot spring burst from the ground. The soldiers stopped fighting. They drank together.
+- The spring water is **tinted with Ambitio-Ether** — a leak from a buried Gemheart (Topaju).
 - **Jenderal Bisu** runs a tea shop here. He serves **Teh Terakhir** (The Last Tea).
 - The tea opens the door to the **Sumur Keajaiban** (Well of Wonders).
 - **Mak Sari** sells relics and tea leaves from a small stall.

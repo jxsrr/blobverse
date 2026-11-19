@@ -22,3 +22,4 @@ aliases:
 - He is hunting Darvin.
 
 ## Current Goal
+Claim the Topaju bloodline. Eliminate Darvin. Consolidate power.

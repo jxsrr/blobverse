@@ -6,6 +6,7 @@
 > Before humans, elves, dwarves, or dragonborn, there were the Inbu. They are the ancestors of every mortal race in Oversee.
 
 ## Origins
+- Born from the **fruit of the First Trees** — many primordial trees created by the Architect to filter Ambitio-Ether from the air and crystallize it into life.
 - The Inbu were the first creatures with **consciousness** and **free will**.
 - They were powerful mages. They could shape reality with their thoughts.
 - They were not many. Perhaps a few thousand at their peak.

@@ -7,25 +7,47 @@
 
 ## The Primordial Era (Before Time)
 - **The Overseer** exists in the void. It is hunger without form.
+- **The Architect** is born from the leftovers of the Overseer's consumption. It is preservation without form.
+- The Architect sacrifices part of itself to create **Oversee** — a dimension hidden behind **The Gap**.
+- The Architect becomes the **first Valla** — the living seal.
+- Its vital organs crystallize into the **four Gemhearts**: Emelanica, Safayer, Rubion, Topaju.
 
 ## Beginning of Time (1XXXX – 20XX BV)
+- **The First Trees** — many primordial trees — are created by the Architect. They filter Ambitio-Ether from the air and crystallize it into life.
+- **The Inbu** are born from the fruit of the First Trees. They are the first conscious race — created from part of the Architect itself, in its image.
+- The Inbu **diverge into the races** — Humans, Elves, Dwarves, Halflings, Gnomes, Dragonborn. The Architect manipulates the environment to force the differentiation — to hide them from the Overseer.
 - **The Rapture** happens multiple times. Each time, a High Magic civilization grows too bright and is consumed by the **Devourer Comet**.
 - Only the **magic-deaf** survive. The cycle repeats.
 
 ## Age of Knowledge (19XX – 10XX BV)
+- **~1040 BV** — **Guanik Wiseman** sees the **Shell** descend from the sky from the First Observatory at **Ancient Lake**. He records the video. He receives a vision from the Architect — **the Architect is inside him**.
 - **~1040 BV** — Wiseman founds **The Cycle Clan**. He becomes the **first Kanselir Agung** of the **One Voice Commonwealth**.
 - **~104X BV** — The Cycle Clan excavates the **Gemhearts**. The original **Edisi Law** is signed by Guanik — the promise.
+- **~10XX BV** — The **maintenance rituals** for the Architect are established. The Valla is **not** replaced. The Architect is maintained.
+- **~10XX BV** — **Gavaevodata Grin** steps into the Gap. She meets **Zargoth**. They marry. The **Grin bloodline** is born.
 
 ## Age of Nurturing (9XX – 01 BV)
+- **~870 BV** — Wiseman receives a vision from the Architect about **HVS shells** — artificial vessels for gods.
+- **~870 BV** — Wiseman creates **HVS-01** and **HVS-02** (with Rivan's schematics). They are lost when Lei Firsa seizes the Cycle Clan.
+- **~50 BV** — **Lei Firsa** is born. Illegitimate daughter of a merchant family. She becomes a ranger.
+- **~45 BV** — **Simon Greenbottle** is born in Greenvale. He is a halfling shepherd.
+- **~21 BV** — Simon receives **Zenahhi** from a dying knight named **Ksatrian** (age 24).
+- **~18 BV** — Simon receives **Terrde** from Ksatrian (age 27).
 - **~15 BV** — Simon finds **Swaith** in the temple of Dur-Khazim (age 30).
 - **~12 BV** — Simon receives **Frostfang** from **Lyra Frostweaver** (age 33).
 - **~09 BV** — Simon receives **Kkana** from the stone giant **Grakkar** (age 36).
 - **~06 BV** — Simon receives **Rayio** from a stranger (age 39).
 - **~04 BV** — Simon receives **Gustaero** from **Edna Gustaero** in Wind's Rest (age 41).
+- **~03 BV** — Simon meets **Lei Firsa** and **Grin Qain**. They travel together.
+- **~02 BV** — Lei Firsa coerces Simon into marriage. She is already pregnant with quadruplets.
+- **~01 BV** — **The Betrayal**. Lei Firsa seizes the Cycle Clan. She sacrifices **Grin Qain** to force Simon into the Valla role. Simon becomes the **second Valla** — the first mortal Valla. The Architect is **not** released. It is left in place, fading.
 
 ## The First God (01 – 70 AV)
+- **01 AV** — Lei Firsa declares the new calendar. She rewrites history. Simon becomes "Lei the Great." She becomes a male wizard in official records.
 - **01–20 AV** — The four branches of **Klan Lei** are established. The Gemhearts are distributed — but not to the branches as claimed.
+- **10 AV** — The **six legendary blades** are scattered across the world by Lei Firsa. **Swaith is magically delivered to Shin Van Hel** — centuries later, not now.
 - **45 AV** — **Lei Watigi** assaults **Vythrax**. Syl's egg is conceived. The "Breathstone" lie begins.
+- **50 AV** — The **twin-killing tradition** is invented by Lei Firsa.
 
 ## Initial Six Era (180 – 200 AV)
 - **~180 AV** — **Gordon** is born in the mountains of Harka.
@@ -42,9 +64,11 @@
 - **682 AV** — Antrem leaves with Accarus. Vya is 4 years old.
 - **683 AV** — Vreina makes a pact with **Kopling** to protect Vya.
 - **10 AV** — **Shin Van Hel** briefly awakens from his long slumber before falling dormant once more.
+- **690 AV** — **The Grace** falls in Elis. Awakened and fighting alongside his order, Shin is possessed by **Zargoyle** when a massive Gap tear opens; **Edra** and **Crest** perish, and Shin falls dormant again until **700 AV**.
 - **690 AV** — **Gordon** finds **Husgus** in Domido Forest. He raises him.
 - **694 AV** — **Zure Ama** falls into Oversee. He lands in Nesia.
 - **695 AV** — **Gordon** is killed by **Malakor**. Husgus kills Malakor and transforms into a halfling.
+- **699 AV** — **Valerius Thorne** does **not** take Topaju from Observatorium Ancient Lake. This never happened. Topaju is with **Lei Alejandro**.
 
 ## The Campaign (700 AV)
 - **0700-06-01** — The Five Sticks form at The Yawning Guild. Session 1 begins.

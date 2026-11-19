@@ -29,6 +29,7 @@ universe: Oversee
 
 ## What the Party Does NOT Know
 - **Lei Alejandro is alive.** He is hiding in the Bahtera Bawah Tanah. He is guarding the Edisi Law. He is waiting for someone worthy.
+- **The "Puppeteer" in Atreus's letter is Lei Firsa** — not Alejandro. The ambiguity is intentional.
 - **All six members of the Initial Six are Echoes** — except Alejandro. He is alive.
 - **The Echoes can be freed** with Swaith or Safayer.
 - **The true reason for the ritual** was not to summon a new Valla — it was to **feed** Simon. Alejandro did not use Safayer. He did not purify the souls. He did not care.

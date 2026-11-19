@@ -8,6 +8,7 @@ universe: Oversee
 
 ## What Happened
 - At the height of their renown around **200 AV**, the six greatest heroes of the age — **<a href="/oversee/lore/The%20Initial%20Six">The Initial Six</a>** — vanished from the world without a trace.
+- In the decades that followed, **<a href="/oversee/npcs/Atreus%20Grin">Atreus Grin</a>**'s name faded from official histories and **<a href="/oversee/locations/Kerajaan%20Grin">Kerajaan Grin</a>** slowly collapsed.
 - Uncovering why the six heroes vanished — and why Atreus never returned — became one of the foundational goals of **<a href="/oversee/factions/Will%20of%20Grin">Will of Grin</a>**.
 
 ## What the Party Knows

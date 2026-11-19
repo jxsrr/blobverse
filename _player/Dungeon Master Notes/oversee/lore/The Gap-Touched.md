@@ -18,6 +18,7 @@
 
 ## Known Gap-Touched Creatures
 - **The Spirit King** — a Cycle Clan cartographer who got lost.
+- **The Well Guardian** — a golden water elemental, spawned from Topaju.
 - **The Overseer's Blobs** — tentacled things that exist in the Gap. They cannot cross into Oversee unless the Gap is opened.
 
 ## What the Party Should Know

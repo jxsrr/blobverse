@@ -1,9 +1,12 @@
 <span class="bv-world-theme" data-world="oversee" aria-hidden="true"></span><a class="bv-world-home" href="/oversee" aria-label="Back to Oversee Home"><img src="/oversee/Logo.png" alt="Oversee"><span class="bv-world-home-arrow">← Hub</span></a>
 
+<div class="bv-dossier"><div class="bv-dossier-top"><div class="bv-badge-row"><span class="bv-badge">NPC Dossier</span><span class="bv-badge bv-badge-neutral">Kerajaan Grin</span></div><span class="bv-status bv-status-deceased">Deceased (01 bv)</span></div><div class="bv-dossier-name">Grin Qain</div><div class="bv-dossier-epithet">The Sacrificed Grin, Simon's Best Friend</div><div class="bv-dossier-grid"><div class="bv-stat-cell"><div class="bv-stat-label">Affiliation</div><div class="bv-stat-val">Kerajaan Grin (deceased)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Whereabouts</div><div class="bv-stat-val">Died at the altar of Ancient Lake (01 BV)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">Base</div><div class="bv-stat-val">Altar of Ancient Lake (died here)</div></div><div class="bv-stat-cell"><div class="bv-stat-label">First Seen</div><div class="bv-stat-val">Not yet met (in history)</div></div></div></div>
 
 ## What the Party Knows
 - A Grin elf. Eternal smile. Horns. Magic-deaf.
+- Traveled with Simon and Lei Firsa.
 - Wielded **Swaith** (the soul-thirsting blade). Simon gave it to her.
+- Was **sacrificed by Lei Firsa** to bind Simon to the Valla ritual.
 - Her last words: *"Take care of yourself, Shin. You are the best friend I ever had."* (Whispered to Simon, not Shin — but the party misinterprets this.)
 - Her death broke Simon.
 

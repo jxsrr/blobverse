@@ -171,6 +171,7 @@ They rested.
 
 He read the words around it. And then he looked up.
 
+> *"HVS stands for **Human Vessel Shell**."*
 
 No one spoke.
 
@@ -222,6 +223,7 @@ They had a hostage. They had a secret. And they had a **twin** who was the key t
 - **<a href="/oversee/npcs/Lei%20Livia%20Vane">Lei Livia Vane</a>** — now a hostage and a source of information
 - The truth about the **twin-killing tradition**
 - **<a href="/oversee/items/Renal">Renal</a>** — fully awake, giving Ama "limitless" strength in short bursts
+- The meaning of **HVS** — Human Vessel Shell
 
 ## NPCs Encountered
 - **<a href="/Adam">Adam</a>** — the local boy with a mechanical heart
