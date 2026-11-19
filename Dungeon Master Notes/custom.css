@@ -3425,7 +3425,7 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 18%;
+  object-position: 50% 4%;
   display: block;
 }
 .bv-emblem-frame {
