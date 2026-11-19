@@ -2,6 +2,8 @@
 
 ## Factions
 
+## [The Initial Six](/oversee/lore/The%20Initial%20Six)
+
 ### [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
 
 <div class="bv-grid-3x3">
@@ -14,10 +16,7 @@
 <a class="bv-codex-card" href="/oversee/factions/Will%20of%20Grin"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">WO</span><div class="bv-codex-name">Will of Grin</div></div><div class="bv-codex-meta">Hildag Grin (The Weaver), Accarus Grin &amp; Geneva Grin (The Smiling Hand)</div><div class="bv-codex-desc">What We Know Organization of Grin-blooded people (eternal smile curse). Wants to prove Grin are not monsters. Wants to…</div></a>
 </div>
 
-### [The Initial Six](/oversee/lore/The%20Initial%20Six)
-
-<div class="bv-grid-3x3">
-<a class="bv-codex-card" href="/oversee/lore/The%20Initial%20Six"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">TI</span><div class="bv-codex-name">The Initial Six</div></div><div class="bv-codex-desc">[!info] What We Know Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**. The…</div></a>
+</div><div class="bv-codex-desc">[!info] What We Know Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**. The…</div></a>
 </div>
 
 ## The Commonwealth & Klan Lei
