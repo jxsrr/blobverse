@@ -3418,16 +3418,15 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   position: relative;
   width: 100%;
   aspect-ratio: 3 / 4;
-  background: rgba(235, 226, 208, 0.65);
-  overflow: hidden !important;
+  background: rgba(235, 226, 208, 0.55);
+  overflow: hidden;
 }
 .bv-portrait-frame img {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
   object-position: 50% 0% !important;
-  transform: scale(1.22) translateY(-4%) !important;
-  transform-origin: 50% 0% !important;
+  transform: none !important;
   display: block !important;
 }
 .bv-emblem-frame {
