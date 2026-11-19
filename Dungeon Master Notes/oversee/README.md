@@ -147,7 +147,6 @@ showToc: false
   </div>
   <div class="bv-index-tile">
     <div class="bv-index-label"></div>
-    <div class="bv-index-hint">Allies, rivals &amp; figures</div>
   </div>
   <div class="bv-index-tile">
     <div class="bv-index-label"><a href="/oversee/factions">Factions</a></div>
@@ -167,7 +166,6 @@ showToc: false
   </div>
   <div class="bv-index-tile">
     <div class="bv-index-label"></div>
-    <div class="bv-index-hint">Party dossiers</div>
   </div>
 </div>
 
