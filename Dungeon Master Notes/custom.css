@@ -3221,3 +3221,72 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
 .bv-in6-pin[href$="Gzirmo%20Kopling"]:focus-visible .bv-pin-card {
   transform: translate(0, -14px) !important;
 }
+/* Blobverse 3x3 Codex Gallery */
+.bv-grid-3x3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 14px 0 24px;
+}
+@media (max-width: 960px) {
+  .bv-grid-3x3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .bv-grid-3x3 {
+    grid-template-columns: 1fr;
+  }
+}
+.bv-codex-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  color: inherit !important;
+  border: 1px solid rgba(120, 95, 65, 0.28);
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: rgba(255, 252, 245, 0.85);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.bv-codex-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(138, 62, 34, 0.65);
+  box-shadow: 0 6px 16px rgba(35, 25, 15, 0.08);
+}
+.bv-codex-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.bv-codex-badge {
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  background: rgba(138, 62, 34, 0.12);
+  color: #6e2b14;
+  border: 1px solid rgba(138, 62, 34, 0.25);
+}
+.bv-codex-name {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+.bv-codex-meta {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  margin-bottom: 6px;
+}
+.bv-codex-desc {
+  font-size: 0.86rem;
+  line-height: 1.45;
+  opacity: 0.9;
+}

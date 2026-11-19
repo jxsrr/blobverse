@@ -1,331 +1,216 @@
-# Characters & Factions Codex
+# Factions & Characters
 
-<style>
-.bv-codex-wrap {
-  --bv-parchment: #f7f2e7;
-  --bv-paper: #fffdf8;
-  --bv-ink: #1f1b16;
-  --bv-ink-muted: #5b5247;
-  --bv-border: #dfd5c2;
-  --bv-accent: #7c2d12;
-  --bv-accent-soft: #f3e7dc;
-  background: var(--bv-parchment);
-  color: var(--bv-ink);
-  border: 1px solid var(--bv-border);
-  border-radius: 12px;
-  padding: 24px;
-  margin: 16px 0 32px;
-  font-family: Georgia, "Times New Roman", serif;
-}
-.bv-section-header {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
-  border-bottom: 1px solid var(--bv-border);
-  padding-bottom: 10px;
-  margin: 28px 0 16px;
-}
-.bv-section-header:first-child {
-  margin-top: 0;
-}
-.bv-section-title {
-  margin: 0;
-  font-size: 1.5rem;
-  letter-spacing: 0.01em;
-  color: var(--bv-ink);
-}
-.bv-section-sub {
-  font-size: 0.9rem;
-  color: var(--bv-ink-muted);
-}
-.bv-controls {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 18px;
-}
-.bv-search, .bv-select {
-  background: var(--bv-paper);
-  color: var(--bv-ink);
-  border: 1px solid var(--bv-border);
-  border-radius: 8px;
-  padding: 9px 12px;
-  font-size: 0.92rem;
-  font-family: inherit;
-}
-.bv-search {
-  flex: 1 1 240px;
-}
-.bv-select {
-  min-width: 180px;
-}
-.bv-search:focus, .bv-select:focus {
-  outline: 2px solid var(--bv-accent);
-  outline-offset: 1px;
-}
-.bv-grid-3x3 {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 18px;
-}
-@media (max-width: 960px) {
-  .bv-grid-3x3 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-@media (max-width: 600px) {
-  .bv-grid-3x3 {
-    grid-template-columns: 1fr;
-  }
-}
-.bv-codex-card {
-  display: flex;
-  flex-direction: column;
-  text-decoration: none;
-  color: inherit;
-  background: var(--bv-paper);
-  border: 1px solid var(--bv-border);
-  border-radius: 10px;
-  overflow: hidden;
-  transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
-}
-.bv-codex-card:hover {
-  transform: translateY(-3px);
-  border-color: var(--bv-accent);
-  box-shadow: 0 8px 20px rgba(31, 27, 22, 0.08);
-}
-.bv-media-box {
-  width: 100%;
-  background: #ede4d3;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.bv-media-portrait {
-  aspect-ratio: 3 / 4;
-}
-.bv-media-emblem {
-  aspect-ratio: 4 / 3;
-}
-.bv-media-box img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: top center;
-  display: block;
-}
-.bv-media-emblem img {
-  object-fit: contain;
-  padding: 12px;
-}
-.bv-fallback-art {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(145deg, #efe7d6, #e2d5bc);
-  color: var(--bv-accent);
-  font-weight: 700;
-  letter-spacing: 0.08em;
-}
-.bv-fallback-portrait span {
-  font-size: 2rem;
-  border: 1px solid rgba(124, 45, 18, 0.25);
-  border-radius: 999px;
-  padding: 14px 18px;
-  background: rgba(255, 253, 248, 0.65);
-}
-.bv-fallback-emblem span {
-  font-size: 1.5rem;
-  border: 1px solid rgba(124, 45, 18, 0.25);
-  border-radius: 8px;
-  padding: 10px 16px;
-  background: rgba(255, 253, 248, 0.65);
-}
-.bv-card-body {
-  padding: 14px 16px 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  flex: 1;
-}
-.bv-card-title {
-  margin: 0;
-  font-size: 1.1rem;
-  line-height: 1.3;
-  color: var(--bv-ink);
-}
-.bv-card-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-.bv-meta-pill {
-  background: var(--bv-accent-soft);
-  color: var(--bv-accent);
-  font-size: 0.78rem;
-  padding: 2px 8px;
-  border-radius: 999px;
-}
-.bv-meta-affil {
-  font-size: 0.8rem;
-  color: var(--bv-ink-muted);
-}
-.bv-card-desc {
-  margin: 0;
-  font-size: 0.88rem;
-  line-height: 1.45;
-  color: var(--bv-ink-muted);
-}
-.bv-fac-details {
-  margin-top: auto;
-  padding-top: 8px;
-  border-top: 1px dashed var(--bv-border);
-  font-size: 0.82rem;
-  color: var(--bv-ink-muted);
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-.bv-empty-note {
-  display: none;
-  padding: 16px;
-  background: var(--bv-paper);
-  border: 1px dashed var(--bv-border);
-  border-radius: 8px;
-  color: var(--bv-ink-muted);
-  font-size: 0.92rem;
-}
-</style>
+## Factions
 
-<div class="bv-codex-wrap" id="bv-codex-root">
-  <div class="bv-section-header">
-    <h2 class="bv-section-title">Characters</h2>
-    <span class="bv-section-sub" id="bv-char-count">64 entries</span>
-  </div>
-  <div class="bv-controls">
-    <input type="search" class="bv-search" id="bv-char-search" placeholder="Search character by name…" aria-label="Search character by name" />
-    <select class='bv-select' id='bv-char-affil' aria-label='Filter by affiliation'><option value=''>All Affiliations</option><option value="Arujaya">Arujaya</option><option value="Arujaya (independent)">Arujaya (independent)</option><option value="Cycle Clan (deceased)">Cycle Clan (deceased)</option><option value="Independent">Independent</option><option value="Independent (Commonwealth-aligned)">Independent (Commonwealth-aligned)</option><option value="Independent (deceased)">Independent (deceased)</option><option value="Independent (suspicious)">Independent (suspicious)</option><option value="Keeper of Secret">Keeper of Secret</option><option value="Keeper of Secret (former)">Keeper of Secret (former)</option><option value="Klan Frostscale">Klan Frostscale</option><option value="Klan Frostscale (divine patron)">Klan Frostscale (divine patron)</option><option value="Klan Lei">Klan Lei</option><option value="Klan Lei (Watigi line) — deceased">Klan Lei (Watigi line) — deceased</option><option value="Lyceum University (independent)">Lyceum University (independent)</option><option value="Lyceum University (nominally Commonwealth)">Lyceum University (nominally Commonwealth)</option><option value="None (Arujaya)">None (Arujaya)</option><option value="None (formerly Klan Lei)">None (formerly Klan Lei)</option><option value="None (independent)">None (independent)</option><option value="Temple of Valla">Temple of Valla</option><option value="The Commonwealth">The Commonwealth</option><option value="The Commonwealth / Klan Lei (Lei Wendigo)">The Commonwealth / Klan Lei (Lei Wendigo)</option><option value="The Guo Family">The Guo Family</option><option value="The Initial Six (deceased)">The Initial Six (deceased)</option><option value="The Initial Six / Will of Grin (deceased)">The Initial Six / Will of Grin (deceased)</option><option value="The Regalia (Aede) / Keeper of Secret (aligned)">The Regalia (Aede) / Keeper of Secret (aligned)</option><option value="The Yawning Guild">The Yawning Guild</option><option value="Will of Grin">Will of Grin</option><option value="Will of Grin (reluctant)">Will of Grin (reluctant)</option></select>
-  </div>
-  <div class="bv-grid-3x3" id="bv-char-grid">
-    <a class="bv-codex-card bv-char-card" href="/oversee/npcs/Adam%20Findias" data-name="adam findias" data-affil="Arujaya"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>AF</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Adam Findias</h3><div class="bv-card-meta"><span class="bv-meta-pill">Arujaya Local, Guide</span><span class="bv-meta-affil">Arujaya</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Agus" data-name="agus" data-affil="Keeper of Secret (former)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>A</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Agus</h3><div class="bv-card-meta"><span class="bv-meta-pill">Keeper of Secret Agent (former), Traitor</span><span class="bv-meta-affil">Keeper of Secret (former)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Antrem%20Klaus" data-name="antrem klaus" data-affil="Will of Grin (reluctant)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>AK</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Antrem Klaus</h3><div class="bv-card-meta"><span class="bv-meta-pill">Vya&#x27;s Father, The Simple Twin, The Twin Who Was Lost</span><span class="bv-meta-affil">Will of Grin (reluctant)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Atlan%20Nouveau" data-name="atlan nouveau" data-affil="The Initial Six (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>AN</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Atlan Nouveau</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Oceanographer of the Initial Six, Mira&#x27;s Father</span><span class="bv-meta-affil">The Initial Six (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Atreus%20Grin" data-name="atreus grin" data-affil="The Initial Six / Will of Grin (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>AG</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Atreus Grin</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Druid of the Initial Six, The Smiling Heir of Grin</span><span class="bv-meta-affil">The Initial Six / Will of Grin (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Babibubebo" data-name="babibubebo" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>B</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Babibubebo</h3><div class="bv-card-meta"><span class="bv-meta-pill">Hunger Fish-Man, Kuil Lautan, Lost Kuo Lau Prince</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Besik%20Findias" data-name="besik findias" data-affil="Arujaya"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>BF</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Besik Findias</h3><div class="bv-card-meta"><span class="bv-meta-pill">Keeper of the Mnemonic Archive, Arujaya</span><span class="bv-meta-affil">Arujaya</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Bud-eg" data-name="bud-eg" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>BE</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Bud-eg</h3><div class="bv-card-meta"><span class="bv-meta-pill">Deaf Old Man, Hermit of Domido</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Cindy%20Mektol" data-name="cindy mektol" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>CM</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Cindy Mektol</h3><div class="bv-card-meta"><span class="bv-meta-pill">Survivor, Guardian of the Legendary Noodle Temple</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Dora" data-name="dora" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>D</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Dora</h3><div class="bv-card-meta"><span class="bv-meta-pill">Rhino Stable Owner, Dora&#x27;s Rhino Stable</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Dr.%20Vektor" data-name="dr. vektor" data-affil="Arujaya (independent)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>DV</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Dr. Vektor</h3><div class="bv-card-meta"><span class="bv-meta-pill">Cybernetic Surgeon, Arujaya</span><span class="bv-meta-affil">Arujaya (independent)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Elara" data-name="elara" data-affil="Independent (suspicious)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>E</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Elara</h3><div class="bv-card-meta"><span class="bv-meta-pill">Innkeeper, Karang Tidur</span><span class="bv-meta-affil">Independent (suspicious)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Elder%20Jarl" data-name="elder jarl" data-affil="Klan Frostscale"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>EJ</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Elder Jarl</h3><div class="bv-card-meta"><span class="bv-meta-pill">Leader of the Council of Elders, Klan Frostscale</span><span class="bv-meta-affil">Klan Frostscale</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Faska%20Mektol" data-name="faska mektol" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>FM</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Faska Mektol</h3><div class="bv-card-meta"><span class="bv-meta-pill">Farmer, Mektol Family Mother</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Fidale" data-name="fidale" data-affil="Arujaya"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>F</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Fidale</h3><div class="bv-card-meta"><span class="bv-meta-pill">Gatekeeper, The Depths, Arujaya</span><span class="bv-meta-affil">Arujaya</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Geneva%20Grin" data-name="geneva grin" data-affil="Will of Grin"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GG</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Geneva Grin</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Smiling Hand, Co-Leader of Will of Grin, Hildag&#x27;s Experiment</span><span class="bv-meta-affil">Will of Grin</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Gordon" data-name="gordon" data-affil="None (independent)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>G</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Gordon</h3><div class="bv-card-meta"><span class="bv-meta-pill">Husgus&#x27;s Mentor, The Peacebringer of Harka</span><span class="bv-meta-affil">None (independent)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Grilnax" data-name="grilnax" data-affil="The Yawning Guild"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>G</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Grilnax</h3><div class="bv-card-meta"><span class="bv-meta-pill">Goblin Guild Clerk</span><span class="bv-meta-affil">The Yawning Guild</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Grolnok" data-name="grolnok" data-affil="Independent (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>G</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Grolnok</h3><div class="bv-card-meta"><span class="bv-meta-pill">King of Greyland Castle, Goblin Leader</span><span class="bv-meta-affil">Independent (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Guanik%20Dontol" data-name="guanik dontol" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GD</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Guanik Dontol</h3><div class="bv-card-meta"><span class="bv-meta-pill">Guanik&#x27;s Eldest Son, Missing Survivor</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Guanik%20Huan" data-name="guanik huan" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GH</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Guanik Huan</h3><div class="bv-card-meta"><span class="bv-meta-pill">Guanik&#x27;s Son, Shell Collector</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Guanik%20Nila" data-name="guanik nila" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GN</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Guanik Nila</h3><div class="bv-card-meta"><span class="bv-meta-pill">Guanik&#x27;s Daughter, Shell Collector</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Guanik%20Wiseman" data-name="guanik wiseman" data-affil="Cycle Clan (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GW</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Guanik Wiseman</h3><div class="bv-card-meta"><span class="bv-meta-pill">Founder of the Cycle Clan, First Witness of the Shell</span><span class="bv-meta-affil">Cycle Clan (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Guo%20Lao" data-name="guo lao" data-affil="The Guo Family"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GL</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Guo Lao</h3><div class="bv-card-meta"><span class="bv-meta-pill">Elder of the Guo Family, Guardian of the Recipe Library</span><span class="bv-meta-affil">The Guo Family</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Gzirmo%20Kopling" data-name="gzirmo kopling" data-affil="The Initial Six (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>GK</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Gzirmo Kopling</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Dragonborn Tinker of the Initial Six, Echo of the Reactor</span><span class="bv-meta-affil">The Initial Six (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Hanzel%20Lei%20Krow" data-name="hanzel lei krow" data-affil="The Commonwealth / Klan Lei (Lei Wendigo)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>HL</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Hanzel Lei Krow</h3><div class="bv-card-meta"><span class="bv-meta-pill">Governor of West Harka</span><span class="bv-meta-affil">The Commonwealth / Klan Lei (Lei Wendigo)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Herman%20Mektol" data-name="herman mektol" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>HM</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Herman Mektol</h3><div class="bv-card-meta"><span class="bv-meta-pill">Farmer, Mektol Family Father</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Hildag%20Grin" data-name="hildag grin" data-affil="Will of Grin"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>HG</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Hildag Grin</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Weaver, Wakil Pertahanan at the Time of the Initial Six, Mother of Accarus and Antrem</span><span class="bv-meta-affil">Will of Grin</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Hora" data-name="hora" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>H</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Hora</h3><div class="bv-card-meta"><span class="bv-meta-pill">Rhino Stable Owner, Nesia Town</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Janja" data-name="janja" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>J</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Janja</h3><div class="bv-card-meta"><span class="bv-meta-pill">Guanik&#x27;s Wife, Dima Island</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Jarko" data-name="jarko" data-affil="Will of Grin"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>J</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Jarko</h3><div class="bv-card-meta"><span class="bv-meta-pill">Accarus&#x27;s Son, Vya&#x27;s Cousin</span><span class="bv-meta-affil">Will of Grin</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Joni" data-name="joni" data-affil="Independent (Commonwealth-aligned)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>J</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Joni</h3><div class="bv-card-meta"><span class="bv-meta-pill">Innkeeper, The Golden Sheaf</span><span class="bv-meta-affil">Independent (Commonwealth-aligned)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Kristine" data-name="kristine" data-affil="None (Arujaya)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>K</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Kristine</h3><div class="bv-card-meta"><span class="bv-meta-pill">Dr. Vektor&#x27;s Daughter, Preserved in Stasis</span><span class="bv-meta-affil">None (Arujaya)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Darvin%20Thorne" data-name="lei darvin thorne" data-affil="None (formerly Klan Lei)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LD</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Darvin Thorne</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Forgotten Twin, True Heir of Lei Roiga (by blood, not by stone)</span><span class="bv-meta-affil">None (formerly Klan Lei)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Firage" data-name="lei firage" data-affil="Klan Lei"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LF</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Firage</h3><div class="bv-card-meta"><span class="bv-meta-pill">Founder of the Lei Firage Branch</span><span class="bv-meta-affil">Klan Lei</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Iron%20Gort" data-name="lei iron gort" data-affil="The Commonwealth"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LI</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Iron Gort</h3><div class="bv-card-meta"><span class="bv-meta-pill">Wakil Pertahanan (Defense), Garda Besi</span><span class="bv-meta-affil">The Commonwealth</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Livia%20Vane" data-name="lei livia vane" data-affil="The Commonwealth"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LL</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Livia Vane</h3><div class="bv-card-meta"><span class="bv-meta-pill">Wakil Keadilan (Justice), Garda Mawar</span><span class="bv-meta-affil">The Commonwealth</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Roiga" data-name="lei roiga" data-affil="Klan Lei"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LR</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Roiga</h3><div class="bv-card-meta"><span class="bv-meta-pill">Founder of the Lei Roiga Branch</span><span class="bv-meta-affil">Klan Lei</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Valerius%20Thorne" data-name="lei valerius thorne" data-affil="The Commonwealth"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LV</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Valerius Thorne</h3><div class="bv-card-meta"><span class="bv-meta-pill">Kanselir Agung (Chancellor)</span><span class="bv-meta-affil">The Commonwealth</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Watigi" data-name="lei watigi" data-affil="Klan Lei (Watigi line) — deceased"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Watigi</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Water Heir of Klan Lei, Syl&#x27;s Biological Father, The Man Who Raped Vythrax</span><span class="bv-meta-affil">Klan Lei (Watigi line) — deceased</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Lei%20Wendigo" data-name="lei wendigo" data-affil="Klan Lei"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>LW</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Lei Wendigo</h3><div class="bv-card-meta"><span class="bv-meta-pill">Founder of the Lei Wendigo Branch</span><span class="bv-meta-affil">Klan Lei</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Memeng" data-name="memeng" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>M</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Memeng</h3><div class="bv-card-meta"><span class="bv-meta-pill">Cook, Ghuffghuff</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Mira%20Nouveau" data-name="mira nouveau" data-affil="Keeper of Secret"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>MN</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Mira Nouveau</h3><div class="bv-card-meta"><span class="bv-meta-pill">Founder of Keeper of Secret, Daughter of Atlan and Reins</span><span class="bv-meta-affil">Keeper of Secret</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Mr.%20Andreas" data-name="mr. andreas" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>MA</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Mr. Andreas</h3><div class="bv-card-meta"><span class="bv-meta-pill">Blacksmith, Baja Hitam</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Mr.%20Poise" data-name="mr. poise" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>MP</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Mr. Poise</h3><div class="bv-card-meta"><span class="bv-meta-pill">Rhino Wagon Driver</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Mrs.%20Mamat" data-name="mrs. mamat" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>MM</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Mrs. Mamat</h3><div class="bv-card-meta"><span class="bv-meta-pill">Warung Owner, Ghuffghuff</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Mrs.%20Sari" data-name="mrs. sari" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>MS</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Mrs. Sari</h3><div class="bv-card-meta"><span class="bv-meta-pill">Lemonade Seller</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Olaf%20Guirela" data-name="olaf guirela" data-affil="The Initial Six (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>OG</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Olaf Guirela</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Ranger of the Initial Six, Gordon&#x27;s Teacher</span><span class="bv-meta-affil">The Initial Six (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Pops%20Tortle" data-name="pops tortle" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>PT</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Pops Tortle</h3><div class="bv-card-meta"><span class="bv-meta-pill">Diving Shop Owner, Atlan&#x27;s Old Friend</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Professor%20Alistair%20Donta" data-name="professor alistair donta" data-affil="Lyceum University (nominally Commonwealth)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>PA</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Professor Alistair Donta</h3><div class="bv-card-meta"><span class="bv-meta-pill">Oldest Priest of Oversee, Rector of Lyceum University</span><span class="bv-meta-affil">Lyceum University (nominally Commonwealth)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Professor%20Howdy" data-name="professor howdy" data-affil="Lyceum University (independent)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>PH</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Professor Howdy</h3><div class="bv-card-meta"><span class="bv-meta-pill">Gemheart Researcher</span><span class="bv-meta-affil">Lyceum University (independent)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Reins" data-name="reins" data-affil="The Regalia (Aede) / Keeper of Secret (aligned)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>R</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Reins</h3><div class="bv-card-meta"><span class="bv-meta-pill">Ama&#x27;s Lost Friend, Atlan&#x27;s Wife, Mira&#x27;s Mother, The Woman in the Gap</span><span class="bv-meta-affil">The Regalia (Aede) / Keeper of Secret (aligned)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Sam%20Hurls" data-name="sam hurls" data-affil="The Initial Six (deceased)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>SH</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Sam Hurls</h3><div class="bv-card-meta"><span class="bv-meta-pill">The Bard of the Initial Six, The Many-Headed Echo</span><span class="bv-meta-affil">The Initial Six (deceased)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Samual" data-name="samual" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>S</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Samual</h3><div class="bv-card-meta"><span class="bv-meta-pill">Bartender, The Tipsy Trident</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Sari" data-name="sari" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>S</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Sari</h3><div class="bv-card-meta"><span class="bv-meta-pill">Lemonade Seller, Muangching Bay</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Senta" data-name="senta" data-affil="Independent"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>S</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Senta</h3><div class="bv-card-meta"><span class="bv-meta-pill">General Store Owner</span><span class="bv-meta-affil">Independent</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Siti" data-name="siti" data-affil="Independent (Commonwealth-aligned)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>S</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Siti</h3><div class="bv-card-meta"><span class="bv-meta-pill">Innkeeper, The Golden Sheaf</span><span class="bv-meta-affil">Independent (Commonwealth-aligned)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Vythrax" data-name="vythrax" data-affil="Klan Frostscale (divine patron)"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>V</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Vythrax</h3><div class="bv-card-meta"><span class="bv-meta-pill">Silver Dragon, The Silver Wind, Deity of Klan Frostscale, Syl&#x27;s Mother</span><span class="bv-meta-affil">Klan Frostscale (divine patron)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/npcs/Yahanda" data-name="yahanda" data-affil="Temple of Valla"><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>Y</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Yahanda</h3><div class="bv-card-meta"><span class="bv-meta-pill">Priest, traveling companion</span><span class="bv-meta-affil">Temple of Valla</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/pcs/Husgus" data-name="husgus" data-affil=""><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>H</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Husgus</h3><div class="bv-card-meta"><span class="bv-meta-pill">Ranger</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/pcs/Shin%20Van%20Hel" data-name="shin van hel" data-affil=""><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>SV</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Shin Van Hel</h3><div class="bv-card-meta"><span class="bv-meta-pill">Warlock (curse-bound, not pact) / Paladin (multiclass)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/pcs/Syl%20Frost" data-name="syl frost" data-affil=""><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>SF</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Syl Frost</h3><div class="bv-card-meta"><span class="bv-meta-pill">Sorcerer (self-taught) / Cleric (multiclass)</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/pcs/Vya%20Arleschia" data-name="vya arleschia" data-affil=""><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>VA</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Vya Arleschia</h3><div class="bv-card-meta"><span class="bv-meta-pill">Ranger</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-char-card" href="/oversee/pcs/Zure%20Ama" data-name="zure ama" data-affil=""><div class="bv-media-box bv-media-portrait"><div class="bv-fallback-art bv-fallback-portrait" aria-hidden="true"><span>ZA</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Zure Ama</h3><div class="bv-card-meta"><span class="bv-meta-pill">Fighter</span></div><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-  </div>
-  <div class="bv-empty-note" id="bv-char-empty">No matching characters found.</div>
+### [Keeper of Secret](/oversee/factions/Keeper%20of%20Secret)
 
-  <div class="bv-section-header">
-    <h2 class="bv-section-title">Factions</h2>
-    <span class="bv-section-sub" id="bv-fac-count">2 entries</span>
-  </div>
-  <div class="bv-controls">
-    <input type="search" class="bv-search" id="bv-fac-search" placeholder="Search faction by name…" aria-label="Search faction by name" />
-    
-  </div>
-  <div class="bv-grid-3x3" id="bv-fac-grid">
-    <a class="bv-codex-card bv-fac-card" href="/oversee/factions/Keeper%20of%20Secret" data-name="keeper of secret" data-territory=""><div class="bv-media-box bv-media-emblem"><div class="bv-fallback-art bv-fallback-emblem" aria-hidden="true"><span>KO</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Keeper of Secret</h3><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-<a class="bv-codex-card bv-fac-card" href="/oversee/factions/Will%20of%20Grin" data-name="will of grin" data-territory=""><div class="bv-media-box bv-media-emblem"><div class="bv-fallback-art bv-fallback-emblem" aria-hidden="true"><span>WO</span></div></div><div class="bv-card-body"><h3 class="bv-card-title">Will of Grin</h3><p class="bv-card-desc">::pf &lt;span class=&quot;bv-world-theme&quot; data-world=&quot;oversee&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;a class=&quot;bv-world-home&quot; href=&quot;/oversee&quot;…</p></div></a>
-  </div>
-  <div class="bv-empty-note" id="bv-fac-empty">No matching factions found.</div>
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/factions/Keeper%20of%20Secret"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">KO</span><div class="bv-codex-name">Keeper of Secret</div></div><div class="bv-codex-meta">Mira Nouveau</div><div class="bv-codex-desc">What We Know Secret organization dedicated to finding the truth about the Initial Six. Founded by ** Mira ** — daughter…</div></a>
 </div>
 
-<script>
-(function() {
-  function filterSection(searchId, selectId, gridId, emptyId, countId, attrName, singularLabel) {
-    const qInput = document.getElementById(searchId);
-    const selInput = selectId ? document.getElementById(selectId) : null;
-    const grid = document.getElementById(gridId);
-    const emptyEl = document.getElementById(emptyId);
-    const countEl = document.getElementById(countId);
-    if (!grid) return;
+### [Will of Grin](/oversee/factions/Will%20of%20Grin)
 
-    const cards = Array.from(grid.querySelectorAll(".bv-codex-card"));
-    function run() {
-      const q = (qInput ? qInput.value : "").trim().toLowerCase();
-      const sel = selInput ? selInput.value : "";
-      let visible = 0;
-      cards.forEach((card) => {
-        const name = card.getAttribute("data-name") || "";
-        const attrVal = attrName ? (card.getAttribute(attrName) || "") : "";
-        const okName = !q || name.includes(q);
-        const okAttr = !sel || attrVal === sel;
-        const show = okName && okAttr;
-        card.style.display = show ? "" : "none";
-        if (show) visible += 1;
-      });
-      if (emptyEl) emptyEl.style.display = visible === 0 ? "block" : "none";
-      if (countEl) countEl.textContent = visible + " " + (visible === 1 ? singularLabel : singularLabel + "s");
-    }
-    if (qInput) qInput.addEventListener("input", run);
-    if (selInput) selInput.addEventListener("change", run);
-  }
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/factions/Will%20of%20Grin"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">WO</span><div class="bv-codex-name">Will of Grin</div></div><div class="bv-codex-meta">Hildag Grin (The Weaver), Accarus Grin &amp; Geneva Grin (The Smiling Hand)</div><div class="bv-codex-desc">What We Know Organization of Grin-blooded people (eternal smile curse). Wants to prove Grin are not monsters. Wants to…</div></a>
+</div>
 
-  filterSection("bv-char-search", "bv-char-affil", "bv-char-grid", "bv-char-empty", "bv-char-count", "data-affil", "entry");
-  filterSection("bv-fac-search", "bv-fac-territory", "bv-fac-grid", "bv-fac-empty", "bv-fac-count", "data-territory", "entry");
-})();
-</script>
+### [The Initial Six](/oversee/lore/The%20Initial%20Six)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/lore/The%20Initial%20Six"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">TI</span><div class="bv-codex-name">The Initial Six</div></div><div class="bv-codex-desc">[!info] What We Know Six heroes who vanished in 200 AV. Their disappearance is called **The Great Disappearance**. The…</div></a>
+</div>
+
+## The Commonwealth & Klan Lei
+
+### Commonwealth (700 AV)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/pcs/Shin%20Van%20Hel"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">SV</span><div class="bv-codex-name">Shin Van Hel</div></div><div class="bv-codex-desc">Appearance Half-Elf, chronologically over 700 years old. Looks young. Fedora or Bloodborne-style hat, Sakamoto-style…</div></a>
+</div>
+
+### Commonwealth (200 AV)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Atlan%20Nouveau"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">AN</span><div class="bv-codex-name">Atlan Nouveau</div></div><div class="bv-codex-meta">The Oceanographer of the Initial Six, Mira&#x27;s Father · The Initial Six (deceased) · Juto Port City (formerly) / Unknown</div><div class="bv-codex-desc">Living Form — The Oceanographer One of the **Initial Six**. A human man. No magic of his own — but the sharpest mind of…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Atreus%20Grin"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">AG</span><div class="bv-codex-name">Atreus Grin</div></div><div class="bv-codex-meta">The Druid of the Initial Six, The Smiling Heir of Grin · The Initial Six / Will of Grin (deceased) · Kerajaan Grin (formerly) / Chenalia (as Echo)</div><div class="bv-codex-desc">Living Form — The Druid One of the **Initial Six**. A Grin elf — eternal smile, small horns, magic-deaf. A druid. He…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Gzirmo%20Kopling"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GK</span><div class="bv-codex-name">Gzirmo Kopling</div></div><div class="bv-codex-meta">The Dragonborn Tinker of the Initial Six, Echo of the Reactor · The Initial Six (deceased) · Arujaya (as Echo)</div><div class="bv-codex-desc">Living Form — The Tinker One of the **Initial Six**. A dragonborn of orange-gold scales. A mechanical genius. Built…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Mira%20Nouveau"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">MN</span><div class="bv-codex-name">Mira Nouveau</div></div><div class="bv-codex-meta">Founder of Keeper of Secret, Daughter of Atlan and Reins · Keeper of Secret · Juto Port City (Observatorium)</div><div class="bv-codex-desc">What the Party Knows Half-elf. Daughter of **Atlan Nouveau** and **Reins**. Witnessed her father&#x27;s disappearance as a…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Olaf%20Guirela"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">OG</span><div class="bv-codex-name">Olaf Guirela</div></div><div class="bv-codex-meta">The Ranger of the Initial Six, Gordon&#x27;s Teacher · The Initial Six (deceased) · Whisper Place (formerly) / Domido Forest (as Echo)</div><div class="bv-codex-desc">Living Form — The Ranger One of the **Initial Six**. A half-orc. Old, gruff, scarred. Believed in action over gods.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Reins"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">R</span><div class="bv-codex-name">Reins</div></div><div class="bv-codex-meta">Ama&#x27;s Lost Friend, Atlan&#x27;s Wife, Mira&#x27;s Mother, The Woman in the Gap · The Regalia (Aede) / Keeper of Secret (aligned) · Aede (originally) / The Gap (currently)</div><div class="bv-codex-desc">What the Party Knows Ama&#x27;s best friend from their home world, **Aede**. Short pink hair. Moon-shaped staff. Purple…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Sam%20Hurls"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">SH</span><div class="bv-codex-name">Sam Hurls</div></div><div class="bv-codex-meta">The Bard of the Initial Six, The Many-Headed Echo · The Initial Six (deceased) · Ghuffghuff (as Echo)</div><div class="bv-codex-desc">Living Form — The Bard One of the **Initial Six**. A chubby human man with wavy black hair, purple and red clothing…</div></a>
+</div>
+
+### Commonwealth (Other Eras)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Besik%20Findias"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">BF</span><div class="bv-codex-name">Besik Findias</div></div><div class="bv-codex-meta">Keeper of the Mnemonic Archive, Arujaya · Arujaya · Mnemonic Archive</div><div class="bv-codex-desc">What the Party Knows A small, quiet man. Augmented with wires and steel. Showed the party Echo Gzirmo&#x27;s body — now a…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Dora"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">D</span><div class="bv-codex-name">Dora</div></div><div class="bv-codex-meta">Rhino Stable Owner, Dora&#x27;s Rhino Stable · Independent · Javan Town</div><div class="bv-codex-desc">What the Party Knows A middle-aged dwarf woman. Practical. No-nonsense. Runs the largest rhino stable in Javan Town.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Dr.%20Vektor"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">DV</span><div class="bv-codex-name">Dr. Vektor</div></div><div class="bv-codex-meta">Cybernetic Surgeon, Arujaya · Arujaya (independent) · Modification Parlor, Arujaya</div><div class="bv-codex-desc">What the Party Knows Performed Ama&#x27;s surgery. Fused Renal into his arm. Charged 500,000 gold — a lifetime debt. Is…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Gordon"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">G</span><div class="bv-codex-name">Gordon</div></div><div class="bv-codex-meta">Husgus&#x27;s Mentor, The Peacebringer of Harka · None (independent) · Domido Forest (deceased)</div><div class="bv-codex-desc">What the Party Knows (from Husgus) A dwarf ranger. Thick white beard. Big axe. Viking hat. Lived alone in Domido Forest…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Grolnok"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">G</span><div class="bv-codex-name">Grolnok</div></div><div class="bv-codex-meta">King of Greyland Castle, Goblin Leader · Independent (deceased) · Greyland Castle (destroyed)</div><div class="bv-codex-desc">What the Party Knows A goblin king. Smarter than most goblins. Had a daughter who married **Lei Alejandro**. She died…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Joni"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">J</span><div class="bv-codex-name">Joni</div></div><div class="bv-codex-meta">Innkeeper, The Golden Sheaf · Independent (Commonwealth-aligned) · Nesia Town</div><div class="bv-codex-desc">What the Party Knows Farmer in **Nesia Town**. Adopted **Zure Ama** after he arrived in Oversee 6 years ago. Taught Ama…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Sari"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">S</span><div class="bv-codex-name">Sari</div></div><div class="bv-codex-meta">Lemonade Seller, Muangching Bay · Independent · Muangching Bay</div><div class="bv-codex-desc">What the Party Knows An old woman with a lemonade stand. Friendly. Chatty. Told the party there was no milk in…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Siti"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">S</span><div class="bv-codex-name">Siti</div></div><div class="bv-codex-meta">Innkeeper, The Golden Sheaf · Independent (Commonwealth-aligned) · Nesia Town</div><div class="bv-codex-desc">What the Party Knows Wife of **Joni**. Co-owner of The Golden Sheaf. Adopted **Zure Ama** alongside Joni. Kind. Gentle.…</div></a>
+<a class="bv-codex-card" href="/oversee/pcs/Husgus"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">H</span><div class="bv-codex-name">Husgus</div></div><div class="bv-codex-desc">Appearance Halfling. Small frame, deceptively strong. Faint golden cracks appear on his skin when stressed — no one…</div></a>
+<a class="bv-codex-card" href="/oversee/pcs/Zure%20Ama"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">ZA</span><div class="bv-codex-name">Zure Ama</div></div><div class="bv-codex-desc">Appearance Man from another world (Aede). White hair, sharp blue eyes. White-and-blue robes with sun-motif arm guards.…</div></a>
+</div>
+
+### Lei First Quadruplets
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Antrem%20Klaus"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">AK</span><div class="bv-codex-name">Antrem Klaus</div></div><div class="bv-codex-meta">Vya&#x27;s Father, The Simple Twin, The Twin Who Was Lost · Will of Grin (reluctant) · Chenalia (formerly) / Maw Desert</div><div class="bv-codex-desc">What the Party Knows Twin brother of ** Accarus **. Both are descendants of **Lei Firage** (fire) through their father.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Elder%20Jarl"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">EJ</span><div class="bv-codex-name">Elder Jarl</div></div><div class="bv-codex-meta">Leader of the Council of Elders, Klan Frostscale · Klan Frostscale · Frostheart Village</div><div class="bv-codex-desc">What the Party Knows Oldest dragonborn in Frostheart. Scales nearly white and translucent. Horns spiral like a ram&#x27;s.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Geneva%20Grin"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GG</span><div class="bv-codex-name">Geneva Grin</div></div><div class="bv-codex-meta">The Smiling Hand, Co-Leader of Will of Grin, Hildag&#x27;s Experiment · Will of Grin · Maw Desert</div><div class="bv-codex-desc">What the Party Knows Elf with the eternal Grin smile. Kind but hardened. Wife of ** Accarus **. Mother of ** Jarko **…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Hanzel%20Lei%20Krow"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">HL</span><div class="bv-codex-name">Hanzel Lei Krow</div></div><div class="bv-codex-meta">Governor of West Harka · The Commonwealth / Klan Lei (Lei Wendigo) · Padre City / Yawning Town</div><div class="bv-codex-desc">What the Party Knows Direct descendant of **Lei Wendigo** (wind element). Carries **Emelanica&#x27;s twin** — no, wait,…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Hildag%20Grin"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">HG</span><div class="bv-codex-name">Hildag Grin</div></div><div class="bv-codex-meta">The Weaver, Wakil Pertahanan at the Time of the Initial Six, Mother of Accarus and Antrem · Will of Grin · Maw Desert</div><div class="bv-codex-desc">What the Party Knows Older Grin woman. Sharp mind. Smiling always. Created the **incomplete map of the world**. Gave it…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Darvin%20Thorne"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LD</span><div class="bv-codex-name">Lei Darvin Thorne</div></div><div class="bv-codex-meta">The Forgotten Twin, True Heir of Lei Roiga (by blood, not by stone) · None (formerly Klan Lei) · Arujaya / Elis</div><div class="bv-codex-desc">What the Party Knows Twin brother of ** Valerius ** (Kanselir Agung). Appears senile, rambling about &quot;Arumanehjaya&quot; — a…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Firage"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LF</span><div class="bv-codex-name">Lei Firage</div></div><div class="bv-codex-meta">Founder of the Lei Firage Branch · Klan Lei</div><div class="bv-codex-desc">What the Party Knows The second of ** Lei Firsa **&#x27;s quadruplets and progenitor of the **Lei Firage** fire bloodline.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Roiga"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LR</span><div class="bv-codex-name">Lei Roiga</div></div><div class="bv-codex-meta">Founder of the Lei Roiga Branch · Klan Lei</div><div class="bv-codex-desc">What the Party Knows The fourth of ** Lei Firsa **&#x27;s quadruplets and progenitor of the **Lei Roiga** earth bloodline.…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Valerius%20Thorne"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LV</span><div class="bv-codex-name">Lei Valerius Thorne</div></div><div class="bv-codex-meta">Kanselir Agung (Chancellor) · The Commonwealth · Padre City</div><div class="bv-codex-desc">What the Party Knows Beloved by the people. Warm smile. Diplomatic. Twin brother of ** Darvin **. Wants to &quot;thicken the…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Watigi"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LW</span><div class="bv-codex-name">Lei Watigi</div></div><div class="bv-codex-meta">The Water Heir of Klan Lei, Syl&#x27;s Biological Father, The Man Who Raped Vythrax · Klan Lei (Watigi line) — deceased · Unknown (deceased)</div><div class="bv-codex-desc">What the Party Knows One of the four children of **Lei Firsa** and **Simon Greenbottle**. The water heir — the founder…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Wendigo"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LW</span><div class="bv-codex-name">Lei Wendigo</div></div><div class="bv-codex-meta">Founder of the Lei Wendigo Branch · Klan Lei</div><div class="bv-codex-desc">What the Party Knows The eldest of ** Lei Firsa **&#x27;s quadruplets born at the dawn of the AV era. Established the **Lei…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Vythrax"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">V</span><div class="bv-codex-name">Vythrax</div></div><div class="bv-codex-meta">Silver Dragon, The Silver Wind, Deity of Klan Frostscale, Syl&#x27;s Mother · Klan Frostscale (divine patron) · Spire of Whispering Ice</div><div class="bv-codex-desc">What the Party Knows Gargantuan silver dragon. Legendary protector of Klan Frostscale. Disappeared 300 years ago. The…</div></a>
+<a class="bv-codex-card" href="/oversee/pcs/Syl%20Frost"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">SF</span><div class="bv-codex-name">Syl Frost</div></div><div class="bv-codex-desc">Appearance Dragonborn of Klan Frostscale. Metallic scales with natural frost patterns. Eyes like ice. Small horns at…</div></a>
+<a class="bv-codex-card" href="/oversee/pcs/Vya%20Arleschia"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">VA</span><div class="bv-codex-name">Vya Arleschia</div></div><div class="bv-codex-desc">Appearance Elf from Elis. Slender, tall. Pink hair adorned with white flowers. Shell-like armor that shines. Strikingly…</div></a>
+</div>
+
+### Lyceum University
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Professor%20Alistair%20Donta"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">PA</span><div class="bv-codex-name">Professor Alistair Donta</div></div><div class="bv-codex-meta">Oldest Priest of Oversee, Rector of Lyceum University · Lyceum University (nominally Commonwealth) · Padre City</div><div class="bv-codex-desc">What the Party Knows Old, wise, visibly tired. Had seen too much. Showed the party the only known painting of **The…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Professor%20Howdy"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">PH</span><div class="bv-codex-name">Professor Howdy</div></div><div class="bv-codex-meta">Gemheart Researcher · Lyceum University (independent) · Padre City (Outer Ring)</div><div class="bv-codex-desc">What the Party Knows Was Donta&#x27;s colleague. Studied the Gemhearts. His house was found open. Coffee cold. No Howdy.…</div></a>
+</div>
+
+### Local Government
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Guanik%20Wiseman"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GW</span><div class="bv-codex-name">Guanik Wiseman</div></div><div class="bv-codex-meta">Founder of the Cycle Clan, First Witness of the Shell · Cycle Clan (deceased) · Observatorium Ancient Lake</div><div class="bv-codex-desc">What the Party Knows An ancient astrogeologist. Lived over a thousand years ago. Witnessed the **Shell** descending…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Hora"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">H</span><div class="bv-codex-name">Hora</div></div><div class="bv-codex-meta">Rhino Stable Owner, Nesia Town · Independent · Nesia Town</div><div class="bv-codex-desc">What the Party Knows An old farmer. Runs the rhino dairy. Sells &quot;premium&quot; milk at **extortionate prices** (35…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Jarko"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">J</span><div class="bv-codex-name">Jarko</div></div><div class="bv-codex-meta">Accarus&#x27;s Son, Vya&#x27;s Cousin · Will of Grin · Maw Desert</div><div class="bv-codex-desc">What the Party Knows Young Grin warrior. Eager to prove himself. Kind. Hopeful. Trained with the party in the Maw…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Iron%20Gort"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LI</span><div class="bv-codex-name">Lei Iron Gort</div></div><div class="bv-codex-meta">Wakil Pertahanan (Defense), Garda Besi · The Commonwealth · Ironhold</div><div class="bv-codex-desc">What the Party Knows Brash, loud, loves a fight. Threw a bottle at Husgus during the Festival. Respected him for…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Lei%20Livia%20Vane"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">LL</span><div class="bv-codex-name">Lei Livia Vane</div></div><div class="bv-codex-meta">Wakil Keadilan (Justice), Garda Mawar · The Commonwealth · Padre City</div><div class="bv-codex-desc">What the Party Knows Cold, precise, wind-powered warrior. Uses a rapier and a steam hand-cannon. Leads the **Garda…</div></a>
+</div>
+
+### Warga (Berdasarkan Kota / Desa)
+
+#### Dima Island (Destroyed) / Unknown
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Guanik%20Dontol"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GD</span><div class="bv-codex-name">Guanik Dontol</div></div><div class="bv-codex-meta">Guanik&#x27;s Eldest Son, Missing Survivor · Independent · Dima Island (destroyed) / Unknown</div><div class="bv-codex-desc">What the Party Knows The eldest of Guanik&#x27;s three children. Was not at home when the party arrived at Dima Island — he…</div></a>
+</div>
+
+#### Ghuffghuff
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Mrs.%20Mamat"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">MM</span><div class="bv-codex-name">Mrs. Mamat</div></div><div class="bv-codex-meta">Warung Owner, Ghuffghuff · Independent · Ghuffghuff</div><div class="bv-codex-desc">What the Party Knows An old woman. Sold maps and warm food from a tiny stall. The party bought maps from her on their…</div></a>
+</div>
+
+#### Ghuffghuff (Assigned)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Yahanda"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">Y</span><div class="bv-codex-name">Yahanda</div></div><div class="bv-codex-meta">Priest, traveling companion · Temple of Valla · Ghuffghuff (assigned)</div><div class="bv-codex-desc">What the Party Knows Traveled with the party from Javan Town to Ghuffghuff. Quiet, kind, and tired. Spent most of the…</div></a>
+</div>
+
+#### Gudameng
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Guo%20Lao"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GL</span><div class="bv-codex-name">Guo Lao</div></div><div class="bv-codex-meta">Elder of the Guo Family, Guardian of the Recipe Library · The Guo Family · Gudameng</div><div class="bv-codex-desc">What the Party Knows The elder of the Guo Family — the cooks who guard the **Recipe Library** in the Legendary Noodle…</div></a>
+</div>
+
+#### Javan Town
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Mr.%20Andreas"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">MA</span><div class="bv-codex-name">Mr. Andreas</div></div><div class="bv-codex-meta">Blacksmith, Baja Hitam · Independent · Javan Town</div><div class="bv-codex-desc">What the Party Knows A large, muscular man. Soot-stained. Kind eyes. Sells weapons and armor. Good quality. Fair…</div></a>
+</div>
+
+#### Juto Port City
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Elara"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">E</span><div class="bv-codex-name">Elara</div></div><div class="bv-codex-meta">Innkeeper, Karang Tidur · Independent (suspicious) · Juto Port City</div><div class="bv-codex-desc">What the Party Knows Old halfling woman. Warm smile. Seems kind. Runs the **Karang Tidur** inn — a former private…</div></a>
+</div>
+
+#### Muangching Bay
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Mrs.%20Sari"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">MS</span><div class="bv-codex-name">Mrs. Sari</div></div><div class="bv-codex-meta">Lemonade Seller · Independent · Muangching Bay</div><div class="bv-codex-desc">What the Party Knows A local lemonade seller in the fishing town of ** Muangching **. Encountered when the party…</div></a>
+</div>
+
+#### Nesia (Formerly) / Ghuffghuff
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Faska%20Mektol"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">FM</span><div class="bv-codex-name">Faska Mektol</div></div><div class="bv-codex-meta">Farmer, Mektol Family Mother · Independent · Nesia (formerly) / Ghuffghuff</div><div class="bv-codex-desc">What the Party Knows Traveled to Ghuffghuff with her husband **Herman** and daughter **Cindy**. Kind. Warm. Held Cindy…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Herman%20Mektol"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">HM</span><div class="bv-codex-name">Herman Mektol</div></div><div class="bv-codex-meta">Farmer, Mektol Family Father · Independent · Nesia (formerly) / Ghuffghuff</div><div class="bv-codex-desc">What the Party Knows Moved from Nesia to ** Ghuffghuff ** with his wife ** Faska ** and daughter ** Cindy ** to start a…</div></a>
+</div>
+
+#### Yawning Town
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Grilnax"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">G</span><div class="bv-codex-name">Grilnax</div></div><div class="bv-codex-meta">Goblin Guild Clerk · The Yawning Guild · Yawning Town</div><div class="bv-codex-desc">What the Party Knows Tired, sarcastic goblin with thin beard and dull eyes. Speaks in a raspy monotone. Snorts and…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Samual"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">S</span><div class="bv-codex-name">Samual</div></div><div class="bv-codex-meta">Bartender, The Tipsy Trident · Independent · Yawning Town</div><div class="bv-codex-desc">What the Party Knows A friendly, talkative bartender. Knows ** Mr. Poise ** personally. Recommends him for transport.…</div></a>
+</div>
+
+## Will of Grin
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Guanik%20Huan"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GH</span><div class="bv-codex-name">Guanik Huan</div></div><div class="bv-codex-meta">Guanik&#x27;s Son, Shell Collector · Independent · Dima Island (destroyed) / Juto Port City (adopted)</div><div class="bv-codex-desc">What the Party Knows Son of ** Guanik ** and ** Janja **. Brother of ** Nila ** and **Dontol**. Asked the party for…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Guanik%20Nila"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">GN</span><div class="bv-codex-name">Guanik Nila</div></div><div class="bv-codex-meta">Guanik&#x27;s Daughter, Shell Collector · Independent · Dima Island (destroyed) / Juto Port City (adopted)</div><div class="bv-codex-desc">What the Party Knows Daughter of ** Guanik ** and ** Janja **. Sister of ** Huan ** and **Dontol**. Cried when her…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Janja"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">J</span><div class="bv-codex-name">Janja</div></div><div class="bv-codex-meta">Guanik&#x27;s Wife, Dima Island · Independent · Dima Island (destroyed)</div><div class="bv-codex-desc">What the Party Knows A kind, quiet woman. Warm. Made the party tea when they arrived at her home. Lived with her…</div></a>
+</div>
+
+## The Demon
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Babibubebo"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">B</span><div class="bv-codex-name">Babibubebo</div></div><div class="bv-codex-meta">Hunger Fish-Man, Kuil Lautan, Lost Kuo Lau Prince · Independent · Kuil Lautan, Juto Port City, Kuo Lau Kingdom (exiled/lost)</div><div class="bv-codex-desc">What the Party Knows A small, pitiful fish-man. Large eyes. Scaly skin. Stole food from the Karang Tidur inn because he…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Pops%20Tortle"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">PT</span><div class="bv-codex-name">Pops Tortle</div></div><div class="bv-codex-meta">Diving Shop Owner, Atlan&#x27;s Old Friend · Independent · Juto Port City</div><div class="bv-codex-desc">Appearance An ancient Tortle. Slow-moving. Smells of rust, oil, and copper. Surrounded by antique diving helmets,…</div></a>
+</div>
+
+## Independent Figures & Locals
+
+### Arujaya (In Stasis)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Kristine"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">K</span><div class="bv-codex-name">Kristine</div></div><div class="bv-codex-meta">Dr. Vektor&#x27;s Daughter, Preserved in Stasis · None (Arujaya) · Arujaya (in stasis)</div><div class="bv-codex-desc">Overview The late daughter of Dr. Vektor , the renowned cybernetic surgeon of Arujaya . Background **Tragedy in…</div></a>
+</div>
+
+### Arujaya (The Stack)
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Adam%20Findias"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">AF</span><div class="bv-codex-name">Adam Findias</div></div><div class="bv-codex-meta">Arujaya Local, Guide · Arujaya · Arujaya (The Stack)</div><div class="bv-codex-desc">What the Party Knows Young. Small. Dirty. Sharp eyes. First person the party met in Arujaya. Knew the layout of the…</div></a>
+</div>
+
+### Domido Forest
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Bud-eg"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">BE</span><div class="bv-codex-name">Bud-eg</div></div><div class="bv-codex-meta">Deaf Old Man, Hermit of Domido · Independent · Domido Forest</div><div class="bv-codex-desc">What the Party Knows A strange old man. Filthy. Smelly. **Deaf.** Blocked the party&#x27;s cart with wood magic. Roots…</div></a>
+</div>
+
+### Ghuffghuff / Gudameng
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Memeng"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">M</span><div class="bv-codex-name">Memeng</div></div><div class="bv-codex-meta">Cook, Ghuffghuff · Independent · Ghuffghuff / Gudameng</div><div class="bv-codex-desc">What the Party Knows A cheerful, plump cook from Harka. Traveled to Ghuffghuff to learn the secret recipe of **fried…</div></a>
+</div>
+
+### Gudameng
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Cindy%20Mektol"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">CM</span><div class="bv-codex-name">Cindy Mektol</div></div><div class="bv-codex-meta">Survivor, Guardian of the Legendary Noodle Temple · Independent · Gudameng</div><div class="bv-codex-desc">What the Party Knows A young girl. Orphaned by Echo Sam. Her parents (Herman and Faska) were eaten. She does not fully…</div></a>
+</div>
+
+### The Depths
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Fidale"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">F</span><div class="bv-codex-name">Fidale</div></div><div class="bv-codex-meta">Gatekeeper, The Depths, Arujaya · Arujaya · The Depths</div><div class="bv-codex-desc">What the Party Knows Warned the party not to descend into The Depths. Tried to sell them masks (a scam — the masks were…</div></a>
+</div>
+
+### Unknown
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Agus"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">A</span><div class="bv-codex-name">Agus</div></div><div class="bv-codex-meta">Keeper of Secret Agent (former), Traitor · Keeper of Secret (former) · Unknown</div><div class="bv-codex-desc">What the Party Knows A fighter. Assigned by ** Mira ** to guide the party to Ghuffghuff. Traveled with the party in…</div></a>
+</div>
+
+### Yawning Town
+
+<div class="bv-grid-3x3">
+<a class="bv-codex-card" href="/oversee/npcs/Mr.%20Poise"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">MP</span><div class="bv-codex-name">Mr. Poise</div></div><div class="bv-codex-meta">Rhino Wagon Driver · Independent · Yawning Town</div><div class="bv-codex-desc">What the Party Knows Old dwarf. Stocky. Thick braided white beard, mustache. Grumpy. Treats every request as an…</div></a>
+<a class="bv-codex-card" href="/oversee/npcs/Senta"><div class="bv-codex-top"><span class="bv-codex-badge" aria-hidden="true">S</span><div class="bv-codex-name">Senta</div></div><div class="bv-codex-meta">General Store Owner · Independent · Yawning Town</div><div class="bv-codex-desc">What the Party Knows A middle-aged human woman. Practical. No-nonsense. Sells **adventuring gear** — rope, torches,…</div></a>
+</div>
