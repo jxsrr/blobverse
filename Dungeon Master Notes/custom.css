@@ -3414,21 +3414,6 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   box-shadow: 0 6px 16px rgba(35, 25, 15, 0.08);
   outline: none;
 }
-.bv-portrait-frame {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 3 / 4;
-  background: rgba(235, 226, 208, 0.55);
-  overflow: hidden;
-}
-.bv-portrait-frame img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  object-position: 50% 0% !important;
-  transform: none !important;
-  display: block !important;
-}
 .bv-emblem-frame {
   position: relative;
   width: 100%;
@@ -3499,4 +3484,22 @@ li.site-tree-item:has(a[href$="/npcs"]) ul {
   font-size: 0.8rem;
   opacity: 0.88;
   line-height: 1.4;
+}
+
+.bv-portrait-frame {
+  position: relative;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  background: transparent;
+  overflow: visible;
+}
+.bv-portrait-frame img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+  object-position: top center !important;
+  transform: none !important;
+  display: block !important;
 }
